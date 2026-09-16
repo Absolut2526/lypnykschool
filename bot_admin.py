@@ -750,8 +750,25 @@ def handle_update(update):
             send_message(chat_id, f"📂 <b>Обрано розділ:</b>\n{dest_info['name']}\n\n📝 <b>Крок 2 із 3:</b> Введіть <b>назву або опис документа</b>\n(Наприклад: <i>Наказ про зарахування до 1 класу 2026</i> або <i>Річний план роботи школи</i>):")
             return
 
-        # News Delete
-        if data.startswith("del:"):
+        # News Delete Confirmation & Execution
+        if data.startswith("del_ask:"):
+            post_id = int(data.split(":", 1)[1])
+            news = load_news()
+            post = next((n for n in news if n.get("id") == post_id), None)
+            if not post:
+                send_message(chat_id, "⚠️ Новину не знайдено або вже видалено.")
+                return
+            title = post.get("title", f"Новина #{post_id}")
+            confirm_kb = {
+                "inline_keyboard": [
+                    [{"text": "🗑 Так, видалити назавжди", "callback_data": f"del_exec:{post_id}"}],
+                    [{"text": "❌ Ні, скасувати", "callback_data": "del_cancel"}]
+                ]
+            }
+            send_message(chat_id, f"⚠️ <b>Підтвердження видалення:</b>\n\nВи дійсно бажаєте видалити новину #{post_id}:\n<b>«{title}»</b>\n\nВона буде вилучена із сайту, бази та репозиторію GitHub.", reply_markup=confirm_kb)
+            return
+
+        if data.startswith("del_exec:") or data.startswith("del:"):
             post_id = int(data.split(":", 1)[1])
             news = load_news()
             orig_len = len(news)
@@ -762,6 +779,10 @@ def handle_update(update):
                 send_message(chat_id, f"🗑 Новину #{post_id} успішно <b>видалено</b> із сайту та репозиторію!", reply_markup=get_main_keyboard())
             else:
                 send_message(chat_id, f"⚠️ Новину #{post_id} не знайдено.")
+            return
+
+        if data == "del_cancel":
+            send_message(chat_id, "❌ Дія скасована.", reply_markup=get_main_keyboard())
             return
 
         # Document Deletion Filter
@@ -1228,14 +1249,20 @@ def finish_news_creation(user_id, chat_id):
 def show_delete_menu(chat_id):
     news = load_news()
     if not news:
-        send_message(chat_id, "Новини відсутні.")
+        send_message(chat_id, "Новини відсутні.", reply_markup=get_main_keyboard())
         return
 
+    sorted_news = sorted(news, key=lambda x: x.get("id", 0), reverse=True)
     buttons = []
-    for item in news[:6]:
+    for item in sorted_news[:10]:
         item_id = item.get("id")
-        title = item.get("title", "")[:35] + "..."
-        buttons.append([{"text": f"❌ Видалити #{item_id}: {title}", "callback_data": f"del:{item_id}"}])
+        title = item.get("title", "")
+        display_title = (title[:35] + "...") if len(title) > 35 else title
+        buttons.append([{"text": f"❌ #{item_id}: {display_title}", "callback_data": f"del_ask:{item_id}"}])
+
+    buttons.append([{"text": "🔙 Скасувати", "callback_data": "del_cancel"}])
+    keyboard = {"inline_keyboard": buttons}
+    send_message(chat_id, "🗑 <b>Видалення новини:</b>\nОберіть новину зі списку останніх подій:", reply_markup=keyboard)
 
 from functools import partial
 from http.server import SimpleHTTPRequestHandler
