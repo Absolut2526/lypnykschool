@@ -55,6 +55,20 @@ os.makedirs(IMAGES_DIR, exist_ok=True)
 os.makedirs(DOCS_DIR, exist_ok=True)
 os.makedirs(VIDEOS_DIR, exist_ok=True)
 
+# Allowed secure file extensions for upload
+ALLOWED_DOC_EXTENSIONS = {'.pdf', '.docx', '.doc', '.xlsx', '.xls', '.odt', '.ods', '.txt', '.jpg', '.jpeg', '.png'}
+ALLOWED_MEDIA_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.mp4'}
+USER_LAST_REQUEST = {}
+
+def is_rate_limited(user_id, cooldown_seconds=0.5):
+    """Anti-flood / DDoS protection per user."""
+    now = time.time()
+    last = USER_LAST_REQUEST.get(user_id, 0)
+    if now - last < cooldown_seconds:
+        return True
+    USER_LAST_REQUEST[user_id] = now
+    return False
+
 # User session state storage
 USER_STATES = {}
 DOC_CACHE = {}  # numeric ID -> slug
@@ -1032,6 +1046,12 @@ def handle_update(update):
             doc_file = msg["document"]
             file_id = doc_file["file_id"]
             orig_name = doc_file.get("file_name", f"doc_{int(time.time())}.pdf")
+            ext = os.path.splitext(orig_name.lower())[1]
+
+            if ext not in ALLOWED_DOC_EXTENSIONS:
+                send_message(chat_id, f"⚠️ <b>Формат файлу <code>{ext}</code> заборонено з міркувань безпеки!</b>\n\nДозволені формати: <code>.pdf, .docx, .doc, .xlsx, .xls, .txt, .jpg, .png</code>")
+                return
+
             state.setdefault("doc_files", []).append({
                 "file_id": file_id,
                 "file_name": orig_name
@@ -1039,7 +1059,7 @@ def handle_update(update):
             USER_STATES[user_id] = state
             count = len(state["doc_files"])
             send_message(chat_id, 
-                f"✅ Отримано документ #{count}: <b>{orig_name}</b>\n\n"
+                f"✅ Отримано безпечний документ #{count}: <b>{orig_name}</b>\n\n"
                 "Можете надіслати ще файли або опублікувати на сайті:",
                 reply_markup={"inline_keyboard": [
                     [{"text": f"🚀 Опублікувати на сайті ({count} файл{'ів' if count > 4 else 'и' if count > 1 else ''})", "callback_data": "publish_docs_now"}],
