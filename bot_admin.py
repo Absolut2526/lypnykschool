@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Telegram Admin Bot for Lypnyk School Website
-Allows administrators to manage news, upload photos/videos, add documents to specific pages/sections,
+Allows administrators to manage news, upload photos/videos, add and delete documents from specific pages/sections,
 delete posts, and receive feedback messages directly from Telegram.
 Automatically syncs all changes with Git and pushes to GitHub.
 """
@@ -36,6 +36,7 @@ os.makedirs(VIDEOS_DIR, exist_ok=True)
 
 # User session state storage
 USER_STATES = {}
+DOC_CACHE = {}  # numeric ID -> slug
 
 # Document Placement Destinations
 DOC_DESTINATIONS = {
@@ -82,6 +83,15 @@ DOC_DESTINATIONS = {
         "badge": "Освітній процес"
     }
 }
+
+def get_doc_id(slug):
+    """Maps a document slug to a compact integer ID for Telegram callback buttons."""
+    for k, v in DOC_CACHE.items():
+        if v == slug:
+            return k
+    new_id = len(DOC_CACHE) + 1
+    DOC_CACHE[new_id] = slug
+    return new_id
 
 def load_config():
     if os.path.exists(CONFIG_FILE):
@@ -153,6 +163,26 @@ def save_docs(docs_dict):
     with open(DOCS_JS_FILE, "w", encoding="utf-8") as f:
         f.write(js_content)
 
+def remove_doc_from_html_pages(slug):
+    """Finds and removes any .doc-card referencing the slug from all HTML pages."""
+    html_files = [f for f in os.listdir(BASE_DIR) if f.endswith('.html')]
+    modified = False
+    pattern = re.compile(r'<div class="doc-card"[^>]*>(?:(?!<div class="doc-card").)*?openDocModal\([\'"]' + re.escape(slug) + r'[\'"]\).*?</div>\s*', re.DOTALL)
+    for fname in html_files:
+        fpath = os.path.join(BASE_DIR, fname)
+        try:
+            with open(fpath, 'r', encoding='utf-8') as f:
+                content = f.read()
+            if pattern.search(content):
+                new_content = pattern.sub('', content)
+                with open(fpath, 'w', encoding='utf-8') as f:
+                    f.write(new_content)
+                modified = True
+                print(f"Removed doc-card for {slug} from {fname}")
+        except Exception as e:
+            print(f"Error removing card from {fname}: {e}")
+    return modified
+
 # Telegram API Helpers
 def send_message(chat_id, text, reply_markup=None, parse_mode="HTML"):
     url = f"{API_URL}/sendMessage"
@@ -190,8 +220,8 @@ def get_main_keyboard():
     return {
         "keyboard": [
             [{"text": "➕ Опублікувати новину"}, {"text": "📄 Додати документ"}],
-            [{"text": "🗑 Видалити новину"}, {"text": "📊 Статистика сайту"}],
-            [{"text": "🌐 Посилання на сайт"}]
+            [{"text": "🗑 Видалити новину"}, {"text": "🗑 Видалити документ"}],
+            [{"text": "📊 Статистика сайту"}, {"text": "🌐 Посилання на сайт"}]
         ],
         "resize_keyboard": True
     }
@@ -214,6 +244,20 @@ def get_doc_destinations_inline():
         buttons.append([{"text": info["name"], "callback_data": f"docdest:{key}"}])
     buttons.append([{"text": "❌ Скасувати", "callback_data": "cancel_creation"}])
     return {"inline_keyboard": buttons}
+
+def get_delete_doc_categories_inline():
+    return {
+        "inline_keyboard": [
+            [{"text": "🆕 Останні додані документи", "callback_data": "deldoc_filter:recent"}],
+            [{"text": "🏛️ Прозорість (Статут / Звіти / Накази)", "callback_data": "deldoc_filter:trans"}],
+            [{"text": "👨‍👩‍👧 Батькам (1 клас / Розклад)", "callback_data": "deldoc_filter:parents"}],
+            [{"text": "🎓 Атестація педагогів", "callback_data": "deldoc_filter:attest"}],
+            [{"text": "💙 Психологічна служба (Булінг)", "callback_data": "deldoc_filter:psych"}],
+            [{"text": "📚 Навчальний процес (НУШ)", "callback_data": "deldoc_filter:edu"}],
+            [{"text": "🔍 Пошук за назвою документа", "callback_data": "deldoc_filter:search"}],
+            [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]
+        ]
+    }
 
 def insert_doc_into_html(file_name, target_id, doc_title, subtitle, slug):
     """Inserts a new document card into the selected HTML page's grid."""
@@ -263,6 +307,60 @@ def insert_doc_into_html(file_name, target_id, doc_title, subtitle, slug):
         print(f"Error inserting doc into {file_name}: {e}")
     return False
 
+def show_doc_delete_list(chat_id, filter_type=None, search_query=None):
+    docs = load_docs()
+    if not docs:
+        send_message(chat_id, "База документів порожня.")
+        return
+
+    # Filter out dummy internal keys
+    doc_items = [(slug, data) for slug, data in docs.items() if slug not in ["головна-сторінка"]]
+
+    filtered = []
+    if filter_type == "recent":
+        filtered = doc_items[-10:]
+        filtered.reverse()
+    elif filter_type == "trans":
+        filtered = [(s, d) for s, d in doc_items if any(k in s for k in ["статут", "ліцензі", "звіт", "кошторис", "наказ", "всзяо", "фінанс", "майн", "структур"])]
+    elif filter_type == "parents":
+        filtered = [(s, d) for s, d in doc_items if any(k in s for k in ["батьк", "зарахуван", "1-клас", "розклад", "правил", "індивідуал", "екстернат"])]
+    elif filter_type == "attest":
+        filtered = [(s, d) for s, d in doc_items if any(k in s for k in ["атестац", "кваліфік", "педагог"])]
+    elif filter_type == "psych":
+        filtered = [(s, d) for s, d in doc_items if any(k in s for k in ["булінг", "цькуван", "психолог", "насильств", "заяв"])]
+    elif filter_type == "edu":
+        filtered = [(s, d) for s, d in doc_items if any(k in s for k in ["освітн", "нуш", "інклюз", "навчан", "програм"])]
+    elif search_query:
+        q = search_query.lower().strip()
+        filtered = [(s, d) for s, d in doc_items if q in s.lower() or q in d.get("title", "").lower()]
+    else:
+        filtered = doc_items[:12]
+
+    if not filtered:
+        send_message(chat_id, "⚠️ Документів у цій категорії не знайдено.", reply_markup=get_delete_doc_categories_inline())
+        return
+
+    buttons = []
+    for slug, data in filtered[:10]:
+        doc_id = get_doc_id(slug)
+        title = data.get("title", slug.replace("-", " "))
+        display_title = title[:35] + ("..." if len(title) > 35 else "")
+        buttons.append([{"text": f"❌ {display_title}", "callback_data": f"deldoc_ask:{doc_id}"}])
+
+    buttons.append([{"text": "🔙 Назад до вибору розділу", "callback_data": "deldoc_back"}])
+    keyboard = {"inline_keyboard": buttons}
+
+    category_titles = {
+        "recent": "Останні додані документи",
+        "trans": "Розділ «Прозорість»",
+        "parents": "Розділ «Батькам»",
+        "attest": "Розділ «Атестація»",
+        "psych": "Розділ «Психолог / Стоп Булінг»",
+        "edu": "Розділ «Навчальний процес»",
+    }
+    header_name = category_titles.get(filter_type, f"Результати пошуку «{search_query}»" if search_query else "Список документів")
+    send_message(chat_id, f"🗑 <b>{header_name}:</b>\nОберіть документ, який бажаєте видалити:", reply_markup=keyboard)
+
 def handle_update(update):
     if "callback_query" in update:
         cb = update["callback_query"]
@@ -276,15 +374,16 @@ def handle_update(update):
 
         state = USER_STATES.get(user_id, {})
 
+        # News Category Chosen
         if data.startswith("cat:"):
             category = data.split(":", 1)[1]
             state["category"] = category
             state["step"] = "WAITING_TEXT"
             USER_STATES[user_id] = state
-            
             send_message(chat_id, f"✅ Обрано категорію: <b>{category}</b>\n\n📝 Тепер надішліть <b>повний текст новини</b> (або напишіть <code>-</code> якщо текст такий самий як заголовок):")
             return
 
+        # Document Destination Chosen
         if data.startswith("docdest:"):
             dest_key = data.split(":", 1)[1]
             if dest_key not in DOC_DESTINATIONS:
@@ -300,6 +399,7 @@ def handle_update(update):
             send_message(chat_id, f"📂 <b>Обрано розділ:</b>\n{dest_info['name']}\n\n📝 <b>Крок 2 із 3:</b> Введіть <b>назву або опис документа</b>\n(Наприклад: <i>Наказ про зарахування до 1 класу 2026</i> або <i>Річний план роботи школи</i>):")
             return
 
+        # News Delete
         if data.startswith("del:"):
             post_id = int(data.split(":", 1)[1])
             news = load_news()
@@ -311,6 +411,53 @@ def handle_update(update):
                 send_message(chat_id, f"🗑 Новину #{post_id} успішно <b>видалено</b> із сайту та репозиторію!", reply_markup=get_main_keyboard())
             else:
                 send_message(chat_id, f"⚠️ Новину #{post_id} не знайдено.")
+            return
+
+        # Document Deletion Filter
+        if data.startswith("deldoc_filter:"):
+            ftype = data.split(":", 1)[1]
+            if ftype == "search":
+                USER_STATES[user_id] = {"step": "WAITING_DOC_SEARCH"}
+                send_message(chat_id, "🔍 Введіть <b>ключове слово або назву документа</b> для пошуку (наприклад: <i>статут</i>, <i>наказ</i>, <i>1 клас</i>):")
+            else:
+                show_doc_delete_list(chat_id, filter_type=ftype)
+            return
+
+        if data == "deldoc_back":
+            send_message(chat_id, "🗑 <b>Видалення документа:</b> Оберіть розділ або скористайтеся пошуком:", reply_markup=get_delete_doc_categories_inline())
+            return
+
+        if data.startswith("deldoc_ask:"):
+            doc_id = int(data.split(":", 1)[1])
+            slug = DOC_CACHE.get(doc_id)
+            docs = load_docs()
+            doc_data = docs.get(slug)
+            if not doc_data:
+                send_message(chat_id, "⚠️ Документ не знайдено або вже видалено.")
+                return
+            title = doc_data.get("title", slug)
+            confirm_kb = {
+                "inline_keyboard": [
+                    [{"text": "🗑 Так, видалити назавжди", "callback_data": f"deldoc_exec:{doc_id}"}],
+                    [{"text": "❌ Ні, скасувати", "callback_data": "deldoc_back"}]
+                ]
+            }
+            send_message(chat_id, f"⚠️ <b>Підтвердження видалення:</b>\n\nВи дійсно бажаєте видалити документ:\n<b>«{title}»</b>\n\nВін буде вилучений із сайту, бази та репозиторію GitHub.", reply_markup=confirm_kb)
+            return
+
+        if data.startswith("deldoc_exec:"):
+            doc_id = int(data.split(":", 1)[1])
+            slug = DOC_CACHE.get(doc_id)
+            docs = load_docs()
+            if slug in docs:
+                doc_title = docs[slug].get("title", slug)
+                del docs[slug]
+                save_docs(docs)
+                remove_doc_from_html_pages(slug)
+                git_commit_and_push(f"Delete document '{doc_title[:30]}' via Telegram Bot")
+                send_message(chat_id, f"🗑 Документ <b>«{doc_title}»</b> успішно <b>видалено</b> із сайту та репозиторію!", reply_markup=get_main_keyboard())
+            else:
+                send_message(chat_id, "⚠️ Документ не знайдено.")
             return
 
         if data == "publish_now":
@@ -351,7 +498,7 @@ def handle_update(update):
             "Привіт! Ви маєте права адміністратора. Через цього бота ви можете:\n"
             "• ➕ Публікувати нові події з фото та відео\n"
             "• 📄 Додавати офіційні накази та документи у вибраний розділ сайту\n"
-            "• 🗑 Видаляти застарілі новини\n"
+            "• 🗑 Видаляти застарілі новини або документи\n"
             "• 📊 Переглядати актуальну статистику сайту\n"
             "• 📬 Отримувати електронні звернення від батьків та учнів\n\n"
             "Усі зміни автоматично зберігаються на сайті та пушаться на GitHub!"
@@ -371,6 +518,10 @@ def handle_update(update):
 
     if text in ["🗑 Видалити новину", "/delete_post"]:
         show_delete_menu(chat_id)
+        return
+
+    if text in ["🗑 Видалити документ", "/delete_doc"]:
+        send_message(chat_id, "🗑 <b>Видалення документа:</b> Оберіть категорію або скористайтеся пошуком за назвою:", reply_markup=get_delete_doc_categories_inline())
         return
 
     if text in ["📊 Статистика сайту", "/status"]:
@@ -401,6 +552,12 @@ def handle_update(update):
         return
 
     current_step = state.get("step")
+
+    # Document Search Step
+    if current_step == "WAITING_DOC_SEARCH":
+        USER_STATES.pop(user_id, None)
+        show_doc_delete_list(chat_id, search_query=text)
+        return
 
     # Flow 1: News Creation
     if current_step == "WAITING_TITLE":
