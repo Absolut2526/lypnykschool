@@ -78,6 +78,110 @@ def is_rate_limited(user_id, cooldown_seconds=0.5):
 USER_STATES = {}
 DOC_CACHE = {}  # numeric ID -> slug
 
+# Debounce timers for photo/document album uploads
+PHOTO_TIMERS = {}
+PHOTO_TIMERS_LOCK = threading.Lock()
+DOC_TIMERS = {}
+DOC_TIMERS_LOCK = threading.Lock()
+
+def cancel_photo_notification(user_id):
+    with PHOTO_TIMERS_LOCK:
+        timer = PHOTO_TIMERS.pop(user_id, None)
+        if timer:
+            try:
+                timer.cancel()
+            except Exception:
+                pass
+
+def cancel_doc_notification(user_id):
+    with DOC_TIMERS_LOCK:
+        timer = DOC_TIMERS.pop(user_id, None)
+        if timer:
+            try:
+                timer.cancel()
+            except Exception:
+                pass
+
+def schedule_photo_notification(user_id, chat_id, delay=1.2):
+    def send_summary():
+        with PHOTO_TIMERS_LOCK:
+            PHOTO_TIMERS.pop(user_id, None)
+        
+        state = USER_STATES.get(user_id)
+        if not state or state.get("step") != "WAITING_PHOTOS":
+            return
+        
+        photos = state.get("photos", [])
+        count = len(photos)
+        if count == 0:
+            return
+        
+        if count == 1:
+            msg_text = "✅ Отримано <b>1 світлину</b>!\nМожете надіслати ще або опублікувати на сайті:"
+        elif 2 <= count <= 4:
+            msg_text = f"✅ Отримано <b>{count} світлини</b>!\nМожете надіслати ще або опублікувати на сайті:"
+        else:
+            msg_text = f"✅ Отримано <b>{count} світлин</b>!\nМожете надіслати ще або опублікувати на сайті:"
+
+        kb = {
+            "inline_keyboard": [
+                [{"text": f"🚀 Опублікувати на сайті ({count} фото)", "callback_data": "publish_now"}],
+                [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]
+            ]
+        }
+        send_message(chat_id, msg_text, reply_markup=kb)
+
+    with PHOTO_TIMERS_LOCK:
+        if user_id in PHOTO_TIMERS:
+            try:
+                PHOTO_TIMERS[user_id].cancel()
+            except Exception:
+                pass
+        timer = threading.Timer(delay, send_summary)
+        PHOTO_TIMERS[user_id] = timer
+        timer.start()
+
+def schedule_doc_notification(user_id, chat_id, delay=1.2):
+    def send_summary():
+        with DOC_TIMERS_LOCK:
+            DOC_TIMERS.pop(user_id, None)
+        
+        state = USER_STATES.get(user_id)
+        if not state or state.get("step") != "WAITING_DOC_CONTENT":
+            return
+        
+        doc_files = state.get("doc_files", [])
+        count = len(doc_files)
+        if count == 0:
+            return
+        
+        if count == 1:
+            f_name = doc_files[0].get("file_name", "документ")
+            msg_text = f"✅ Отримано файл: <b>{f_name}</b>\n\nМожете надіслати ще файли або опублікувати на сайті:"
+        elif 2 <= count <= 4:
+            msg_text = f"✅ Отримано <b>{count} файли</b>!\n\nМожете надіслати ще файли або опублікувати на сайті:"
+        else:
+            msg_text = f"✅ Отримано <b>{count} файлів</b>!\n\nМожете надіслати ще файли або опублікувати на сайті:"
+
+        ending = 'ів' if count > 4 or count == 0 else 'и' if count > 1 else ''
+        kb = {
+            "inline_keyboard": [
+                [{"text": f"🚀 Опублікувати на сайті ({count} файл{ending})", "callback_data": "publish_docs_now"}],
+                [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]
+            ]
+        }
+        send_message(chat_id, msg_text, reply_markup=kb)
+
+    with DOC_TIMERS_LOCK:
+        if user_id in DOC_TIMERS:
+            try:
+                DOC_TIMERS[user_id].cancel()
+            except Exception:
+                pass
+        timer = threading.Timer(delay, send_summary)
+        DOC_TIMERS[user_id] = timer
+        timer.start()
+
 # Document Placement Destinations
 DOC_DESTINATIONS = {
     "trans_statute": {
@@ -841,6 +945,8 @@ def handle_update(update):
             return
 
         if data == "cancel_creation":
+            cancel_photo_notification(user_id)
+            cancel_doc_notification(user_id)
             USER_STATES.pop(user_id, None)
             send_message(chat_id, "❌ Дію скасовано.", reply_markup=get_main_keyboard())
             return
@@ -872,6 +978,8 @@ def handle_update(update):
 
     # Global Cancel
     if text in ["/cancel", "❌ Скасувати", "Скасувати"]:
+        cancel_photo_notification(user_id)
+        cancel_doc_notification(user_id)
         USER_STATES.pop(user_id, None)
         send_message(chat_id, "Дію скасовано.", reply_markup=get_main_keyboard())
         return
@@ -1032,12 +1140,11 @@ def handle_update(update):
             file_id = photo["file_id"]
             state.setdefault("photos", []).append(file_id)
             USER_STATES[user_id] = state
-            count = len(state["photos"])
-            send_message(chat_id, f"✅ Отримано світлину #{count}! Можете надіслати ще або опублікувати.",
-                         reply_markup={"inline_keyboard": [[{"text": f"🚀 Опублікувати на сайті ({count} фото)", "callback_data": "publish_now"}], [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]]})
+            schedule_photo_notification(user_id, chat_id)
             return
 
         if "video" in msg:
+            cancel_photo_notification(user_id)
             video = msg["video"]
             state["video_file_id"] = video["file_id"]
             USER_STATES[user_id] = state
@@ -1083,15 +1190,7 @@ def handle_update(update):
                 "file_name": orig_name
             })
             USER_STATES[user_id] = state
-            count = len(state["doc_files"])
-            send_message(chat_id, 
-                f"✅ Отримано безпечний документ #{count}: <b>{orig_name}</b>\n\n"
-                "Можете надіслати ще файли або опублікувати на сайті:",
-                reply_markup={"inline_keyboard": [
-                    [{"text": f"🚀 Опублікувати на сайті ({count} файл{'ів' if count > 4 else 'и' if count > 1 else ''})", "callback_data": "publish_docs_now"}],
-                    [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]
-                ]}
-            )
+            schedule_doc_notification(user_id, chat_id)
             return
 
         if "photo" in msg:
@@ -1103,15 +1202,7 @@ def handle_update(update):
                 "file_name": orig_name
             })
             USER_STATES[user_id] = state
-            count = len(state["doc_files"])
-            send_message(chat_id, 
-                f"✅ Отримано скан/фото #{count}!\n\n"
-                "Можете надіслати ще файли або опублікувати на сайті:",
-                reply_markup={"inline_keyboard": [
-                    [{"text": f"🚀 Опублікувати на сайті ({count} файл{'ів' if count > 4 else 'и' if count > 1 else ''})", "callback_data": "publish_docs_now"}],
-                    [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]
-                ]}
-            )
+            schedule_doc_notification(user_id, chat_id)
             return
 
         if text:
@@ -1127,6 +1218,7 @@ def handle_update(update):
             return
 
 def finish_document_creation(user_id, chat_id):
+    cancel_doc_notification(user_id)
     state = USER_STATES.get(user_id, {})
     doc_title = state.get("doc_title", "Офіційний документ")
     dest_key = state.get("dest_key", "trans_reports")
@@ -1188,6 +1280,7 @@ def finish_document_creation(user_id, chat_id):
     send_message(chat_id, success_text, reply_markup=get_main_keyboard())
 
 def finish_news_creation(user_id, chat_id):
+    cancel_photo_notification(user_id)
     state = USER_STATES.get(user_id, {})
     title = state.get("title", "Нова подія школи")
     category = state.get("category", "Офіційні новини")
