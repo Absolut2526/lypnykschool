@@ -1252,17 +1252,20 @@ def show_delete_menu(chat_id):
         send_message(chat_id, "Новини відсутні.", reply_markup=get_main_keyboard())
         return
 
-    sorted_news = sorted(news, key=lambda x: x.get("id", 0), reverse=True)
+    # Перші 10 елементів списку — це найсвіжіші опубліковані новини
+    recent_news = news[:10]
     buttons = []
-    for item in sorted_news[:10]:
+    for item in recent_news:
         item_id = item.get("id")
         title = item.get("title", "")
-        display_title = (title[:35] + "...") if len(title) > 35 else title
-        buttons.append([{"text": f"❌ #{item_id}: {display_title}", "callback_data": f"del_ask:{item_id}"}])
+        year = item.get("year", "")
+        year_str = f"[{year}] " if year else ""
+        display_title = (title[:30] + "...") if len(title) > 30 else title
+        buttons.append([{"text": f"❌ {year_str}#{item_id}: {display_title}", "callback_data": f"del_ask:{item_id}"}])
 
     buttons.append([{"text": "🔙 Скасувати", "callback_data": "del_cancel"}])
     keyboard = {"inline_keyboard": buttons}
-    send_message(chat_id, "🗑 <b>Видалення новини:</b>\nОберіть новину зі списку останніх подій:", reply_markup=keyboard)
+    send_message(chat_id, "🗑 <b>Видалення новини:</b>\nОберіть новину зі списку останніх 10 подій:", reply_markup=keyboard)
 
 from functools import partial
 from http.server import SimpleHTTPRequestHandler
