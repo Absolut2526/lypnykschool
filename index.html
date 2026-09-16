@@ -13,6 +13,13 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   
   <link rel="stylesheet" href="assets/css/style.css">
+  <!-- Favicon & Open Graph Meta -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%231e3a8a'/%3E%3Cpath d='M50 22 L82 38 L50 54 L18 38 Z' fill='%23fbbf24'/%3E%3Cpath d='M30 46 L30 64 C30 74 70 74 70 64 L70 46' fill='none' stroke='%23fbbf24' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+  <meta property="og:title" content="Липницький ЗЗСО І-ІІ ступенів | Офіційний сайт">
+  <meta property="og:description" content="Офіційний веб-портал Липницького ЗЗСО: новини, історія, фотогалерея, документи, інформація для батьків та учнів.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/images/ev_3_1.jpg">
+  <meta name="theme-color" content="#1e3a8a">
 </head>
 <body>
 
@@ -352,6 +359,82 @@
         <a href="psychologist.html" class="btn" style="background: rgba(255,255,255,0.15); color: white;">
           <i class="fas fa-info-circle"></i> Порядок реагування
         </a>
+  <!-- Civil Protection & Safety Section -->
+  <section class="section" style="background: linear-gradient(180deg, #f8fafc 0%, #edf2f7 100%);">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <div class="section-tag" style="color: #b45309; background: #fef3c7; border: 1px solid #fde68a;">
+            <i class="fas fa-shield-alt"></i> Безпека в умовах воєнного стану
+          </div>
+          <h2 class="section-title">Цивільний захист та Безпечне середовище</h2>
+          <p class="section-subtitle">Організація безпечного навчального простору, облаштоване укриття та чіткі алгоритми дій для збереження життя та здоров'я кожного учня.</p>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.75rem;">
+        
+        <!-- Card 1: School Shelter -->
+        <div style="background: white; border-radius: var(--radius-xl); padding: 2rem; border: 1px solid var(--border-color); box-shadow: var(--shadow-sm); display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <div style="width: 48px; height: 48px; border-radius: 12px; background: #eff6ff; color: #2563eb; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; margin-bottom: 1.25rem;">
+              <i class="fas fa-dungeon"></i>
+            </div>
+            <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--primary); margin-bottom: 0.65rem;">Шкільне укриття</h3>
+            <p style="font-size: 0.92rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 1.25rem;">
+              Заклад забезпечений найпростішим укриттям, комісійно перевіреним ДСНС. Розраховане на 100% учнів та працівників. Має автономне світло, запаси питної води, аптечки та вентиляцію.
+            </p>
+            <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.88rem; color: var(--text-main); margin-bottom: 1.5rem;">
+              <li style="display: flex; gap: 0.5rem; align-items: center;"><i class="fas fa-check-circle" style="color: var(--success);"></i> <span>Два незалежні виходи</span></li>
+              <li style="display: flex; gap: 0.5rem; align-items: center;"><i class="fas fa-check-circle" style="color: var(--success);"></i> <span>Запас води та медикаментів</span></li>
+              <li style="display: flex; gap: 0.5rem; align-items: center;"><i class="fas fa-check-circle" style="color: var(--success);"></i> <span>Опалення, санвузол та зв'язок</span></li>
+            </ul>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('укриття-та-цивільний-захист')" class="btn btn-secondary btn-sm" style="width: 100%; justify-content: center;">
+            <i class="fas fa-file-alt"></i> Регламент укриття
+          </a>
+        </div>
+
+        <!-- Card 2: Air Raid Protocol -->
+        <div style="background: white; border-radius: var(--radius-xl); padding: 2rem; border: 1px solid var(--border-color); box-shadow: var(--shadow-sm); display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <div style="width: 48px; height: 48px; border-radius: 12px; background: #fef2f2; color: #dc2626; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; margin-bottom: 1.25rem;">
+              <i class="fas fa-bell"></i>
+            </div>
+            <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--primary); margin-bottom: 0.65rem;">Повітряна тривога</h3>
+            <p style="font-size: 0.92rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 1.25rem;">
+              Чіткий покроковий порядок дій: негайна зупинка уроку, організований спуск до укриття з особистими речами, поіменна перекличка та продовження занять у безпеці.
+            </p>
+            <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.88rem; color: var(--text-main); margin-bottom: 1.5rem;">
+              <li style="display: flex; gap: 0.5rem; align-items: center;"><i class="fas fa-walking" style="color: #dc2626;"></i> <span>Швидкий організований спуск</span></li>
+              <li style="display: flex; gap: 0.5rem; align-items: center;"><i class="fas fa-clipboard-check" style="color: #dc2626;"></i> <span>Поіменний облік усіх учнів</span></li>
+              <li style="display: flex; gap: 0.5rem; align-items: center;"><i class="fas fa-user-shield" style="color: #dc2626;"></i> <span>Психологічний супровід</span></li>
+            </ul>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('алгоритм-дій-під-час-повітряної-тривоги')" class="btn btn-secondary btn-sm" style="width: 100%; justify-content: center;">
+            <i class="fas fa-shield-virus"></i> Алгоритм дій
+          </a>
+        </div>
+
+        <!-- Card 3: Mine Safety -->
+        <div style="background: white; border-radius: var(--radius-xl); padding: 2rem; border: 1px solid var(--border-color); box-shadow: var(--shadow-sm); display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <div style="width: 48px; height: 48px; border-radius: 12px; background: #fffbeb; color: #d97706; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; margin-bottom: 1.25rem;">
+              <i class="fas fa-exclamation-triangle"></i>
+            </div>
+            <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--primary); margin-bottom: 0.65rem;">Мінна безпека</h3>
+            <p style="font-size: 0.92rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 1.25rem;">
+              Золоте правило для дітей: <strong>«Не підходь! Не чіпай! Відійди! Телефонуй 101 або 112!»</strong>. Навчаємо учнів правил поведінки з підозрілими предметами.
+            </p>
+            <div style="background: #fffbeb; border: 1px dashed #f59e0b; border-radius: var(--radius-md); padding: 0.75rem; margin-bottom: 1.5rem; font-size: 0.85rem; color: #92400e;">
+              <strong>Екстрені номери:</strong> 🚒 101 (ДСНС) • 👮 102 (Поліція) • 🚑 103 (Швидка) • 🆘 112
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('правила-мінної-безпеки-та-цивільного-захисту')" class="btn btn-secondary btn-sm" style="width: 100%; justify-content: center;">
+            <i class="fas fa-book-open"></i> Пам'ятка безпеки
+          </a>
+        </div>
+
       </div>
     </div>
   </section>

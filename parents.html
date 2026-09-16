@@ -11,6 +11,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <link rel="stylesheet" href="assets/css/style.css">
+  <!-- Favicon & Open Graph Meta -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%231e3a8a'/%3E%3Cpath d='M50 22 L82 38 L50 54 L18 38 Z' fill='%23fbbf24'/%3E%3Cpath d='M30 46 L30 64 C30 74 70 74 70 64 L70 46' fill='none' stroke='%23fbbf24' stroke-width='6' stroke-linecap='round'/%3E%3C/svg%3E">
+  <meta property="og:title" content="Липницький ЗЗСО І-ІІ ступенів | Офіційний сайт">
+  <meta property="og:description" content="Офіційний веб-портал Липницького ЗЗСО: новини, історія, фотогалерея, документи, інформація для батьків та учнів.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/images/ev_3_1.jpg">
+  <meta name="theme-color" content="#1e3a8a">
 </head>
 <body>
 
@@ -258,6 +265,58 @@
           <div style="padding: 1rem; border-left: 3px solid var(--primary); background: var(--bg-surface); border-radius: 0 var(--radius-md) var(--radius-md) 0;">
             <strong>Бережливе ставлення:</strong> збереження шкільного майна, підручників та зелених насаджень.
           </div>
+        </div>
+      </div>
+
+      <!-- Civil Safety & Air Raid Information for Parents -->
+      <div class="section-header" id="safety" style="margin-top: 3rem;">
+        <div>
+          <div class="section-tag" style="color: #b45309; background: #fef3c7; border: 1px solid #fde68a;">
+            <i class="fas fa-shield-alt"></i> Безпека дітей
+          </div>
+          <h2 class="section-title">Цивільний захист та Укриття</h2>
+          <p class="section-subtitle">Важлива інформація для батьків щодо дій під час повітряної тривоги та укриття школи.</p>
+        </div>
+      </div>
+
+      <div class="doc-card-grid" style="margin-bottom: 2rem;">
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-dungeon"></i></div>
+            <div>
+              <div class="doc-name">Шкільне укриття Липницького ЗЗСО</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Умови та забезпечення захисної споруди</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('укриття-та-цивільний-захист')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Переглянути
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-bell"></i></div>
+            <div>
+              <div class="doc-name">Алгоритм дій під час повітряної тривоги</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Порядок дій та пам'ятка для батьків</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('алгоритм-дій-під-час-повітряної-тривоги')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Переглянути
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-exclamation-triangle"></i></div>
+            <div>
+              <div class="doc-name">Пам'ятка з мінної безпеки</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Правила поведінки та екстрені номери</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('правила-мінної-безпеки-та-цивільного-захисту')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Переглянути
+          </a>
         </div>
       </div>
 
