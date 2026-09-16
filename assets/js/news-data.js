@@ -1,5 +1,23 @@
 window.SCHOOL_NEWS = [
   {
+    "id": 172,
+    "title": "Свято Останнього дзвоника у Липницькому ЗЗСО",
+    "content": [
+      "швораоилктпикоп"
+    ],
+    "full_text": "швораоилктпикоп",
+    "category": "Шкільні свята",
+    "year": "2026",
+    "images": [],
+    "local_images": [
+      "assets/images/ev_172_1.jpg",
+      "assets/images/ev_172_2.jpg",
+      "assets/images/ev_172_3.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
     "id": 1,
     "title": "З нагоди Дня памʼяті Захисників України учні нашого закладу відвідали могилу воїна Романуса Петра та віддали шану Герою!",
     "content": [
