@@ -2,13 +2,14 @@
 # -*- coding: utf-8 -*-
 """
 Telegram Admin Bot for Lypnyk School Website
-Allows administrators to manage news, upload photos/videos, add documents, 
+Allows administrators to manage news, upload photos/videos, add documents to specific pages/sections,
 delete posts, and receive feedback messages directly from Telegram.
 Automatically syncs all changes with Git and pushes to GitHub.
 """
 
 import os
 import sys
+import re
 import json
 import time
 import subprocess
@@ -27,7 +28,6 @@ CONFIG_FILE = os.path.join(DATA_DIR, "admin_config.json")
 NEWS_JSON_FILE = os.path.join(DATA_DIR, "news.json")
 NEWS_JS_FILE = os.path.join(BASE_DIR, "assets", "js", "news-data.js")
 DOCS_JS_FILE = os.path.join(BASE_DIR, "assets", "js", "documents-data.js")
-ADMIN_SECRET = "lypnyk2026"  # Password for authorization
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(IMAGES_DIR, exist_ok=True)
@@ -36,6 +36,52 @@ os.makedirs(VIDEOS_DIR, exist_ok=True)
 
 # User session state storage
 USER_STATES = {}
+
+# Document Placement Destinations
+DOC_DESTINATIONS = {
+    "trans_statute": {
+        "name": "🏛️ Прозорість: Установчі (Статут / Ліцензія / ВСЗЯО)",
+        "file": "transparency.html",
+        "target_id": "statute",
+        "badge": "Установчий документ"
+    },
+    "trans_finance": {
+        "name": "💰 Прозорість: Фінансова звітність та кошториси",
+        "file": "transparency.html",
+        "target_id": "finance",
+        "badge": "Фінансова звітність"
+    },
+    "trans_reports": {
+        "name": "📋 Прозорість: Звіти директора та Накази",
+        "file": "transparency.html",
+        "target_id": "reports",
+        "badge": "Офіційний наказ/звіт"
+    },
+    "parents_adm": {
+        "name": "👨‍👩‍👧 Батькам: 1 клас, накази та правила",
+        "file": "parents.html",
+        "target_id": "parent-docs",
+        "badge": "Інформація для батьків"
+    },
+    "attestation": {
+        "name": "🎓 Атестація педагогів (графіки / списки)",
+        "file": "attestation.html",
+        "target_id": "regulations",
+        "badge": "Атестація"
+    },
+    "psychologist": {
+        "name": "💙 Психологічна служба та Стоп Булінг",
+        "file": "psychologist.html",
+        "target_id": "regulations",
+        "badge": "Безпека та психологія"
+    },
+    "education": {
+        "name": "📚 Навчальний процес (НУШ / Програми)",
+        "file": "education.html",
+        "target_id": "curriculum",
+        "badge": "Освітній процес"
+    }
+}
 
 def load_config():
     if os.path.exists(CONFIG_FILE):
@@ -52,7 +98,6 @@ def save_config(cfg):
 
 def is_admin(user_id):
     cfg = load_config()
-    # If no admins configured yet, anyone who knows the bot or secret can become admin
     if not cfg.get("admin_ids"):
         return True
     return user_id in cfg.get("admin_ids", [])
@@ -83,11 +128,9 @@ def load_news():
     return []
 
 def save_news(news_list):
-    # Save to data/news.json
     with open(NEWS_JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(news_list, f, ensure_ascii=False, indent=2)
     
-    # Save to assets/js/news-data.js
     js_content = "window.SCHOOL_NEWS = " + json.dumps(news_list, ensure_ascii=False, indent=2) + ";\n"
     with open(NEWS_JS_FILE, "w", encoding="utf-8") as f:
         f.write(js_content)
@@ -165,6 +208,61 @@ def get_categories_inline():
         ]
     }
 
+def get_doc_destinations_inline():
+    buttons = []
+    for key, info in DOC_DESTINATIONS.items():
+        buttons.append([{"text": info["name"], "callback_data": f"docdest:{key}"}])
+    buttons.append([{"text": "❌ Скасувати", "callback_data": "cancel_creation"}])
+    return {"inline_keyboard": buttons}
+
+def insert_doc_into_html(file_name, target_id, doc_title, subtitle, slug):
+    """Inserts a new document card into the selected HTML page's grid."""
+    file_path = os.path.join(BASE_DIR, file_name)
+    if not os.path.exists(file_path):
+        return False
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            html = f.read()
+
+        new_card = f'''
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-file-pdf"></i></div>
+            <div>
+              <div class="doc-name">{doc_title}</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">{subtitle}</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('{slug}')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Переглянути
+          </a>
+        </div>'''
+
+        # Try to find target_id first
+        if target_id and f'id="{target_id}"' in html:
+            sec_idx = html.find(f'id="{target_id}"')
+            grid_idx = html.find('class="doc-card-grid"', sec_idx)
+            if grid_idx != -1:
+                closing_tag = html.find('>', grid_idx)
+                if closing_tag != -1:
+                    html = html[:closing_tag+1] + new_card + html[closing_tag+1:]
+                    with open(file_path, "w", encoding="utf-8") as f:
+                        f.write(html)
+                    return True
+
+        # Fallback: find any .doc-card-grid
+        grid_idx = html.find('class="doc-card-grid"')
+        if grid_idx != -1:
+            closing_tag = html.find('>', grid_idx)
+            if closing_tag != -1:
+                html = html[:closing_tag+1] + new_card + html[closing_tag+1:]
+                with open(file_path, "w", encoding="utf-8") as f:
+                    f.write(html)
+                return True
+    except Exception as e:
+        print(f"Error inserting doc into {file_name}: {e}")
+    return False
+
 def handle_update(update):
     if "callback_query" in update:
         cb = update["callback_query"]
@@ -187,6 +285,21 @@ def handle_update(update):
             send_message(chat_id, f"✅ Обрано категорію: <b>{category}</b>\n\n📝 Тепер надішліть <b>повний текст новини</b> (або напишіть <code>-</code> якщо текст такий самий як заголовок):")
             return
 
+        if data.startswith("docdest:"):
+            dest_key = data.split(":", 1)[1]
+            if dest_key not in DOC_DESTINATIONS:
+                send_message(chat_id, "⚠️ Невідомий розділ.")
+                return
+            dest_info = DOC_DESTINATIONS[dest_key]
+            state["dest_key"] = dest_key
+            state["step"] = "WAITING_DOC_TITLE"
+            state["doc_files"] = []
+            state["doc_texts"] = []
+            USER_STATES[user_id] = state
+            
+            send_message(chat_id, f"📂 <b>Обрано розділ:</b>\n{dest_info['name']}\n\n📝 <b>Крок 2 із 3:</b> Введіть <b>назву або опис документа</b>\n(Наприклад: <i>Наказ про зарахування до 1 класу 2026</i> або <i>Річний план роботи школи</i>):")
+            return
+
         if data.startswith("del:"):
             post_id = int(data.split(":", 1)[1])
             news = load_news()
@@ -204,9 +317,13 @@ def handle_update(update):
             finish_news_creation(user_id, chat_id)
             return
 
+        if data == "publish_docs_now":
+            finish_document_creation(user_id, chat_id)
+            return
+
         if data == "cancel_creation":
             USER_STATES.pop(user_id, None)
-            send_message(chat_id, "❌ Створення новини скасовано.", reply_markup=get_main_keyboard())
+            send_message(chat_id, "❌ Дію скасовано.", reply_markup=get_main_keyboard())
             return
 
     if "message" not in update:
@@ -233,7 +350,7 @@ def handle_update(update):
             "🏫 <b>Панель керування сайтом Липницького ЗЗСО І–ІІ ступенів</b>\n\n"
             "Привіт! Ви маєте права адміністратора. Через цього бота ви можете:\n"
             "• ➕ Публікувати нові події з фото та відео\n"
-            "• 📄 Додавати офіційні накази та документи\n"
+            "• 📄 Додавати офіційні накази та документи у вибраний розділ сайту\n"
             "• 🗑 Видаляти застарілі новини\n"
             "• 📊 Переглядати актуальну статистику сайту\n"
             "• 📬 Отримувати електронні звернення від батьків та учнів\n\n"
@@ -248,8 +365,8 @@ def handle_update(update):
         return
 
     if text in ["📄 Додати документ", "/add_doc"]:
-        USER_STATES[user_id] = {"step": "WAITING_DOC_TITLE"}
-        send_message(chat_id, "📄 <b>Додавання документа:</b>\nВведіть назву документа (наприклад: <i>Наказ про зарахування до 1 класу 2026</i>):")
+        USER_STATES[user_id] = {"step": "CHOOSING_DOC_DEST"}
+        send_message(chat_id, "📄 <b>Крок 1 із 3: Оберіть розділ сайту</b>, куди саме додати новий документ(и):", reply_markup=get_doc_destinations_inline())
         return
 
     if text in ["🗑 Видалити новину", "/delete_post"]:
@@ -260,11 +377,13 @@ def handle_update(update):
         news = load_news()
         docs = load_docs()
         total_images = len([f for f in os.listdir(IMAGES_DIR) if f.endswith(('.jpg', '.png', '.jpeg'))])
+        total_docs = len([f for f in os.listdir(DOCS_DIR) if not f.startswith('.')])
         stat_text = (
             "📊 <b>Статистика сайту Липницького ЗЗСО:</b>\n\n"
             f"• Опублікованих подій: <b>{len(news)}</b>\n"
             f"• Локальних світлин: <b>{total_images}</b>\n"
-            f"• Офіційних документів: <b>{len(docs)}</b>\n"
+            f"• База документів у системі: <b>{len(docs)}</b>\n"
+            f"• Завантажених файлів (PDF/Word): <b>{total_docs}</b>\n"
             f"• Репозиторій: <a href='https://github.com/Absolut2526/school_site'>GitHub (main)</a>\n"
             f"• Ступінь школи: <b>1–9 класи (І–ІІ ступенів)</b>"
         )
@@ -300,17 +419,15 @@ def handle_update(update):
                      reply_markup={"inline_keyboard": [[{"text": "🚀 Завершити та Опублікувати", "callback_data": "publish_now"}], [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]]})
         return
 
-    if current_step in ["WAITING_PHOTOS", "QUICK_PHOTO_UPLOAD"]:
-        # Check if photo was sent
+    if current_step == "WAITING_PHOTOS":
         if "photo" in msg:
-            # Highest resolution photo
             photo = msg["photo"][-1]
             file_id = photo["file_id"]
             state.setdefault("photos", []).append(file_id)
             USER_STATES[user_id] = state
             count = len(state["photos"])
             send_message(chat_id, f"✅ Отримано світлину #{count}! Можете надіслати ще або опублікувати.",
-                         reply_markup={"inline_keyboard": [[{"text": "🚀 Опублікувати на сайті", "callback_data": "publish_now"}], [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]]})
+                         reply_markup={"inline_keyboard": [[{"text": f"🚀 Опублікувати на сайті ({count} фото)", "callback_data": "publish_now"}], [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]]})
             return
 
         if "video" in msg:
@@ -325,36 +442,143 @@ def handle_update(update):
     if current_step == "WAITING_DOC_TITLE":
         state["doc_title"] = text
         state["step"] = "WAITING_DOC_CONTENT"
+        state["doc_files"] = []
+        state["doc_texts"] = []
         USER_STATES[user_id] = state
-        send_message(chat_id, f"📄 Документ: <b>{text}</b>\n\nТепер надішліть <b>текст документа</b> або прикріпіть <b>файл (PDF / DOCX)</b>:")
+        dest_info = DOC_DESTINATIONS.get(state.get("dest_key", ""), {})
+        dest_name = dest_info.get("name", "Сайт")
+        send_message(chat_id, 
+            f"📄 <b>Документ:</b> {text}\n"
+            f"📂 <b>Розділ:</b> {dest_name}\n\n"
+            "📎 <b>Крок 3 із 3:</b> Надішліть <b>файл(и) документа</b> (PDF, DOCX, XLSX, фотоскан) або напишіть <b>текст</b>.\n\n"
+            "💡 Ви можете надіслати <b>декілька файлів підряд</b>!\n"
+            "Коли завершите надсилати, натисніть кнопку нижче 👇",
+            reply_markup={"inline_keyboard": [
+                [{"text": "🚀 Опублікувати на сайті", "callback_data": "publish_docs_now"}],
+                [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]
+            ]}
+        )
         return
 
     if current_step == "WAITING_DOC_CONTENT":
-        doc_title = state.get("doc_title")
-        slug = doc_title.lower().replace(" ", "-").replace("«", "").replace("»", "").replace("\"", "")
-        docs = load_docs()
-
-        doc_body = [text] if text else ["Офіційний документ закладу."]
-        doc_links = []
-
         if "document" in msg:
             doc_file = msg["document"]
-            filename = doc_file.get("file_name", f"doc_{int(time.time())}.pdf")
-            dest_path = os.path.join(DOCS_DIR, filename)
-            download_file(doc_file["file_id"], dest_path)
-            doc_links.append(f"assets/docs/{filename}")
-            doc_body.append(f"Завантажений файл: {filename}")
+            file_id = doc_file["file_id"]
+            orig_name = doc_file.get("file_name", f"doc_{int(time.time())}.pdf")
+            state.setdefault("doc_files", []).append({
+                "file_id": file_id,
+                "file_name": orig_name
+            })
+            USER_STATES[user_id] = state
+            count = len(state["doc_files"])
+            send_message(chat_id, 
+                f"✅ Отримано документ #{count}: <b>{orig_name}</b>\n\n"
+                "Можете надіслати ще файли або опублікувати на сайті:",
+                reply_markup={"inline_keyboard": [
+                    [{"text": f"🚀 Опублікувати на сайті ({count} файл{'ів' if count > 4 else 'и' if count > 1 else ''})", "callback_data": "publish_docs_now"}],
+                    [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]
+                ]}
+            )
+            return
 
-        docs[slug] = {
-            "title": doc_title,
-            "body": doc_body,
-            "links": doc_links
-        }
-        save_docs(docs)
-        git_commit_and_push(f"Add document '{doc_title}' via Telegram Bot")
-        USER_STATES.pop(user_id, None)
-        send_message(chat_id, f"✅ Документ <b>«{doc_title}»</b> успішно додано до бази сайту та опубліковано!", reply_markup=get_main_keyboard())
-        return
+        if "photo" in msg:
+            photo = msg["photo"][-1]
+            file_id = photo["file_id"]
+            orig_name = f"scan_{int(time.time())}.jpg"
+            state.setdefault("doc_files", []).append({
+                "file_id": file_id,
+                "file_name": orig_name
+            })
+            USER_STATES[user_id] = state
+            count = len(state["doc_files"])
+            send_message(chat_id, 
+                f"✅ Отримано скан/фото #{count}!\n\n"
+                "Можете надіслати ще файли або опублікувати на сайті:",
+                reply_markup={"inline_keyboard": [
+                    [{"text": f"🚀 Опублікувати на сайті ({count} файл{'ів' if count > 4 else 'и' if count > 1 else ''})", "callback_data": "publish_docs_now"}],
+                    [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]
+                ]}
+            )
+            return
+
+        if text:
+            state.setdefault("doc_texts", []).append(text)
+            USER_STATES[user_id] = state
+            send_message(chat_id, 
+                "📝 Текст додано! Надішліть файл або натисніть «Опублікувати на сайті»:",
+                reply_markup={"inline_keyboard": [
+                    [{"text": "🚀 Опублікувати на сайті", "callback_data": "publish_docs_now"}],
+                    [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]
+                ]}
+            )
+            return
+
+def finish_document_creation(user_id, chat_id):
+    state = USER_STATES.get(user_id, {})
+    doc_title = state.get("doc_title", "Офіційний документ")
+    dest_key = state.get("dest_key", "trans_reports")
+    dest_info = DOC_DESTINATIONS.get(dest_key, DOC_DESTINATIONS["trans_reports"])
+    doc_files = state.get("doc_files", [])
+    doc_texts = state.get("doc_texts", [])
+
+    send_message(chat_id, "⏳ Зберігаю файли та додаю документ у вибраний розділ сайту...")
+
+    # Download files to assets/docs/
+    downloaded_links = []
+    for item in doc_files:
+        raw_name = item["file_name"]
+        clean_name = re.sub(r'[^a-zA-Z0-9_\.\-]', '_', raw_name)
+        unique_name = f"{int(time.time())}_{clean_name}"
+        dest_path = os.path.join(DOCS_DIR, unique_name)
+        if download_file(item["file_id"], dest_path):
+            downloaded_links.append(f"assets/docs/{unique_name}")
+
+    # Generate slug
+    slug = re.sub(r'[^a-zA-Z0-9а-яА-ЯіІїЇєЄґҐ\-]', '-', doc_title.lower()).strip('-')
+    if not slug:
+        slug = f"doc-{int(time.time())}"
+
+    # Build body
+    body_paragraphs = []
+    if doc_texts:
+        body_paragraphs.extend(doc_texts)
+    else:
+        body_paragraphs.append(f"Офіційний документ закладу загальної середньої освіти: {doc_title}.")
+
+    if downloaded_links:
+        for idx, l in enumerate(downloaded_links):
+            body_paragraphs.append(f"Доданий файл #{idx+1}: {os.path.basename(l)}")
+
+    # Update documents-data.js
+    docs = load_docs()
+    docs[slug] = {
+        "title": doc_title,
+        "subtitle": dest_info["badge"],
+        "body": body_paragraphs,
+        "links": downloaded_links
+    }
+    save_docs(docs)
+
+    # Insert doc card into the target HTML page
+    html_file = dest_info["file"]
+    target_id = dest_info["target_id"]
+    badge_text = dest_info["badge"]
+    insert_doc_into_html(html_file, target_id, doc_title, badge_text, slug)
+
+    # Commit and push
+    ok, git_msg = git_commit_and_push(f"Add document '{doc_title[:30]}' to {html_file} via Telegram Bot")
+
+    USER_STATES.pop(user_id, None)
+
+    success_text = (
+        "🎉 <b>Документ успішно додано на сайт!</b>\n\n"
+        f"📄 <b>Назва:</b> {doc_title}\n"
+        f"📂 <b>Розділ сайту:</b> {dest_info['name']}\n"
+        f"📑 <b>Файлів завантажено:</b> {len(downloaded_links)}\n"
+        f"🌐 <b>Сторінка:</b> <code>{html_file}</code>\n\n"
+        f"🚀 <i>{git_msg}</i>"
+    )
+    send_message(chat_id, success_text, reply_markup=get_main_keyboard())
 
 def finish_news_creation(user_id, chat_id):
     state = USER_STATES.get(user_id, {})
@@ -398,11 +622,9 @@ def finish_news_creation(user_id, chat_id):
         "youtube": None
     }
 
-    # Insert at the beginning of the news feed
     news.insert(0, new_item)
     save_news(news)
 
-    # Sync to git
     ok, git_msg = git_commit_and_push(f"Add news #{new_id} '{title[:35]}...' via Telegram Bot")
 
     USER_STATES.pop(user_id, None)
@@ -424,7 +646,6 @@ def show_delete_menu(chat_id):
         return
 
     buttons = []
-    # Show last 6 news
     for item in news[:6]:
         item_id = item.get("id")
         title = item.get("title", "")[:35] + "..."
