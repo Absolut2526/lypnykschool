@@ -38,7 +38,9 @@ def load_dotenv():
 load_dotenv()
 
 # Configuration
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8830753806:AAHdpipDs8KoVCCBeoJba4FakrJqabb46MQ")
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+if not BOT_TOKEN:
+    print("[Warning] TELEGRAM_BOT_TOKEN not found in environment or .env file.")
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 DATA_DIR = os.path.join(BASE_DIR, "data")
 IMAGES_DIR = os.path.join(BASE_DIR, "assets", "images")
