@@ -2,9 +2,12 @@
 # -*- coding: utf-8 -*-
 """
 Telegram Admin Bot for Lypnyk School Website
-Allows administrators to manage news, upload photos/videos, add and delete documents from specific pages/sections,
-delete posts, and receive feedback messages directly from Telegram.
-Automatically syncs all changes with Git and pushes to GitHub.
+Features:
+- Manage News (create with photos/videos, delete)
+- Manage Documents (select section, multi-file upload, delete from pages)
+- Manage Administrators (view, add, remove with roles)
+- Manage Feedback Tickets (interactive statuses: New, In Progress, Done, Notes)
+- Automatic Git commit & push to GitHub
 """
 
 import os
@@ -26,6 +29,7 @@ DOCS_DIR = os.path.join(BASE_DIR, "assets", "docs")
 VIDEOS_DIR = os.path.join(BASE_DIR, "assets", "videos")
 CONFIG_FILE = os.path.join(DATA_DIR, "admin_config.json")
 NEWS_JSON_FILE = os.path.join(DATA_DIR, "news.json")
+FEEDBACK_FILE = os.path.join(DATA_DIR, "feedback_list.json")
 NEWS_JS_FILE = os.path.join(BASE_DIR, "assets", "js", "news-data.js")
 DOCS_JS_FILE = os.path.join(BASE_DIR, "assets", "js", "documents-data.js")
 
@@ -93,33 +97,141 @@ def get_doc_id(slug):
     DOC_CACHE[new_id] = slug
     return new_id
 
+# ==============================================================================
+# Admin Configuration Management
+# ==============================================================================
 def load_config():
+    default_cfg = {
+        "admins": [
+            {"id": 1373248099, "name": "Головний адміністратор", "role": "Директор / Власник", "added_at": "16.09.2026"}
+        ],
+        "admin_ids": [1373248099]
+    }
     if os.path.exists(CONFIG_FILE):
         try:
             with open(CONFIG_FILE, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception:
-            pass
-    return {"admin_ids": []}
+                cfg = json.load(f)
+                if "admin_ids" in cfg and "admins" not in cfg:
+                    cfg["admins"] = [{"id": aid, "name": f"Адмін #{aid}", "role": "Адміністратор", "added_at": "16.09.2026"} for aid in cfg["admin_ids"]]
+                if "admins" in cfg:
+                    cfg["admin_ids"] = [a["id"] for a in cfg["admins"]]
+                return cfg
+        except Exception as e:
+            print(f"Error loading config: {e}")
+    return default_cfg
 
 def save_config(cfg):
+    if "admins" in cfg:
+        cfg["admin_ids"] = [a["id"] for a in cfg["admins"]]
     with open(CONFIG_FILE, "w", encoding="utf-8") as f:
         json.dump(cfg, f, ensure_ascii=False, indent=2)
 
 def is_admin(user_id):
     cfg = load_config()
-    if not cfg.get("admin_ids"):
-        return True
-    return user_id in cfg.get("admin_ids", [])
+    return user_id in cfg.get("admin_ids", [1373248099])
 
-def add_admin(user_id):
+def get_admin_info(user_id):
     cfg = load_config()
-    if user_id not in cfg.get("admin_ids", []):
-        cfg.setdefault("admin_ids", []).append(user_id)
-        save_config(cfg)
+    for a in cfg.get("admins", []):
+        if a["id"] == user_id:
+            return a
+    return {"id": user_id, "name": f"ID:{user_id}", "role": "Адміністратор"}
 
+def add_admin_user(user_id, name="Адміністратор", role="Вчитель / Секретар"):
+    cfg = load_config()
+    admins = cfg.setdefault("admins", [])
+    for a in admins:
+        if a["id"] == user_id:
+            a["name"] = name
+            a["role"] = role
+            save_config(cfg)
+            return True, "Дані адміністратора оновлено!"
+    admins.append({
+        "id": user_id,
+        "name": name,
+        "role": role,
+        "added_at": datetime.now().strftime("%d.%m.%Y")
+    })
+    save_config(cfg)
+    return True, "Нового адміністратора успішно додано!"
+
+def remove_admin_user(user_id):
+    cfg = load_config()
+    admins = cfg.get("admins", [])
+    if len(admins) <= 1:
+        return False, "Не можна видалити останнього адміністратора!"
+    cfg["admins"] = [a for a in admins if a["id"] != user_id]
+    save_config(cfg)
+    return True, "Адміністратора видалено."
+
+# ==============================================================================
+# Feedback Tickets Management
+# ==============================================================================
+def load_feedback():
+    if os.path.exists(FEEDBACK_FILE):
+        try:
+            with open(FEEDBACK_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return []
+
+def save_feedback(items):
+    with open(FEEDBACK_FILE, "w", encoding="utf-8") as f:
+        json.dump(items, f, ensure_ascii=False, indent=2)
+
+def add_feedback_ticket(name, contact, message):
+    items = load_feedback()
+    t_id = len(items) + 1
+    now_str = datetime.now().strftime("%d.%m.%Y, %H:%M")
+    ticket = {
+        "id": t_id,
+        "name": name,
+        "contact": contact,
+        "message": message,
+        "date": now_str,
+        "status": "new",  # new | in_progress | done
+        "handled_by": None,
+        "handled_at": None,
+        "note": None
+    }
+    items.insert(0, ticket)
+    save_feedback(items)
+    return ticket
+
+def update_feedback_status(t_id, status, admin_name):
+    items = load_feedback()
+    for it in items:
+        if it.get("id") == t_id:
+            it["status"] = status
+            it["handled_by"] = admin_name
+            it["handled_at"] = datetime.now().strftime("%d.%m.%Y, %H:%M")
+            save_feedback(items)
+            return it
+    return None
+
+def set_feedback_note(t_id, note, admin_name):
+    items = load_feedback()
+    for it in items:
+        if it.get("id") == t_id:
+            it["note"] = note
+            it["handled_by"] = admin_name
+            it["handled_at"] = datetime.now().strftime("%d.%m.%Y, %H:%M")
+            save_feedback(items)
+            return it
+    return None
+
+def get_feedback_ticket(t_id):
+    items = load_feedback()
+    for it in items:
+        if it.get("id") == t_id:
+            return it
+    return None
+
+# ==============================================================================
+# Git Integration
+# ==============================================================================
 def git_commit_and_push(commit_message):
-    """Commits all local changes and pushes to origin main."""
     try:
         subprocess.run(["git", "add", "."], cwd=BASE_DIR, check=True, capture_output=True)
         res_commit = subprocess.run(["git", "commit", "-m", commit_message], cwd=BASE_DIR, capture_output=True, text=True)
@@ -131,6 +243,9 @@ def git_commit_and_push(commit_message):
         print(f"[Git Error] {e}")
         return False, f"Помилка Git: {e}"
 
+# ==============================================================================
+# Content Storage
+# ==============================================================================
 def load_news():
     if os.path.exists(NEWS_JSON_FILE):
         with open(NEWS_JSON_FILE, "r", encoding="utf-8") as f:
@@ -140,7 +255,6 @@ def load_news():
 def save_news(news_list):
     with open(NEWS_JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(news_list, f, ensure_ascii=False, indent=2)
-    
     js_content = "window.SCHOOL_NEWS = " + json.dumps(news_list, ensure_ascii=False, indent=2) + ";\n"
     with open(NEWS_JS_FILE, "w", encoding="utf-8") as f:
         f.write(js_content)
@@ -164,7 +278,6 @@ def save_docs(docs_dict):
         f.write(js_content)
 
 def remove_doc_from_html_pages(slug):
-    """Finds and removes any .doc-card referencing the slug from all HTML pages."""
     html_files = [f for f in os.listdir(BASE_DIR) if f.endswith('.html')]
     modified = False
     pattern = re.compile(r'<div class="doc-card"[^>]*>(?:(?!<div class="doc-card").)*?openDocModal\([\'"]' + re.escape(slug) + r'[\'"]\).*?</div>\s*', re.DOTALL)
@@ -183,7 +296,9 @@ def remove_doc_from_html_pages(slug):
             print(f"Error removing card from {fname}: {e}")
     return modified
 
+# ==============================================================================
 # Telegram API Helpers
+# ==============================================================================
 def send_message(chat_id, text, reply_markup=None, parse_mode="HTML"):
     url = f"{API_URL}/sendMessage"
     payload = {
@@ -200,6 +315,28 @@ def send_message(chat_id, text, reply_markup=None, parse_mode="HTML"):
         print(f"Error sending message: {e}")
         return None
 
+def edit_message_text(chat_id, message_id, text, reply_markup=None, parse_mode="HTML"):
+    url = f"{API_URL}/editMessageText"
+    payload = {
+        "chat_id": chat_id,
+        "message_id": message_id,
+        "text": text,
+        "parse_mode": parse_mode
+    }
+    if reply_markup:
+        payload["reply_markup"] = reply_markup
+    try:
+        r = requests.post(url, json=payload, timeout=15)
+        return r.json()
+    except Exception as e:
+        print(f"Error editing message: {e}")
+        return None
+
+def notify_all_admins(text, reply_markup=None):
+    cfg = load_config()
+    for admin in cfg.get("admins", []):
+        send_message(admin["id"], text, reply_markup=reply_markup)
+
 def download_file(file_id, dest_path):
     try:
         file_info_res = requests.get(f"{API_URL}/getFile?file_id={file_id}", timeout=15).json()
@@ -215,12 +352,15 @@ def download_file(file_id, dest_path):
         print(f"Error downloading file: {e}")
         return False
 
-# Keyboards
+# ==============================================================================
+# Keyboards & Renderers
+# ==============================================================================
 def get_main_keyboard():
     return {
         "keyboard": [
             [{"text": "➕ Опублікувати новину"}, {"text": "📄 Додати документ"}],
             [{"text": "🗑 Видалити новину"}, {"text": "🗑 Видалити документ"}],
+            [{"text": "📬 Електронні звернення"}, {"text": "👥 Керування адмінами"}],
             [{"text": "📊 Статистика сайту"}, {"text": "🌐 Посилання на сайт"}]
         ],
         "resize_keyboard": True
@@ -259,8 +399,55 @@ def get_delete_doc_categories_inline():
         ]
     }
 
+def render_feedback_message(ticket):
+    status = ticket.get("status", "new")
+    status_badge = {
+        "new": "🆕 <b>НОВЕ ЗВЕРНЕННЯ</b>",
+        "in_progress": "📌 <b>В РОБОТІ</b>",
+        "done": "✅ <b>ОПРАЦЬОВАНО</b>"
+    }.get(status, status)
+
+    msg = (
+        f"📬 <b>Електронне звернення #{ticket['id']}</b>\n"
+        f"────────────────────────\n"
+        f"👤 <b>ПІБ:</b> {ticket.get('name', 'Не вказано')}\n"
+        f"📞 <b>Контакт:</b> {ticket.get('contact', 'Не вказано')}\n"
+        f"📝 <b>Текст звернення:</b>\n{ticket.get('message', '')}\n\n"
+        f"⏰ <i>{ticket.get('date', '')}</i>\n"
+        f"────────────────────────\n"
+        f"📊 <b>Статус:</b> {status_badge}\n"
+    )
+    if ticket.get("handled_by"):
+        msg += f"👤 <b>Опрацьовує:</b> {ticket.get('handled_by')}\n"
+    if ticket.get("handled_at"):
+        msg += f"🕒 <b>Оновлено:</b> {ticket.get('handled_at')}\n"
+    if ticket.get("note"):
+        msg += f"💬 <b>Примітка:</b> <i>{ticket.get('note')}</i>\n"
+    return msg
+
+def get_feedback_inline_kb(ticket_id, status):
+    buttons = []
+    if status == "new":
+        buttons.append([
+            {"text": "📌 Взяти в роботу", "callback_data": f"fb_status:{ticket_id}:in_progress"},
+            {"text": "✅ Опрацьовано", "callback_data": f"fb_status:{ticket_id}:done"}
+        ])
+        buttons.append([
+            {"text": "💬 Додати примітку", "callback_data": f"fb_note:{ticket_id}"}
+        ])
+    elif status == "in_progress":
+        buttons.append([
+            {"text": "✅ Позначити як виконано", "callback_data": f"fb_status:{ticket_id}:done"},
+            {"text": "💬 Додати примітку", "callback_data": f"fb_note:{ticket_id}"}
+        ])
+    elif status == "done":
+        buttons.append([
+            {"text": "🔄 Повернути в роботу", "callback_data": f"fb_status:{ticket_id}:in_progress"},
+            {"text": "💬 Змінити примітку", "callback_data": f"fb_note:{ticket_id}"}
+        ])
+    return {"inline_keyboard": buttons}
+
 def insert_doc_into_html(file_name, target_id, doc_title, subtitle, slug):
-    """Inserts a new document card into the selected HTML page's grid."""
     file_path = os.path.join(BASE_DIR, file_name)
     if not os.path.exists(file_path):
         return False
@@ -282,7 +469,6 @@ def insert_doc_into_html(file_name, target_id, doc_title, subtitle, slug):
           </a>
         </div>'''
 
-        # Try to find target_id first
         if target_id and f'id="{target_id}"' in html:
             sec_idx = html.find(f'id="{target_id}"')
             grid_idx = html.find('class="doc-card-grid"', sec_idx)
@@ -294,7 +480,6 @@ def insert_doc_into_html(file_name, target_id, doc_title, subtitle, slug):
                         f.write(html)
                     return True
 
-        # Fallback: find any .doc-card-grid
         grid_idx = html.find('class="doc-card-grid"')
         if grid_idx != -1:
             closing_tag = html.find('>', grid_idx)
@@ -313,10 +498,8 @@ def show_doc_delete_list(chat_id, filter_type=None, search_query=None):
         send_message(chat_id, "База документів порожня.")
         return
 
-    # Filter out dummy internal keys
     doc_items = [(slug, data) for slug, data in docs.items() if slug not in ["головна-сторінка"]]
 
-    filtered = []
     if filter_type == "recent":
         filtered = doc_items[-10:]
         filtered.reverse()
@@ -361,18 +544,150 @@ def show_doc_delete_list(chat_id, filter_type=None, search_query=None):
     header_name = category_titles.get(filter_type, f"Результати пошуку «{search_query}»" if search_query else "Список документів")
     send_message(chat_id, f"🗑 <b>{header_name}:</b>\nОберіть документ, який бажаєте видалити:", reply_markup=keyboard)
 
+# ==============================================================================
+# UI Handlers for Admins & Feedback
+# ==============================================================================
+def show_admins_menu(chat_id):
+    cfg = load_config()
+    admins = cfg.get("admins", [])
+    
+    msg = "👥 <b>Список адміністраторів бота:</b>\n────────────────────────\n"
+    for idx, a in enumerate(admins, 1):
+        msg += f"{idx}. <b>{a.get('name', 'Адміністратор')}</b>\n"
+        msg += f"   • Посада/Роль: <i>{a.get('role', 'Вчитель')}</i>\n"
+        msg += f"   • Telegram ID: <code>{a.get('id')}</code>\n\n"
+    
+    msg += "💡 <i>Усі вказані адміністратори мають повний доступ до бота та отримують звернення з сайту.</i>"
+
+    buttons = [
+        [{"text": "➕ Додати нового адміністратора", "callback_data": "admin_add"}],
+        [{"text": "🗑 Видалити адміністратора", "callback_data": "admin_del_list"}],
+        [{"text": "🔙 Назад до головного меню", "callback_data": "menu_back"}]
+    ]
+    send_message(chat_id, msg, reply_markup={"inline_keyboard": buttons})
+
+def show_feedback_list_menu(chat_id):
+    tickets = load_feedback()
+    if not tickets:
+        send_message(chat_id, "📬 <b>Електронних звернень поки немає.</b>\nКоли відвідувачі заповнюють форму на сайті, вони автоматично з'являються тут.", reply_markup=get_main_keyboard())
+        return
+
+    new_cnt = len([t for t in tickets if t.get("status") == "new"])
+    prog_cnt = len([t for t in tickets if t.get("status") == "in_progress"])
+    done_cnt = len([t for t in tickets if t.get("status") == "done"])
+
+    msg = (
+        f"📬 <b>Журнал електронних звернень:</b>\n"
+        f"────────────────────────\n"
+        f"• 🆕 Нових: <b>{new_cnt}</b>\n"
+        f"• 📌 В роботі: <b>{prog_cnt}</b>\n"
+        f"• ✅ Опрацьованих: <b>{done_cnt}</b>\n\n"
+        f"Останні звернення:"
+    )
+
+    buttons = []
+    for t in tickets[:8]:
+        st_icon = {"new": "🆕", "in_progress": "📌", "done": "✅"}.get(t.get("status"), "✉️")
+        btn_title = f"{st_icon} #{t['id']} {t.get('name', '')[:16]} ({t.get('date', '').split(',')[0]})"
+        buttons.append([{"text": btn_title, "callback_data": f"fb_view:{t['id']}"}])
+
+    buttons.append([{"text": "🔙 Головне меню", "callback_data": "menu_back"}])
+    send_message(chat_id, msg, reply_markup={"inline_keyboard": buttons})
+
+# ==============================================================================
+# Update Handler
+# ==============================================================================
 def handle_update(update):
+    # Callback Query
     if "callback_query" in update:
         cb = update["callback_query"]
         chat_id = cb["message"]["chat"]["id"]
+        message_id = cb["message"]["message_id"]
         data = cb["data"]
         user_id = cb["from"]["id"]
+        user_first_name = cb["from"].get("first_name", "Адмін")
         
         if not is_admin(user_id):
             send_message(chat_id, "⛔ Доступ обмежено.")
             return
 
         state = USER_STATES.get(user_id, {})
+
+        # Menu Back
+        if data == "menu_back":
+            USER_STATES.pop(user_id, None)
+            send_message(chat_id, "Головне меню панелі керування 👇", reply_markup=get_main_keyboard())
+            return
+
+        # Feedback Status Change
+        if data.startswith("fb_status:"):
+            parts = data.split(":")
+            t_id = int(parts[1])
+            new_status = parts[2]
+            admin_info = get_admin_info(user_id)
+            admin_disp_name = f"{admin_info.get('name', user_first_name)}"
+            
+            ticket = update_feedback_status(t_id, new_status, admin_disp_name)
+            if ticket:
+                updated_text = render_feedback_message(ticket)
+                edit_message_text(chat_id, message_id, updated_text, reply_markup=get_feedback_inline_kb(t_id, new_status))
+            return
+
+        # Feedback View Ticket
+        if data.startswith("fb_view:"):
+            t_id = int(data.split(":", 1)[1])
+            ticket = get_feedback_ticket(t_id)
+            if ticket:
+                msg_text = render_feedback_message(ticket)
+                send_message(chat_id, msg_text, reply_markup=get_feedback_inline_kb(t_id, ticket.get("status", "new")))
+            else:
+                send_message(chat_id, "⚠️ Звернення не знайдено.")
+            return
+
+        # Feedback Add Note
+        if data.startswith("fb_note:"):
+            t_id = int(data.split(":", 1)[1])
+            USER_STATES[user_id] = {"step": "WAITING_FB_NOTE", "ticket_id": t_id}
+            send_message(chat_id, f"💬 Введіть <b>текст примітки</b> або коментаря до звернення #{t_id}:")
+            return
+
+        # Admin Management: Add
+        if data == "admin_add":
+            USER_STATES[user_id] = {"step": "WAITING_ADMIN_ID"}
+            msg_prompt = (
+                "➕ <b>Додавання нового адміністратора (Крок 1 із 2):</b>\n\n"
+                "Введіть <b>числовий Telegram ID</b> користувача (наприклад: <code>1234567890</code>).\n\n"
+                "💡 <i>Як користувачу дізнатися свій ID:</i> відкрити бота @userinfobot або @raw_data_bot в Telegram."
+            )
+            send_message(chat_id, msg_prompt, reply_markup={"inline_keyboard": [[{"text": "❌ Скасувати", "callback_data": "menu_back"}]]})
+            return
+
+        # Admin Management: Delete List
+        if data == "admin_del_list":
+            cfg = load_config()
+            admins = cfg.get("admins", [])
+            if len(admins) <= 1:
+                send_message(chat_id, "⚠️ У системі лише один головний адміністратор, його не можна видалити.")
+                return
+            
+            buttons = []
+            for a in admins:
+                if a["id"] != user_id:
+                    buttons.append([{"text": f"❌ {a.get('name', 'Адмін')} ({a.get('role', '')})", "callback_data": f"admin_del:{a['id']}"}])
+            buttons.append([{"text": "🔙 Назад", "callback_data": "menu_back"}])
+            send_message(chat_id, "🗑 <b>Оберіть адміністратора для видалення:</b>", reply_markup={"inline_keyboard": buttons})
+            return
+
+        # Admin Management: Execute Delete
+        if data.startswith("admin_del:"):
+            target_id = int(data.split(":", 1)[1])
+            ok, msg_res = remove_admin_user(target_id)
+            if ok:
+                send_message(chat_id, f"✅ <b>{msg_res}</b>", reply_markup=get_main_keyboard())
+                show_admins_menu(chat_id)
+            else:
+                send_message(chat_id, f"⚠️ {msg_res}")
+            return
 
         # News Category Chosen
         if data.startswith("cat:"):
@@ -473,6 +788,7 @@ def handle_update(update):
             send_message(chat_id, "❌ Дію скасовано.", reply_markup=get_main_keyboard())
             return
 
+    # Regular Message Handling
     if "message" not in update:
         return
 
@@ -481,8 +797,21 @@ def handle_update(update):
     user_id = msg["from"]["id"]
     text = msg.get("text", "").strip()
 
-    # Automatically register admin on start or command
-    add_admin(user_id)
+    # Check if this is an incoming feedback submission sent to the bot
+    if "Нове електронне звернення з сайту школи" in text or "ПІБ відправника:" in text:
+        # Parse feedback
+        name_match = re.search(r"ПІБ відправника:\s*(.+)", text)
+        contact_match = re.search(r"Контакт:\s*(.+)", text)
+        msg_match = re.search(r"Текст звернення:\s*([\s\S]+?)(?=\n\n⏰|\n⏰|$)", text)
+        
+        name = name_match.group(1).strip() if name_match else "Відвідувач сайту"
+        contact = contact_match.group(1).strip() if contact_match else "Не вказано"
+        content = msg_match.group(1).strip() if msg_match else text
+        
+        ticket = add_feedback_ticket(name, contact, content)
+        rendered = render_feedback_message(ticket)
+        send_message(chat_id, rendered, reply_markup=get_feedback_inline_kb(ticket["id"], "new"))
+        return
 
     # Global Cancel
     if text in ["/cancel", "❌ Скасувати", "Скасувати"]:
@@ -499,8 +828,9 @@ def handle_update(update):
             "• ➕ Публікувати нові події з фото та відео\n"
             "• 📄 Додавати офіційні накази та документи у вибраний розділ сайту\n"
             "• 🗑 Видаляти застарілі новини або документи\n"
-            "• 📊 Переглядати актуальну статистику сайту\n"
-            "• 📬 Отримувати електронні звернення від батьків та учнів\n\n"
+            "• 📬 Отримувати та опрацьовувати звернення від батьків зі статусами\n"
+            "• 👥 Додавати або видаляти інших адміністраторів (директор/завуч/секретар)\n"
+            "• 📊 Переглядати актуальну статистику сайту\n\n"
             "Усі зміни автоматично зберігаються на сайті та пушаться на GitHub!"
         )
         send_message(chat_id, welcome_text, reply_markup=get_main_keyboard())
@@ -524,9 +854,19 @@ def handle_update(update):
         send_message(chat_id, "🗑 <b>Видалення документа:</b> Оберіть категорію або скористайтеся пошуком за назвою:", reply_markup=get_delete_doc_categories_inline())
         return
 
+    if text in ["📬 Електронні звернення", "/feedback"]:
+        show_feedback_list_menu(chat_id)
+        return
+
+    if text in ["👥 Керування адмінами", "/admins"]:
+        show_admins_menu(chat_id)
+        return
+
     if text in ["📊 Статистика сайту", "/status"]:
         news = load_news()
         docs = load_docs()
+        tickets = load_feedback()
+        cfg = load_config()
         total_images = len([f for f in os.listdir(IMAGES_DIR) if f.endswith(('.jpg', '.png', '.jpeg'))])
         total_docs = len([f for f in os.listdir(DOCS_DIR) if not f.startswith('.')])
         stat_text = (
@@ -535,6 +875,8 @@ def handle_update(update):
             f"• Локальних світлин: <b>{total_images}</b>\n"
             f"• База документів у системі: <b>{len(docs)}</b>\n"
             f"• Завантажених файлів (PDF/Word): <b>{total_docs}</b>\n"
+            f"• Електронних звернень у системі: <b>{len(tickets)}</b>\n"
+            f"• Зареєстрованих адмінів: <b>{len(cfg.get('admins', []))}</b>\n"
             f"• Репозиторій: <a href='https://github.com/Absolut2526/school_site'>GitHub (main)</a>\n"
             f"• Ступінь школи: <b>1–9 класи (І–ІІ ступенів)</b>"
         )
@@ -553,13 +895,64 @@ def handle_update(update):
 
     current_step = state.get("step")
 
-    # Document Search Step
+    # Flow: Note on feedback
+    if current_step == "WAITING_FB_NOTE":
+        t_id = state.get("ticket_id")
+        admin_info = get_admin_info(user_id)
+        admin_name = admin_info.get("name", msg["from"].get("first_name", "Адмін"))
+        ticket = set_feedback_note(t_id, text, admin_name)
+        USER_STATES.pop(user_id, None)
+        if ticket:
+            send_message(chat_id, f"✅ Примітку збережено до звернення #{t_id}!\n\n" + render_feedback_message(ticket), reply_markup=get_feedback_inline_kb(t_id, ticket.get("status", "new")))
+        else:
+            send_message(chat_id, "⚠️ Звернення не знайдено.", reply_markup=get_main_keyboard())
+        return
+
+    # Flow: Add Admin ID
+    if current_step == "WAITING_ADMIN_ID":
+        try:
+            new_admin_id = int(text.replace(" ", "").replace("@", ""))
+            state["new_admin_id"] = new_admin_id
+            state["step"] = "WAITING_ADMIN_NAME"
+            USER_STATES[user_id] = state
+            send_message(chat_id, f"👤 <b>Крок 2 із 2:</b> Введіть <b>ПІБ та посаду</b> нового адміністратора:\n(Наприклад: <i>Іванова Марія Степанівна — Заступник директора</i>)")
+        except ValueError:
+            send_message(chat_id, "⚠️ Будь ласка, введіть лише числовий Telegram ID (наприклад: <code>1234567890</code>):")
+        return
+
+    if current_step == "WAITING_ADMIN_NAME":
+        new_admin_id = state.get("new_admin_id")
+        admin_desc = text.strip()
+        parts = [p.strip() for p in admin_desc.split("—", 1) if p.strip()]
+        name = parts[0] if parts else admin_desc
+        role = parts[1] if len(parts) > 1 else "Адміністратор сайту"
+        
+        ok, res_msg = add_admin_user(new_admin_id, name=name, role=role)
+        USER_STATES.pop(user_id, None)
+        
+        # Send welcome to new admin
+        try:
+            welcome_new = (
+                f"🎉 <b>Вітаємо! Вас додано до адміністраторів сайту Липницького ЗЗСО!</b>\n\n"
+                f"👤 <b>Ваше ім'я/посада:</b> {name} ({role})\n"
+                f"🏫 Тепер ви можете керувати новинами, завантажувати накази та документи й опрацьовувати звернення батьків.\n\n"
+                f"Натисніть /start, щоб відкрити панель керування."
+            )
+            send_message(new_admin_id, welcome_new, reply_markup=get_main_keyboard())
+        except Exception:
+            pass
+
+        send_message(chat_id, f"🎉 <b>{res_msg}</b>\n\n👤 {name} ({role})\n🆔 ID: <code>{new_admin_id}</code>", reply_markup=get_main_keyboard())
+        show_admins_menu(chat_id)
+        return
+
+    # Flow: Document Search Step
     if current_step == "WAITING_DOC_SEARCH":
         USER_STATES.pop(user_id, None)
         show_doc_delete_list(chat_id, search_query=text)
         return
 
-    # Flow 1: News Creation
+    # Flow: News Creation
     if current_step == "WAITING_TITLE":
         state["title"] = text
         state["step"] = "WAITING_CATEGORY"
@@ -595,7 +988,7 @@ def handle_update(update):
                          reply_markup={"inline_keyboard": [[{"text": "🚀 Опублікувати на сайті", "callback_data": "publish_now"}], [{"text": "❌ Скасувати", "callback_data": "cancel_creation"}]]})
             return
 
-    # Flow 2: Document Creation
+    # Flow: Document Creation
     if current_step == "WAITING_DOC_TITLE":
         state["doc_title"] = text
         state["step"] = "WAITING_DOC_CONTENT"
@@ -680,7 +1073,6 @@ def finish_document_creation(user_id, chat_id):
 
     send_message(chat_id, "⏳ Зберігаю файли та додаю документ у вибраний розділ сайту...")
 
-    # Download files to assets/docs/
     downloaded_links = []
     for item in doc_files:
         raw_name = item["file_name"]
@@ -690,12 +1082,10 @@ def finish_document_creation(user_id, chat_id):
         if download_file(item["file_id"], dest_path):
             downloaded_links.append(f"assets/docs/{unique_name}")
 
-    # Generate slug
     slug = re.sub(r'[^a-zA-Z0-9а-яА-ЯіІїЇєЄґҐ\-]', '-', doc_title.lower()).strip('-')
     if not slug:
         slug = f"doc-{int(time.time())}"
 
-    # Build body
     body_paragraphs = []
     if doc_texts:
         body_paragraphs.extend(doc_texts)
@@ -706,7 +1096,6 @@ def finish_document_creation(user_id, chat_id):
         for idx, l in enumerate(downloaded_links):
             body_paragraphs.append(f"Доданий файл #{idx+1}: {os.path.basename(l)}")
 
-    # Update documents-data.js
     docs = load_docs()
     docs[slug] = {
         "title": doc_title,
@@ -716,13 +1105,11 @@ def finish_document_creation(user_id, chat_id):
     }
     save_docs(docs)
 
-    # Insert doc card into the target HTML page
     html_file = dest_info["file"]
     target_id = dest_info["target_id"]
     badge_text = dest_info["badge"]
     insert_doc_into_html(html_file, target_id, doc_title, badge_text, slug)
 
-    # Commit and push
     ok, git_msg = git_commit_and_push(f"Add document '{doc_title[:30]}' to {html_file} via Telegram Bot")
 
     USER_STATES.pop(user_id, None)
