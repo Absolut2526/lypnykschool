@@ -478,19 +478,24 @@ async function sendTelegramFeedback(e) {
                `🏫 <i>Липницький ЗЗСО І–ІІ ступенів</i>`;
 
   try {
-    let targetChatIds = window.TELEGRAM_ADMIN_CHAT_ID ? [window.TELEGRAM_ADMIN_CHAT_ID] : [];
-
-    // Query getUpdates to find any active chat that initiated conversation with the bot
-    const res = await fetch(`https://api.telegram.org/bot${botToken}/getUpdates`);
-    const data = await res.json();
-    if (data.ok && data.result && data.result.length > 0) {
-      data.result.forEach(u => {
-        const cId = u.message ? u.message.chat.id : (u.channel_post ? u.channel_post.chat.id : null);
-        if (cId && !targetChatIds.includes(cId)) {
-          targetChatIds.push(cId);
-        }
-      });
+    let targetChatIds = ['1373248099'];
+    if (window.TELEGRAM_ADMIN_CHAT_ID && !targetChatIds.includes(window.TELEGRAM_ADMIN_CHAT_ID)) {
+      targetChatIds.push(window.TELEGRAM_ADMIN_CHAT_ID);
     }
+
+    // Also attempt getUpdates if any new chat connected
+    try {
+      const res = await fetch(`https://api.telegram.org/bot${botToken}/getUpdates`);
+      const data = await res.json();
+      if (data.ok && data.result && data.result.length > 0) {
+        data.result.forEach(u => {
+          const cId = u.message ? u.message.chat.id : (u.channel_post ? u.channel_post.chat.id : null);
+          if (cId && !targetChatIds.includes(String(cId)) && !targetChatIds.includes(cId)) {
+            targetChatIds.push(cId);
+          }
+        });
+      }
+    } catch (_) {}
 
     if (targetChatIds.length === 0) {
       throw new Error('NO_CHAT_ID');
