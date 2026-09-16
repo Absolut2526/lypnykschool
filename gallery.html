@@ -224,10 +224,11 @@
 
       const toRender = append ? paginated.slice((galPage - 1) * galPerPage) : paginated;
 
-      toRender.forEach(item => {
+      toRender.forEach((item, idx) => {
+        const globalIndex = append ? (galPage - 1) * galPerPage + idx : idx;
         const div = document.createElement('div');
         div.className = 'gallery-item';
-        div.onclick = () => openLightbox(item.img);
+        div.onclick = () => openLightbox(item, filtered, globalIndex);
         div.innerHTML = `
           <img src="${item.img}" alt="${item.title}" loading="lazy">
           <div class="gallery-overlay">
