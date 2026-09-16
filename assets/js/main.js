@@ -10,13 +10,26 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 /* ==========================================================================
-   Helper: Auto-Link Detector (URLs, Emails)
+   Security Helpers: XSS Sanitizer & Auto-Link Detector
    ========================================================================== */
+function escapeHtml(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+}
+
 function autoLink(text) {
   if (!text) return '';
-  // Match URLs
+  // First escape all HTML to neutralize any XSS tags
+  let linked = escapeHtml(text);
+
+  // Match safe URLs (only http and https)
   const urlRegex = /(https?:\/\/[^\s<>"'()]+[^\s<>"'().,:;?!])/g;
-  let linked = text.replace(urlRegex, (url) => {
+  linked = linked.replace(urlRegex, (url) => {
     let label = url;
     if (url.includes('zakon.rada.gov.ua')) {
       label = 'Офіційний Закон на сайті Верховної Ради (zakon.rada.gov.ua)';
@@ -25,12 +38,17 @@ function autoLink(text) {
     } else if (url.length > 55) {
       label = url.slice(0, 50) + '...';
     }
-    return `<a href="${url}" target="_blank" rel="noopener" class="inline-link" style="color: #2563eb; font-weight: 700; text-decoration: underline; word-break: break-all; display: inline-flex; align-items: center; gap: 0.35rem; background: #eff6ff; padding: 0.2rem 0.6rem; border-radius: 6px; border: 1px solid #bfdbfe;"><i class="fas fa-external-link-alt" style="font-size: 0.85em;"></i> ${label}</a>`;
+    // Clean URL for href attribute
+    const safeHref = encodeURI(decodeURI(url)).replace(/"/g, '%22').replace(/'/g, '%27');
+    return `<a href="${safeHref}" target="_blank" rel="noopener noreferrer" class="inline-link" style="color: #2563eb; font-weight: 700; text-decoration: underline; word-break: break-all; display: inline-flex; align-items: center; gap: 0.35rem; background: #eff6ff; padding: 0.2rem 0.6rem; border-radius: 6px; border: 1px solid #bfdbfe;"><i class="fas fa-external-link-alt" style="font-size: 0.85em;"></i> ${escapeHtml(label)}</a>`;
   });
 
-  // Match emails
+  // Match safe emails
   const emailRegex = /([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+)/g;
-  linked = linked.replace(emailRegex, '<a href="mailto:$1" class="inline-link" style="color: #2563eb; font-weight: 700; text-decoration: underline;"><i class="fas fa-envelope" style="font-size: 0.85em;"></i> $1</a>');
+  linked = linked.replace(emailRegex, (match, email) => {
+    const safeEmail = encodeURI(email);
+    return `<a href="mailto:${safeEmail}" class="inline-link" style="color: #2563eb; font-weight: 700; text-decoration: underline;"><i class="fas fa-envelope" style="font-size: 0.85em;"></i> ${escapeHtml(email)}</a>`;
+  });
 
   return linked;
 }

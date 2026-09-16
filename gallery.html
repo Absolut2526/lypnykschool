@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="uk">
 <head>
+  <!-- Security Headers (XSS, Clickjacking & MIME Protection) -->
+  <meta http-equiv="X-XSS-Protection" content="1; mode=block">
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Фотогалерея | Липницький ЗЗСО І-ІІ ступенів</title>
@@ -230,10 +234,10 @@
         div.className = 'gallery-item';
         div.onclick = () => openLightbox(item, filtered, globalIndex);
         div.innerHTML = `
-          <img src="${item.img}" alt="${item.title}" loading="lazy">
+          <img src="${item.img}" alt="${escapeHtml(item.title)}" loading="lazy">
           <div class="gallery-overlay">
-            <span class="badge badge-accent" style="margin-bottom: 0.4rem; align-self: flex-start;">${item.category} (${item.year})</span>
-            <div class="gallery-title">${item.title}</div>
+            <span class="badge badge-accent" style="margin-bottom: 0.4rem; align-self: flex-start;">${escapeHtml(item.category)} (${escapeHtml(String(item.year))})</span>
+            <div class="gallery-title">${escapeHtml(item.title)}</div>
           </div>
         `;
         container.appendChild(div);
