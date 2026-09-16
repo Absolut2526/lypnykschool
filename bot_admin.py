@@ -37,10 +37,13 @@ def load_dotenv():
 
 load_dotenv()
 
+import threading
+from http.server import HTTPServer, BaseHTTPRequestHandler
+
 # Configuration
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN") or os.environ.get("TELEGRAM_BOT_TOKEN") or "8830753806:AAHdpipDs8KoVCCBeoJba4FakrJqabb46MQ"
 if not BOT_TOKEN:
-    print("[Warning] TELEGRAM_BOT_TOKEN not found in environment or .env file.")
+    print("[Warning] BOT_TOKEN not found in environment or .env file.")
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 DATA_DIR = os.path.join(BASE_DIR, "data")
 IMAGES_DIR = os.path.join(BASE_DIR, "assets", "images")
@@ -1234,11 +1237,36 @@ def show_delete_menu(chat_id):
         title = item.get("title", "")[:35] + "..."
         buttons.append([{"text": f"❌ Видалити #{item_id}: {title}", "callback_data": f"del:{item_id}"}])
 
-    keyboard = {"inline_keyboard": buttons}
-    send_message(chat_id, "🗑 <b>Оберіть новину, яку бажаєте видалити:</b>", reply_markup=keyboard)
+class HealthCheckHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header('Content-type', 'text/plain; charset=utf-8')
+        self.end_headers()
+        self.wfile.write(b"Lypnyk School Telegram Bot is running OK")
+
+    def log_message(self, format, *args):
+        pass
+
+def start_health_server(port):
+    try:
+        server = HTTPServer(('0.0.0.0', port), HealthCheckHandler)
+        print(f"[*] Healthcheck HTTP server listening on port {port}")
+        server.serve_forever()
+    except Exception as e:
+        print(f"[!] Healthcheck server warning: {e}")
 
 def main():
     print(f"[*] Starting Lypnyk School Telegram Bot Daemon (@LypnykSchoolBot)...")
+    
+    port_env = os.environ.get("PORT")
+    if port_env:
+        try:
+            port = int(port_env)
+            t = threading.Thread(target=start_health_server, args=(port,), daemon=True)
+            t.start()
+        except ValueError:
+            pass
+
     offset = 0
     while True:
         try:
