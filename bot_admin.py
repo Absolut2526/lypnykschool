@@ -1237,20 +1237,14 @@ def show_delete_menu(chat_id):
         title = item.get("title", "")[:35] + "..."
         buttons.append([{"text": f"❌ Видалити #{item_id}: {title}", "callback_data": f"del:{item_id}"}])
 
-class HealthCheckHandler(BaseHTTPRequestHandler):
-    def do_GET(self):
-        self.send_response(200)
-        self.send_header('Content-type', 'text/plain; charset=utf-8')
-        self.end_headers()
-        self.wfile.write(b"Lypnyk School Telegram Bot is running OK")
-
-    def log_message(self, format, *args):
-        pass
+from functools import partial
+from http.server import SimpleHTTPRequestHandler
 
 def start_health_server(port):
     try:
-        server = HTTPServer(('0.0.0.0', port), HealthCheckHandler)
-        print(f"[*] Healthcheck HTTP server listening on port {port}")
+        handler = partial(SimpleHTTPRequestHandler, directory=BASE_DIR)
+        server = HTTPServer(('0.0.0.0', port), handler)
+        print(f"[*] Website & Bot HTTP server listening on port {port} (serving directory: {BASE_DIR})")
         server.serve_forever()
     except Exception as e:
         print(f"[!] Healthcheck server warning: {e}")
