@@ -426,7 +426,7 @@ function openDocModal(slug) {
     contentEl.innerHTML = htmlContent;
   } else {
     titleEl.textContent = slug.replace(/-/g, ' ');
-    contentEl.innerHTML = `<p>Офіційний документ Липницького ЗЗСО І-ІІІ ступенів. Текст наразі доступний в адміністрації закладу.</p>`;
+    contentEl.innerHTML = `<p>Офіційний документ Липницького ЗЗСО І–ІІ ступенів. Текст наразі доступний в адміністрації закладу.</p>`;
   }
 
   dm.classList.add('active');
