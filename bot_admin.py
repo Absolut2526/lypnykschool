@@ -894,14 +894,14 @@ def handle_update(update):
             f"• Завантажених файлів (PDF/Word): <b>{total_docs}</b>\n"
             f"• Електронних звернень у системі: <b>{len(tickets)}</b>\n"
             f"• Зареєстрованих адмінів: <b>{len(cfg.get('admins', []))}</b>\n"
-            f"• Репозиторій: <a href='https://github.com/Absolut2526/school_site'>GitHub (main)</a>\n"
+            f"• Репозиторій: <a href='https://github.com/Absolut2526/lypnykschool'>GitHub (main)</a>\n"
             f"• Ступінь школи: <b>1–9 класи (І–ІІ ступенів)</b>"
         )
         send_message(chat_id, stat_text)
         return
 
     if text in ["🌐 Посилання на сайт", "/link"]:
-        send_message(chat_id, "🌐 <b>Посилання на сайт закладу:</b>\n• Репозиторій: https://github.com/Absolut2526/school_site\n• Локальна папка: <code>/Users/pc/Documents/school_site</code>")
+        send_message(chat_id, "🌐 <b>Посилання на сайт закладу:</b>\n• Репозиторій: https://github.com/Absolut2526/lypnykschool\n• Локальна папка: <code>/Users/pc/Documents/lypnykschool</code>")
         return
 
     # State Machine Handling

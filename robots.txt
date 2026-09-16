@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://absolut2526.github.io/school_site/sitemap.xml
+Sitemap: https://absolut2526.github.io/lypnykschool/sitemap.xml
