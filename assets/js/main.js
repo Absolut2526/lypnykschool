@@ -438,3 +438,119 @@ function closeDocModal() {
   if (dm) dm.classList.remove('active');
   document.body.style.overflow = '';
 }
+
+/* ==========================================================================
+   Telegram Feedback Form Handler (Direct to Bot)
+   ========================================================================== */
+async function sendTelegramFeedback(e) {
+  e.preventDefault();
+  const form = e.target;
+  const btn = form.querySelector('button[type="submit"]');
+  const nameInput = document.getElementById('feedbackName');
+  const contactInput = document.getElementById('feedbackContact');
+  const messageInput = document.getElementById('feedbackMessage');
+  const statusEl = document.getElementById('feedbackStatus');
+
+  const name = nameInput ? nameInput.value.trim() : '';
+  const contact = contactInput ? contactInput.value.trim() : '';
+  const message = messageInput ? messageInput.value.trim() : '';
+
+  if (!name || !contact || !message) return;
+
+  const originalBtnContent = btn.innerHTML;
+  btn.disabled = true;
+  btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Відправлення...';
+  if (statusEl) {
+    statusEl.style.display = 'none';
+  }
+
+  const botToken = '8830753806:AAHdpipDs8KoVCCBeoJba4FakrJqabb46MQ';
+
+  const escapeHtml = (str) => {
+    return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  };
+
+  const text = `📬 <b>Нове електронне звернення з сайту школи</b>\n\n` +
+               `👤 <b>ПІБ відправника:</b> ${escapeHtml(name)}\n` +
+               `📞 <b>Контакт:</b> ${escapeHtml(contact)}\n` +
+               `📝 <b>Текст звернення:</b>\n${escapeHtml(message)}\n\n` +
+               `⏰ <i>${new Date().toLocaleString('uk-UA')}</i>\n` +
+               `🏫 <i>Липницький ЗЗСО І–ІІ ступенів</i>`;
+
+  try {
+    let targetChatIds = window.TELEGRAM_ADMIN_CHAT_ID ? [window.TELEGRAM_ADMIN_CHAT_ID] : [];
+
+    // Query getUpdates to find any active chat that initiated conversation with the bot
+    const res = await fetch(`https://api.telegram.org/bot${botToken}/getUpdates`);
+    const data = await res.json();
+    if (data.ok && data.result && data.result.length > 0) {
+      data.result.forEach(u => {
+        const cId = u.message ? u.message.chat.id : (u.channel_post ? u.channel_post.chat.id : null);
+        if (cId && !targetChatIds.includes(cId)) {
+          targetChatIds.push(cId);
+        }
+      });
+    }
+
+    if (targetChatIds.length === 0) {
+      throw new Error('NO_CHAT_ID');
+    }
+
+    const sendRequests = targetChatIds.map(chatId => 
+      fetch(`https://api.telegram.org/bot${botToken}/sendMessage`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          chat_id: chatId,
+          text: text,
+          parse_mode: 'HTML'
+        })
+      })
+    );
+
+    const responses = await Promise.all(sendRequests);
+    const results = await Promise.all(responses.map(r => r.json()));
+    const allSuccess = results.some(r => r.ok);
+
+    if (!allSuccess) {
+      throw new Error('SEND_FAILED');
+    }
+
+    form.reset();
+    if (statusEl) {
+      statusEl.style.display = 'block';
+      statusEl.style.background = '#ecfdf5';
+      statusEl.style.color = '#065f46';
+      statusEl.style.border = '1px solid #a7f3d0';
+      statusEl.style.padding = '1rem';
+      statusEl.style.borderRadius = '12px';
+      statusEl.style.marginTop = '1.25rem';
+      statusEl.innerHTML = '<i class="fas fa-check-circle" style="color: #10b981; font-size: 1.1rem;"></i> <strong>Звернення успішно відправлено!</strong> Повідомлення надійшло в Telegram адміністрації школи.';
+    }
+  } catch (err) {
+    console.warn('Telegram send notice:', err);
+    if (statusEl) {
+      statusEl.style.display = 'block';
+      if (err.message === 'NO_CHAT_ID') {
+        statusEl.style.background = '#eff6ff';
+        statusEl.style.color = '#1e3a8a';
+        statusEl.style.border = '1px solid #bfdbfe';
+        statusEl.style.padding = '1rem';
+        statusEl.style.borderRadius = '12px';
+        statusEl.style.marginTop = '1.25rem';
+        statusEl.innerHTML = '<i class="fas fa-info-circle" style="color: #3b82f6;"></i> <strong>Звернення зареєстровано!</strong> Щоб бот міг надсилати сповіщення у ваш Telegram, запустіть бота: <a href="https://t.me/LypnykSchoolBot" target="_blank" rel="noopener" style="color: #1e40af; font-weight: 700; text-decoration: underline;">@LypnykSchoolBot</a> (натисніть <b>Розпочати / Start</b>).';
+      } else {
+        statusEl.style.background = '#fef2f2';
+        statusEl.style.color = '#991b1b';
+        statusEl.style.border = '1px solid #fecaca';
+        statusEl.style.padding = '1rem';
+        statusEl.style.borderRadius = '12px';
+        statusEl.style.marginTop = '1.25rem';
+        statusEl.innerHTML = '<i class="fas fa-exclamation-circle" style="color: #ef4444;"></i> Не вдалося доставити через бота. Будь ласка, напишіть на електронну пошту <a href="mailto:lypnykzosh@ukr.net" style="font-weight: 700;">lypnykzosh@ukr.net</a>.';
+      }
+    }
+  } finally {
+    btn.disabled = false;
+    btn.innerHTML = originalBtnContent;
+  }
+}
