@@ -227,6 +227,12 @@
               <input type="text" id="feedbackContact" required placeholder="example@email.com / +380..." style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--border-color); border-radius: var(--radius-md); background: var(--bg-surface);">
             </div>
 
+            <!-- Anti-Spam Security Honeypot (hidden from real users) -->
+            <div style="display: none !important; visibility: hidden; opacity: 0; position: absolute; left: -9999px;">
+              <label for="feedbackHoneypot">Не заповнюйте це поле:</label>
+              <input type="text" id="feedbackHoneypot" name="feedback_security_check" tabindex="-1" autocomplete="off">
+            </div>
+
             <div style="margin-bottom: 1.5rem;">
               <label style="display: block; font-weight: 600; font-size: 0.9rem; margin-bottom: 0.4rem;">Тема та текст звернення:</label>
               <textarea id="feedbackMessage" rows="4" required placeholder="Вкажіть суть вашого запитання чи пропозиції..." style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--border-color); border-radius: var(--radius-md); background: var(--bg-surface); resize: vertical;"></textarea>

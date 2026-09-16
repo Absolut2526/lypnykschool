@@ -602,7 +602,68 @@ async function sendTelegramFeedback(e) {
   const contact = contactInput ? contactInput.value.trim() : '';
   const message = messageInput ? messageInput.value.trim() : '';
 
-  if (!name || !contact || !message) return;
+  // Security Sanitizer: SQL Injection, XSS & Command Injection Defense
+  const sanitizeSecurityInput = (str) => {
+    if (!str || typeof str !== 'string') return '';
+    let clean = str;
+    // Strip classic SQL injection signatures
+    clean = clean.replace(/(\b(UNION(\s+ALL)?|SELECT|INSERT|UPDATE|DELETE|DROP|ALTER|CREATE|TRUNCATE|EXEC(UTE)?|XP_CMDSHELL)\b)/gi, '[blocked_keyword]');
+    clean = clean.replace(/(--|\bOR\b\s+['"\d\w]+=['"\d\w]+|\bAND\b\s+['"\d\w]+=['"\d\w]+|;|\/\*|\*\/)/gi, ' ');
+    // Strip malicious XSS & Javascript protocols
+    clean = clean.replace(/<[^>]*>?/gm, ''); // Strip HTML tags
+    clean = clean.replace(/javascript:/gi, '');
+    clean = clean.replace(/data:/gi, '');
+    clean = clean.replace(/vbscript:/gi, '');
+    clean = clean.replace(/on\w+\s*=/gi, '');
+    return clean.trim();
+  };
+
+  // Anti-Spam Honeypot check
+  const honeypot = document.getElementById('feedbackHoneypot');
+  if (honeypot && honeypot.value.trim() !== '') {
+    console.warn('Bot submission blocked via Honeypot.');
+    if (statusEl) {
+      statusEl.style.display = 'block';
+      statusEl.className = 'status-box';
+      statusEl.innerHTML = 'Запит відхилено системою безпеки.';
+    }
+    return;
+  }
+
+  // Rate Limiting Protection (anti-flood: max 1 request every 15s)
+  const lastSend = localStorage.getItem('lastFeedbackSendTime');
+  const now = Date.now();
+  if (lastSend && now - parseInt(lastSend, 10) < 15000) {
+    if (statusEl) {
+      statusEl.style.display = 'block';
+      statusEl.style.background = '#fef3c7';
+      statusEl.style.color = '#92400e';
+      statusEl.style.border = '1px solid #fde68a';
+      statusEl.style.padding = '1rem';
+      statusEl.style.borderRadius = '12px';
+      statusEl.style.marginTop = '1.25rem';
+      statusEl.innerHTML = '<i class="fas fa-shield-alt" style="color: #f59e0b;"></i> <strong>Захист від спаму:</strong> Зачекайте 15 секунд перед відправленням наступного звернення.';
+    }
+    return;
+  }
+
+  const cleanName = sanitizeSecurityInput(name);
+  const cleanContact = sanitizeSecurityInput(contact);
+  const cleanMessage = sanitizeSecurityInput(message);
+
+  if (!cleanName || !cleanContact || !cleanMessage) {
+    if (statusEl) {
+      statusEl.style.display = 'block';
+      statusEl.style.background = '#fee2e2';
+      statusEl.style.color = '#991b1b';
+      statusEl.style.border = '1px solid #fecaca';
+      statusEl.style.padding = '1rem';
+      statusEl.style.borderRadius = '12px';
+      statusEl.style.marginTop = '1.25rem';
+      statusEl.innerHTML = 'Повідомлення містить неприпустимі символи або команди.';
+    }
+    return;
+  }
 
   const originalBtnContent = btn.innerHTML;
   btn.disabled = true;
@@ -618,9 +679,9 @@ async function sendTelegramFeedback(e) {
   };
 
   const text = `📬 <b>Нове електронне звернення з сайту школи</b>\n\n` +
-               `👤 <b>ПІБ відправника:</b> ${escapeHtml(name)}\n` +
-               `📞 <b>Контакт:</b> ${escapeHtml(contact)}\n` +
-               `📝 <b>Текст звернення:</b>\n${escapeHtml(message)}\n\n` +
+               `👤 <b>ПІБ відправника:</b> ${escapeHtml(cleanName)}\n` +
+               `📞 <b>Контакт:</b> ${escapeHtml(cleanContact)}\n` +
+               `📝 <b>Текст звернення:</b>\n${escapeHtml(cleanMessage)}\n\n` +
                `⏰ <i>${new Date().toLocaleString('uk-UA')}</i>\n` +
                `🏫 <i>Липницький ЗЗСО І–ІІ ступенів</i>`;
 
@@ -669,6 +730,7 @@ async function sendTelegramFeedback(e) {
     }
 
     form.reset();
+    localStorage.setItem('lastFeedbackSendTime', Date.now().toString());
     if (statusEl) {
       statusEl.style.display = 'block';
       statusEl.style.background = '#ecfdf5';
