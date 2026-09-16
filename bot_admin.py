@@ -19,10 +19,27 @@ import subprocess
 import requests
 from datetime import datetime
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Load .env file if present
+def load_dotenv():
+    env_path = os.path.join(BASE_DIR, ".env")
+    if os.path.exists(env_path):
+        try:
+            with open(env_path, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if line and not line.startswith("#") and "=" in line:
+                        k, v = line.split("=", 1)
+                        os.environ.setdefault(k.strip(), v.strip().strip("\"'"))
+        except Exception:
+            pass
+
+load_dotenv()
+
 # Configuration
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8830753806:AAHdpipDs8KoVCCBeoJba4FakrJqabb46MQ")
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 IMAGES_DIR = os.path.join(BASE_DIR, "assets", "images")
 DOCS_DIR = os.path.join(BASE_DIR, "assets", "docs")

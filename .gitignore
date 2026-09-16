@@ -1,7 +1,25 @@
+# OS and Editor files
 .DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python cache & virtualenv
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.vscode/
-.idea/
+venv/
+env/
+.env
+
+# Private Bot & Admin Configuration (Do not leak IDs or Tokens)
+data/admin_config.json
+data/feedback_list.json
+bot.log
+*.log
+
+# Temp files
+tmp/
+temp/
