@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Про школу | Липницький ЗЗСО І-ІІІ ступенів</title>
+  <meta name="description" content="Інформація про Липницький заклад загальної середньої освіти І-ІІІ ступенів: історія, керівництво, педагогічний колектив, місія та цінності.">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <!-- Top Bar -->
+  <div class="top-bar">
+    <div class="container top-bar-inner">
+      <div class="top-bar-left">
+        <div class="top-bar-item"><i class="fas fa-map-marker-alt"></i> <span>с. Липник, Львівський р-н</span></div>
+        
+      </div>
+      <div class="top-bar-right">
+        <span class="flag-badge"><span class="flag-colors"></span> <span>Слава Україні! 🇺🇦</span></span>
+      </div>
+    </div>
+  </div>
+
+    <!-- Header -->
+  <header class="main-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo-wrap">
+        <div class="school-emblem">
+          <i class="fas fa-graduation-cap"></i>
+        </div>
+        <div class="logo-text">
+          <div class="logo-title-row">
+            <h1>Липницький ЗЗСО</h1>
+            <span class="school-grade-badge">І–ІІІ ступенів</span>
+          </div>
+          <p>Рава-Руська міська рада • Львівський р-н</p>
+        </div>
+      </a>
+
+      <!-- Desktop Navigation Capsule -->
+      <div class="nav-desktop-wrap">
+        <nav class="nav-desktop">
+          <a href="index.html" class="nav-link "><i class="fas fa-home"></i> Головна</a>
+          <a href="news.html" class="nav-link "><i class="fas fa-newspaper"></i> Новини</a>
+          <a href="about.html" class="nav-link active"><i class="fas fa-school"></i> Про школу</a>
+          
+          <div class="nav-dropdown">
+            <a href="transparency.html" class="nav-link ">
+              <i class="fas fa-file-contract"></i> Прозорість <i class="fas fa-chevron-down" style="font-size: 0.65rem; opacity: 0.6;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="transparency.html#statute" class="dropdown-item"><i class="fas fa-balance-scale"></i> Статут та Ліцензія</a>
+              <a href="transparency.html#structure" class="dropdown-item"><i class="fas fa-sitemap"></i> Структура та управління</a>
+              <a href="transparency.html#reports" class="dropdown-item"><i class="fas fa-chart-line"></i> Звіти директора</a>
+              <a href="transparency.html#finance" class="dropdown-item"><i class="fas fa-coins"></i> Фінансова звітність</a>
+              <a href="transparency.html#vszyao" class="dropdown-item"><i class="fas fa-certificate"></i> Положення про ВСЗЯО</a>
+            </div>
+          </div>
+
+          <div class="nav-dropdown">
+            <a href="parents.html" class="nav-link ">
+              <i class="fas fa-user-friends"></i> Батькам <i class="fas fa-chevron-down" style="font-size: 0.65rem; opacity: 0.6;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="parents.html#enrollment" class="dropdown-item"><i class="fas fa-child"></i> Зарахування до 1 класу</a>
+              <a href="parents.html#schedule" class="dropdown-item"><i class="fas fa-clock"></i> Розклад та режим</a>
+              <a href="parents.html#rules" class="dropdown-item"><i class="fas fa-clipboard-check"></i> Правила поведінки</a>
+              <a href="parents.html#individual" class="dropdown-item"><i class="fas fa-user-graduate"></i> Індивідуальне навчання</a>
+            </div>
+          </div>
+
+          <div class="nav-dropdown">
+            <a href="education.html" class="nav-link ">
+              <i class="fas fa-book-open"></i> Навчання <i class="fas fa-chevron-down" style="font-size: 0.65rem; opacity: 0.6;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="education.html" class="dropdown-item"><i class="fas fa-laptop-code"></i> Освітні стандарти НУШ</a>
+              <a href="attestation.html" class="dropdown-item"><i class="fas fa-award"></i> Атестація педагогів</a>
+            </div>
+          </div>
+
+          <a href="psychologist.html" class="nav-link "><i class="fas fa-heart"></i> Психолог</a>
+          <a href="gallery.html" class="nav-link "><i class="fas fa-images"></i> Галерея</a>
+        </nav>
+
+        <a href="contacts.html" class="btn-header-contact ">
+          <i class="fas fa-envelope"></i> Контакти
+        </a>
+      </div>
+
+      <button class="mobile-toggle" id="mobileToggle" aria-label="Відкрити меню">
+        <i class="fas fa-bars"></i>
+      </button>
+    </div>
+  </header>
+
+  <!-- Mobile Drawer -->
+  <div class="mobile-nav" id="mobileNav">
+    <div class="mobile-nav-panel">
+      <div class="mobile-nav-header">
+        <div class="logo-wrap">
+          <div class="school-emblem" style="width: 40px; height: 40px; font-size: 1.2rem;"><i class="fas fa-graduation-cap"></i></div>
+          <div class="logo-text"><h2 style="font-size: 1rem; color: var(--primary);">Липницький ЗЗСО</h2></div>
+        </div>
+        <button id="closeMobileNav"><i class="fas fa-times"></i></button>
+      </div>
+      <div class="mobile-nav-links">
+        <a href="index.html" class="mobile-nav-link"><i class="fas fa-home"></i> Головна</a>
+        <a href="news.html" class="mobile-nav-link"><i class="fas fa-newspaper"></i> Новини</a>
+        <a href="about.html" class="mobile-nav-link active"><i class="fas fa-school"></i> Про школу</a>
+        <a href="transparency.html" class="mobile-nav-link"><i class="fas fa-file-alt"></i> Прозорість</a>
+        <a href="parents.html" class="mobile-nav-link"><i class="fas fa-user-friends"></i> Батькам</a>
+        <a href="education.html" class="mobile-nav-link"><i class="fas fa-book-open"></i> Навчальний процес</a>
+        <a href="attestation.html" class="mobile-nav-link"><i class="fas fa-award"></i> Атестація</a>
+        <a href="psychologist.html" class="mobile-nav-link"><i class="fas fa-heart"></i> Психолог</a>
+        <a href="gallery.html" class="mobile-nav-link"><i class="fas fa-images"></i> Галерея</a>
+        <a href="contacts.html" class="mobile-nav-link"><i class="fas fa-envelope"></i> Контакти</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Page Banner -->
+  <div style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: white; padding: 3.5rem 0;">
+    <div class="container">
+      <div class="section-tag" style="color: #fbbf24;">Візитівка закладу</div>
+      <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 0.5rem;">Про Липницький ЗЗСО І-ІІІ ступенів</h1>
+      <p style="color: #cbd5e1; max-width: 600px;">
+        Осередок знань, патріотизму та всебічного гармонійного розвитку учнівської молоді.
+      </p>
+    </div>
+  </div>
+
+  <!-- About Content -->
+  <section class="section">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 3rem; align-items: center; margin-bottom: 4rem;">
+        <div>
+          <div class="section-tag">Наша історія та сьогодення</div>
+          <h2 class="section-title" style="margin-bottom: 1.25rem;">Школа з глибокими традиціями та сучасним баченням</h2>
+          <p style="font-size: 1.05rem; color: var(--text-main); margin-bottom: 1rem; line-height: 1.7;">
+            Липницький заклад загальної середньої освіти І-ІІІ ступенів є важливою освітньою і культурною перлиною Рава-Руської територіальної громади Львівського району.
+          </p>
+          <p style="font-size: 1.05rem; color: var(--text-muted); margin-bottom: 1.5rem; line-height: 1.7;">
+            У закладі функціонують початкова школа, гімназія та старша профільна школа. Ми забезпечуємо впровадження Державного стандарту початкової та базової середньої освіти Нової української школи (НУШ), поглиблене вивчення предметів, цифровізацію та національно-патріотичне виховання.
+          </p>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+            <div style="background: var(--bg-surface); padding: 1rem; border-radius: var(--radius-md); border-left: 4px solid var(--primary);">
+              <strong style="color: var(--primary); display: block; font-size: 1.1rem; margin-bottom: 0.25rem;">Мова навчання</strong>
+              <span style="font-size: 0.9rem; color: var(--text-muted);">Українська (100%)</span>
+            </div>
+            <div style="background: var(--bg-surface); padding: 1rem; border-radius: var(--radius-md); border-left: 4px solid var(--accent);">
+              <strong style="color: var(--accent-dark); display: block; font-size: 1.1rem; margin-bottom: 0.25rem;">Форма навчання</strong>
+              <span style="font-size: 0.9rem; color: var(--text-muted);">Очна, дистанційна, сімейна, екстернат</span>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <img src="assets/images/news_5_1.jpg" alt="Школа Липник" style="border-radius: var(--radius-xl); box-shadow: var(--shadow-xl); width: 100%; object-fit: cover; max-height: 400px;" onerror="this.src='assets/images/news_1_1.jpg'">
+        </div>
+      </div>
+
+      <!-- Leadership Section -->
+      <div class="section-header" style="margin-top: 3rem;">
+        <div>
+          <div class="section-tag">Команда</div>
+          <h2 class="section-title">Керівництво та адміністрація</h2>
+          <p class="section-subtitle">Досвідчені фахівці, які скеровують освітній процес та створюють безпеку для учнів.</p>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; margin-bottom: 4rem;">
+        <div style="background: white; border-radius: var(--radius-xl); padding: 2rem; border: 1px solid var(--border-color); box-shadow: var(--shadow-md); display: flex; gap: 1.5rem; align-items: center;">
+          <div style="width: 80px; height: 80px; border-radius: 50%; background: var(--primary-subtle); color: var(--primary); display: flex; align-items: center; justify-content: center; font-size: 2rem; flex-shrink: 0;">
+            <i class="fas fa-user-tie"></i>
+          </div>
+          <div>
+            <span class="badge badge-primary" style="margin-bottom: 0.4rem;">Директор школи</span>
+            <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--text-main);">Гоцій Олександра Іванівна</h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); margin-top: 0.4rem;">
+              Очолює Липницький ЗЗСО І-ІІІ ступенів, координує стратегічний розвиток, якість освіти та співпрацю з громадою.
+            </p>
+          </div>
+        </div>
+
+        <div style="background: white; border-radius: var(--radius-xl); padding: 2rem; border: 1px solid var(--border-color); box-shadow: var(--shadow-md); display: flex; gap: 1.5rem; align-items: center;">
+          <div style="width: 80px; height: 80px; border-radius: 50%; background: var(--accent-light); color: var(--accent-dark); display: flex; align-items: center; justify-content: center; font-size: 2rem; flex-shrink: 0;">
+            <i class="fas fa-medal"></i>
+          </div>
+          <div>
+            <span class="badge badge-accent" style="margin-bottom: 0.4rem;">Почесний керівник</span>
+            <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--text-main);">Сухович Ярослав Романович</h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); margin-top: 0.4rem;">
+              Багаторічний директор школи, який зробив вагомий внесок у розбудову закладу, формування педагогічних традицій та авторитету школи.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Core Values -->
+      <div class="section-header">
+        <div>
+          <div class="section-tag">Наші пріоритети</div>
+          <h2 class="section-title">Цінності та місія нашого закладу</h2>
+        </div>
+      </div>
+
+      <div class="quick-hub-grid">
+        <div class="hub-card">
+          <div class="hub-icon"><i class="fas fa-brain"></i></div>
+          <h3 class="hub-title">Якісні академічні знання</h3>
+          <p class="hub-desc">Глибоке опанування навчальних дисциплін, розвиток критичного мислення, підготовка до НМТ та майбутньої професії.</p>
+        </div>
+
+        <div class="hub-card">
+          <div class="hub-icon"><i class="fas fa-flag"></i></div>
+          <h3 class="hub-title">Патріотичне виховання</h3>
+          <p class="hub-desc">Повага до державних символів України, шанування Героїв та Захисників, вивчення рідного краю та культури.</p>
+        </div>
+
+        <div class="hub-card">
+          <div class="hub-icon"><i class="fas fa-wheelchair"></i></div>
+          <h3 class="hub-title">Безбар'єрність та інклюзія</h3>
+          <p class="hub-desc">Рівні можливості для кожного здобувача освіти, підтримка дітей з особливими освітніми потребами, толерантність.</p>
+        </div>
+
+        <div class="hub-card">
+          <div class="hub-icon"><i class="fas fa-shield-virus"></i></div>
+          <h3 class="hub-title">Безпечний простір</h3>
+          <p class="hub-desc">Психологічний захист, нульова толерантність до булінгу, навчання пожежній та мінній безпеці.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="main-footer">
+    <div class="container">
+      <div class="footer-bottom" style="border: none; padding-top: 0;">
+        <div>&copy; 2026 Липницький ЗЗСО І-ІІІ ступенів.</div>
+        <div>Офіційний сайт закладу загальної середньої освіти 🇺🇦</div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/js/documents-data.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

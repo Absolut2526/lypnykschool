@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Новини та події | Липницький ЗЗСО І-ІІІ ступенів</title>
+  <meta name="description" content="Архів новин, свят, патріотичних заходів, екскурсій та спортивних досягнень Липницького ЗЗСО І-ІІІ ступенів.">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <!-- Top Info Bar -->
+  <div class="top-bar">
+    <div class="container top-bar-inner">
+      <div class="top-bar-left">
+        <div class="top-bar-item"><i class="fas fa-map-marker-alt"></i> <span>с. Липник, Львівський р-н</span></div>
+        
+      </div>
+      <div class="top-bar-right">
+        <span class="flag-badge"><span class="flag-colors"></span> <span>Слава Україні! 🇺🇦</span></span>
+      </div>
+    </div>
+  </div>
+
+    <!-- Header -->
+  <header class="main-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo-wrap">
+        <div class="school-emblem">
+          <i class="fas fa-graduation-cap"></i>
+        </div>
+        <div class="logo-text">
+          <div class="logo-title-row">
+            <h1>Липницький ЗЗСО</h1>
+            <span class="school-grade-badge">І–ІІІ ступенів</span>
+          </div>
+          <p>Рава-Руська міська рада • Львівський р-н</p>
+        </div>
+      </a>
+
+      <!-- Desktop Navigation Capsule -->
+      <div class="nav-desktop-wrap">
+        <nav class="nav-desktop">
+          <a href="index.html" class="nav-link "><i class="fas fa-home"></i> Головна</a>
+          <a href="news.html" class="nav-link active"><i class="fas fa-newspaper"></i> Новини</a>
+          <a href="about.html" class="nav-link "><i class="fas fa-school"></i> Про школу</a>
+          
+          <div class="nav-dropdown">
+            <a href="transparency.html" class="nav-link ">
+              <i class="fas fa-file-contract"></i> Прозорість <i class="fas fa-chevron-down" style="font-size: 0.65rem; opacity: 0.6;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="transparency.html#statute" class="dropdown-item"><i class="fas fa-balance-scale"></i> Статут та Ліцензія</a>
+              <a href="transparency.html#structure" class="dropdown-item"><i class="fas fa-sitemap"></i> Структура та управління</a>
+              <a href="transparency.html#reports" class="dropdown-item"><i class="fas fa-chart-line"></i> Звіти директора</a>
+              <a href="transparency.html#finance" class="dropdown-item"><i class="fas fa-coins"></i> Фінансова звітність</a>
+              <a href="transparency.html#vszyao" class="dropdown-item"><i class="fas fa-certificate"></i> Положення про ВСЗЯО</a>
+            </div>
+          </div>
+
+          <div class="nav-dropdown">
+            <a href="parents.html" class="nav-link ">
+              <i class="fas fa-user-friends"></i> Батькам <i class="fas fa-chevron-down" style="font-size: 0.65rem; opacity: 0.6;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="parents.html#enrollment" class="dropdown-item"><i class="fas fa-child"></i> Зарахування до 1 класу</a>
+              <a href="parents.html#schedule" class="dropdown-item"><i class="fas fa-clock"></i> Розклад та режим</a>
+              <a href="parents.html#rules" class="dropdown-item"><i class="fas fa-clipboard-check"></i> Правила поведінки</a>
+              <a href="parents.html#individual" class="dropdown-item"><i class="fas fa-user-graduate"></i> Індивідуальне навчання</a>
+            </div>
+          </div>
+
+          <div class="nav-dropdown">
+            <a href="education.html" class="nav-link ">
+              <i class="fas fa-book-open"></i> Навчання <i class="fas fa-chevron-down" style="font-size: 0.65rem; opacity: 0.6;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="education.html" class="dropdown-item"><i class="fas fa-laptop-code"></i> Освітні стандарти НУШ</a>
+              <a href="attestation.html" class="dropdown-item"><i class="fas fa-award"></i> Атестація педагогів</a>
+            </div>
+          </div>
+
+          <a href="psychologist.html" class="nav-link "><i class="fas fa-heart"></i> Психолог</a>
+          <a href="gallery.html" class="nav-link "><i class="fas fa-images"></i> Галерея</a>
+        </nav>
+
+        <a href="contacts.html" class="btn-header-contact ">
+          <i class="fas fa-envelope"></i> Контакти
+        </a>
+      </div>
+
+      <button class="mobile-toggle" id="mobileToggle" aria-label="Відкрити меню">
+        <i class="fas fa-bars"></i>
+      </button>
+    </div>
+  </header>
+
+  <!-- Mobile Drawer -->
+  <div class="mobile-nav" id="mobileNav">
+    <div class="mobile-nav-panel">
+      <div class="mobile-nav-header">
+        <div class="logo-wrap">
+          <div class="school-emblem" style="width: 40px; height: 40px; font-size: 1.2rem;"><i class="fas fa-graduation-cap"></i></div>
+          <div class="logo-text"><h2 style="font-size: 1rem; color: var(--primary);">Липницький ЗЗСО</h2></div>
+        </div>
+        <button id="closeMobileNav"><i class="fas fa-times"></i></button>
+      </div>
+      <div class="mobile-nav-links">
+        <a href="index.html" class="mobile-nav-link"><i class="fas fa-home"></i> Головна</a>
+        <a href="news.html" class="mobile-nav-link active"><i class="fas fa-newspaper"></i> Новини</a>
+        <a href="about.html" class="mobile-nav-link"><i class="fas fa-school"></i> Про школу</a>
+        <a href="transparency.html" class="mobile-nav-link"><i class="fas fa-file-alt"></i> Прозорість</a>
+        <a href="parents.html" class="mobile-nav-link"><i class="fas fa-user-friends"></i> Батькам</a>
+        <a href="education.html" class="mobile-nav-link"><i class="fas fa-book-open"></i> Навчальний процес</a>
+        <a href="attestation.html" class="mobile-nav-link"><i class="fas fa-award"></i> Атестація</a>
+        <a href="psychologist.html" class="mobile-nav-link"><i class="fas fa-heart"></i> Психолог</a>
+        <a href="gallery.html" class="mobile-nav-link"><i class="fas fa-images"></i> Галерея</a>
+        <a href="contacts.html" class="mobile-nav-link"><i class="fas fa-envelope"></i> Контакти</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Page Banner -->
+  <div style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: white; padding: 3.5rem 0;">
+    <div class="container">
+      <div class="section-tag" style="color: #fbbf24;">Шкільний літопис</div>
+      <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 0.5rem;">Архів новин та шкільних подій</h1>
+      <p style="color: #cbd5e1; max-width: 600px;">
+        Повна історія життя Липницького ЗЗСО: урочисті свята, патріотичні ініціативи, екскурсії, навчальні досягнення та фотохроніка.
+      </p>
+    </div>
+  </div>
+
+  <!-- News Content Section -->
+  <section class="section">
+    <div class="container">
+      <!-- Search and Filter Bar -->
+      <div class="filters-bar">
+        <div class="search-box">
+          <i class="fas fa-search search-icon"></i>
+          <input type="text" id="newsSearch" placeholder="Шукати за ключовими словами (наприклад: Букварик, Закарпаття, Прапор Надії)...">
+        </div>
+
+        <div style="display: flex; gap: 0.75rem; align-items: center; flex-wrap: wrap;">
+          <select id="yearFilter" style="padding: 0.55rem 1rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); background: white; font-weight: 600; color: var(--text-main);">
+            <option value="all">Всі роки</option>
+            <option value="2026">2026 рік</option>
+            <option value="2025">2025 рік</option>
+            <option value="2024">2024 рік</option>
+            <option value="2023">2023 рік</option>
+            <option value="2022">2022 рік</option>
+            <option value="2021">2021 рік</option>
+            <option value="2020">2020 рік</option>
+            <option value="2019">2019 рік</option>
+          </select>
+          <span id="newsCount" style="font-size: 0.88rem; font-weight: 600; color: var(--text-muted);"></span>
+        </div>
+
+        <div class="filter-pills" style="width: 100%; margin-top: 0.5rem;">
+          <button class="filter-pill cat-pill active" data-category="all">Всі категорії</button>
+          <button class="filter-pill cat-pill" data-category="Патріотичне виховання">Патріотичне виховання</button>
+          <button class="filter-pill cat-pill" data-category="Шкільні свята">Шкільні свята</button>
+          <button class="filter-pill cat-pill" data-category="Подорожі та екскурсії">Подорожі та екскурсії</button>
+          <button class="filter-pill cat-pill" data-category="Офіційні новини">Офіційні новини</button>
+          <button class="filter-pill cat-pill" data-category="Безпека та розвиток">Безпека та розвиток</button>
+          <button class="filter-pill cat-pill" data-category="Досягнення та спорт">Спорт та досягнення</button>
+        </div>
+      </div>
+
+      <!-- News Grid -->
+      <div class="news-grid" id="newsGrid"></div>
+
+      <!-- Load More Button -->
+      <div style="text-align: center; margin-top: 3rem;">
+        <button id="loadMoreNews" class="btn btn-primary" style="display: none; padding: 0.85rem 2rem; font-size: 1rem;">
+          <i class="fas fa-plus-circle"></i> Показати більше новин
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- News Modal Reader -->
+  <div class="modal-overlay" id="newsModal">
+    <div class="modal-box">
+      <div class="modal-header">
+        <div>
+          <span class="badge badge-primary" id="modalNewsCategory">Категорія</span>
+          <span class="badge" style="background: var(--bg-surface); color: var(--text-muted);" id="modalNewsYear">2026</span>
+        </div>
+        <button class="modal-close" aria-label="Закрити"><i class="fas fa-times"></i></button>
+      </div>
+      <div class="modal-body">
+        <h2 id="modalNewsTitle" style="font-size: 1.4rem; font-weight: 800; color: var(--primary); margin-bottom: 1.25rem;">Заголовок події</h2>
+        <div class="modal-carousel" id="modalNewsCarousel"></div>
+        <div id="modalNewsBody" style="color: var(--text-main);"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="main-footer">
+    <div class="container">
+      <div class="footer-bottom" style="border: none; padding-top: 0;">
+        <div>&copy; 2026 Липницький ЗЗСО І-ІІІ ступенів.</div>
+        <div>Офіційний сайт закладу загальної середньої освіти 🇺🇦</div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/js/news-data.js"></script>
+  <script src="assets/js/catalog-data.js"></script>
+  <script src="assets/js/documents-data.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

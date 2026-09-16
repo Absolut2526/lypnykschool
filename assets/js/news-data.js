@@ -1,0 +1,5532 @@
+window.SCHOOL_NEWS = [
+  {
+    "id": 1,
+    "title": "З нагоди Дня памʼяті Захисників України учні нашого закладу відвідали могилу воїна Романуса Петра та віддали шану Герою!",
+    "content": [
+      "З нагоди Дня памʼяті Захисників України учні нашого закладу відвідали могилу воїна Романуса Петра та віддали шану Герою!"
+    ],
+    "full_text": "З нагоди Дня памʼяті Захисників України учні нашого закладу відвідали могилу воїна Романуса Петра та віддали шану Герою!",
+    "category": "Патріотичне виховання",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sqcIeQpZTofKKlC-cihXKD4AuUtRPQ8WP9s6DqQQvELl7YxA2NO1CRvktV_nBT85Gyyct6D70FtzoakBvNy28BrkBXefDQPFBkIhbHuTLazBxtTSz8wzPMWtkqf_kxOty3KSOUN649pVb6KnvzuCglbjpsMXaaCsHn4q1jyT8J2F7xwxO1y1oCJKqjL9Y=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uNpB8FRQKYCGnd8Bv0G4Mg3yhP1pzVJuUoiD4DZTPhGllrhGC35a_nQ281Im6dGn5fq1bdGFx-Ux8i_6KQawC952ctV8JQnqJa7W6RynKf_NlfLV9ysEB1FxAcnK5rgwfSdpWQOoxiO3RXg-alz1Inrdh0nW_1IE80XWGrZCZl4LgICampu5Juqw8u=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tQ1SY0fx1u-w6XYkdGx9paihBBZ3o-ottKooKODRCeMIXamKrAo7_NY7R5AmtRSVfFnVqprp8NV7E2uJx1DzDNg0H3zhluRzgRZP42UTmANeTvSh8Bj0rAvszGy8phpjuF5txJOeEyd8fhmwritrJKiY8hDjehONLT7D3xGIW5BiS6Q_qubsUXZqj58EbMEV4gvnWGAV-wvDdEAhU834UM-lPKjksWztnQZnTb=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v_deijrp25AQ5TycTz3Y1pCioXv7C-WkUFIyTsqXTUA_u2Yus9VDZ64Lau1pe6g6W4SR72ApgzLstDB20IKgKKDv5hd2wg4Lw17UY54-3OQDFnnRXAYZzSHSU_W2BBWK1ZyRI3fejlN8l06EaV2E4pT9E-VgHBwL3mJCXUCYJX1L56YYDuTSgRBJogNlncMQXTARGsaKQLEAClQlGNt063x7GY3AKZoX3iDl1kZtQ=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_1_1.jpg",
+      "assets/images/ev_1_2.jpg",
+      "assets/images/ev_1_3.jpg",
+      "assets/images/ev_1_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 2,
+    "title": "У Липницькому ЗЗСО I- III ст. проведено загальнонаціональний урок, присвячений вшануванню мужності, незламності та героїзму Захисників і Захисниць України.",
+    "content": [
+      "Дякуємо нашим Захисникам і Захисницям за можливість жити, навчатися і мріяти."
+    ],
+    "full_text": "Дякуємо нашим Захисникам і Захисницям за можливість жити, навчатися і мріяти.",
+    "category": "Патріотичне виховання",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sKvkWIaM2D_O_g-q1OuiZuwWEaCHFoZRudv0zP243fo1Inobk9Tgj2Us61oE6GXC7pH31fbWpAEn7UpcYIJAn9Vq7HW7Qv4AUuTT2kT11nlpmh0hQeU5N-iMW-8CMfeVSuQgUjGJpnkRxEOQ-SHS3TJvevWucsV58L-c3ptmQQ4vxMolFVls-1iatHWwjeQDuU7_RroqyxzWaaab2CE15fumkXNbZ2-A3uYoYo=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72scme8_HjPfdnrK2uk9PQy92gFU3piXEtyEoqZ9RTwqATcC1zjrUp_fzjT4Hz-JqpQGjIPMmi8ROmDy1db-6ziVvaL3AaTwFlHeEpcstJAxR8uMTh24rTnQIZtSeIPR4u0FueCX2QRqse_EZ45E262Gyz-P_ca-aB8kwwO9QIXFk9_3iCcFv2OVaqAoA07981i5_OwgWLkUeg1FgIyJ9StKYpVmUq0u2k8AJspt=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uRMnjzzPSKGfSQuYrQVvAeXdw-j7SZXJp2X1x90ftCVT28FbC13Dr3JNTNIQ-MVZIgEx62mfVcSRgmd4a2fp6wMJM0OoAr6MC2MyWgsb5K3xE-dyjX5QNIbskAzmToeijGfriwHQEY97JbmVtCSkKA1GHS9sTJcAWO3J1ItTFIcla2KzVdmXGfwUxogMEW7Eb4KMXx8dpE7ttNHGM5HDhRiP-aWYB_bTU8BQ1hVn8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t2pHND6Gna87Evf3c5J0vJJYXPJ-b0VUYYlxMQuZmLbiQVPGY6Xi6SiOwgJTm8rXt8Z9ct3B3mVWaKwFfoVmsIGPyO4yG0iEckbvzfPXFJ7yS-lk-wo-4rjK2ucr4QxnvrqWk_eGvDYazsZSm41327IDZyAgMSKbIMmYXecmaZ-60VQBC8yz3sSY8u7rcC9Ky4mhuS3MnFRLl33CKylcryz6pIV6CsSwFDIhZJ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tOmsQpK324kJOvB26USNbcSdB91-27h0H5lcvvnqjfILM-v76iE4O1xLznVGVLs2g4Lshda-Y3gkNdkMMsReYQvcLHgjsboeiSXkg7N2wSiF5UwhFvjy10z8u3nM6qO-WyonjBQ-r2ScnxJL1oy4WfzSGb1pRaEtQLt5971Hhzi-_6PzyUH7cE-6PNOdI8IWHcil6d5Kd7_UQWICtcnX0_AoQyzFIPDIQDxWPO5sU=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vq7y6YGRuSrKh0WoDZcRtyQo8IoRdnzfZozxxjFzXwQOFaQzx33DeKKIbzEd54hlxlbZga3y_-dLPM8-Ky3oQGqLeluqnKnCizlcN6EAt-32NgnjG9vl-lLagJXCRMyztxueAMcZbR4znkRpQHw2IZQTpuD0iqcs_U5_WLAByeQBldUFPLy4Qcj_biyMLnlNMKSFFzfehA9mw5n5IlRhJ5tDPCL1gVE5A0AQxX3RU=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_2_1.jpg",
+      "assets/images/ev_2_2.jpg",
+      "assets/images/ev_2_3.jpg",
+      "assets/images/ev_2_4.jpg",
+      "assets/images/ev_2_5.jpg",
+      "assets/images/ev_2_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 3,
+    "title": "Свято Першого дзвоника стало особливим для шкільної родини у Липницькому ЗЗСО I-III ступенів.",
+    "content": [
+      "Висловлюємо безмежну вдячність Суховичу Ярославу Романовичу , який впродовж багатьох років був надійним керівником нашого шкільного корабля. Він передав символічний ключ від школи новій директорці Гоцій Олександрі Іванівні.",
+      "Розділити цей історичний момент із нами завітали почесні гості: Бродик І А. та Хомей Н І., чия підтримка надихає нас на нові звершення.",
+      "Нехай цей дзвоник буде символом єдності, сміливості та спільного майбутнього!"
+    ],
+    "full_text": "Висловлюємо безмежну вдячність Суховичу Ярославу Романовичу , який впродовж багатьох років був надійним керівником нашого шкільного корабля. Він передав символічний ключ від школи новій директорці Гоцій Олександрі Іванівні.\n\nРозділити цей історичний момент із нами завітали почесні гості: Бродик І А. та Хомей Н І., чия підтримка надихає нас на нові звершення.\n\nНехай цей дзвоник буде символом єдності, сміливості та спільного майбутнього!",
+    "category": "Шкільні свята",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uNiH4kP_CuvMJH99jM1Uyu0NYB-rm9K-K7Bco3DA3dL2za1YUCgqK0kwZvKMqj-clA1y5rGkWcWxcsQNHT-_CkfQxafDuUbo-xAlxgH0SGJ9yamVgxe6VluZr21_OJI58AfW03Z8tCWDWnl3jNfonwpccRhih3E6Ritg0cMmGyviSq9UFNrN83nJ-eXJck9iIuaVzb0BaA3obf3gq1twqL1PpFRCk6aPDvW9Fe8AY=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uWyLUtY1vrrY2LEgW0U2CmA5EJsG_M_J7WmqI72wbPzJDSSaDE4qyaPOygAzi5BSwBUTa-Iwo1VuumToD1dw3QNxT_dMxyCOciOIFMOsQSQFk10_wJEFqCL4BFyQ-tuhQgFcPwKtxUuj4aGawz1TxNwTxzycB2x417saeTHfo8S8dYXG82kHkLK7VyKF852OcmB6mbY9fh_lR5mK8AP97-7nfijiJ-vonVD6TGVWo=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tIsywG-vgG3rcdGED14uQ_ElPGG4qRoTsl1lFW8fKHuLWnATvMN-CQo7ZYRx_JJOTa9pjhMBekpOIwE8bnG_KaspiMXbT1_uirylv5K_0i-5z18nXZExbQ2njrnMBh2sLH4uTWOu2j6IdqWlnbDFa2VEJyhLNC4ZPoyoZ7Ks6GqgT7UIgdL7DN-1oTK2d_T6ZGs8x34JvI6CCUbF8lugiOEhysAqwMbn20yS4RumY=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uOUgCFGssLx_dOsUDEzwZB7uHIoPu2vYQ6ylmi_QR1vjssaR_uaIfkUegpuSQdutToYYXwdvGdGwdDR4GTdQabBfUgUpHbKnYn_pcTuhPwwnYEvhVfMEQJIsIGIuZm42sfuBRvAEWhHKEuELaJ1sMnZdFmigvqQK626xtFGMErkgH6s7-_koOhaB5KkHzuhcvUgwoB61VwVs1-octsZ8BVoR2tj8aP4cUy0ogFPQA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s1I4pgykVNzHikNgWGbL3NINBwNZA9XVNo-WANKDzMvpYhx_scX_M3nHpgSTQJ4aPrVLlXg61BRcNDUtTWxsN6xchtO1-SB0N-_Lix_YSSZar25C_xYM0vm7wE4Chnzr1NXodtBXjbg6ak0U1pYEXWyvZUXtHU0i9XF_kzAXMs01OAlWZetoLOj6wonrUaDghvuNe1-_PU_tWP-UvK6nFIyZkd_fl-4sektHAi=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tke-dkc6iE8Q4Jah3zlcsW4P8sz2SnIIeZRd7o4s-k6s9DIdE2ZoE6ARpRbsUM3fufoEM81B-qHyQgVxsCYK5f_7FhBfQdkF4HNyHWwLAjaLzEpPkWV-CKjLsiulYNsklgN26BRxh8QnijXiNxBgi2nDw7lqejGeazHpPkk1t7oY1XAGxoF0oXGYks5NJ9-NOgDheb4XkZrrwCmInjqXzv_KcsYzU2FiDT6GVc26I=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tzHq5BzVO_cZAiSyIAecl0evi07JB_-RLeCHPAmaYhBT0GRGmMH6fDrn5wVLeQ0rcAYAFJSOvYcf9RRi3eeNbRLsZ2udyGCLTCJFFPcTcWMgh_SJneD7KMBAsMF80FHn46UgUxxZBytYIYxpzzyKcU0hVoZv72A-ONUW6ZKgVMhvKJ-yDsVuOHjSSTLVxRFf59GISko6LSlzk7gFIxXXXZds4flkCCIhSEiXWs=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tyg5bKakO8vzLutYQ1l5IauVYxH0h_MEfio5DCw1Ydsx_TLCX7M03zsopQtgn2hTt-DF6pEEExd_drWPB6oZCCAkhTKcGgPOMFzsl4VQNVxE7mU1Nbj2Tm3iiEp_y17L1_Q5qv0CVPD17eb1qJw8ekZvz7d1qpjHbVmFQzgzDB1ILzNQyeSwcYepNiihEUksmN8Ka99BEN_7am_np3QVFGaa0Hmlt70-Yeyc4cYMc=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sMNhyvTBRZdQb16pXtkW3vfVKX8hVo4Kzkgx3-rIF5BJlSkEESrf0ZfgTO7mPospPjm5U4xlWRJU7eUKEn9qup3hUIOhYWSqknXzczEixRj8_NudeBp8jcbgQ0i0eENh3GfVNVPXAbAeyGEthUd2m7-FVY98bmV4hwQcQMVo-bBE8Koc4dwvdw4wsY9P-7nAXLWjMfQOR9TaWDPhLov1mIVzGd1Q8yR6pYo5tNpmc=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sdfUitLOI0DJJ8APuCH0zjvhzbsCM6V8SX1ZvY4jIC9gW2euvvjR_ZgkPxc3mdszUojpX4ETvSEQD5QAdvEEzlEEq69bSFY5VQ-4gzrALpmK66pAHW5a6ZJDn6tM7tNxoRhAqJJxm4Y6kpE1umjwhVCJgzqGxVZ2ggENm4UsCsL5A20yzf-o59Ib52hKxU9_Dqh-E6ehW8Pkf9LK189LALj4_SUp4H3TrA5iRe3Q0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72slSc5YSVvKSgkTecs4XFwSpUo-9b-P8JJS_2Ao-L2lLGp_t_AwVZZiV3N2sylognhJnDSsv9z7xKTAzuB-WS6GyEwyIrX9HnT5nBjv_eH_Jj2pokVSeRPGRIZJZ40cPdinf1EnnfZqeO-9_KGKPWFeIYHk7XtBsPGPd-WKFsA-usT_viB8D3-RRKPaUq4ApTGsX7wJ0Xh9U4LgH_NTUdm-0FuO73tWMVJP_LfVC1k=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v6KTXRTen72hyW-iz_xEJtISoCdJpW4b-QsjLeTKGHFTwDN1Kz6MIiTcZwmO8sc3v22YrOMtmxKWd6ImleZFyfnTYde0Uji3xCTMLGp7m77ZehIvb0q4BVLkd8_tIuxG7EMvVX5ZHVVJLpLQqtprGssiyvSDWn8sCJkZmf1cCua0Vu90_uHAePi5UAw7yYUUr-nqA9J8QoaY55yQxbi6pQBnf7nLV-9nDb-4SJwkM=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sxU0vJ45VjzrHYJkjTQEngp3O-7gaS3L0fI4fuN-D6zQ_Dcqxu3bL5YIPQ7hGfuESLyiOYKK9igbGzIxhCrB9_JuevQitI6Svy8nHWUFjRjv026NRn34tFBJdQ8VHSHJQfnMMFL1iiNU4m5kghT7sr7mpqvkZPsJYoDT7wYPtnnOx50e_CgLSGfXMyXbR1Suu1v-NRX3iHFcXZd4A2Ht6Ntef1sAYNBHowY8IBW3U=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u52vJ8pVIBsMfSK2HIz_VjbBCPiFVlPR3hSWVQpb7JwdyNCuNL6nvBjCeHvXGNjNe6V8cPcVlxdelrRFIPJSfqeJXFFaRURPn0Xwfvq55WQFnqEvjgX5WNr95wrQbyG2y9-BrNlv9QvR4_JZnFlgtYi6rKIQ-KAbv6rsV5js42EdamNEUUbF7GZkMj64E=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_3_1.jpg",
+      "assets/images/ev_3_2.jpg",
+      "assets/images/ev_3_3.jpg",
+      "assets/images/ev_3_4.jpg",
+      "assets/images/ev_3_5.jpg",
+      "assets/images/ev_3_6.jpg",
+      "assets/images/ev_3_7.jpg",
+      "assets/images/ev_3_8.jpg",
+      "assets/images/ev_3_9.jpg",
+      "assets/images/ev_3_10.jpg",
+      "assets/images/ev_3_11.jpg",
+      "assets/images/ev_3_12.jpg",
+      "assets/images/ev_3_13.jpg",
+      "assets/images/ev_3_14.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 4,
+    "title": "🇺🇦 З Днем Незалежності України! 💙💛",
+    "content": [
+      "Незалежність — це наша сила, наша свобода і наша гордість.",
+      "Нехай над Україною завжди буде мирне небо, а в серцях — віра, надія та любов до рідної землі.",
+      "Дякуємо тим, хто боронить нашу свободу! 🙏💙💛",
+      "Україна була, є і буде! Слава Україні! 🇺🇦"
+    ],
+    "full_text": "Незалежність — це наша сила, наша свобода і наша гордість.\n\nНехай над Україною завжди буде мирне небо, а в серцях — віра, надія та любов до рідної землі.\n\nДякуємо тим, хто боронить нашу свободу! 🙏💙💛\n\nУкраїна була, є і буде! Слава Україні! 🇺🇦",
+    "category": "Патріотичне виховання",
+    "year": "2026",
+    "images": [],
+    "local_images": [
+      "assets/images/yt_mjhIy5zh_v0.jpg"
+    ],
+    "video": null,
+    "youtube": "mjhIy5zh_v0"
+  },
+  {
+    "id": 5,
+    "title": "Відбувся щорічний звіт директора Ярослава Суховича про діяльність закладу перед колективом, батьками та громадськістю. Було підбито підсумки роботи за 2025-2026 навчальний рік.",
+    "content": [
+      "У звіті висвітлено основні результати діяльності закладу: організацію освітнього процесу, досягнення учнів та педагогів, участь у конкурсах та проєктах. Особливу увагу у звіті було звернено на розвиток матеріально-технічної бази, фінансову діяльність, а також питання створення безпечного та комфортного освітнього середовища.",
+      "Ярослав Романович щиро подякував педагогічному колективу, технічному персоналу, батькам, засновнику в особі відділу освіти за співпрацю, підтримку й спільну працю задля розвитку нашого закладу освіти.",
+      "Попереду нові виклики, можливості та плани…",
+      "Дякуємо усім, хто є частиною нашої шкільної родини!"
+    ],
+    "full_text": "У звіті висвітлено основні результати діяльності закладу: організацію освітнього процесу, досягнення учнів та педагогів, участь у конкурсах та проєктах. Особливу увагу у звіті було звернено на розвиток матеріально-технічної бази, фінансову діяльність, а також питання створення безпечного та комфортного освітнього середовища.\n\nЯрослав Романович щиро подякував педагогічному колективу, технічному персоналу, батькам, засновнику в особі відділу освіти за співпрацю, підтримку й спільну працю задля розвитку нашого закладу освіти.\n\nПопереду нові виклики, можливості та плани…\n\nДякуємо усім, хто є частиною нашої шкільної родини!",
+    "category": "Офіційні новини",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72s9VlsUetBJLIJMaJBq3d6ezDXIRo_ZjVYM0BlqdThHMINxsZtqCiExDSKx4jpTMqMn0Teh3Sx06QpTBXO1BjctXTE-w82tCHEh3ErAjAp4ygMa0LDIar3GFTGpvbXMyRoct0w84Bmaf103fm416rpOBqIihxp7M97QFDdxPebQYvvgWHKh4nnQBClf1wjLRZA0enKPJhsPG1OG_fYIXyNw0SkXBnQYmugjKhqx=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72siRNDb9a4dxGc4hHUexRUamNxdwcVwa_gpu9X0_N761KUQY6seJeOAoh3y2RhlR37SW6kQsi2SfM95kjDTMrViP3GqTEXMPbWr5jjqJCTej7muBOnQqRADqsgBmZKX-Euay2aMLYYVM5kWdJNtyP_GwnqMpAejwOSGGIvs2JZeEm7jF44bfm346DUX0MmTQD1FF-5-83TG7fDvUJX3QPPSiauJAt_ajvWPTe66f8c=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tTDO11dDAlYS3lixbPysKLpt2Wz31LB-Tvt1H0TIi-XUCUjVKX1p_Sd6HM7ohYNuo979ld-U4FssmB_P0jov8qf6rzXG2PJo5-qgK6G8FOoma2Efhw8sU2gWEJWFkdn0VqR8fV8BKx0sUKflM9Ou4ZJToPJjqqH0Lh__eWZXuWzhV7k8pkJvxNg6TygDA9znkap77Tg0D0CspdsVfazfa9hpXnAnIjdrEwcsj9_0Y=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sqO8bEFEN5p2vASb1e-NmfkpjKmKiGveMOkefiigwcB_39cJIHqdkXcGt7auhQPX8EOvat4Xs805_ZAop8A5569ehHGt-nyyIMUaY7pw2_oJJColxAAJ6rb7ie6hw81R1in91qBAuV8oMfdwyLF3MLOaFbQsQ_CNTAqjEbxxww-NZhgRu8XNJU1-o3olmDQsSYi-qH196Chl9Z80g2mn6Pk7HOMQKwzaWqB0QT-cI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t5H-dfp3b4HtKxIFqH_0jQj3iCgI-PlL6NFB8G8jGkyUuL9IvHiK1TGPyTJ82ZzfmlH0sXadB5hwMxQn0uAdqQR4S0FdPQKsXmM85Hqu5LYIrp-jDIAR1P3iSCRVuu9JuM3s3yXTYfdY3svim9drB5CsVFRLp99jlbGLb9A2rd9Qc5J1nuSV6ngxd6Kc1AoAXNKL4La4E7iFXD4hrVv9e_X51iMHXNCETNf-TcXVA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tTunRGpGbUPFjswpSwSOUO-1LyPDfuEdMvAuHHaR8RJgPES-8aH7lF1s1ZfnGIA3oTGc_UlHH3cdPmeGRyUK2JOssDkdsvQchA64pSfz3ShNqm0QdLgKrlQJnbjV9IKwxWZ0Rgrf2sIa15gdwVdyCu-QPiwO1B-1M1VWdoItQ7plrIbdhbkIwjZSf46cp_ZVl4VK6U0n47MDQIX-dgsR_lMwpJpFa4nNCGE_n8PGc=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tzQFRZskknMcx7Bjknr7P5iSadcWf9xtJaZ3gKcpk8p4okEjEAc0s2hN95IPyKhQ7aC8xyS5CrzNY62D-F2Ram9yx1CrL91MVZ-WvUwtjp996B6B_awl1d_K-ijz_W1wZ7XncWy2HSrzmkMu5TX9RJXyXGLZjLfBANi2Z7AcS87oVMucvSDAm8gGvTo9DxvhQe60h9hITXBjAk8wiVi7_dKwYUf5s-IgEcZrPe=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sLc8opm1GSrYGp1P--uhkMvzmwQiKuPHTdRXa22zlGHKxNGNW2IDppWiLJtZc6DmpKi2qbwq4xiIrC3K8kRuChl0jqELXvaFBcyP3daqRaw9paBCjaqePp1G9ljTLhUBICI9J9E2ZyW9nVxJkboDwMCzkM4hra_mNJX02PLTToAeiDWPvX9fQ3MfxFqJXwsQqAkF7a854Dd1ccjnhEDn8dlq3PvzghZdvzM5NF4h4=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u2bZ7XHth0_03Eydatsb-73-uLSe7Lj1YzEWjyC09A-dhHlSJTxGcHtbFpTRUh3Ww7i57Cgjlr0GYcQVcFOTS9Jg2VXGcDG8HgBiZGDOVpX8_YLgcfghDnpIpikWKTfKoqJmiKNHAF5hnJxMaJUa9QcnouEqhn2fz6UIzwR2PxDbg-ClUJz5PSdOOhlbAUC9HJkvSDp2NzKNaIgU5X1uR-kxyDpenx8QaHaEa7vbI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s1c_CCE9YFUhFAYF4q2NCwZ0XywzxlOG16T3gEylpz3PBHBPUhQ_wbDgvo29fEtBkdt7OrKQSi1o7KRz0NkcwrWdPLCu90hjqcEt6P1z5cdgNP6JqFZSJ--uMRR5sn7Y9n4WfmdEuRRZNdTkC3LJqT63InHsHws1QteddPAc8CUrQ0xBQ-J4e6-FcEowmJ_MmV2aQRXRxbi1gTPaxi91MYV0On9UPeSp0QpkRCVls=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s4uzkp8EqNVkLiyIW9E1cA3DaKAiDWh_gHEkBPQtakc-LGVL1qCPw9U8AqZiJ9OpEyjIdbaSYtx9NTlHq4U9Wz78ntkdIX16narzsUyJBJ_9eN-jhBqRXHMljB1wfX0lc2m_RkfC40ta_O8xHi3dsC003tdt4LJ3r1LFKtmxYDHABtfXd1JAwLBdsP8tA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72slhSsvMnQZKIhGjMB7p4vH_488zONcP99Me88Eaa2PExfTximqa75d7KBNPlaQPfHgC7B_ghpETeNggOIvo5w4qz2vmgoDr29I3u7Vb5-tIgjJX_bL4fZAZB4X2Lnt-5HfCrka7fZoXi4EBVPVs71Es9guFXLY-XcYIXdwTnsHqptQgIMKCzdjZ7A9od0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72toi9S2aq3GyQoS1brXnsJitFdimw2EwgXDihv-BMo9Ds9ysd-8dvA5mvTLbssLAiBJwoHXNpefkD1exmHD12gFn4ZP7wPd1xLpi8BVTkw2TlxNNYD5SX7u4fkthHlOwdAxK9QpE5XtpHAqUJkiFFGBma6hxjmgoob_PZ6DLVevf45_LSGVGZTQ9fV9ReY=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tc1x6oSYKskp-GuYM2n88JFQaozHv12cuAhjEIEqDDTCRqtDa1xG9AoCI9aTihw9GOL_gIinclCVbyWfQDqQgc12bfnRMnz1W1ppxSpdCupn-r62ef2BD3qQ-nFuwW6kl1I7nnG2A3D6xzcFowdjioB7aFQoRefXoSZnC91aEALz0-NPERfcICAJ8t=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uexl4wq97pNc59Nv1Bpn0_-ZRJtpo9aDSMbZD3M9k0ayMZh7UACUzihe56aLSgTKNxhMkdQCfi3iysbV7rJ-9CiLqHauDgRUXPz3DTp9v5j1Bdw2f8DZtq4laaG9TlzWOqXD0bt9cOmD20QQ17I3ESGNGOn7c7XdDfKpgx3-tma_u2qSl0S7y5NGO1=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tjhZsINnLXr_TnTPg5l4M4aJ6Muq48P9J9B-q3jQWTcpy_MNwQYmwbLEste-AF5hXsqsTphY6RNQepJ2L3JKzf5rBeGaL2_z81ynO94lMxZER_4oR84NdmK-SC-NzKIZY2fAylYWTuNukM7f317WqAx6mOMtuml3xRBUVgjO0SwUCe5WUaoFmHCf18M0s=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_5_1.jpg",
+      "assets/images/ev_5_2.jpg",
+      "assets/images/ev_5_3.jpg",
+      "assets/images/ev_5_4.jpg",
+      "assets/images/ev_5_5.jpg",
+      "assets/images/ev_5_6.jpg",
+      "assets/images/ev_5_7.jpg",
+      "assets/images/ev_5_8.jpg",
+      "assets/images/ev_5_9.jpg",
+      "assets/images/ev_5_10.jpg",
+      "assets/images/ev_5_11.jpg",
+      "assets/images/ev_5_12.jpg",
+      "assets/images/ev_5_13.jpg",
+      "assets/images/ev_5_14.jpg",
+      "assets/images/ev_5_15.jpg",
+      "assets/images/ev_5_16.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 6,
+    "title": "Світ професій очима дітей: захоплива екскурсія до ліцею! 🍹",
+    "content": [
+      "Нещодавно учні початкових класів завітали у гості до Рава-Руського професійного ліцею. Цей день став для малечі справжньою мандрівкою у світ дорослих та цікавих професій!",
+      "Екскурсія виявилася неймовірно насиченою та цікавою:",
+      "• 🛠️ Секрети автослюсарів. Хлопці та дівчата заглянули під капот справжніх автомобілів і дізналися, як працюють складні механізми.",
+      "• 💇 Світ краси перукарів. Малеча побачила, як створюються стильні зачіски та які інструменти допомагають робити людей красивими.",
+      "• 👩🍳 Магія кулінарії. Найсмачніша частина подорожі, де діти познайомилися з професією кухаря.",
+      "Головною родзинкою дня стали кулінарні майстер-класи! Діти власноруч приготували смачну італійську піцу та навчилися змішувати яскраві, освіжаючі безалкогольні коктейлі.",
+      "Щиро дякуємо майстрам Рава-Руського професійного ліцею за гостинність, терпіння та незабутні емоції нашої малечі!❤️"
+    ],
+    "full_text": "Нещодавно учні початкових класів завітали у гості до Рава-Руського професійного ліцею. Цей день став для малечі справжньою мандрівкою у світ дорослих та цікавих професій!\n\nЕкскурсія виявилася неймовірно насиченою та цікавою:\n\n• 🛠️ Секрети автослюсарів. Хлопці та дівчата заглянули під капот справжніх автомобілів і дізналися, як працюють складні механізми.\n\n• 💇 Світ краси перукарів. Малеча побачила, як створюються стильні зачіски та які інструменти допомагають робити людей красивими.\n\n• 👩🍳 Магія кулінарії. Найсмачніша частина подорожі, де діти познайомилися з професією кухаря.\n\nГоловною родзинкою дня стали кулінарні майстер-класи! Діти власноруч приготували смачну італійську піцу та навчилися змішувати яскраві, освіжаючі безалкогольні коктейлі.\n\nЩиро дякуємо майстрам Рава-Руського професійного ліцею за гостинність, терпіння та незабутні емоції нашої малечі!❤️",
+    "category": "Подорожі та екскурсії",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tltOpLsmYhW8U5YXsJPnr-WG799xBUA_OdIOaNCqUDhZT6Wd-zOUP1qtixJ9vHZwgiV_EgSF939v8AV4bG6tMBMAmG8wv99x4oasTHH134Kgj62Tdof9eEwY6N3PLFZYOg3gbNy14_nZUU4xy7S5ablf2HZIHlyhMLsy3DIPZBP76lsabcfxEySsx2eCiAVLR3jQUjUanx4MVsvcuEgYl8h4apV36bPajYN6oVDMo=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vdd9FzNwW7CQRnvVXZRsMbsOa7q9LQgeY3Z5SE-CXDMXRrNqjrUKmrnjzNa1I_6XNd7xdLPP6ttEqrtWozKFPbfEf-dpWe20v9_HQoPejVvb8un70ys3F2pLjnXduiM1HGGikep7jmsSiD6xjRi3N8q9uOwsXE5dASdoo4GIHfaQC1VseCcAkZFclxMvCvbk9NDPfIAqtjNcGM_XRf3pXfX9_2B2MZTcar7zs4=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uFV43C9jxrqA3af4w8YWna34_x7eyFyAqzFKAb6Ex7vX_7m2BOGS2F_5Fo7FMx41vfmk_zT23fqxkzY9ZvC8bXMqUGb3dUNk1ugXAMcI-IezhZaCKbg0fwHzOWUYfyff0u0IB_J_QUhWQ-KGgcHLl-k2SFFOYjTg7xhH9xj8zo7NTGQi73hyWPuuaxsValGUxa4uqX8fmpDLRH8EwLXGrJGTu0pOay7KFvq4e0SB0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s3oCjixWCkie9L1VcEDygDRlEXskOwpCTya9f0b6Ai-4N4T4M7R43psY98SISDu7BG1AcxPsrSJYP5OA0IKEtj28IS_FrbsnfUO3khrQ0hoOvDQzOhIUCjvg24JxFolHd4qs4n1bjaNDOKFcg4WPNoEDdQHHQrATq9kYGY2PbGVsPyFFEc3kltD7wZooMW3PdYcdsc3Ue6xlm4DqfIzJXAuYTkZkgY6LfY-noYQiA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72svTy-Fv5w1g6E3cKkgYfQhPY_M78ZPV_DDrv0zOh9s6-Mr7rZUsybDmeH_OfE0KLuFQ24xycFLhgiDt14VECcd0SbVO5XgY3MnzpAgXOaWdwZlvfKxTUmeqZRaq-u5vyMfl2l-Ftn6kw3zOP3YfNVk79se1ua5SUtKhUIxakjokDisieyImAVgsI0iIXFFiJabXljaRiMGlOG85V7lmX8QncrEp_cI9dhWbX62KTQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72snNS-iqlIL2BvmLuTwSqW590yY9sqeVOGhtoWu9bbY7Ll0tc59R3BsKjLRlk3YdPuTtn_iBDPS0E-UiY23AHBFpkhmpWOFJS1OxYqGIOEjZNS_zfI6nWerFhaEtp5Csab3CzsrlgBg-XK6mgU3knKn9UTmnytrXLEyqEyLF-TL3JwFFi8EJ-LyAtirVniUOBTP2-zZhBLmrKQkc8xRJ4aGzri-ibxAPQgRSOdW5gg=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v2Ym794YoSeQNDuqXh3kLfpQtgm_57FH7o_HRJgBP-tgWaKMQCTgKRRfmjhMQ5c0diTK7wP0PsmLclMIzAaDqHQ3dAe2_h0KHo5Bykg2JMLBpHFCeYfK1LsEQ7ETLWqH2pm4BekQA3hOWFMMAWpUI5_hOMBW6fbtxNj7EezLiAOZAAp_Q9lU95tsNdbZM=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tNINpHJAJPfCjj0oPqUrvLpyubAx15BJJAtRMeHj_G4xzZ8ePbFFZs771NrO1YPcssl-icujuTU4wKHkPMDZB4kPRlMVAXmvEy9Jx10ith-zEC8_XbGB3dQKbNU-stKJaKmYHod7iq3o5EFJ_lxWBNHXwf8GWWWEAsREMX7iJAVzxleZbLxrsSlF5Cc39Ccqz5OJ8ET0-DxrFOGYildMGI-seevo5bsLk3V7-FyP8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72utW4AlJ0hND1n0SnjSV5xBFiIjGTWd9WerypwtzpigxQT9DMQsOOnCo1gu0a8p4dROgzpxKSg4_fO0cYDR7lcrwHhJC98gAwd2LoiAph_tYpi00ROwpR5VonWBg1AEerUBshpCXv7Rchn7ACCZu3gGchs0sG_j7HEgvhHSOTYfMXYUaIyzi_ZPVhNfQKsDUKNOZQD6MLADMaHPzjpc8NFPD8RVbPkPnvlNU64MGek=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_6_1.jpg",
+      "assets/images/ev_6_2.jpg",
+      "assets/images/ev_6_3.jpg",
+      "assets/images/ev_6_4.jpg",
+      "assets/images/ev_6_5.jpg",
+      "assets/images/ev_6_6.jpg",
+      "assets/images/ev_6_7.jpg",
+      "assets/images/ev_6_8.jpg",
+      "assets/images/ev_6_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 7,
+    "title": "10 та 11 червня учні 8 класу Липницького ЗЗСО І- ІІІ ступенів разом із класним керівником Жигайло О.Г. здійснили захопливу екскурсійну подорож Карпатами.",
+    "content": [
+      "Під час поїздки школярі відвідали Скелі Довбуша — унікальну природну пам'ятку, яка вражає своєю величчю та легендарною історією. Незабутні враження залишило сходження на гору Погар, звідки відкриваються мальовничі краєвиди Карпат.",
+      "Особливе захоплення в дітей викликали карпатські гойдалки, де кожен зміг відчути справжню свободу та насолодитися красою гірської природи. Пізнавальною стала екскурсія до музею «Фауна Карпат України», де учні ознайомилися з багатим тваринним світом рідного краю.",
+      "Подорож була не лише цікавою, а й веселою та оздоровчою. Діти із задоволенням купалися в басейні, відпочивали та мали нагоду побувати в традиційному карпатському чані.",
+      "Екскурсія подарувала учням багато позитивних емоцій, нових знань, яскравих вражень і чудових спогадів. Такі поїздки сприяють згуртуванню колективу, виховують любов до природи та рідного краю."
+    ],
+    "full_text": "Під час поїздки школярі відвідали Скелі Довбуша — унікальну природну пам'ятку, яка вражає своєю величчю та легендарною історією. Незабутні враження залишило сходження на гору Погар, звідки відкриваються мальовничі краєвиди Карпат.\n\nОсобливе захоплення в дітей викликали карпатські гойдалки, де кожен зміг відчути справжню свободу та насолодитися красою гірської природи. Пізнавальною стала екскурсія до музею «Фауна Карпат України», де учні ознайомилися з багатим тваринним світом рідного краю.\n\nПодорож була не лише цікавою, а й веселою та оздоровчою. Діти із задоволенням купалися в басейні, відпочивали та мали нагоду побувати в традиційному карпатському чані.\n\nЕкскурсія подарувала учням багато позитивних емоцій, нових знань, яскравих вражень і чудових спогадів. Такі поїздки сприяють згуртуванню колективу, виховують любов до природи та рідного краю.",
+    "category": "Подорожі та екскурсії",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72ue1nv6ofmTsPhCnG_qsbVmIEwF2JI_RGifoh7ueT99Yn6LGmRnJ_V7raaatGrSFlNZeuiHzH6e21NgavM66J9gIHkWh2qcq4TYEAtBP_T_6Nnb6-l8jOzhnwOlU_iWT_g0gmqmd9mM9Bac-d5lFKQ8GUDUO87rflZIzn_JolGdlhfZGCmyHvHXOGCy=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tQSkVfoPZ5I4iiX9sXkn35w0_dqvlnbNUuNRmYcHzl2VGTrgGxzu1I5xpvtMM7ilG-a4lZs7zfG34Gc9DFNaXt45V12NRgkRlDvS0LV1qewWmZzS8hTJ-w2qOvgKfmd1y_GEEbzDCeDAXZn1f84_kCFBdSY_O-YbmcJB4ERn5iAzY7etyIPYKqGpXy8GXRNGrNdvwBc9OrEsXFoJCQjwk-YruTXoS0-OXvsREMr10=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uxRBN07uYuAK0Ioy4nA8qOwB-lzoaoJPu9TLnIoV9Dx1puRaYfGudvrKryUvPaw68s7XI-xHhSPPKz2N0WXwGnqxiTewXS3GWoqXN2PzHVOl7vNWAbIwj3cXrQD1eh9I9tEZwY9KP2PrelFdcaGwDd94vvSD75toeZAjLVy4rQD7q-JURE3ShtdKf4OZk=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tDMEDJqSV9L91O_PI6v4quttA2MG7BoSsEN6C7cYX0Go7ujb61zh9acszIwPMCk9PXmUHryMCboph24cF2qUbWqgQz1HRtmXwlkfQhVVHyCpPlB7DuXuhP1NO6HLy_PJx0-Sa3kzwtxwose_f7ZUSciWshuqG5P1h-f2SWLCbhMfr7-VwuCpdUB2Nqw3otuDIlzx5C3WJlxL0UqKxvpZ4-ebdffHHW8X2fn_HtIfE=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uSsgwzShym1PIyXrd-zWSTYnroKlnJK914cd3ZvNYTdNyyP93j3b7HjzxbD9rsR6dHhBaZ5cYXTpHoSl3VZxHaXtBeg0Xxa0VKRBHInQH2G3olYpJl87QHgrHggaE4_nTv-bkGEp3ckzyKlwt0i8uPCVeEo7bC9heVtbh9HvUA8JzbqbUj03ZkU5NbHA_0knE7A5Gwtsth2vn8iENgC7vwrZmqiZ6oMXi-fyl7qC0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tWUxorycxSjqxncUTZQaU7fEtGIbwp58JNbC_4pU3oMDPny7BfiUWXFOx5DbRLWi_QwnQsY7r_44FAu6kxM72yTU1l1ifGUq7hxZJ7C0pyUrfXzcx2DbUyWQoCH88-M5Ep3FqxjD5pHEn1kRlv6bu108ghe9lVnNTR9BPDxRkSLRXv1D33Igof8SXBpTTp9wQ5Y9Gx5ItdXhmFB_9kipzGQ9IYrHbIsR0Lww=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sfopCg0Kn9TG8VFPUPurzRy9NkqGoUZwz1EhW_B_eFHGjX-qaNZCF-9BovEW0sB38mM2zwp9P6i7AuYDlOhKXZyM3XS0TLQ_MPI92cOIOhLTUWa1J0aZ3G6s81n2A4-ntJpowRH15Y7q4wGH3aruYIgDwCYXfcswB3aKoZ8f5slC6jrVdyoEAjY3dYdftZnA_t7mVGNI7mcJqhtI1e9KppmMuC0z-PgntOxtLS=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_7_1.jpg",
+      "assets/images/ev_7_2.jpg",
+      "assets/images/ev_7_3.jpg",
+      "assets/images/ev_7_4.jpg",
+      "assets/images/ev_7_5.jpg",
+      "assets/images/ev_7_6.jpg",
+      "assets/images/ev_7_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 8,
+    "title": "🚌🏔️ Незабутня подорож до Закарпаття!",
+    "content": [
+      "Учні 7 та 10 класів Липницького ЗЗСО І–ІІІ ступенів разом зі своїми класними керівниками Девою Н.В. та Думич Л.Ю. здійснили захопливу екскурсію мальовничими куточками Закарпаття. 💙💛",
+      "📍 Під час подорожі школярі відвідали село Пилипець, де милувалися красою знаменитого водоспаду Шипіт 🌊, ознайомилися з історією оборонного комплексу — бункера лінії Арпада 🏰, а також побували біля перлини Карпат — озера Синевир 🌲💧, яке зачаровує своєю величчю та неповторною красою.",
+      "😊 Поїздка подарувала учням безліч позитивних емоцій, нових знань, цікавих відкриттів і незабутніх спогадів.",
+      "🇺🇦 Подорожуймо, відкриваймо нові куточки рідної України та бережімо її красу разом! ✨💙💛"
+    ],
+    "full_text": "Учні 7 та 10 класів Липницького ЗЗСО І–ІІІ ступенів разом зі своїми класними керівниками Девою Н.В. та Думич Л.Ю. здійснили захопливу екскурсію мальовничими куточками Закарпаття. 💙💛\n\n📍 Під час подорожі школярі відвідали село Пилипець, де милувалися красою знаменитого водоспаду Шипіт 🌊, ознайомилися з історією оборонного комплексу — бункера лінії Арпада 🏰, а також побували біля перлини Карпат — озера Синевир 🌲💧, яке зачаровує своєю величчю та неповторною красою.\n\n😊 Поїздка подарувала учням безліч позитивних емоцій, нових знань, цікавих відкриттів і незабутніх спогадів.\n\n🇺🇦 Подорожуймо, відкриваймо нові куточки рідної України та бережімо її красу разом! ✨💙💛",
+    "category": "Подорожі та екскурсії",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vEd2AQ_Y997VRV8mXW1SVPphTYG7mKzRMuQlogUKSoG86AkD8dz5qye7lgGd4OX0FGVCRuqhfFvhQfyGMqiaHSzMVjDbb3Mg2PFN0L_AsX-ugoVrp8QmAA4yOhR_E-dq7Zv93wd_2xZWQHmyp5okEMLrR_Jw7iquubAQ67mSzoxYem5lwPxfpB7G3bmQk3KhwljEA5kPsDWKLadx6Nxw-AtZOSggIkVO1IjHMH2XI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uDg39hwpNf-jlb48PN6ilys59zEY-UhemWOS0cwXpBzZr04yQ-_sFX-Q0q620fp4uXC2mjp3oJfkPmAqKz9PoB61rJNw6QUWTpbdswXuBJ29SjazS-4Hq9C6kwx-0roiG9i6W9EXhJgXuIFrK3PFbp74Fabv7j99KXzdmN57n0TaLVu6fyGFlYr6ju8zuS5Gh6jzCZ6t-TQ7vBHKtGBm2B7CTxPU2JGicAyPJZRMs=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72slf6i0pVQUNeAmJWvyPFAzmskO_bVvrvBNwQLYSQooz0CQlK05tRp44lKvqhzdSyx6cManP_jUv_2_gqubfuO14iz-_tpustD2Y1EAmmvdXE21h5UHlTiHhjo9hH_HQRJ2UYLFMkl_i31P6Pv1ZcV-mHC7_mQzHfISorS9r3JRIbhlYQ3tIbQWhErpAw0T_XCdd6HjNCfWRxfAeZesqrcUEvmG0sEpbc-5xmsN=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72trlhXb8k581wpBnWzB-jKT3QaBbBICdx6yB7IInGLbd0PXSK1Zxd-oz2YrsL7tArnlm3FXm3dEBiaSD75F2mKbHRg_XQiXB19lqoY96wNIqGAOmxkLlcit29JjrITELvZD7Yx7hNvM3tejxXcECAkNRGrqLAR8jvmh8MF9DE-QqXoC84aEOyeTP8_lYPeHNkdOkoHG-lMDaWaNb20sc5LZ1JzwFGEdjvjeNg85=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t6SJQPc-QGea1FWGLfVbvUtd0DV9BhEsQL8hKl7SPlPBZ6Ymmr39c2cPxKKiIeauzz1XxXO_w5gVhPm8736V3oHKOYO-SVfwSFiNU825tSFO0tg_-avKPDue9rYpU1SynCK7GQsVbrYkGaJYQVaSFtiGxjoiHF_wJv_1XFMHlDY13wCeYHFzdkUJOGSzAr80QzBbxKvErHyJqe011TRM6CEO1Sh-L2f0FDDbSB=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tw2ATFSIaa3M2Wd9lK3tkivtJnL0wbDVPRUhsrTnfRjBccr8c-i_vYdPk4t-g1EKQHRhu8gu0dep07HrsXyHQIe3qNgy-EY_Zo9KDzhjlfBS4f_IyUFi_3UvaE3KGzyPIYA9ZYjnNsy0VJ2C5zkffga6hzKusvo6LJy1U9td5mTyjxZVQCXqZ82JEr8_h4IIL5Y20X8-pL1fpTE5OY8K5a8jWG61m9OStvKWNgK2Q=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72snXkIdUpM4eEGWB6xNhLjAyCu96G8ElgkoHmD2TL_3l0pIS3pRhvTbczxY6duFymwWGaHMAmEM5JHNKPZunlwdjJqacvj7ekYck9LROLERStD8lSqvjbFO0G110e1eJCWYfV6GalpS0gziLM9NLVWzuHIFTU7lnn3u6vbB0nHCsaRmEyg_E_pegU4uFQCRMNvkjayZUnd8RRescAsqiaeL5dRNA37eT2JNeukEHuE=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s-2a_-RXedYvyWbnbbZ8vd208T9oSaEcLOitYfQorvVH4Ne1jcp3a07FViLhRVd7vcJOvVsOdxY5rnBnUYzmwIXd5P4iuvyS1Zw4lMC_FjVtTUZQpd6kPBIFbFdTUs61BzDqa7TIbsdb3Yk57FSrPOfrGcXExAKE3qiM7i7FgtANFfkxt5cJSnWikGcakXCGAYz4q25kshvlN4qeypYWj_baQHPr-HMD03WC4UQ6U=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uFFa3bm8jdwdv7erwGZpTjxDzXd3vZslsLt5Rp5F_9D_-aquNHejOmmcSsBUpkhtX1LWh5f8R8kPIlXixhmxcZL0fxtw6D47ZuQHlZDawcXIpxzpQ-lHTvmZ-7byCELLRFOBKboMUag4NdTCE4DTnytSAY1FEj2Eg1JSAKwCnjOInF1qlcXxk7kddSssk=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_8_1.jpg",
+      "assets/images/ev_8_2.jpg",
+      "assets/images/ev_8_3.jpg",
+      "assets/images/ev_8_4.jpg",
+      "assets/images/ev_8_5.jpg",
+      "assets/images/ev_8_6.jpg",
+      "assets/images/ev_8_7.jpg",
+      "assets/images/ev_8_8.jpg",
+      "assets/images/ev_8_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 9,
+    "title": "🔔🎉 Останній дзвоник — особливий символ завершення навчального року, сповненого наполегливої праці, нових знань, досягнень і незабутніх шкільних миттєвостей.",
+    "content": [
+      "Щиро бажаємо всім учням Липницького ЗЗСО І-ІІІ ступенів веселого, цікавого та безпечного літа, випускникам — впевнено крокувати до своїх мрій і досягати поставлених цілей, а педагогам і батькам — миру, добра, міцного здоров’я та гарного відпочинку.",
+      "Нехай літні канікули подарують яскраві враження, нові сили та натхнення для нових звершень!",
+      "💙💛 До зустрічі у новому навчальному році!"
+    ],
+    "full_text": "Щиро бажаємо всім учням Липницького ЗЗСО І-ІІІ ступенів веселого, цікавого та безпечного літа, випускникам — впевнено крокувати до своїх мрій і досягати поставлених цілей, а педагогам і батькам — миру, добра, міцного здоров’я та гарного відпочинку.\n\nНехай літні канікули подарують яскраві враження, нові сили та натхнення для нових звершень!\n\n💙💛 До зустрічі у новому навчальному році!",
+    "category": "Шкільні свята",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72utjMSgbhKrMK-yhGIgfNa1dafjpwnR4ozoozZdwXvG6lTBVjUzbEu5T0QxLGtaxhTjQ0_0uH_ec0JPdH3LJFXKMr5SHgQIWO-iTXnBBx7RRtMRckkXZbliKb8-8FkeCxt3odHwed6WMNfCoA_zAcDd-h5f2jIWy97bf6QapKWd3cwGmtV1U0uUgJ44yQBaxdo942eHuLaWblSredfpYLqPh-eD7CR9ocDFMMAu=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72va_g3fQpoamGUqy4zdYXOWm52cO9Zkgep4xbEcMI3vOq6kx76qftyUhSqpUpnPRH23jpWvL4psv0txaNmKi5iizUdxTFazeaCBdEripO5xeD6v9yXu55tqtIKghVRVzJ4Kdib1lR2EU4FxeJB42RBtx5fPKHfSYQeCul58DZ_Dr66gZb4GYHsAxVUw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tu9xFbO1gy3HUoQurPzOX9X_1ZtQlqhqp5ZrGcuyqcKentyFuDWWJbVuaN5bBGhztUrf6Abki60SJEjIqGCB6aDSuNONqNwt23v6nDpImR_NcMa0M0AdDrN9bP6B6rC_Dl9AHtCAzQbCv8jyLzCvIHN1tTYqwHkPA10_D-2mb3hWrs6GWQWKSwU9i8JYWJHyhF5Nd4tIGgBJ-ClT6_RHhnzbtHAEAaaXUdIGNECh0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72soplPbG-8S8N7MjpPb3_SVK-cVZpeQPZoi2c0fWDrodYZevcVXhzIQ3PaHV_pJi6WCuYJoLNFcJ0yPt5pePp0wgxUBw6fBZ-zNaRRICIuaRigUZ163ZRPX4G1u2bXGQRurWJJaGvjV04qQsl_WIbJ8WWMbgapfDHIWXc4ml9uUPfGcGJYBPqp5cUyU9EtAw0-zaHc6Kaf6CGqHngnwGuYCj_k_V6ufnjmJsQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tqVnVz7mGNIJeQfvPc7jvU9QalJHqbqXo4mdqiq3fyvtPYeWpXkGSg76NTggXzLAF65YgCBUFPHX9bRaoMI0D2qyKaPlLvz0croB0nJ4af2MKHPfamhAd6Lg_be0OQclbbca96OntOoGRCyU0gMn-vsI6IdFfL8QG__Gng8aVZbxazhWrCgYIfvQNOzotSgZe0oax0gWDGpCgkA1TRol4qKwz4wrxLnKl4-f2NdPk=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uEFGAyueJxuBZGGresyFx-xy0c-e4Fxo8SSJdx9D5P3yI2CJrtLyTyTgJFE_3mo1_PDxi1MtXq8JWSI9kL_pElYuBCTD_pV_r4-wTAWtm2eX9__J78xk0FSZ5Wi3M3N_1klOLAsRxmhk_Rf21wvyHG2Xc7AIHe3me5ifGvVH0_bWRtV29KVc6Wnmd3Vye3JJkLskO1o14VqRUi6aKdh8CvQFeDt0itvEJL1eB92do=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uMWBBvf0P5vhM7TzMh--5NeNaEanvPYosVG7Hi34GpjueIbDn32y1-gvVF3GmiaSzYtz_ELW1IUXZudQQkRbZ-Yl8ScnkywqzczJAlRoOtr2Y_sAyC21ajXrHLjk_XX7yhyN1u9R5OWGgmNm8o-fswLwWjG6F5-ZT-ARaJBgDwzxoBcGpArvEXNEtaKT-vtbPDa6B9EmmyuGU6ddlH0lVgNiMrnUc4xmHBsZTKRNY=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tS74zQUeStbB8Nq-N-bUj1zVj0cyXKLFfUp22RB59paaa9GFvztLenX1FwMyECNl9FFWolAkX_K_UE-q0TvvMR4acR8yf-3PALFlvtT5ixt-K-vyX_62ecItHgsxABHJZop52UFtAQgQ9IM8L9_h1r7LtUTAg6lzeJoC83AdDs-JlDeFIUlPwvodfJxlZ119g4kigTN5RN2v_boAFweLMJNIs9aWFToCDRto5Nkt8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vMzaDATKWGb-wnoWU8pGJ-fA031Qmr9mcfBaxNaRumlGRwITCnsP5FX0IOxIQ5GorFNdtmW4N29Hd4gNogRK6v4IB4Po548iSGAGHkWaWelzX7L0LMNpORqMXKj86PlaVIJX04FCE3PmIcFdA7N8pgaiBD45wPWZFFrhgeXwZ73B2L7LmZCuZhPTG1dyUxzGj-qRtomKCD_SBTg_Ljl8MuYae463GpeqYzXEPQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ucCLXkqyXnBAOOISlPs_sTsm8TuOxR760sz00YmIfzp8T0Gei1z0tG0QQ4HRpKhTH7a-E0fGdOqwP8tUyxLePIA7iEBL27EElud1HWqMhdOaT5eCNA2K3QP7hH9tOWA4I-mwUOUp6jYmJaGIeNIptWIkeBFaNAlF1LEcQgjE_IsOAHTPA6NCFjLyCZMb3YroIIUxEtDYhqUqPeCXYaQvOVFkoDBzOhmpQK3a2z=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72trXNw0qAn97W6pU58HXZzgC4Byig0gZkUq9RXB4e8gZqeowK3gwuqmuzip23SLpGxEOmGjNrMSaigSFjZex9rSv2qQrSNZndshgiAOLuVv_fCBrMeWIpi14ooVemndQ-d9SpirjIrM3gqsbdRZvnqoUeihDKYhR_opQs6GDbqyTUKPMNVIGG_LIEe8dx7ps7KdawMl6spbOJWeDQ4L-008rdO4aj_diQRN895qkOU=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_9_1.jpg",
+      "assets/images/ev_9_2.jpg",
+      "assets/images/ev_9_3.jpg",
+      "assets/images/ev_9_4.jpg",
+      "assets/images/ev_9_5.jpg",
+      "assets/images/ev_9_6.jpg",
+      "assets/images/ev_9_7.jpg",
+      "assets/images/ev_9_8.jpg",
+      "assets/images/ev_9_9.jpg",
+      "assets/images/ev_9_10.jpg",
+      "assets/images/ev_9_11.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 10,
+    "title": "🇺🇦 Сьогодні у Липницькому ЗЗСО І–ІІІ ступенів відбулася церемонія підняття Прапора Надії — символу незламної віри у повернення військовополонених та зниклих безвісти Захисників і Захисниць України.",
+    "content": [
+      "Цей прапор є знаком підтримки для їхніх родин, нагадуванням про важливість пам’яті, єдності та вдячності тим, хто боронить нашу державу.",
+      "💙💛 Чекаємо. Віримо. Пам’ятаємо. Підтримуємо.",
+      "🇺🇦 Слава Україні!"
+    ],
+    "full_text": "Цей прапор є знаком підтримки для їхніх родин, нагадуванням про важливість пам’яті, єдності та вдячності тим, хто боронить нашу державу.\n\n💙💛 Чекаємо. Віримо. Пам’ятаємо. Підтримуємо.\n\n🇺🇦 Слава Україні!",
+    "category": "Патріотичне виховання",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uZpHEbIDCxJ4Txmp4g_lU9TJUAa0TGWQ-TXOGSzRq4qwY_JKlvnNsmr-UU9ybWtE3op2l2k9i4b54u6Y-RLpXjXxaevbfn81xGq-Zbfp5uI0yyi41Qq3OVuhF42nFALzp6_nb_YClriI9AZvi8A1xA0vb05sW77K8_hynbl_rwKG2zRWn5_nXEqt2GjUwMa3LvrUdaxkeuYjWCXtowkLX0Uvrk5kAy3TPLEdcce9c=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tWQ1xmKeqvBxqT_fWLBi9vtGTcPpVMmg7Svm0r2BZNeqoUusLOjWwog_ENMtarSvGm3VpnDWpsC8fIpsxwOy_DCoGs1uB2lbOl_TkvQ7FfTtUPZnRmsy3d8EcOjGI2eLDlnAJQaghga3L2TLQjGYuRZpOW8LCJEv_tF7pCJyrCcWbCaFkDf989czMNDeiaaMXVBac6hcMW4fJjOdM2ucEitJoZbQnUE9OlkdyzsGE=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s8v6O_x91e7scBWORiEGEQ2ZLgbGYhROsIkOzbxkxdUZzk6mVnB9SNAnJz-oACaY2Ln8U2QhwBguJrDp5RIp22jqcGxfBf1Zi106Voft7UyHNmym5cbpxd6o0EfnFm8XY-nFtiZ5_6kOd5aYEUMa4eQocsjFRyPaYEt3wYxqRqUzd-YyDygBES6O-EYQIYmAk9YbBdhwNWXSfCsKK0fD8u1GtN7iBM0sI7iJWI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u4wxvWwlT_wllMrdltIk7g4wPMGU8Q9GKG9bUj1xtaEeA4cFEF_IUrXWwSX7wySQNAlDbkz5l8kvs4KlGFee23kPlwPsEgpv-VM-4Tdy6oiE9vGQFi0VI42lEO1xVeUg-OnM63x5g165viES5dDcg-NGuXkUrPGneaWRO2q-uqHe2Zhz9qrB9KSn7KRSW5hq44kHSSLZY0pyw7RT0-A2rT815UdSFZicYWP9j9PXE=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uKmlf6FXAtf3ePwUWPWy0lbx5kAWzdMDAE0ymSzd99txQKsd8BlS759nNu64Fi3FcyQzBjpERaDzTNgLtoCRdMezeuzvS9xWC2sXJIeZDLQep6Ik0I-2dO_TllUQiDebkTQ66iMU2h3V1wj6QB0dRDEgvBWsVzK_1MCuq74THo2Iz4kts7M2HIbJGfm2soFgeeF2Avx6FHhgO1havqG_qvJhq2UQll3zELsRlfZrg=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72slFdezlZINkCUHB5D4YcUwggW2ILxVOsAOem-wIedWyMYeta5S0FUVLxCGzZ7vA4I8jEPGGsHxmgAejg3yMleYZrpDHL1Hg2l_WBM8DfI6v2q_YF_TDH4yVLgbUz9gKn7QeDb7U7mt7uHt4W-C3wQuGHIhV1iFtCRsQrKSpmyWcV0s5PB5a1btdzf7_OcUb6BEh5d3TrT7DADMhQ0KQn8loP2Qsp_4KYhsavj9GC4=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tYwal3nJ35T_7dfddPA-_xueLDhHeEZvvtutIeQTjCBG0Kfr-WeGCFd3CXuIKNaoXrwIFgCdkthuifLEwyc4tQ1cjeK-rsvjCJ7JE9p51Z2liOc1VeqxJLbGsF_p0-YvO6PZACuPYBxqSd3Z1kcQfkPOzLOyQY9s4MUrYKlMl-AaF0eS1xeDbd7z8UUlKOEISLL92NBbndgvfDDXyBlSqqG_hVOxZ_ZW8DYVUBqcM=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_10_1.jpg",
+      "assets/images/ev_10_2.jpg",
+      "assets/images/ev_10_3.jpg",
+      "assets/images/ev_10_4.jpg",
+      "assets/images/ev_10_5.jpg",
+      "assets/images/ev_10_6.jpg",
+      "assets/images/ev_10_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 11,
+    "title": "💙Національний тиждень безбар’єрності у Липницькому ЗЗСО І–ІІІ ступенів — це час важливих розмов, добрих справ і нових усвідомлень.",
+    "content": [
+      "Під час тематичних заходів говорили про те, як важливо бути чуйними, відкритими та небайдужими до інших. Учні мали змогу більше дізнатися про важливість поваги, толерантності, підтримки та рівних можливостей для кожної людини. 🌍",
+      "Разом формуємо середовище, у якому кожен відчуває себе важливим і потрібним. 🤝"
+    ],
+    "full_text": "Під час тематичних заходів говорили про те, як важливо бути чуйними, відкритими та небайдужими до інших. Учні мали змогу більше дізнатися про важливість поваги, толерантності, підтримки та рівних можливостей для кожної людини. 🌍\n\nРазом формуємо середовище, у якому кожен відчуває себе важливим і потрібним. 🤝",
+    "category": "Безпека та розвиток",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tMbsEKcZpEArvS7awb8hFBTvmn2zIffK6R0vMXb2F6PmGXVDZGr2_06DmvV0kMBqc2IH80QEuRMaUJfvWYJaHOMNNO4d-FG_P1PvG3knNR6MFvK9NYirjSIEE_31STWlvG-6nuCbU5ayPBEhK6AWBks9Il3PqsBbgyK-foCqBhNRVFm4B_GxMQP2SngLg10Pr5e9o95wjKK1VDSmNbDVdwXYScnM-atm_hdjIp=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t1Riz1qsvz0tM-tQFTJ34wGL82MbWMkFFxufEccp5G_gKts7KkUtPrUfSbdVTgSl64AcduELPn2gWuBez0Klg8VLm-UNjdDmOx4QEckHbnpZak7PkL57-hLF-WUhtbmU1l9JYSZ2EbCVNbHz9fBVJ8_8T_0nXaiLO0GmCTg_jrHZtKABgvFCIY-9DsObx5LipL2yXKsGjKr3B_Ftaa4KBpeoufzpuzam6ux5B5=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72upaPVci9Ck3Z0XJ1fugaSIWxkVw_XYXjKmf-9FzHcEkkAbNtBrtQbNRn_am4EEGwcGnxMp-CCyMyj4wDcosTAC3bMqxf2pGTegQHas2RuxocXNxZa4WB1POpZ2DE9osQj0hiKMT_mamMsVGS0D-nQH7hG3gh5aXFxGlkkfxyFXNlqxV0Qk40ws32DgInw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sbm6JNMwZqPhEp0Hcx6afgC5CPlszn9zxjBsuQpP4adMBbj26MILR3UhTMftsLgbY_jGJRQjOQ4q9fXQ5I-I9Dvq4sh81YuzZuwOhREOQPRGMLQX1ods0-tBg3GpLMiscW46813jhjDy4P_3RYdc1wVoo6v9Dqz_VqabJVFW9h7cwO54y5HKZZvLBAO0g=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sZQtzY7jqIj5jYGn1d3ZBYn3NjQlzV-e-sVCHSSjWUcF_9lqhGFVczFnutEKHbiAWoaS2yYFep62usJGSJ3USRFMXDoC8k3P2FbXMW5RL4Y_EbrNPnA9GSuW5lhCQgXyV0quGqLeLGOw_bEFccXx8nxGAF8u33FcIQ5tU8eq5BgkV1YAFG27G_wIgS7A0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vIIxKmY09NfLj2WhzgV-4mPc2UOOwSQfosJBDpFj0GED8mhLUUCyvjean1baqxMoSH3Q2uIcHrQ7oB0aT2yy-P8TMyLV3LSHr5Gojvx_hUuHvV9f_nR-QAzlhpyo_k4ffkEh-KoFwF8L-xOVtYHISNNDAkXM0QqHqVYqytuBAzuza5nuQcFs-KyVOy67w=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vYsTNsrTr7Jcaz4QesPMD1jXmFSVE5wM9c4HW4Zt6zarUo42Ut5Dy45HOq03ZzuXmeLFmD293X0yOWewUfj_v5VMMNDF6Kw5H9VjwKDwrbAmKugEYks11ilx4CvSHQCdqNZ5ggGGh1WxumHIyjJU6rIBSSsS4wagvbYpW4dyKu27bKz8-92FbWhdtkbaTqUx2_d-NgjdAEJj9lmd4MJoJ_QdGr3JPOKl9KpIMGXz8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s30PxRIC6k9iGaih4kaDx2mSaUug9YvY2NZqOGxQF9OwWtN_LkVx2txjFYaFxMLIOnAk4F-a4mz3Fxy78gkwkKkAYCHC-zUuly5U6ESeSSO4UHXx76bP_3ut2-4teQdy2LchWZBouV5nMRYuJ0n82dcxoenCWMsRHzSAtZ6F-cQ6TPFHDJ8_BbpI1FmcT8FcXM0Btn6NGfGL1wCLYTHqPSPOXjl0EZwOOPwYj7FF8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72txfamC8SR2BZhSns0DUzNLAlqKLfbApHYB-R0W1Nd-lRs34QER_waPZi4ZtaWEahuQ7j95J-SYNvjF51rxa2T3eOPprTjmNUA-U8nRQ2TgR2OhsSi0JW9RjX6pHwMsUPWnWQad470rU9spLqYrrY9uslXb4oLF3fB6-iicllMMBDltJF0tr2WIGfPlqT4CWFG8_hoBuBCQHbF3eCTeZnyHOK5tGBgdTGu37HJ1mcs=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_11_1.jpg",
+      "assets/images/ev_11_2.jpg",
+      "assets/images/ev_11_3.jpg",
+      "assets/images/ev_11_4.jpg",
+      "assets/images/ev_11_5.jpg",
+      "assets/images/ev_11_6.jpg",
+      "assets/images/ev_11_7.jpg",
+      "assets/images/ev_11_8.jpg",
+      "assets/images/ev_11_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 12,
+    "title": "💙💛 Вишиванка — це не просто одяг. Це символ нашої історії, сили та єдності.У кожному орнаменті — пам’ять поколінь, любов до рідної землі й душа українського народу.",
+    "content": [
+      "Сьогодні вишиванка є знаком незламності, свободи та гордості за Україну. Нехай вона завжди об’єднує нас і нагадує світу про красу та силу української нації. ✨"
+    ],
+    "full_text": "Сьогодні вишиванка є знаком незламності, свободи та гордості за Україну. Нехай вона завжди об’єднує нас і нагадує світу про красу та силу української нації. ✨",
+    "category": "Патріотичне виховання",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vLbiQd2txymTIwvzwn1TkJgCoW4eHW7HOlXtCnbqmqVcq5aSv-02KgakR5QsWMfJU5VhcA-jx05zkpGhIY4T0Bz8txXkxRRN5nOCT3rhXyJoLbYXuFj4Y5jYz7RvxHsWziRGTmvG9WkrJutyGZuKLioOJf9bJE24jJ1oLXF_fZQMYF93bhMW1wTnQG1gBJMZQpI6tHhtaDIelYZaeIoSN3slQ4AAVkyMrEl_XwMdw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72upEyGdIqiZRXdwG7tMY-ZNmxw_Y1HidlrK8ijxUP3T22776hVafz1IHLn6bS5HN_FeqkrqcHq20Z90gyfHnpv5ghKQw8vXdO9GV89dKY0vNB-o_k2UBHrX26aDg4qK1oFZqEcWOtJmJ9kwHXnnCnN2Mel7pfFKEj83NOwMt14UcoeBUUmWcxkUahx5xqdZRhU5qar4--KBM8nKqwoJBrz6WMXXf3-WnK127QJlB9w=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v5niQKD5xL6ARGLz7tPAwwC52F9eLh4ItKGJBCgv45fsawe8zttYO2b9kVhG8bTyFcS2UTP4mgXB_ToZhHh-Bm9-wKtuNr6Bw10TlmCeSNMJ8sr3rWX52l3iGoninqFIE14icuaU47N1beULu9J_YLtZDkCQPoDa5OnzqYxZXOU7-b_tj_vEvglkM2vlraqbIZJHhTzJEbt2bvSN--UziQyMfvtGVWVnqqYLf0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uNz8nYYg3OvshzmeL9yBslYrj00sVp1VpCIWkgs3tjOG1NayTkq5KL_0KRLtadd1CgdBNefGXrSscMq3btLtbonh12jLR21gxZp4xvWtUP6G82Zhvg-s6EJgu4t4PsXGTJFvWXmxMXD2wAv5n6xZYk0PbrdIo2G3jOGMlP_NGyrzEjnHicvUWFb73crtgKatpM8ilR43Gfknb5iwlghlNXJHv27gk1JpnZImmdzsM=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sleBvZq8G9dTEOqcuTs52SJT7jTiQk4d7LP7ZAUobpjQ6z42CS7T6-gVWcUsMRbqm-zDorp41KunKNMs-ZNEEQ6jK_Eqjcs9-mPgWH5CyEqufzfcdbA8AMULV7dMz8jty_l1Hgwo1jFr6W8AbWDYBYYLzpB1blDRSkfd968iIzZXSGG3FAEE3kIP6edAf6wD-CcseNQiL3JiV0h-zhq_Conu-HHgN_0IvIoNYVNqg=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s_nq2Q6u_LFxjdCK2rr5cQizu9_RZZzqxFud6Z6tZdYGKm2gJ5hdlUDDfdpf6WWptps-bnYQ_mMKK0MvYdmxig7gofvL0u5V6qVo01dIvWNnfe5nA_HVLCEFh4vha_sD-gc1cmjdJ2fkkOm-MesP09voSlQaeMKZiGMMhR8-iAkIOG9DnUrgvDHNs0gvMNWsLt-L308X-4ib7cg-akIoZVVDZsWVlljC6Mas6Hkj8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u5EDW30HHr0foMtXKpnYUzclB0q1NklIqeIH0cW4fjQCaG351bmQ2grni-b0IXswL6b9EZ8cYRCJCL5ilfSG5rMrRWMG1ZhTY7cHEKALNoCFbfbXNFpOgrEp_UtU5XZkuM9ZEJmMOIo943S9jpB_ObQHwUGlTRztD1XbMbr607W0JzAJGDZJbmr37IwZ9ms6BSzVXPH8GW6JWBw_JbJmmQt8HboYt2ED6TPfBerSc=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tgBfy_xPLBk_IvLjONfyFjR8Xzs4h0X-qbNIXKzhWQHw28uHGsfTCZklzQHUOqSTE8CGL_CzYB29HsTbyCAad83GRwNfG_njjZHIllO5em1WVhm-QQsQa3YrrodymwQBl8BDo7wFSd0-M-JRGJA8aOoD8Ig-fafAboZvtDR7o3i0vRsfP25u695c1OkY2AZG9_8uwHQUfOrOvdlJOK5th2rT5xKn_TWiuXouGmqKA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tnoFN6SrTmWh1Zh4PHsfMM0klOb14LUbaH-X27TX1gb6Sox9vVt6V8iTxQjDGNthjvnGBaLG_SYBorPY3JN4_ol3qGCOEXu-4PogxhuF4ME4DnmH6XljVZU-On-WiGlNk6sU0-SOhWWpqff_VVlcqqmPXXzfuxjbRkqkwiC6V2lIiHCTxI1GU_aKMGbt3MR9VitrPKc4IUgjyDEPndmVL0hfetY99USwqy9rmqA5g=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ul3JJLP6Y83LSGhfdHMYoOtM9QtPV0yNfsLb3dJPTtlB76ltScG25BRzRAfnz8dr4nhfvtet5aoiYe28rD6uxJDHSG4qlCXtkLfYjo6FXhTzCVyan_LlvuX2OGo6-2RWHpi8DpeKSW1vN3MKrDRSe_TIrI_2x02j9Hl3OX1LU3qgWSDsI6B-rxMfBSLBTHIegBK12hhF2cAGhUhDyu1bfT93IsB-f9ya-W2cTF=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vAFyl8kCJHFTexZz3Cen0i1_tE55YlrKusbwiyEIGSgok59qzbItelygHPcPgz8fpQwEqQuDmfyMAVF3rteg305lrpDJ3q77_B5aGpbVq4nKIsW3YoapcshHe61ozhpfRObQBl01OaeqANTEcehT_hso1rAEY4RTN1R6AlYB8Eey_JJTjLu84AEDGZ5iXL0JOBnePT4N_faFviSyTmAoAB-VRjHbUJz25iqJRVuI4=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sOQwvoCFab4OEMKDxCebCUNmK-R9uzNejMu_NULc3trTb3TlDxYbfU-9OJ5XSRKNWd1gnnLIQaYzi6HFXMr3p6qWOwXBa-cyeGkyYCY3_0KbPePG6lxFL1rveX4WIA4Lu6lrS4JKAmdziJ-9aF1jS0XdY_693qXqq-XPz5satcWGU3s78DD-yY3Azk51JpfGmID_QMXjv8rJOiFUTtY_8vG_2gfgSkMXrl3nui-vI=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_12_1.jpg",
+      "assets/images/ev_12_2.jpg",
+      "assets/images/ev_12_3.jpg",
+      "assets/images/ev_12_4.jpg",
+      "assets/images/ev_12_5.jpg",
+      "assets/images/ev_12_6.jpg",
+      "assets/images/ev_12_7.jpg",
+      "assets/images/ev_12_8.jpg",
+      "assets/images/ev_12_9.jpg",
+      "assets/images/ev_12_10.jpg",
+      "assets/images/ev_12_11.jpg",
+      "assets/images/ev_12_12.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 13,
+    "title": "📚✨ У Липницькому ЗЗСО І–ІІІ ступенів відбулося Свято Букварика — особливий день для наших першокласників!📚✨️",
+    "content": [
+      "Сьогодні учні 1 класу попрощалися зі своїм першим підручником — Буквариком, який відкрив їм дивовижний світ літер, слів і знань. Маленькі школярі продемонстрували свої вміння, талант і творчість: лунали пісні, вірші, запальні танці та дзвінкий дитячий сміх. 😊",
+      "Це свято стало підсумком першої важливої сходинки у шкільному житті. Першокласники довели, що вже багато навчилися, стали стараннішими, впевненішими та готовими до нових відкриттів.",
+      "Щиро дякуємо вчителям і батькам за підтримку, турботу та любов, а нашим маленьким учням бажаємо успіхів, натхнення і цікавих мандрівок країною знань! 🌟"
+    ],
+    "full_text": "Сьогодні учні 1 класу попрощалися зі своїм першим підручником — Буквариком, який відкрив їм дивовижний світ літер, слів і знань. Маленькі школярі продемонстрували свої вміння, талант і творчість: лунали пісні, вірші, запальні танці та дзвінкий дитячий сміх. 😊\n\nЦе свято стало підсумком першої важливої сходинки у шкільному житті. Першокласники довели, що вже багато навчилися, стали стараннішими, впевненішими та готовими до нових відкриттів.\n\nЩиро дякуємо вчителям і батькам за підтримку, турботу та любов, а нашим маленьким учням бажаємо успіхів, натхнення і цікавих мандрівок країною знань! 🌟",
+    "category": "Шкільні свята",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72u2VPUYTjFN4PGI7_6Q6_0Ku5t6Dj-1uVe8ZQXd6Vz7keyG_JfrbZdFfs1fpTBq7V8iIVy68onfzAyvPOamgfumJgkqs63Txf33lvd-VhvsTyhhATdtyOSo-9I2QYFBiifXjmr3ChQKnBOCuUF2L8pHWlqV1k1zjK8n-p8A71XOkGXOP1BtotJaA2eEMWBay4w0nsCybGkB7EtJR1vkmEeEI9_n9TYmt_YNMjoSP6s=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72smXZJzu8QJKq9nRPPtxk7xsFl_Zp5Ffp5SKA8h1PkTFgor-LuQ4DWipa_-bVt5OFpNE6e7s6mzLQNK7keQQRVdiTENcW-zlZYWLTuO-7FBZoXKV6Wh0Juw6MmB5jRdTYCjoAcqCi1PuQPLxkZGPe9DMNNRcmyklXf3dsuiYub-Dm7AedELR6CcxoYiHVzW8GF-6Sv6K4E3870XxuweOd31C4XokIlkedy5RwyL=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tawsL4UyivHlHfleiFADNk4QDptxVSEKTPvWvjD4AY5geKxfRffypq8NxQu6UzQzAm3mO5c5okRTVL6L9NGbiuzcWPT6LoRM-rr68Ceqlyb6CVnSKQyx1el6UBTg2M__KGngYZiQ-bUUSczvqXKltse1vAT8Uufqy0EBcXEovkbhLnS8zoWee7apdSeco=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sdSoQRAVqEqksqbNw5GQf5UiPkrqyYmDciakfgut8-QskcvpVaiyEuxQ7mepnroGGiFyedXR8zaxM4lljxtgPqI5iYi7aLVWcGgk6WkmdUXs_4n--VXjcZv6qrQm-Fd_547h0xhf9ukaf8rG4_dIg84MWjy_N2XESh16WN9pVgwgCZpLY2eUo3zjKOJjXele3GtJu5wN2SJizpuny0r3jMqPEL3FR0Lr665mzdaQQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u56FyjwBMeXOvPjmbA7cETV0Tj2LdBo-H3JcZnNQ33829JkoF05G3pa7jiZH09yiNJ520V2fDP7y-krGIhlpGCvtSXkVKubRYiizmjN2ZfVFjwo8RY-dxVWqPLbkRsiCFHiwyx-K9JvaQH1i-vgGyPAMDktUoX2g-iwtZEjDmPTe9NpM9U8FvB4FBpDWeL-VWq10PLBMu5KuRkaL13jsG70GC0alFdZxuTsVdn-ZI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72upCGXOCEHr6iUReVtffZn_c0MP5KWPZje78k_-IjEoNDKWBsKc694EBXpikzgQNTNmofWB4G_Am3jiGqJAXDHU8_Z1PUGcUgZ49dlX2QfTB5ZRPCJuOvYe0kBMqcFOPSaYFGPflGXULImg4QNxXDJPWsGKrQb9zGfJqF9tRRnTmrDUaHDBTe1ZcoXbQGvtNTrFV48BOX8t8L9FfIk-1mxRT9ghx9erAfRW7eEYz00=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sEQUjcIT0voHu1KZjN6YRT1sA1O7eroUt80mbSFIsI6ABhKBuiBvYUbvqqwWEyHhlYQ8sIxxabvfwynVtNCCerZfXxUBJXkyzdoAROXMKPqqqCmODYntkWSnkwveCwg1BhMDfhBB_iNEDU1N13wWXUhRFj1_OXsx-QYby80mhOE2x664hSzdY1_q4I=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_13_1.jpg",
+      "assets/images/ev_13_2.jpg",
+      "assets/images/ev_13_3.jpg",
+      "assets/images/ev_13_4.jpg",
+      "assets/images/ev_13_5.jpg",
+      "assets/images/ev_13_6.jpg",
+      "assets/images/ev_13_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 14,
+    "title": "Батьки та учні 9 класу Липницького ЗЗСО І–ІІІ ступенів здійснили незабутню подорож сонячним Закарпаттям! 😊",
+    "content": [
+      "Учасники екскурсії поринули в атмосферу середньовіччя під час захопливих мандрівок величними Чинадіївським та Мукачівським замками 🏰. Справжнім відпочинком і джерелом позитивних емоцій стало купання в цілющих термальних водах Берегового 💦",
+      "Затишний пансіонат «Маленька квітка» у селі Велика Бийгань гостинно прийняв мандрівників, подарувавши комфорт, смачну їжу та теплу атмосферу 🌿",
+      "Ця поїздка не лише подарувала нові враження та знання, а й ще більше згуртувала учнівський і батьківський колективи 🤝✨"
+    ],
+    "full_text": "Учасники екскурсії поринули в атмосферу середньовіччя під час захопливих мандрівок величними Чинадіївським та Мукачівським замками 🏰. Справжнім відпочинком і джерелом позитивних емоцій стало купання в цілющих термальних водах Берегового 💦\n\nЗатишний пансіонат «Маленька квітка» у селі Велика Бийгань гостинно прийняв мандрівників, подарувавши комфорт, смачну їжу та теплу атмосферу 🌿\n\nЦя поїздка не лише подарувала нові враження та знання, а й ще більше згуртувала учнівський і батьківський колективи 🤝✨",
+    "category": "Подорожі та екскурсії",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72ujOvVDESTjbZ6HoteVPjn3pxagbTvmfIA-iOEgXD1HlZm_2KAQkGQapVMfV1FwRtuA51puuf-OliaaDP2jA5YtfSbS8yBdgRNxjkoPtxbAfnQ1FW2W_yYKy_c8LgDbCnLeqn4RX0vPxthoSkeJcpYLlMjepbIaQfz4jkkv-BeR3CU6-6htqw4YPM0ItEVqJgznzwV4ZZEvlvQzIYJ989uZgQuPiYl3bzL7s1N-3hw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s7hP_vypl-Yuxlj8SBPt5juaAvWAXJ9f3aAI2jsLtrBuWGy7fhna1oDwpy7rcQMp1e2WpQ_hp0F6v2QV6ZxpZCKtGXpr8_4Ls9B_njyj5uNGCLOd8UFcsz-RzGrY84mnK4q6BGATxY7bC-ImFCA6E-uIgIyeI7-LRmiNtvHgcXNeGzOyemTP3K5e2G3V4=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vULnReHOX5K1fmc2Pu6VuvhOBOZObOvh5osc4Kx8XYCYS8Ul9x1WZ3AhrpWy1Hr98K2fAW9_USwS7DhJD-6523ZM-OWNK9Ke8v7KJ3a8-nI91t5MRvJF-nrk7wFQplHnQWMYJI_itgo3pDgFMDvCYguf9mufBK5JpOrmqUfBub5kErgYaW9qnXJq0FL_-EZkGrSAblJCilEc0QGbwSJz9zz72wwmAZMfXiTe7B3s8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uJVlgP9XQmob60PM5NJfa3iBgpyzai7naIrOlIuWbJ4nST4DJzIY9PS1NoQhPMW6n1Nb3hbfK3P6NMDNMLo5IGX-mhnScPuaBauJAoKfoZKopvvKty9l5J-R8jrw2XVE7JiIjFNUYAib6OPBO9JoCfFCFgMEq0Qk8ruEwqhOMPFS0wimuO-CIoX16lC08=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sWP4M0cIZaFnKSrGFkx_KatydSGNFMTtxxw4YHAmUV8TK7sfERyqXYFMYJajzFZ2Dh41Dn6s0MP4QB14dwMU4DjsXd8XUPyNvZXE82JW9YW2q9YXIlXCYRXZzPvY9CfNmyTKGLqnUbAOWovecbCLzW5x0t9Bl43T8kqh6ZRgMp4OoYjT7N_44adCkY=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72skPLKO610IALbVEfR0NiSr5slEQBijA81Ma4TwQPpBtbzuGZFFQowGe7KB3GoDNiBP5FAyiLb0FqAVzp_0iWi-4aOqZBuonvkQQfbZlmu7YhpUmggU23IjhzlJnxt-E8t7ytwhwRFes9NEoTAHbuL-2vvhnMGU_h0-1MRGrlY91BwJsOTnxpiz0ExfaxTT_9dcocrc_wPrwOvcd0H1EZ85xk16AJqaeS9t_dl4Enk=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_14_1.jpg",
+      "assets/images/ev_14_2.jpg",
+      "assets/images/ev_14_3.jpg",
+      "assets/images/ev_14_4.jpg",
+      "assets/images/ev_14_5.jpg",
+      "assets/images/ev_14_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 15,
+    "title": "Сьогодні у Липницькому ЗЗСО І–ІІІ ступенів замайорів Прапор Надії. 💙💛",
+    "content": [
+      "Цей стяг є символом підтримки, віри та незламності. Він нагадує про наших захисників і захисниць, про тих, хто перебуває в полоні, зник безвісти, а також про їхні родини, які щодня живуть надією на повернення рідних додому.",
+      "Ми пам’ятаємо, чекаємо і віримо. 🇺🇦"
+    ],
+    "full_text": "Цей стяг є символом підтримки, віри та незламності. Він нагадує про наших захисників і захисниць, про тих, хто перебуває в полоні, зник безвісти, а також про їхні родини, які щодня живуть надією на повернення рідних додому.\n\nМи пам’ятаємо, чекаємо і віримо. 🇺🇦",
+    "category": "Патріотичне виховання",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tTmZhHQwM0AiQiCJTu7IsfhWToYwTK-5Kt2jE4yDrYz2zM836CRCGiEkNGDnRrPp1qOr3Gcj8mP-u4s6uM0lRKpd3-sYCiONghjol8kw4CduEq4c7U1RjH1tKp9IT3JAeNyaVy24YHMGQ06CMdmGtaxDyRqrHSNGZePnJUluUNQBk-w-RKQgpOWi3zv6Nz8coZwbbIQjfH_9U6PiLB2P1HPg5wr_tlHZ8JTAxSejQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sUzh0RDJw9BkayRF-SUZ5M0m8l4qT6VZgV1kNQW9ecld2_Qu577H4nP79Nnq7KCTuYTSp32ojgLFsa1RjjJSN1mxLBRKdRJGEbZJ9ves3XRUR35szR1e592VAjL0JqzpyfETBlIAdWghO_w_DlW28m5bqN0WyjetQPLrU9GXzSTN0rJMjNert5hE5gGr9DZTUYeEoZX4_PJ-cb07eFNJn5_ueU-xAPSYkHTbEz=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vtxlsleaBSnTfE4qo8L2z7DbvUyLb4Z5tNret3BXocFQaO_Lf_BbiXqK3WX6RsiuFPeT1DFOu-TpkTxDXaDCRhUinfDUUScSZ7nLFYoP5fMCXTY3E0y-DXwa5VlWlUbwBSHytDLOM_VZ8hOTXwW_8wBqTZHZXG5Krtvq3ScDtD175Jrkd1Qe1Ys2tYqp6hm1l-WRskYahCEb7G_2AqW-0bXb2r6rp4cglV16ER=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72spXP526HraZ5PUb-ZLoOobIuu6P3z73KaJC8kSBaYJUHCgKVSTnuDFlg-gkmy07KmX5nTzUYGC54fEPgyjWwIAnFeHtgsFY0Vsfjaq0T2mTcMEtD3BabiJGPMnH757hewFwAOnCsgSzzJF5QVyV7dpyL66t5HGnzk-8AlZoJNM3O_1c5-I6WtOfQ8BThsJDLDvtHYBdmpQj15T-LCgjoZpKPiHcdwnvt4iYLmcEkM=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u_Fi2h77wLUWz1a1pIYp7NIdR99aro1XKQ546WXwWnYeIjfFc-Zv_CXlXm-rTliiRnFByuQ9LRpyqt--5dURYd23fkeG9NSjhTS6H_cGT_--gxiZuXl6khutf_Z6__-TpTW8VDRb-_cmx6n8iFnYBNaiI53rsp-s12INMB06y2svcuWlkLdaCXcTwNqXKwbJx_jANlmvhxROrGCQjTeiKFgsNtdB3o_EAJvaM9Jj0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72txktExbVHylTB8ig-rklV0OA1QmZtQQgmMEHCnuMnYPu8mK0GAeWCEqKnzJDsEBUvBrXcrES7qOwBh098UKgHP92wj82jLGfHG-89RCWHewwewQLwjtQEEZe05rPOKjgSylkqYSGgSm1ZarGrhMzXM9pnfjPBHqUmOhbuGu3Jyn_dMJGJ_GDIOKMzpzQpx-R5ra5xKz-xn_evgx9hG1Q8eY8x0i15IYsSDORZBae0=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_15_1.jpg",
+      "assets/images/ev_15_2.jpg",
+      "assets/images/ev_15_3.jpg",
+      "assets/images/ev_15_4.jpg",
+      "assets/images/ev_15_5.jpg",
+      "assets/images/ev_15_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 16,
+    "title": "🌿 День праці у Липницькому ЗЗСО І-ІІІ ступенів🌿",
+    "content": [
+      "Сьогодні в нашому закладі освіти панувала особлива атмосфера 💼✨",
+      "Учні з натхненням перевтілилися у представників різних професій: лікарів 🩺, вчителів 📚, кухарів 👩‍🍳, будівельників 🛠️, поліцейських 👮 та інших. Яскраві образи відображали їхні мрії про майбутнє.",
+      "Такі заходи формують повагу до праці та допомагають замислитися над вибором професії. 🌟",
+      "Дякуємо всім за активність і чудовий настрій! 💙💛"
+    ],
+    "full_text": "Сьогодні в нашому закладі освіти панувала особлива атмосфера 💼✨\n\nУчні з натхненням перевтілилися у представників різних професій: лікарів 🩺, вчителів 📚, кухарів 👩‍🍳, будівельників 🛠️, поліцейських 👮 та інших. Яскраві образи відображали їхні мрії про майбутнє.\n\nТакі заходи формують повагу до праці та допомагають замислитися над вибором професії. 🌟\n\nДякуємо всім за активність і чудовий настрій! 💙💛",
+    "category": "Подорожі та екскурсії",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uyXtGotgYo6E2OLPtqnTr5qkZ7V9HxGVVM5xkrseI4zH99ovncnz4ywD7tusAadNpG7TLzd9bgAnijihld_eIHxnUjA5e50oWLOgCXW0Bd-saWt3Af1eexmeR8j2DChwLe9rATsDTe2QXIBd3e-b2VQ_kaDZdZBLEXn-4DQL1-yJLoZ1tVvlm_F3LmOt0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v6WHvpeZF--bv_PKfYkn9ITIKlCFqZHODDttGHCh-tQIdzPCSWK0zZgoTPAz4i55Yj-bxU8b1jXlXQ87w6kVS17GzfJ9i7pgav9uEWF-bJ44mlgjiB4Cwzl2uFYyl2Po60eXUwxupZ4bpxnHRBVWXibBElWKuS-j8DOxAD0OVJEPFYSaWOqMJsf8dyFjw0To70JFKlKybfMd-dV4Rmyj6rzHfIVzvg8HV6cSqu7eg=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tRSaM_zawRXylzdJ2v7VEmK_KoLugmYKICiBY5_dFi0asMLKly-glgWwjR6Mus2L8XN9WMmUE03PK4uo0zoZTY4N2_OaOsXJsFS5SKBSUFV2wZGH4WKRofpmyXqN92SlxwSuIvx_eNeVgF1WhHVSNA1k3jNFs4VRL99fLAUGKt1Bafwp6islzq8dCgUCJ_TuZfBUnmCAkXtYq5ZXmB4Jl2CkstSlDqTKO5i0uc9FI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v9RBPyJBBCXkVI7Df7C9GHla9j6SRfx9Yq9fGQH_pSemzHUY55GolmenOsTzb3Nr41o3HlmPlmwAvJyKOoexOebaFSOdeLXoWc1Pci4kIWBsTFyeFkIOXZK-4UTKU9Gf4x_RWi8W9BCbtfSZXzpD38beCq6VVA5oRO62jV1U5gmNn8yzJoAIht0uSz=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vL7tIjmJhhfEJ5Vr8ylWrm95chXbQWPNXBA-NixBwmLhkblsJH7626vxNR2yDfkJK0Y5EWeu0C7xFFmFGXpAvlPvugi0z7CohX1vJMT9AJoSR3AhMA-VhcBMi_OrG-qGLKshyU0KpAi-Sycsu-NPgm6xWEYkKEwEMwdcX7sRiEx_a9w4tNSasaVp4pTVQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tnTvybYqnwkOJIaVejN8Ht_TWKt2P_9D59-ZqkItMSZm_aXPGLJlhBMeXY7xNGtmOPvj18hp_YvgAQfrDctI_DjoUew3FRqFFHC7w4w4AcuM4qwk6kwGlSxgVaAps951EzORpvyDCp6SVZeoSiCyWV69tztpHwdZA-WZdSbmxSmegQoSOumr8E0w3ZdEw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s7SfHbHLcLfHX_p34rYYKzvw8_cOkl2wHUVd0o3cHTngPY-plumWwxXQtdxQZQZ7h6Uk41_CvGDf8g4FC9KMHkL3DhTy7KjFRozMHLk0C91biVSKraNcApvoxwEsa9uENZFyZ8oJpIyzmROXLDQzpffl-nh6AwRa-zvNAYkHRd61YqFmFFuI74-3yx7EA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t6RpCzPh-L66hE7AwRVfed0UAGeEG-UP8IICmTztX8qWHFRjTYatpiJWC67imi5jgSnJA2fk21TXWJQQlEowHPMfxfjev_qn5hLLMr3bWqt8VvlaTDSzUQHDjfUuvBsK7gjFzFXyc31YI0xIDTf2Yt_YnVZqwiTpxVUGZsnqyNb1d9yTgAsGZjFsms54b7SGOe0TSeZbprcJxzNwCM8Rxu12l-sDTQIZGqia3U86E=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vMmUFK92CNUy_ZT_HbE5MQZR5fIe4e1nyrhnpQuhJ0wxbdZSbdhzYWdqTX8Txtm4sdqXF94pb9N9TfMiC6jUrSw6JRoZgdwxmge6g4eKmeR-62VWTmK_5LKz-1YWPthnLNWp3zXQyenQIHb0KcnduRCnnKDzQ-gajxyCV-N3mE5xswp3jgSy4-IVhEqNg=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tzOLU8Fq6DIMq8vk6xy-qmobtRnO9FshWjC1H3OtDUU22v1vSnd46-aT8c9HS3oLRIDjlfnRK8zjqHex5k2PqQX-1g8Hz6TeCMVz7y-02IIfgzSIuJCdMT_jmFJbEIVb73Qawl7f4u5DTNR4445mD1EE-lCvwCjSSmRhlbCf2HEIwrVamK91_-fUpsYmo6mGZHayXoAm34xTDbwcVxPGOYpxjN-0B2vwjsCZLt5mw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tHNRscUksZRZOYN4xqP-FOm9UPCcsHwQNuLf9oq9HHGe-O6LX_EpOhTOUJh0l5rSFEBUkiIzlYqMsgS9sUUDp9hn2t8Hby6d9oyy8M50KQ28saQBoBjIkrKXsBPle5Rfxj6Tm-ojDPASXJcU0M_FGI6jMDx9wANYqNtZhyY0ZuxBDY5O0tAHuLYjfRrvyPU9wPKn6RPo9ob_BFni_KS76ZZuvhqcpVJHQnUXkVUBo=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_16_1.jpg",
+      "assets/images/ev_16_2.jpg",
+      "assets/images/ev_16_3.jpg",
+      "assets/images/ev_16_4.jpg",
+      "assets/images/ev_16_5.jpg",
+      "assets/images/ev_16_6.jpg",
+      "assets/images/ev_16_7.jpg",
+      "assets/images/ev_16_8.jpg",
+      "assets/images/ev_16_9.jpg",
+      "assets/images/ev_16_10.jpg",
+      "assets/images/ev_16_11.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 17,
+    "title": "26 квітня — день пам’яті про одну з найбільших техногенних катастроф в історії людства — аварію на Чорнобильській АЕС.🕯 Схиляємо голови перед мужністю ліквідаторів, пожежників, медиків і всіх, хто ціною власного здоров’я та життя захищав майбутні покоління. Їхній подвиг назавжди залишиться символом самопожертви, сили духу та людяності.🙏",
+    "content": [
+      "Пам’ятаємо тих, кого забрав Чорнобиль. Шануємо тих, хто врятував світ.🇺🇦"
+    ],
+    "full_text": "Пам’ятаємо тих, кого забрав Чорнобиль. Шануємо тих, хто врятував світ.🇺🇦",
+    "category": "Патріотичне виховання",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72szisAENbKKiQvOqGcWE5eaAkseS1dntfGe5gxu4eMjX-2mA6CzTObHODqgqHnWueXDW1-I0lOHl_hdztCm7_94pLf0YmEjvpz7bb1W4jJvSg1Te6cEdsgWVWbADLcf6jeDNBQgCmUUyKDLk9lALeSW5zJUO4Vg0aIjxYHM0edy7sozzB7BMGbis29-g7CGqBTjihYfHVGTA0dfKf4QUrE2Nwt05XWueW43FoGFQLM=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uZA0N5sxJgwv-9UBJzC0j0g7GX6kAGhI4gGKuTncD1j3WFt7R-F3snJdSfIZnULcRh_Aft_odZretwLFZEPXX700NPnYfFJTQbF3W_QnxWWHFZtzQqvTtNxHY5DwzeURFqC6fVdwNKYPCFFjPxKF2cKvkVoD3kbcRQ2miAXFF2sBbt_29vvKaRQIhIWfR4OMByaM_vlGBZ0rk1T4Hxh4x0eOqMBwUESJtYq5hfNPw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vkKnRsQKcaL8Q7SMXHWinb8A7u9x--3Lnznq4ntCp9D7LVGt3rkal44uPTfQkuoD3QnWCA1PiiNLYBeqe7xBNhztQcPd7P7Z0dje5cpuY4UrlcwCcRSufYRCH9buWmgiC734uSHIs7RtRo7CCihZPz-M1A_X-cFw8NHSYm7JWg4Y6tv0JeybSpCIXiSK4ml1TJbuqMnNvLmqvicnUBKt0xjJWMGRpvTf1flksFnAc=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vg6BWkddgpF9XvUx6F4h69zKT8fiBsG1jTjhEE73_70fH6DGgWDKgPbKYbYmYM1s0Sy-c_C4e5aDozrToV4hPhSU7V5HGFdbywyDxLlVsmU8iRtGjrWVQ8PLrc7D4WCgtLPam5KsxXWR1vsrdF6hBnRttEZOWJd4OMccJeMPhp89s1DTiE7CzLtvF6I-OGldOhmxv-L_KJ7bheouaINyHTz5B4W0wMb-Txnc2b=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vImC7mtvG3VgP4y_CBtvIetb2_pm19FDpIVuwQ0idP_mUGekVo5xFOQKlVh577yhnskpXHRYpjuwgnxuEhS1IXUDiUX-lP5U6gskTKqWitvH-D5-AVrI6ETIBaUsSAjeiQGnpvuqmp4--jDq_TzcZflKscWpSwQK-HH7K-zJsjfYNHmgAaNKClu20qGeGux2YCwRL7QL-Imv4IKsyPc3l39q7Yj4wJjTJIZ7rN=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tWzKE7_DPZUG4ZoUaJScxMI3AOdEV4YhXlZss_Agpgr3SzaUToU6cChj__gLA_UjgOpQT5ABG4xLD-MflolfiOeuQxRLCIl23OLwTk1Rsv0X54DXfBjfe71bTfWvwRP3T48GnYCiBlGjk7GJ-E3Zl1DX6ZSMdyfEib715tQKonQg0zsGrtapd10Fo0Lc--PqFLobaqwwH7rNhaqO26AODtrzODaVjXBJhuFUQ_wOk=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72taIkonkU95Rdj6AseoLNYjZhD_UVoMCt53nkqnZmkS7I8EAWnvV_vHXeeYEWDtTdqBLNs0qKpKpOrxCJDoOJBt_C5nz9absIWT3AzgXHXcOHgpd9KRoPzEsEJpVYG1Xnezx6PSznhTgWoavo7MiYUH92s6kvGwxLGTvXUszGjUfv0f5QD7GYspm6y-YT0U30JgRg9W5QckA2qabECXFBI6dblYOW2s9_kY_Rkx9JM=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_17_1.jpg",
+      "assets/images/ev_17_2.jpg",
+      "assets/images/ev_17_3.jpg",
+      "assets/images/ev_17_4.jpg",
+      "assets/images/ev_17_5.jpg",
+      "assets/images/ev_17_6.jpg",
+      "assets/images/ev_17_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 18,
+    "title": "У Липницькому ЗЗСО І- ІІІ ступенів проведено практичне навчання для працівників з правил використання первинних засобів пожежогасіння.",
+    "content": [
+      "Під час заходу персонал ознайомився з алгоритмом дій у разі виникнення пожежі, правилами користування вогнегасниками та іншими засобами пожежної безпеки. Особливу увагу приділено практичному відпрацюванню навичок гасіння умовного загоряння.",
+      "Такі навчання є важливою складовою створення безпечного освітнього середовища, адже своєчасні та правильні дії можуть зберегти здоров’я і життя людей.",
+      "Безпека кожного — наш спільний пріоритет! 🔥🧯"
+    ],
+    "full_text": "Під час заходу персонал ознайомився з алгоритмом дій у разі виникнення пожежі, правилами користування вогнегасниками та іншими засобами пожежної безпеки. Особливу увагу приділено практичному відпрацюванню навичок гасіння умовного загоряння.\n\nТакі навчання є важливою складовою створення безпечного освітнього середовища, адже своєчасні та правильні дії можуть зберегти здоров’я і життя людей.\n\nБезпека кожного — наш спільний пріоритет! 🔥🧯",
+    "category": "Безпека та розвиток",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72v2w-SNh4SfC1fl0Z6lXo7HpUayC4SMe3PTN0tbchEIQ1CIaOeC4ohkzwTEA-u_aU4zhUzAcM9NercEK7uzQfYv9mEtAiobtn8PlXPpoa1Bknl3riNrNhegFOusJYydoQu6nAep3VRWf8_juKQcXZgSAYAMYh8pczSmTPxuW33GJRqCVSDW3XosMUw9aj4nKpjfzij039jl1GgYF7SljaRKlMCMumnM-s-refBt-Nw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uRE1rdFG54vtNQ1KbCCgmWlGPdoT8dS8uG9ZZV1lUK2EEVU6S2ZtjlD_DkMmS1LI2q7cgNEIER3nden19D8h128oWZPK6-pnsiSqpdV6XeQA_gjYA0HTCxEEW8XfKIUIheIw9tA22W0U0wG16U4U4Ym-MLHMRE2cm8ZK0OvToqFn7LdT9TrsKkwZ3g6cSr0ZRUO9ZsjgM_7MbicxgrWR8I9GOH5KdpuO62dD2movw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tgK0iOmC9LZSnLE_axy-INdwTSjUvLjQk0gFbphc01CAgS4ijHHto4hiBwDU87A3mxx8oSvqAYV6EEOZiGOeA-nx0vzNLwDPKQjU3acOKrRs9uhj9K0VPqoTWN03I_NxAOZUwip7gZU9EHORm-tBDmJlH6H5h3u78l0xfKdgub0QNN71knC9Q2ERf6uboXUPrpb1lpS_4jqIgOVwpdPGK01g2-f7Y456JW99987aQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sEg39Py5S2svrAQWaTzXnIixnc9MAaNW0u_e0fwRSwLIPMHEE6UHCz93iG_B_H4E4DPgfBQEd3F1Rg2Z9cpv5zNDkQwOfKMFrY4y04Q2FMr_SVwbSdH3-cS2sJzVeiXixH5HcU0_C3kptzkaD_xh56qz1-bK8eSWTs_xRfikUTTz53m3kT5us6dz7hZ5H_lfIBkFZ3Hyb6LXrwWcnK2akJqxTjQ_gkty4MuIPKG90=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tKR5LQK2TqaaYUDdIQIgRJlQXSYyhgy7_rnKH3Rcdg91DTZ7uMa0xzpOYSJD5RcGDwN-ichdszfPQU38tcAxwdZRt-lKVpra2WCwO1TraxGd45rA9WMu1jfwP-fdmjpCOjsXLpYVEN_38oHJPU_mRK9DZ2xJR06fBa8_CpxRu0AOee9P2RJOKNL-1dfRd9Bp-HlKMlrM0phnaW8B-lDnAOHxiFDhKGekVtlI9dhiI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vVfCE0EgResNdbt_I-pXuS7JAInb-US8c_M6T1EBZH4ooporL3YhvSNBxj7-nlAgy7KUqD8H4GkgbNxcLLdAC7oiKFf94VpS_ANhppkQTPWeKvvtEKTHguGaeFbHKtmCNL2f5cvVepcP4OpgCLEODEWkbf3v6tVN8ZCUQbZNFK5O5Vi-ipSDpBvIXT8OR8gj2upLobdmvDGmcmLg2SoS5GbS7ev_9Qx9Bwh5gR=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tGH6crXZA5XaVtI4j_pXTqE6qExhxz3p06nUukSLeQK9-CfyqpmjXEFB_8Fbt_GWafgk84dyXHPvHUKg_y3FS63zCjSbfdHKd5XdvbLlpItDTvgjiQSACUyTAZ_8Cv3P7M5SB6tzX6xm3md_m-s51rjJ1cdTnZ3_XAbhOeDIBkF1QCTrTkvnWddHdE3L99T1hNIij49U4ndGPRyiB5e20NHO-O7fiD49NLhN1WSoo=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72toQiIYJF_UKueu49EBZb4I3LVIjO6GCH9XPF_9cUkH-urRDEZvQK8f51aMe4egki4ob8GUeXyNC4ukUJqHPsTZDf5rMqYcr8-0VX2GqbqeuRNEW0fmuISPGU6w33TYI7O_vIJXViiceuF53PWlhzruqm_E5UuMAVZDf--n2x__hwqwA5FOHgw7-mEbbCx0jx2jXfBSuLMcGNJNvA2BEKAYYu-SCmSb178_Nsht76g=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uUShgu_t9mkRWwtb955ZTLfYiG9gmGckcqkpLuKAKQiDCzJykcNk-ziCbbEF3tEZ_5UFt9vq9kBIyXw-bLAqY9ABigH_y8EcKit-2u6RFDAnZP_ECOl3HTwrbWDLbnF7VzOLtAiMyLHi1ERHg3s-CbI-FVIvOcoMtKa-kGoyXJ0yQr3bJzcB3YGYE-sjPO0EcilbnN2uM9GPZrk3Rpq-QlzTGsRxZNUYHlJmgXdRA=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_18_1.jpg",
+      "assets/images/ev_18_2.jpg",
+      "assets/images/ev_18_3.jpg",
+      "assets/images/ev_18_4.jpg",
+      "assets/images/ev_18_5.jpg",
+      "assets/images/ev_18_6.jpg",
+      "assets/images/ev_18_7.jpg",
+      "assets/images/ev_18_8.jpg",
+      "assets/images/ev_18_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 19,
+    "title": "Сьогодні подвір'я Липницького ЗЗСО І-ІІІ ступенів розквітло від яскравих вишиванок 🌸, щирих посмішок 😊 та дзвінкого дитячого сміху 🎶. Ми провели традиційні гаївки, щоб разом вшанувати наше коріння 🇺🇦.",
+    "content": [
+      "Такі заходи нагадують, що українська культура — це жива сила, яка об'єднує покоління🤝.",
+      "Дякуємо учням за неймовірну енергію! Нехай ці весняні пісні принесуть у кожну домівку мир, світло та надію!",
+      "Разом творимо майбутнє, пам’ятаючи про своє минуле!💙💛"
+    ],
+    "full_text": "Такі заходи нагадують, що українська культура — це жива сила, яка об'єднує покоління🤝.\n\nДякуємо учням за неймовірну енергію! Нехай ці весняні пісні принесуть у кожну домівку мир, світло та надію!\n\nРазом творимо майбутнє, пам’ятаючи про своє минуле!💙💛",
+    "category": "Патріотичне виховання",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uODkXr-G3cLpeqNFd3NzemjZhrKbyEqj7IWEE9XizjTBbLXnS9XTAmzBs5OBMmmcBjP4o4l6aGteQKxDrMsyUwkrbejLa_7NWkkfdyDZPEDC5BmMl-8KRypVj1MZ2XQfnp2feyOoWEwBwJqHApYXj4Hno5UnF1skCXnXre-NqSUBVQ8Y0uTsYV78D5p7HzNRVqz3zhBQJMY1DgLfLQaN5wXLlA4TJwT5xztmdhiS4=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vLRNd7BmTgZXCSRYmQzeSWD21E1FE5kt0wA7N32LGfLaA_DARb_Ir6CrlKSwU2YtDUmArnI3tz7nddnuS19s7Ue4bzKizMK0CnYwwdglw3QeCHaD_vlCe3Fvc4OGFvqTUlKdQ-ES-9_gsqWQLtYpggbsLx_qnXf39cMnOFPeC8VMDLj7ZPUYdXqiq_km2AdM1TcAX2j1KHeWiot0RYZOJoEG1ii8rer7eQOg=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72thG0ZYXUrXUyv0vaCC_0ha3Y0yYBVTo-DjdhO0kxFsAbIji3SQfN9JP4w2JaLwg4-LafJ-VtNG_B0quuBZ7GrjWsciclG3kJlYzbpTdVkewNLea5iWv8NoXJAqgz37_8f5SFt5SHmx-3VWc2kaog1Rv3xHkRsxulzUl20vDOXvMIarZhf17wDoT4kLooyvd8Z4TbVJ3xTFEWSNxqO3ALHPkV8-NhJscUAxM1Kp=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u5rhjTuqUZISqmWUJfvRDFSQfOGuuX5lTPZzwkd8QiotDSHD7sRGPNzOdaV8JfVmiy2WNTLqfTNiyJz78lmHiPNevbf9_ZI5Uu7G5yyx3-ATRo2lah9VWqZ9MHbTfpK9qBt1XnQ4zjpk72B-CdFZIqkca5HMZQKrDKsvZFIuqq5cxTHS5rxA24Wfx0uVGXJ8k-6HYKlvhH0-yCH4F8o637BqWYXVoXXGVJE7LK16c=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u4nph_Ng3ENLVHRuyXk4Y6Ohi8_JTN9DyRtryNZY9DF1dquYl2zwwqg36X01uGTahmEb6Ua2bsxSGGdrAhwpR8nCc2RoeUMnexGuMsQMdM9tC2xYxjnFhnXZpCy_SeU615PhHJSv3iiRzUV28yp0onjiACJVGK4kn30EzYxICKYt0jtYaVyVKJ9B-rGGZqit3d_D2hI0QcBow32tHceSxhF2-QigYa5xG6QDYEpjA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uuZ6J0b2GVl3bqqeVksKc85GFibVMQxTqbbMErx0qTisEP81rOqCUSBmZD-pM4CRIUArcc28RUkczkyoJyqFmOjs-ZSuAFcm5AXWGBa0Hxz3sHOGf1HggE9sZgemm7GD6BslOZY3zYztRhqREhkXgWA_34w9h3TnHhjA3KNJjmCPYnx_DegWq5McoE9mL5Q8YbS2vfBQMXcNQMaW8P50SEZPfUNgQshvPmUZNnwzw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tUk7Wzq1elpUhiCej3Byls5SX9oF13McCW_W0xCepKf7szVlZmepwySjdYpa2zGhsam4zCa1tOUxbOebP-iRX11Y7LxRb4syF_Co71WXQBson51pmEMu17MYvg4fGKOlOtCz78AJD3JGoo6ytBNFkgv3-LpqyA4H7Lwko9s17i-EfHSitMrT7k8sGHqehxDT5yEMcFQSSsfVNqJteoQmq4IGMH_MP4g5Lh4VeB2ns=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72teDMHgzAcN91TwlyHbbxO_j6MnAWJ7XvUoTPhjBMkio-tucUSoD0xpOZp0RTOGMPtmxUA8CoVJq2ME5H2dKKvlLT9cJwKDIhzvAA92jtDXt40QELk6KChEsQRgBF_ofIkBhDdouk8GFnY14W1dvBN5ha18vILS_XNdNTla5pFTNIWmSbtqT8GzRXsRLRP72TmmskyN0O2SXlUBoWFM0r7ECJ1O6z91Xb7HTrGXXCQ=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_19_1.jpg",
+      "assets/images/ev_19_2.jpg",
+      "assets/images/ev_19_3.jpg",
+      "assets/images/ev_19_4.jpg",
+      "assets/images/ev_19_5.jpg",
+      "assets/images/ev_19_6.jpg",
+      "assets/images/ev_19_7.jpg",
+      "assets/images/ev_19_8.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 20,
+    "title": "Учні 2-го класу Липницького ЗЗСО І-ІІІ ступенів (класний керівник Жигайло Г.А.) долучилися до відзначення Всесвітнього дня Землі🌍",
+    "content": [
+      "Під час виховного заходу діти розширили свої знання про довкілля та вчилися простим правилам екожиття: як берегти воду, чому важливо сортувати сміття та як захистити кожну рослинку.🪻🌷🌾",
+      "Учні створювали яскраві малюнки та екологічні пам’ятки, у яких закликали дорослих і малечу жити в гармонії з природою, дбати та берегти наш спільний дім!"
+    ],
+    "full_text": "Під час виховного заходу діти розширили свої знання про довкілля та вчилися простим правилам екожиття: як берегти воду, чому важливо сортувати сміття та як захистити кожну рослинку.🪻🌷🌾\n\nУчні створювали яскраві малюнки та екологічні пам’ятки, у яких закликали дорослих і малечу жити в гармонії з природою, дбати та берегти наш спільний дім!",
+    "category": "Патріотичне виховання",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tBbUu3_6MYE9ygQd05ka8AlR2hBHxMv3yXM4iBXy9XWs_o9JQ5ebeT2D5RU2onwj454ffZVT_AJ7GnSZ0aQPJ7qeGPNIz9cDHAq_BzliPq5j0vyYOeWOxuL3otzcBHata0l51xd_NMFlr9tvePt8NuLJ1nnH-5UAcvCRnmPLIuatzt3vBI0ka5lOjaafM=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sFA0djXzPq2Y9IFFWIyRyJWiyk6hua-zEEC7O5E9KpWMxpcvBDahJRjlYh-I2da6IAlqueqW6fMiwVndIV45z9IXs405T5soRsBtA_gqWxUAOK5IkA5tRR9Y6LFcB55MOQdp0m48HiDLbbKSYWBWcv5DYIg3CwfxhAbutYRdfQTxaA4NIGpD29lAiVIEeE7UvbKheqV_vQM4CReLLoBTjOHj-_1KvR2A2RzUf_eaA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sUPUvd6MT-aPMVpHs2MtQBSk2Wg3sYTEsvY2pnjmH1StPb4f8IZ-6VmMpGTSDMPo2xknCAr-BCN3U3fQgDWzNwVifXjZsmzpag5-5WDYIl9Niy6PQgeADjtOMqoasQUlKTx5VCGC5isrSyjn25wJNgktQYSQJHWItvnzinrzZhNdiLkWYKTzweMgLjk8OAH9PnNbdi3Aygx79DHq6wd87MqsX2X2yeiBfpmLLr_bI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u2-yxkbgxQqRqS9dR0SoLK_577qUWFS_Pz5XSmkXP3PYVSGyPYXsDEeqvhcGwTGVsJNzF21T3t3meC-qG0XUcODtpFKcAOLLLb0B9Nouy03YZROmwFLiBuOQA_VT3s7DaD9L0Eq0B8gFaKaqw6bLV58oPWSrZLsMJ6SseVUkcY-UYs2pgE19dLCwY60TGbN2HynYh5HOnEG2DRVueRSi53Whs6l5kjUuRykIjGrN8=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_20_1.jpg",
+      "assets/images/ev_20_2.jpg",
+      "assets/images/ev_20_3.jpg",
+      "assets/images/ev_20_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 21,
+    "title": "️Щиро вітаємо Шкоропад Анастасію, ученицю 8 класу Липницького ЗЗСО І-ІІІ ступенів, з чудовим досягненням - ІІІ місцем у номінації \"Витинанка\" в територіальному етапі конкурсу \"Таланти твої, Україно\"️",
+    "content": [
+      "Бажаємо не зупинятися на досягнутому, невичерпного натхнення, яскравих творчих ідей та нових перемог!",
+      "Окрема подяка наставниці Іванюрі І.І. та всім, хто підтримував юну талановиту майстриню на цьому шляху"
+    ],
+    "full_text": "Бажаємо не зупинятися на досягнутому, невичерпного натхнення, яскравих творчих ідей та нових перемог!\n\nОкрема подяка наставниці Іванюрі І.І. та всім, хто підтримував юну талановиту майстриню на цьому шляху",
+    "category": "Досягнення та спорт",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72s6bPoK4N1ap8uBQ4rxzGFFa3kGVWlVTHuZCwHsTwTIEhh6L7cmG83N4eOviE029yfzGMXuFXUj6fCDgO6Q1wC4XJtlXJZaX6TzpRmdwV8QRQnT3QvzyEfZyqvpq87cDvT2MUTHphAaI4V9nu-3FVTPs07FkEn9jfn4aFCbcuvPOYQMsGZ9TF1hVj8Lh75kZ4WWxbebA4uwmNo3C3PBDKy95OYmpK5Cef-SxL8_T28=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_21_1.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 22,
+    "title": "ОГОЛОШЕННЯ!",
+    "content": [
+      "Шановні батьки майбутніх першокласників! Липницький ЗЗСО І-ІІІ ступенів розпочинає набір учнів до 1 класу на 202",
+      "-202",
+      "навчальний рік. Для зарахування дітей до закладу освіти необхідно надати такі документи:",
+      "• заяву одного з батьків;",
+      "• копію свідоцтва про народження дитини;",
+      "• медичну довідку форми 086-1/о;",
+      "• згоду на використання персональних даних.",
+      "Прийом документів з 01.04.202",
+      "р. по 31.05.202",
+      "Адміністрація закладу освіти"
+    ],
+    "full_text": "Шановні батьки майбутніх першокласників! Липницький ЗЗСО І-ІІІ ступенів розпочинає набір учнів до 1 класу на 202\n\n-202\n\nнавчальний рік. Для зарахування дітей до закладу освіти необхідно надати такі документи:\n\n• заяву одного з батьків;\n\n• копію свідоцтва про народження дитини;\n\n• медичну довідку форми 086-1/о;\n\n• згоду на використання персональних даних.\n\nПрийом документів з 01.04.202\n\nр. по 31.05.202\n\nАдміністрація закладу освіти",
+    "category": "Життя школи",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vqIeWzjoXwfu611PFvROCFEQyYVpeABpNUc-ckOgRm0G3uTHXmKff2J9MosiWOWv_Ek0Mw7RZfVF8a94PpMXIPCdbvTosdRGcpfZjMtn2kWm_MGeMXNat42mp1s507xTOITwZXOIQt1Wcbz5p5uWLyAVPPqondHLhZg8eRlazl7WYlUzZCBs_q0uRfOEkI4zAWV4bAONauOgPbb5mySt-KLPO22qTwcjHM9ePwilk=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_22_1.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 23,
+    "title": "Вітаємо команду Липницького ЗЗСО І-ІІІ ступенів \"Дівчата волі\" з почесним lll місцем у грі \"Інтелектуальний батл\".",
+    "content": [
+      "Цей результат — свідчення наполегливої праці, глибоких знань та інтелектуальної витримки. Пишаємося вашими здобутками та бажаємо не зупинятися на досягнутому!"
+    ],
+    "full_text": "Цей результат — свідчення наполегливої праці, глибоких знань та інтелектуальної витримки. Пишаємося вашими здобутками та бажаємо не зупинятися на досягнутому!",
+    "category": "Життя школи",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vVFKP8j1X0Tp--v7sr_KgSIxFkN5hUqhp2F5K1FM7PlvyDoD2odvmT7C5yUWvWfDrSveMdw2JgLpCZL3vnA_81mT4dSXCGefABJ0ZlandZRryUmRvaeFDoUVCfRhymvNQHHiQ6UsZs19ybwe4w0b6huW3wNYIJGC9fTAASNBVYUrQe7d2XBOn6oWL-ifCAhpBUdzK7l_JP1jTHi6Yk6oobitzn8kOjGEo4bm8U_78=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u7hDhV2Yr2DLtSrMTCYwAO5DpbcfQOAuNwijYAGPlaVptoap6qhvBKe1GK7I3fOLq2gd22PFTT53U5hekT3vvZ_M0MAXouK6a0lew0c5s0tYvmn3UsQ11GGqkKLmE7pm0BWep-2ND7QK5KBNL6JL4_13yt21Xm8euPQxdsBT2A0kk5Xxfb41jQiYmDgvAlD1VeP_IM6oYF_ih7h_KitEc8dt1Jp4RIwZdAyJW3=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_23_1.jpg",
+      "assets/images/ev_23_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 24,
+    "title": "Урочиста церемонія нагородження переможців ІІ етапу Всеукраїнських учнівських олімпіад з іноземних мов.",
+    "content": [
+      "Вітаємо Васечко Олену, ученицю 9 класу нашого закладу освіти, з почесною перемогою - ІІІ місце з німецької мови.",
+      "Нехай це досягнення стане початком великого шляху до нових звершень. Бажаємо невичерпного натхнення, впевненості у власних силах, наполегливості та підкорення нових вершин!"
+    ],
+    "full_text": "Вітаємо Васечко Олену, ученицю 9 класу нашого закладу освіти, з почесною перемогою - ІІІ місце з німецької мови.\n\nНехай це досягнення стане початком великого шляху до нових звершень. Бажаємо невичерпного натхнення, впевненості у власних силах, наполегливості та підкорення нових вершин!",
+    "category": "Досягнення та спорт",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uXqCkpZI_m6m8pPH298fsK9EzMaVFrxFfOeYWVmWzwZohyBoCVfOpRN4SEKxcJHuZlrf7DokN00-lLee-uQsSkFYinNlBNahQ2JMEsv1xhiLgaJkTRtkWHbfTNVLrvzuMRhgbJ3bs8SEsHs0FLmgegEg5dXf5dtgIwY3E3M_yndoq4a1kNZxOXDPl22Ss=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_24_1.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 25,
+    "title": "🍎 Міжнародний день шкільного харчування",
+    "content": [
+      "Міжнародний день шкільного харчування — це чудова нагода нагадати учням про важливість здорової та збалансованої їжі. У Липницькому ЗЗСО І–ІІІ ступенів провели заходи, під час яких школярі дізналися більше про користь здорових продуктів, правильні харчові звички та значення повноцінного раціону для здоров’я і гарного самопочуття.",
+      "Щиро дякуємо працівникам шкільної їдальні за смачні та корисні страви, турботу і щоденну працю для наших дітей. 💛"
+    ],
+    "full_text": "Міжнародний день шкільного харчування — це чудова нагода нагадати учням про важливість здорової та збалансованої їжі. У Липницькому ЗЗСО І–ІІІ ступенів провели заходи, під час яких школярі дізналися більше про користь здорових продуктів, правильні харчові звички та значення повноцінного раціону для здоров’я і гарного самопочуття.\n\nЩиро дякуємо працівникам шкільної їдальні за смачні та корисні страви, турботу і щоденну працю для наших дітей. 💛",
+    "category": "Життя школи",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tSwcNkp6eVPMtSLTSyHsoxyQpPMVEecG_LdGdrL_bUhT5M1IM0jhPacCYPQQ8PaOKj_gLow5vHwbED2E0Kf0rqPZZ-mbYk3J4iEX59RuwNQRvtCklml5hb2b1dGOQ_MHw-_4CKnhK-1KLDRu_1IN-MrkknIw51P8mFVBpjlIIXDNoWEr8nT5XbSc7XtRQpbz0TWxXKwmY2X4KDbtyFFpNDtqBX_uUuC7lh7vUVEbY=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vzs7XfwTSY2CwDvqnsYVkZxjOTxM0PKY51ta2GwhMtvshtULBIZfMbm3rqtdebcLw3ehw2keAq683MFG2bYsHAEiyU3BXl26bZyujK5ccUhTlu_N-4Breyfpw8twol-YFp0lB2vy0O1lRJcJdv3iEVlM864LqDDJawvywlktNal54EeXpwXjopY2MizPJVYSED9PyvBTe3RautU56wMlhJJZRh49hyjqWMk44ZFAs=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vaxBNEN7I5ISK36lp4WErL1FOKSplWqW92uuPpHmjLIFVFiC5WQ84QKd_PHWtmG6eJuSiMI9-sHcmDmzm9YVr1RijpLRGwyl9rm35nXuXJwdTFAGMog9_K2zFaJL1OuSwDaWQopraLvg-777u9YNZoZZeJ29QYao6nJ9Q356YaBB9tA7kDIEuHnmmM=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u6bFeq8EKJlzP1fyebpNRl-8ZMCzCwG0mNkSehcZAFaYlMQ-6l5Gql-Sm7q9m7Jq2DXHfiUYMBw8ItuFgOj9GAi5fXQdOwpRXgINcLHF5NihK9LDkmdVqNAxlJp9Ekgm091Km3l4yhGZXnFhIRDlJPUWPi6RGzxmd3iMg1p0e1vEhi6DKvJghp-k8v3d-J4L4ExVCSC7K_NqP1cKFoMLf-dY2012s2SeMbZ-Toz3k=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sKPe18gVdPJ5ZRaQgj1nm6UIjQcmXvGWuH0tArvlvq4QXZOP_T29FJB87MEX6BOXF-Fen17wiS4hsS575-DmJFUF9tjU09TNHtbLl76xV4rVLnyugUSnnPdUMeSQXuSTuUOdMUer5EpEM3gdk8_aSgghfomLIMaTQ3TwRbdq8ewBeezMtpfRZAe15F_rQ6e4XRuATQSptH-sKsyFfnYtvPs_kpvOIukENZPii1=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_25_1.jpg",
+      "assets/images/ev_25_2.jpg",
+      "assets/images/ev_25_3.jpg",
+      "assets/images/ev_25_4.jpg",
+      "assets/images/ev_25_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 26,
+    "title": "Найкраща жінка у світі — українка! Розумна, красива, щира й чарівна.",
+    "content": [
+      "6 березня 2026 року у Липницькому ЗЗСО І–ІІІ ступенів відбувся виховний захід \"Красиві та сміливі\", який підготували учні 7 класу (кл. керівник Дева Н.В.).",
+      "Цікаві конкурси, музичні вітання від хлопців, запальні танці та солодкі призи… Свято пройшло у теплій атмосфері радості, щирих усмішок і гарного настрою.",
+      "Учні також привітали своїх найдорожчих — мам і бабусь.",
+      "Нехай у кожній родині панують любов, тепло і весняний настрій!"
+    ],
+    "full_text": "6 березня 2026 року у Липницькому ЗЗСО І–ІІІ ступенів відбувся виховний захід \"Красиві та сміливі\", який підготували учні 7 класу (кл. керівник Дева Н.В.).\n\nЦікаві конкурси, музичні вітання від хлопців, запальні танці та солодкі призи… Свято пройшло у теплій атмосфері радості, щирих усмішок і гарного настрою.\n\nУчні також привітали своїх найдорожчих — мам і бабусь.\n\nНехай у кожній родині панують любов, тепло і весняний настрій!",
+    "category": "Шкільні свята",
+    "year": "2026",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vpg5rEDBrM5_k3WrZaluVCDQBN_lOPN6OFwHMgWglHvI8_sQIaW6n8YKWlUkd8S4ZjlBHSK_rvbUOVxmHB3BU_xohLAoHh4Vn4gBC7DH-M8j7AcMdWUASGn-SFBvW9z7KYnn-xGyVrosEIYuFG2T2nAt10jxQc0a2SZ1vVMR5mcHYTXFe-Bh1MY8z0dNtIRzM2HkqD1PKwgd5_6nPDAmmDnR2ev1W76bTLQu7a=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ujK1WHCPNsMQW-7vXyLH8gUp_qYe3hRUwycZmJZ_CP7yFj4KHzedpsBFOaqwNKpsOCxqRzUMLslxHaBEC1hujiRdo1QPEtC7cHVaUVlANUFs_ihpyy2GA79RRQQlWPzGaE03RkrjWPs-H6az82GtQDzPCWc3zRcCX7ipP5Yqtk7_JQhgLcYDvqD_U9SYCLFF-Q41TiPoWyYgAfgZoHCAW9wa8kD7i6a5S7GbHkxNw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tZbhYl21xc13ZlnNrhxWufXfmn0_kqneLMvESHoTtnzPF4FoG1zkxN7mcrbRf2PfZymOfCCF_Qco70uuUP_F1F2vTIZGkI4i-kiy76VkJNfTMxc01wBNQQorQJ_M78CfYrw-ALhhvDmoIpmuFOZGgQqXoxvZXYdBpao9a7qss7g2iFW-oCmxuJ9UXGaac_Hymj5Rqh1MkILSAVOL4i3_4I90HQ2vxJSIwmXU8ECSI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t-yxRMl5PB5L3Z_cZIbIBB50Pr7E-twacnoLwgSMM0xMm14Wyxn-KISU80mdnjqFHvwERrtFnW3rZhQajurr_g9d8E-9slfMGEmL8R3dAeB5pQLzfmWy95QJLKEGigTr3Xgw1PqS1d3_zIayCI9lb_Ngw8e2sNyRebbYKs-XVQdD0Rdwc4B1Md8sxO=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ufp55Yp2jkC33CldKpcfHU6msSE50GH6CUltJILRn4Sj0HKBV6lzQarh_P0Pw80vHJWP1OQaqcyGPH4KfBzpJIhfgNqv0MauKtzWDDNBIF7jcxgi-KyLziAju79quMz1TDuL9yveWLLjnEhWICcBcgKXyci6Dd0ETqPIxER86yT78HTooUHI0MU-pbK1lUB5ADy2lhgIzvr18koGS8wTD9GIlBP_p_CiiMdgJv_k8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vslGBWkVfyo9UTx36HbLbWwC5nrVycX7mbHK0FODJhHYghA1m-nDo8uwysQQybzjIFxinJj2H14TocnttuvoY_A7sPgyv_88m4_Q9gZighaSp3IpZ5Y_e_VB654zpmDDNlI39GmraypwWdYAyulAz-21xVdPLCPQhVyLtNRvBTEk6k24Src8uY0GyUMXhofcST67WQlrFFxTOvjg9WTlFtPAmwlxlAo0-7fFCYg9o=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tBnCHpcv6aF-CYA43outCgILG0Wm7q3cjLnMgYtL8k2YxsEH07nU83gwfn3lFMwr695140QyylvwMpCD12Q5lxWJp30U2NC5DZgyAysTg0Zzz4a5_LVkhKpZA7s6QHFPJgnsI_Pu78SKam-hRAR_P79NhqDaCs1XEpXRnTQfJYWRQ4ar0tCGszVAoAIpDLdpfr4mrgPY1m2duYJOM6es71FxDnQ3aHgxyjxTy58jI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72snzL7IoBq1VpCJiuOHUKfLzaabe3-7NtP59oWw1KvQKd10FQDO7hgR-Zt8mU3NppcNgquwjbyalZvqrUJqSCD_ouABIXO2MjfbkKSMGI0KS16Evn10iGA9yxgBSJHMPRXGo9wpJVFVj5uqQX8gmFamoc4PNx9vUOHKdqybTnDh8mcnSg1_JRM2c1SHQGTfz783nIMCTv3k3K2bR7Meylx5iwmZPKGE484fdkztLqw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tFlfmzLoTKP99wNIag6Myf79tziz8hMWcT175pYfJmo3h5OnupINrttGABDvsB_AWgRnNRGNhbQRi-_jROvztCAFpRGuMBZxe4MmDS-99VZEPK6gflShWnLf9J2egfPNLTZR4eq_YIbtFJDqdE9k-3gOy_QqDHhNhDnIuNnC_hvo1qOPsbCptIBqrC5u4=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u0dhgFcHT-rnQOzbI5JfS1h2nzsPSLweX0RSWgYi1p0g6tdTwutvoZM_MZB1lUBYcVOhdnu--gd--CRla9-zPer-dGOs3M_BMsf5Oh2QOYT_ECY7NkW2qwvLNoyU2mrUgkZcGOWyeBj6LdP8eh0vfe9HoqB97M5K0ExN2wHYxH917drGFL6s8cLZLFNjKQRneIUBXxVPS1SqdAhjeNdKkEPx4ePeWF_IZ5vO2M9ho=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tVWD_CbGYIYUPYOOmTfG3DRnEi-mO9YZkSwwJvS-mnPJXbiUjPaUQk-9JgS_UnIkBzUr8lWDXdYB8OAJCASdOEHl5T6AowdvSt7xb2ApmI_K7XrSsPlh6OyMdV6B0jLfi-9tP-0vvp7vEKm24aMmo9S0RfKMDXGOTfyGfduF2nO-B-GVUI6pSyWOHxHmxQb1t0dYhYgkKUsfpXHXUj8zSNas_jiVnxzItZRZFs=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_26_1.jpg",
+      "assets/images/ev_26_2.jpg",
+      "assets/images/ev_26_3.jpg",
+      "assets/images/ev_26_4.jpg",
+      "assets/images/ev_26_5.jpg",
+      "assets/images/ev_26_6.jpg",
+      "assets/images/ev_26_7.jpg",
+      "assets/images/ev_26_8.jpg",
+      "assets/images/ev_26_9.jpg",
+      "assets/images/ev_26_10.jpg",
+      "assets/images/ev_26_11.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 27,
+    "title": "Сьогодні 24 лютого — 4-та річниця від початку повномасштабної війни в Україні. Чотири роки болю, втрат, боротьби та незламності. Чотири роки мужності наших Захисників і Захисниць, волонтерів, медиків, усіх, хто щодня наближає Перемогу.",
+    "content": [
+      "Сьогодні ми не лише згадуємо — ми вчимося бути свідомими, вдячними та сильними. Пам’ятаємо тих, хто віддав життя за нашу свободу. Підтримуємо тих, хто боронить її зараз. І віримо в мирне майбутнє.",
+      "Ми вистояли. Боремося. Переможемо",
+      "Слава Україні!"
+    ],
+    "full_text": "Сьогодні ми не лише згадуємо — ми вчимося бути свідомими, вдячними та сильними. Пам’ятаємо тих, хто віддав життя за нашу свободу. Підтримуємо тих, хто боронить її зараз. І віримо в мирне майбутнє.\n\nМи вистояли. Боремося. Переможемо\n\nСлава Україні!",
+    "category": "Патріотичне виховання",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uGcMTRK4Mqdkom7xQFwPVsu6-__FIdLJnWRAtxzf-bHzpgMghnWeTzrBIExG0v4uYWYbF-wah3F3wSqWgoVhSi8ccUPZtm6T-Ct5K6zpXLA1vO2jY87o5ImUYfXLDQKjmHj3UttvBLkQ5jILzPV-d5NBciMOEKH_gbAY61pIMaDZGUERba8XJMH0erICh9_sEiawFMtwBdtRp01zxNKbjFyUNI93fheryd2pZ7VoY=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tnMSCiLweJUo9J6kbhKDO8wW0rnApXUCsn_FZyLlnYg15-OCEfD9YKsc1J3cqpFODMvEF2Rk5H9fTDF-eWdxXCmIWSj1caG179fQi-Yh1ILrAGCpw4IZ2_Oaiwvw-BxwyGEXX1NXjaa30_lhWbvsVr0P6LH_BQ1chop_FhmuY0cgpLzfG8rXqOaj7vMRzKFUcbCIcdMtoIvHfIZ9QyZvAhvW7MX_4hIL3MAPIVMJY=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vE55B-3XyOhMqFmGLcIGkSEZvPRoJeaACbPSf-lZS8BBPrNuZssRdxUU0os5etrt8jEHrTmmbjqJkJC2SvaM1w2-zHMIPGsnpsg1jwBG-n3P7fZX_7NjgIRBfg6ecoCVMly1gVQuRN9qdGYWRSGVQnkz-z7uc-iwMCSBEwdez3ZX3lcLe5kmKQyDUSth0c3hFSe2oVtGvv3T4AivXxgxNkg5NpQ4AXymUXy6aWkAU=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uyTOSx_s20_qt2qmfL0srpCNVkGdkyNhIoS5gEcYHWtx_kGzPzSwikCZvpiEjJfBeC7v5Cg7NNsp2SjPJY6i0hn37oZt2RK-VdFgGYV9j2iPeTEwHWDERm3qhFFJDPhd4Bd4qpNl499kkZcjH_w0bQ590ZPPsKgR_OwKHpnNKsa1YvXWrh-9nVkadsb1fHacKAKJOQoIGiuVrUOcPXDmenrfjX-yy2kU68ws40=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vUrJn3i_0bU8auhji4dWMoanbbcZPZUp6f3BTp5b85Cj8kSbkN8eTY6eyWmHgPmeQGnUWjmnPVGQOGNFPRrrz8BTd3AWiHDg4ah-jJwwqRCCBDFTvDmxJ5tpdhw1CJ9ZXTF2wifv0xpZr7az0KRD3r_gjf07eLPerdobwqxIWwfllApbRHxWWgykhf_rYzAFml9OodCoyHtZhOWZyrHK39GmuhZmQUx4PZTt88=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_27_1.jpg",
+      "assets/images/ev_27_2.jpg",
+      "assets/images/ev_27_3.jpg",
+      "assets/images/ev_27_4.jpg",
+      "assets/images/ev_27_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 28,
+    "title": "Сьогодні — День пам’яті Героїв Небесної Сотні. Ми згадуємо тих, хто вийшов на Майдан заради гідності, свободи та майбутнього України. Тих, хто не побоявся стати між темрявою і світлом. Тих, хто заплатив найвищу ціну — власне життя. Небесна Сотня — це не лише сторінка історії. Це символ незламності українського духу. Це нагадування про те, що свобода ніколи не дається легко. Вона виборюється сміливістю, єдністю та любов’ю до своєї країни.Схиляємо голови у скорботі. Дякуємо за подвиг. Пам’ятаємо кожного. Герої не вмирають.",
+    "content": [
+      "Сьогодні — День пам’яті Героїв Небесної Сотні. Ми згадуємо тих, хто вийшов на Майдан заради гідності, свободи та майбутнього України. Тих, хто не побоявся стати між темрявою і світлом. Тих, хто заплатив найвищу ціну — власне життя. Небесна Сотня — це не лише сторінка історії. Це символ незламності українського духу. Це нагадування про те, що свобода ніколи не дається легко. Вона виборюється сміливістю, єдністю та любов’ю до своєї країни.Схиляємо голови у скорботі. Дякуємо за подвиг. Пам’ятаємо кожного. Герої не вмирають."
+    ],
+    "full_text": "Сьогодні — День пам’яті Героїв Небесної Сотні. Ми згадуємо тих, хто вийшов на Майдан заради гідності, свободи та майбутнього України. Тих, хто не побоявся стати між темрявою і світлом. Тих, хто заплатив найвищу ціну — власне життя. Небесна Сотня — це не лише сторінка історії. Це символ незламності українського духу. Це нагадування про те, що свобода ніколи не дається легко. Вона виборюється сміливістю, єдністю та любов’ю до своєї країни.Схиляємо голови у скорботі. Дякуємо за подвиг. Пам’ятаємо кожного. Герої не вмирають.",
+    "category": "Патріотичне виховання",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72saaSSJKbpOnmeVevaDb4nSDI_J0-jS39LAJEeEpE53OdLjrLgEtxjfIdB23POb-t7sKYfowzDICbLPXtsptf1NR2gDs5CSl4hP3YCMZ1HtQWOB-3jXTYxfELzwhypMWkFkvU2rTAABqqCCxDWM3jJLXxqPie8AG7vK12BuL92tMzDqVlOePA6p2pb3Bzvt4vCHEFqONSp5d_ASSNgV5rYMcTUcfzwrjaKy9LpI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tgHhUldHuJ0FXlyD3iwxyUOpqclWK8JzPSVx-4S0Z3iXne-Qx6fK5oEdjjR0nFaH36Q7rYR5-aM-JrX5C5572gMr43doIfLcCO-hcObrqaX7Qmj0p6X2gThsrawTGjvkKmOXiTZbIpUMhN7lVzdCxCHrc9U5q7T4ylfJmFeEhUR7XP2nlGpY4gPSYx0WZx6riTYjGwW-O_70KZEQVUALgQD6Ycm7Se0u0_3jGC=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ssr1JWRp_AY7hHsiW86JAGYd-pfzyIC4T4Fnp7sO9yZrenafxcCA8e2wbCf8Rt-_9e_eJQbE2kJQoZXKZD8Cs0Y0sxmHO0iO3YyqLPxocHJE3KuNmcS5mptcHgp4PS1y2XHOO9gnfAAc0hzy-YeQyTh-sW0UAuDkINjwwDhdGiHULJotTBVXk6BeSTVYI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sksZo09xL5TlJ5ZWQtKxe1TGWCjzVcjPtoRtPqCWItFjweQqLkpCSvQm0xIdvnextJurzYhxJDb9-82MaiLmxn-2nnHLSbwekNh-Mz1Fcga3M6532t_kI9-chHTqjNWQyutKDm3--KMNcLQv_xKAyESoe9IWlSKAPDxXEqAw0Ix6KGa37CdnZUzS8WwM7fp6rOqODfUYrJc9mIXD0izP6UmENwwCxSHmKWlRO9-jk=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uFLv1gQ8n0gCBdmqLmGfAciEW-kIonjz-WcokEtFR8DqK9fmmIy0lR5u3J-mLMaB7KiEdf4iAcsK-W80u0-5QEcTzpdMUfglFZil99mBrXmxItIKhMVC5U-kb5lErE_Sx4cpcMGafDr5-ECQEsxSzVga5eLkoGKX_vxoMO9cIbkMt4qnGXpuqxuu50qE4y0PccU7zkJKTUhhmC1LqSeKK_P3ZzD6QYvcOICc9biso=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_28_1.jpg",
+      "assets/images/ev_28_2.jpg",
+      "assets/images/ev_28_3.jpg",
+      "assets/images/ev_28_4.jpg",
+      "assets/images/ev_28_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 29,
+    "title": "💻✨Безпечний Інтернет — це спільна відповідальність дітей, батьків і педагогів. Разом формуємо культуру безпечної поведінки онлайн! 💻✨",
+    "content": [
+      "💻✨Безпечний Інтернет — це спільна відповідальність дітей, батьків і педагогів. Разом формуємо культуру безпечної поведінки онлайн! 💻✨"
+    ],
+    "full_text": "💻✨Безпечний Інтернет — це спільна відповідальність дітей, батьків і педагогів. Разом формуємо культуру безпечної поведінки онлайн! 💻✨",
+    "category": "Життя школи",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72usla3v3g_4S8c49cfHiycXi11GQCCNyLS0NnpTC2usSVACfkUIgyjT6mFFMLN2A0zv7xkLnPZuT3lYVGA0coWvMi6Kb7hDGBQgwFBCP8L8kiF00IVQ1bAAFxevCC9p64o4VaE7DLNJ9GWFqHe3Q4UkRHHSet61Lu6lZAIrOOdnDJvuw-dHXGdaizG_Os92_5nervCfPikjIqOzIb7NkvSCpqOwNP80LMmXa8YoMTA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72upWA6s0cgZ2ricR-zuTAfi2Hd6xowzWTIwwc7ReTUhwp9f3qYhesfg7e9X3FgFdVn5cm8VmCCTyv3aBS8mfcK2kLKBYFur-Cloaj1T0apPy30rlrl9YCXfLNykVy0DXj4NxVDL4yw1kyKdOScsY_cJil87T-5IhXvqziUQuXG4BvtGm6Q52C42SXT_6L9UTdbAim7yiz_00kVK5OpsmglEP45n63hGMBs25JQNAvM=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vhfsnlYEwGra7mNF0Mi0F5KuhH6KGE8BWt1wbV3-YLYLgoROSKURFiU_WF2dA-wHu8Bn7M6OHLPYoSifsE9M-S8Vsy9xxYsIAwIGSLrmCRbAPOoC7tdjaX7jswvRihSqMOK7VJcnejeizf2N9lm4woMDDEioSppmgF1qNBQlGclQUokLMKZ7nS5Um_GHR0aNkJetqtdO3CXToBRlxdOVR_pnyTktR-kBBaXr4bK6Q=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s53brd_Wm-rXlAfeAchFhSUE8spofrn8VdUEZye1mfMvr6EqhdZ5yBgN8hoI4gZjzqyWISL6fcHsawFjeeJAfRrhVw9uIVv5KsGEOVU5Za7rGQzuYHENobCnKoD-6is2YDzh8MRK9y62Hk2Bui_F5LCFutDqXB-IEegT8fM3mayFLlvUoit4qj-AiiKj4tYzLz3vUztqLrSBJhCPo73Ef3a2B1HjZPDG3u5IXhmCI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uuawisV7QydI3NbLAXIgvwftykxi76BBXFnnrt0ZoeV0cJLbD2Eo-bi5Y1RIfQMgvCd8ir8LS0BxxLoVEpc2W9ZZ_QxqlYu8r01BfGsu7r_qjJsNwI0tSf6_YvzVc6bBf5qBFiRHq6BTZymuineRvacANF86A5ErEt0C_G13HEWRdVtZ0--31yUChyrMCdysNIWrrhDPm39tEuJh8v50H__frvyEc1pu285U65HUo=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tEVWpBruZpBqzpyjWZCDbCYrXdILKBqC_HTIMRC573L9zMaOA9LwPAv4mq46Sd29TSWJsmXzq-R-Vmc_kBWC-HbPgwbuZa99OGi8xDx37-ni-HAy6CHgPSdUKzo6VC_Dgq0OJJrrKjOHsxQ5qkh4LgtpC18iYKIexDAqFyhFMVjmhlbZOgb9dAJcprm_N2chFOfv0ecyC-g9Dg2lVxggfL-OwiCDVjHK5cClfp=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ts8Z_vxWd7kfXNDPjI7Xn3wka6Yp1FGq_8Pvz1FBCXWzeR_p85JeXVJc34XTo7iJNm3GvShvhozwNBrF2YJQCeQZq6ME0076CzxU15LQkJSzSfnsnToD9uQ3-jabjo-plWdW8dBF9BZqRF-2yXAA70locdu83cS5lUNZsirFd8VAo3VQMVGkeUlzJxXhiaSUeA63I_3uyHw-NWuqgW1veFK43saJINy_YIy7gmOvA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72thFyevCxNY8bLeZArWSRX8KUS3mydQPFk41_hzUFgc_N0WGXvhei8UwbG0zsd8_sJ5UkO0G59iMAZU8Ll_Tbb2LA9waN07sXy5biI4s4_5HCEH9vTuejdiZvSAtopcrvuKy71RtbkfgN3-nrsjh0U_OHvse-7aZh8zgJ4d4X-5fYwZeUNfbhCxB6qmOSAymAp6MNIfKgDRoS_zFEr57to3yCTpb4b6qf6VX8B35_Q=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_29_1.jpg",
+      "assets/images/ev_29_2.jpg",
+      "assets/images/ev_29_3.jpg",
+      "assets/images/ev_29_4.jpg",
+      "assets/images/ev_29_5.jpg",
+      "assets/images/ev_29_6.jpg",
+      "assets/images/ev_29_7.jpg",
+      "assets/images/ev_29_8.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 30,
+    "title": "✨📚Свято казки у 1 класі📚✨ Сьогодні найменші школярі Липницького ЗЗСО І-ІІІ ступенів поринули у чарівний світ казок! 🏰👸🧙‍♂️Діти перевтілилися в казкових персонажів, декламували вірші, інсценізували улюблені сюжети й дарували всім присутнім щирі емоції. 🎭✨ Дякуємо дітям за старання, артистизм і сміливість, вчителям - за організацію свята, а батькам — за підтримку!❤️ 💙💛Дякуємо ЗСУ за можливість навчатись та розвиватись!",
+    "content": [
+      "✨📚Свято казки у 1 класі📚✨ Сьогодні найменші школярі Липницького ЗЗСО І-ІІІ ступенів поринули у чарівний світ казок! 🏰👸🧙‍♂️Діти перевтілилися в казкових персонажів, декламували вірші, інсценізували улюблені сюжети й дарували всім присутнім щирі емоції. 🎭✨ Дякуємо дітям за старання, артистизм і сміливість, вчителям - за організацію свята, а батькам — за підтримку!❤️ 💙💛Дякуємо ЗСУ за можливість навчатись та розвиватись!"
+    ],
+    "full_text": "✨📚Свято казки у 1 класі📚✨ Сьогодні найменші школярі Липницького ЗЗСО І-ІІІ ступенів поринули у чарівний світ казок! 🏰👸🧙‍♂️Діти перевтілилися в казкових персонажів, декламували вірші, інсценізували улюблені сюжети й дарували всім присутнім щирі емоції. 🎭✨ Дякуємо дітям за старання, артистизм і сміливість, вчителям - за організацію свята, а батькам — за підтримку!❤️ 💙💛Дякуємо ЗСУ за можливість навчатись та розвиватись!",
+    "category": "Шкільні свята",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tBVf_KEC68iPcHxZy8xwQhqYJCtycq5h4G80GWQQZj4xkwhqCG1i6YzmhXyQiJgSqVhnn0oKUIZNE_QlyVw2mgnAd4vPa8fIZIhSrk7sHmmYc5MdrOe95XO2fgZufzjpMqPq7FLtaCu3S7OrWUOuhFCM9CnBHv8c_VXfyCI_3fun_CT3yP0IOmqyrTgAJ_aQ3T3qAyfhCV3Phv8pFi7jNbpkBWjdxkD1fr8yehYmo=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vI0CVWjcmqokUs0LfyqKh_nqkvlKjNwfKWSfjnKzUFyyPnOnrLmJbOFTMGUrbGgNlnzOZMAckP4e3ZFrcsdqgTrBtL-OPn0-DzL5rL_j-ik7iqoVtVpkvR2ga9E5EjcDLx-DqzS22Cn7oBfqaB_HcP1BM6eqo5I2zJqWZpxaqivxodcqVLyaJg4hXbxLP54tZLGWhMG2Efemtng03NISsNw8HoINed802STTIsZM0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t5dYpPqgUGJoVlt6BTJXbPg1wVz5qQ8D4PcmgJckJ5ZpaL_kkAbUwMauOXI9DkO2XNzEvcaTPUv24zcaAGoK_fdKBtev9P37hPMHLXc7ikWaDse_h4V6iLmExpkI8Y7vHLLUtVgb_hy0u6CZbwIkQsFVdBPrhJ97eEyYh1XuNAFp53vvULmalAOCO10MkFROQsrxoRgRg3ESIlSerLTaBcVNcqZ61I2NThhKkV=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s2zbXFtBDWqHPh_uPgRMT2VuPhQBDX4I_fZx_5wTztUGYjuFaCtetGUrvPLCeEYEbJpK8wCMy6-WsfjgFpA3KI0z4LGLUyDk5-v_00aDBC9VPi8StKT95vCSxqO_1oddW4lpHIPNVZ5imqGl5TaICtzcCEMoHuh5BAONFEMlFQ363SBwO5CjRerDisH3pQzP56JHYl6-OseR3RGu7iCVaIdx-lp84OioOwEzYU=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uRmBd58lypU9povDgoroNelwpI5k1LI659XYYr8xuv8iWxf6SC4NC2Q4rCZ4IvdtIB6_hU-oXeCHNhY6LTy_oPGgtmJCixgvkjlHXzt0FXfBjj8NQfV7MVLgKjVNVVj-OXiTgQTT47iIjTOOTnAlN77N-88NRBB_A2ONy70_m9_ZgGeVekFn8NzfcCNRmt52ZwdDPRhtEiyUhgjrabvQnQukBW8R8dQsxoHx_moHY=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vNzxuHDrODK9ZkstSBbCfk7H9XEvywjOM0xnL85jZiLzj3ZJd9xxTrbJ2LC_BqOPCrmMDE6mkjs952667Qo_SrVG_mFgZYdV5L4vqjd2ylxWio0Li4NC4u59BxN_BkttWqmKk9a5bUMmx7HJ-9E8Ef5jyVoUH7pIfRsRny3JMIub4kaltF6JTPVzVREXHoM1X9LZkmmyiowN879wUdGv9lSR0XjhUP3V1myiu-kBQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tQZnJz7cuL10kYgV4D9gUyoLkYsSD2nZt4D3aGwW0atuav3vOXoPG5zzQuGTIySXrXCixVMrApN8419Dfnhb_Or_isp6wuPeawyvONEeILgE57jxrdRhj0TNfvzKq_aB10Fh04EbZ0Jz1YdNbhF3zQWPdpDbVvmgn0wHwVt9d5YSlkHn3HUPZf8n37tp45Ha1Lrv6wbCAyQbzJWbqapAtif90VF5uyU_mSrh7g=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_30_1.jpg",
+      "assets/images/ev_30_2.jpg",
+      "assets/images/ev_30_3.jpg",
+      "assets/images/ev_30_4.jpg",
+      "assets/images/ev_30_5.jpg",
+      "assets/images/ev_30_6.jpg",
+      "assets/images/ev_30_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 31,
+    "title": "💘 Напередодні Дня Святого Валентина в Липницькому ЗЗСО І-ІІІ ступенів відбулася цікава та пізнавальна гра \"Хто зверху?\"💙💗 Команди хлопців і дівчат змагалися у кмітливості, швидкості мислення, творчості та почутті гумору. Учасники відповідали на цікаві запитання, виконували креативні завдання та доводили, що дружба й взаєморозуміння — понад усе. 💞 Незалежно від результату, перемогли дружба, позитив і гарний настрій. Дякуємо всім учасникам за активність, щирі емоції та чудове свято! Дякуємо ЗСУ за можливість навчатися та проявляти себе!💙💛",
+    "content": [
+      "💘 Напередодні Дня Святого Валентина в Липницькому ЗЗСО І-ІІІ ступенів відбулася цікава та пізнавальна гра \"Хто зверху?\"💙💗 Команди хлопців і дівчат змагалися у кмітливості, швидкості мислення, творчості та почутті гумору. Учасники відповідали на цікаві запитання, виконували креативні завдання та доводили, що дружба й взаєморозуміння — понад усе. 💞 Незалежно від результату, перемогли дружба, позитив і гарний настрій. Дякуємо всім учасникам за активність, щирі емоції та чудове свято! Дякуємо ЗСУ за можливість навчатися та проявляти себе!💙💛"
+    ],
+    "full_text": "💘 Напередодні Дня Святого Валентина в Липницькому ЗЗСО І-ІІІ ступенів відбулася цікава та пізнавальна гра \"Хто зверху?\"💙💗 Команди хлопців і дівчат змагалися у кмітливості, швидкості мислення, творчості та почутті гумору. Учасники відповідали на цікаві запитання, виконували креативні завдання та доводили, що дружба й взаєморозуміння — понад усе. 💞 Незалежно від результату, перемогли дружба, позитив і гарний настрій. Дякуємо всім учасникам за активність, щирі емоції та чудове свято! Дякуємо ЗСУ за можливість навчатися та проявляти себе!💙💛",
+    "category": "Шкільні свята",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sr0obejl4fOU1jAhINqIhsAKALeHjU65KNBrmLHJkRE5zuzJrgyRccRaZTNu55e4UcVM-mKsO2bAts3hy7iXRKS4rK8mdSnpSJvmM-FZa8TrDUZhWVCfjWiv3TPFV9UTR9cqzk-8UInpSbDsyexkUwbuIPqqte6sgFfM4bt2QHjw3R9wSVB71fdLnH6ExahIiG8l2KgTqZEfylAc24aHbFPngk4JWnMieAZdIm=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vCj0AaoyhGHhqNL3kr6RCes13dY2OjfUcMEy1JPr7no_6jt1mR1fWd-OvQg93dD9X5poURgUkKy5qhYlXQg_FpoQYZslhtrX0QrETOTsS3QfpKf00uBftfUwIYQubxQGhhhLU1Lb4XwpvKu2aTfq_c5zv2dV_zr8U55UqCDuQwGAOt3kLIi5wUqLL_LK7YvW27-bpVDlFKWlC1R4qqABt5VI2eHoBCDXxOtH4LqMI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tSZ1ohpFc7Yhs2NiYdLKmfUBguaEjTwIHDd1knthgToH-7TZg4-Av7WVzPWolZPGky8fu3ueixdB2_UtmljVOXX5X3crp5upHeCC8AssqqC7mdYuTokbBxA2-iU7TpUdLH7wYaj5U6eQYptDpzy7uEX1skziEK14-wDD_uzX_Q-G1nFyuM4AuTVPDqbihQxTa-5sBhLVaY3zYfIjD4yVLlzzS32OLci_AF6hsm19Y=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vwRs24-l03fjgOnWxqoVz2xLedBhHZwitAASUjNXDfEiVI7ZbgMs0cfcTRV-ccKWvvr0WOaGg-7q4MfnVlwzwyp_lxVD6XIMW5LzWluB-wV5O6sH9RfvSrsvEbTlmJyAFichNwBnfb_HIMva1_jbL1tE03ewmyK-4V6hPOnuzYGV5mguMR0U_n1GGmloziN-yPs2fGM3JAXOi2KhHXRePEZdb_w97PhgWdP2-s=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uDjJbQOmVz5zF_96Qrl4rO2MQKN8C6QdhflsOFlnCd_0irw4EzZ91NVr63Am_gpFwwKAUMrVhCDWm5hue53eEoDBmIsOijyiffaU-hgUwIbi1J1mZ2lLM5TViKKuK_8v7JAFs3O_mQ9jSaGcpeZJuh-08y-QO9A0YCgyI1FEDq5hmw5yA1YUZABu5pdVuQClxK9zUeJKbcSo0h4JWpL8szW9ONCVehgciLyoidBU8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vE1SWWbcCy3JSo2qk8mTTAlvnY0kexk5PQ0c-FwMeN8Xt1WVLV0jPCfbtcmMPaDNA4wXSgFC0mKlcisLgHm5t0A3gxkv7dVZ16KSE7EgHByWFXh7FTcSFfGbFvD7me-113DdPvXVfSQBfKJsKPuen_ArpJL54gf3HAl7WbthVIWpadl0nZypguEY80-QbnLzxdMplU1VrhNqe0g0O0Y15BkZAHvFwPMsBkI1GL28c=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u8zTZUJHEuboxbbSvKuDe_oqRSWDNSZN3Npe_HDipiEOyJ4Z0taMuVjcfi8riyn0zk4TRBDL02LLJ8GSQ3YW_JuM5BNAmk5pRuwndfOidiBSKy1daP1aSZ7equL3iLfuD2s09sf-JDaNCJpzSks-6XHj8jSYu-G01iV8KU0wXoELj93E_NvMgkSJ_0IatrMF8ftpCqk7A0etPeISMyv3R9y9d-i6rUhb3LLbN-=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_31_1.jpg",
+      "assets/images/ev_31_2.jpg",
+      "assets/images/ev_31_3.jpg",
+      "assets/images/ev_31_4.jpg",
+      "assets/images/ev_31_5.jpg",
+      "assets/images/ev_31_6.jpg",
+      "assets/images/ev_31_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 32,
+    "title": "📌 Безпека дітей — наш спільний пріоритет! 💙💛Сьогодні у Липницькому ЗЗСО І-ІІІ ступенів відбулися інформаційно-профілактичні бесіди з учнями на тему булінгу, кібербулінгу та відповідальності за протиправні дії. Зустрічі провели: 👮‍♀️ старший інспектор сектору ювенальної превенції відділу превенції Львівського РУП №1 ГУНП у Львівській області, капітан поліції Ірина Цимбала, 👮‍♀️ інспектор сектору ювенальної превенції відділу превенції Львівського РУП №1 ГУНП у Львівській області, капітан поліції Уляна Лукащук. Під час бесід учні дізналися, що таке булінг, які його види, як діяти у разі проявів цькування та яку відповідальність несуть неповнолітні за протиправні вчинки. Спілкування проходило у доступній та дружній формі, з прикладами з реального життя та можливістю поставити запитання.🤝 Щиро дякуємо представникам ювенальної превенції за співпрацю та важливу роботу, спрямовану на формування правової свідомості й безпечного освітнього середовища!",
+    "content": [
+      "📌 Безпека дітей — наш спільний пріоритет! 💙💛Сьогодні у Липницькому ЗЗСО І-ІІІ ступенів відбулися інформаційно-профілактичні бесіди з учнями на тему булінгу, кібербулінгу та відповідальності за протиправні дії. Зустрічі провели: 👮‍♀️ старший інспектор сектору ювенальної превенції відділу превенції Львівського РУП №1 ГУНП у Львівській області, капітан поліції Ірина Цимбала, 👮‍♀️ інспектор сектору ювенальної превенції відділу превенції Львівського РУП №1 ГУНП у Львівській області, капітан поліції Уляна Лукащук. Під час бесід учні дізналися, що таке булінг, які його види, як діяти у разі проявів цькування та яку відповідальність несуть неповнолітні за протиправні вчинки. Спілкування проходило у доступній та дружній формі, з прикладами з реального життя та можливістю поставити запитання.🤝 Щиро дякуємо представникам ювенальної превенції за співпрацю та важливу роботу, спрямовану на формування правової свідомості й безпечного освітнього середовища!"
+    ],
+    "full_text": "📌 Безпека дітей — наш спільний пріоритет! 💙💛Сьогодні у Липницькому ЗЗСО І-ІІІ ступенів відбулися інформаційно-профілактичні бесіди з учнями на тему булінгу, кібербулінгу та відповідальності за протиправні дії. Зустрічі провели: 👮‍♀️ старший інспектор сектору ювенальної превенції відділу превенції Львівського РУП №1 ГУНП у Львівській області, капітан поліції Ірина Цимбала, 👮‍♀️ інспектор сектору ювенальної превенції відділу превенції Львівського РУП №1 ГУНП у Львівській області, капітан поліції Уляна Лукащук. Під час бесід учні дізналися, що таке булінг, які його види, як діяти у разі проявів цькування та яку відповідальність несуть неповнолітні за протиправні вчинки. Спілкування проходило у доступній та дружній формі, з прикладами з реального життя та можливістю поставити запитання.🤝 Щиро дякуємо представникам ювенальної превенції за співпрацю та важливу роботу, спрямовану на формування правової свідомості й безпечного освітнього середовища!",
+    "category": "Безпека та розвиток",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vIS8loMgZYlS5DNajdHMXTLnlFN16vOYwv-jlHY4yjeMhBIH7lYOSTTZLJ4OBvmVyPgLnAPiE3tKiFxgbGHTqXbsSOQeoQ0ntW9iOr6U3sxRm8-gvS-vXWJZU00I1wiSuj3wpC1eZwv-nl3VdmLRDVq1GUlu6XA5ccCacT6kX2Q6iRpJ8HCrcKHIm6RSBu8DQH0iskw2wyyzKmEwN21hWOAZ0cYs3HxkK5HMeCtTw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vXpIaOTbg09HlwebLXcZMoXayQkodZwXY9wv1x9eqcxVBAkCdMxlo8ChOzHs-2PVSup6kmCCLVKh-UBgDhRVRjy7kENb7Q4uY07xpsER5CQNSt1Hl6IieDeqG8nUAVLk0wtEF22jNtUfrFhcOwhw8xtJ5dVAFk6QSs0FfPepeqwW0KyhaqPbhRCj8_0H5OnAXhtF0zriPdECbrPf5C027wmhXOnEqe3NPjHf4sRmM=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72urSqZc47-b2p3D0BhYFbsuPDQ2lHk-sHKlJSo9HqWwMrVculugR4nQSOjeURr_BTm0ZCzJN-xzSzm_3jRPzb1mYY6V4cwRw04uPJosZ3R0CDpg-ss_wJUTogOuTi70FQvRYFOH0cxbJwYWxrfZ-z9vppfZj3ww8RkxTngIy0bLmGO1s47NeX0Ouplra1o9rHic2TDOpFeL56wko_EAG9oFeWMSZv-m3u7nSXiMs3k=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uEpM95EVdJfCiKlnp7rpyJ49c9dtFeoFfIo8v-t-yW5JHX3HMVr-yxxBtQ6jEuS1J0XC7_A3hzRT9dRgiveBwMViFu0MjvJXKWIsCfIV9StsXV7E81sOpB0wDOHAdquu2PL6dc77L9UIK7s9WeFCNCH4MP2YLjcuizCjswZoMfb8yC8MZy_OMjeluMkyQRgLpG64A8Ienp6odDBQue2nW_mxEmCyR0tbIOvDn09qE=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uVb-UpkoMCO5hgrXmP5pc081CYu9PY88d_UItP_Ra2W9oNVKAGspSRYTewwgNEwtVHe86I3lJDrbsjoOeBvVA3guYLbkJoxnz5jj8znNFwVFyfNuGgpahdHDNKQfPnLBuDXceOj0vAdbr5XdkouDUv4Q-VSnxGVULDbb4X9rnthPbf0EeJDs_FqD9pk-hEDQK4mv7oTisYleBQeuCbjl0JIiqKSTXxOTwbbGALgTM=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_32_1.jpg",
+      "assets/images/ev_32_2.jpg",
+      "assets/images/ev_32_3.jpg",
+      "assets/images/ev_32_4.jpg",
+      "assets/images/ev_32_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 33,
+    "title": "Насичений і натхненний день",
+    "content": [
+      "31 січня учні 7–10 класів Липницького ЗЗСО І-ІІІ ступенів здійснили надзвичайно пізнавальну та яскраву поїздку до м. Львів та с. Прилбичі.",
+      "Подорож розпочали з відвідин музею Митрополита Андрея Шептицького в Прилбичах.",
+      "Тихе, атмосферне місце, яке змушує зупинитись, замислитись і по-новому подивитись на постать митрополита та його вклад у культуру й Україну.",
+      "А далі — Львів",
+      "Перегляд фільму, багато емоцій і вражень, а завершенням дня став каток — сміх, рух, трохи падінь і ще більше гарного настрою.",
+      "Такі поїздки нагадують, як важливо поєднувати пізнання, відпочинок і щирі емоції. Дякую всім, хто був поруч, за цей чудовий день"
+    ],
+    "full_text": "31 січня учні 7–10 класів Липницького ЗЗСО І-ІІІ ступенів здійснили надзвичайно пізнавальну та яскраву поїздку до м. Львів та с. Прилбичі.\n\nПодорож розпочали з відвідин музею Митрополита Андрея Шептицького в Прилбичах.\n\nТихе, атмосферне місце, яке змушує зупинитись, замислитись і по-новому подивитись на постать митрополита та його вклад у культуру й Україну.\n\nА далі — Львів\n\nПерегляд фільму, багато емоцій і вражень, а завершенням дня став каток — сміх, рух, трохи падінь і ще більше гарного настрою.\n\nТакі поїздки нагадують, як важливо поєднувати пізнання, відпочинок і щирі емоції. Дякую всім, хто був поруч, за цей чудовий день",
+    "category": "Подорожі та екскурсії",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vDBSCTdBG4HAvXnGuxnk4CKL7UcOAvWQn5wqjKRJG4HTkWeVgUg75B8GSrFTxhpT5GPxHNKlR5BjYkZAYwjb4updy3K73xy11ZTvFB_6pX3ekT002DI1CC2dl55VZxVDaLXvBgHuh-wVT8ulyP10odtmdRRy1vOKbWUZWYms16RDmxAhLY_HoKVhcN9pSt1dh5SaH1VqvvCFeytDnslRh2PsWMnrWCb4wpbt_Xfc0=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_33_1.jpg",
+      "assets/images/ev_33_2.jpg",
+      "assets/images/ev_33_3.jpg",
+      "assets/images/ev_33_4.jpg",
+      "assets/images/ev_33_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 34,
+    "title": "✨️Обійми — це не просто жест, це прояв любові, підтримки та тепла. Вони здатні заспокоїти, підняти настрій та зміцнити здоров'я. Давайте робити світ добрішим! ❤️",
+    "content": [
+      "✨️Обійми — це не просто жест, це прояв любові, підтримки та тепла. Вони здатні заспокоїти, підняти настрій та зміцнити здоров'я. Давайте робити світ добрішим! ❤️"
+    ],
+    "full_text": "✨️Обійми — це не просто жест, це прояв любові, підтримки та тепла. Вони здатні заспокоїти, підняти настрій та зміцнити здоров'я. Давайте робити світ добрішим! ❤️",
+    "category": "Життя школи",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tMKsMYI7eeNtdi0yO302H42rQyJhvt5YDSsDNvdCX8bVxfweCcvcsXdUBpdhAgrD8O6DYyKzJ-dUckhlpGGYfWp1HwNRm_UoslLocMFA2IuFpj28iJpzG12ZmKGEM6OgnA-QhMl5sbf2ZR0PS5yx8wuooFXYHWSkzRXb-Fljqa20vgE1Kg0puABgY20f6sOQ1ljE4K2DaWtlDltVXMzRWgLe0HKg3STO06k3Wl-hE=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vNe8TRStj3D3vLPA5dIWeKOerw_UbRqzknTJolQD1DHDzAelbiq9U69g7EqIrMP1gdNfYCFdGomb4E8-_UM0y4jR_JesIAbvk6g1bQxqq8xLlhy8TajKI0I_s4ppjd--OOkIzf1SFPdFAM0oY3m_xrPNJYZ0x0RY02jf6BK729JsTdTaqX6sgyqs0LQoTG4wtGDY1tEKKPlAJ8qxUW6om7DD4Fm79C4hJLzw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s6FfhvTcnf89O_DedllyFwtwHNZrMLlpMG7CAKllz5rwj0ln-322rcgmi-ScY9k9SQE93b4g10omsl1jZyWgKO0kN5lawA5XxjEct3TZ-xJY398jnX1yz3nfW2nAF4rOAqSkfB79qc5dqkaC_iw9iAWYsJfNJ1uaJBHiLw5INT5MaxeYgK2UvLWYp4l9m_f1bSsRicb7xUjtbBnW3xWDvPBQv9a6u9nPH2Q-m7=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u9heee1plG985AAUIRoH3eck0euEP94NkcMJjzqhcI6UxuXC4_zkiD5qlF_KrjFL7ml-Qw1JRrfC9BcBNVGbSkL4zpryRAV1W5BEwQuQrrFJ-4HKTCEQyVXKKxuARkGC-_Icnv7zZ6xBAS4_bpMV_LNnnlboEtDDm2QcW_vWaEFM5X6pct2VeXZsdcxrFkPfuFutIz0y-Y-9uF1xU4aQTD6sllSzNtosiZbC07njQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tXBBT0h2wFTe_ybngEA-BafWLxsP4bgQ-uJGKJOyb8_65GL6EaEHXzcWfCFlFEuPByKv7j01SlVGEQH9QKq8G4ztgDZgkHpeP5U2BvtE14cEWHEMM1QkMLJpGwcelKCtioU_YUKur64roDckU8cY_9GuKs_hXN3dRPJ628Kk6FPoTOiwQdQO-9AIYtu27ZdUAgpQnCVh2-ksdhA3D7fv5Q66xUHXN_0JZV94wEfOI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tbXr05ZeqCaMC-odeTQ8VOKYNbmdfGPp7qb3yqGcEIgvNXROMNUimWZJqmc4Re00woofOu1Sa3sJgKXhZoaHcR5z3skkJDg-Or-Q7aob1uQoa-iWqlVQoxXSvBsPGq3yEJBbPHaE1teHqEAfUobFVH89WL9T48UY6pLfk5b_KduzCw9QkZ4FAsJqabdw8ug8APotKShCmx5pKtuYppNbk-Plnmv6rUJQ18VQ919pA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sTjsxKC8bS5mDHrOVQWxZpbR1ifJKxtbcsCz4obd1j0hwIw_b_zgX_x8zcGs7QiHuY0n6u8M_DP01PQaO8iioD1H6wsmrsjv32d2hxbJHo4KSySTEpZS-h-TxI4nYJNcLK-HXUUyxch0NlrB0RnRGaaDK2EIO5r32zTDlqvWu-HSqcgr2E2EbqvjdpmACP-kSOT9D3gi7JuNVa6tfNx32pfwkPEFGOC-z-NedugKg=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72saPJZpJVi3QMXs7wiOF16ep3olFE7TF27lV0eaIRmsSNw7YiE3bRSKjmLHfPDx74q36V90sllsNY-3wdLoRnCLnwyaD8Et6l9y7mg8wTE88HkEfGtlSYLeMXE3ntCg7zxxMa0S1KiW53ZuNEsz1QhDCd2fnb8r_uEav2quv00NPKq612DpA1uojXagr6mJVMhuJY-clrahGqIQHHW9Gnwm29YiloGppaKlTIjd=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tZbSM6sxA-3XMThYUjZcNvUgN48_p6MGzUsfCHzJZ9d373G7aA59-X3oS9-a5fW3epVSFKRHMjDDzLDbQ9X24zrXymV9dzMYHjSOXyHBGWNrOO2kGdOb_wg2cL7UIfOHYwlWr99vtfsxEDHIAqNoHxUXi3bm5H_CFbHTedCXC7Wq_r2pawPTYvrYEdfnD5Eu0xbghO-t9qacwpREBD7bfIm2U0stS06rau2tOY=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_34_1.jpg",
+      "assets/images/ev_34_2.jpg",
+      "assets/images/ev_34_3.jpg",
+      "assets/images/ev_34_4.jpg",
+      "assets/images/ev_34_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 35,
+    "title": "️Вітаємо Васечко Олену, ученицю 9 класу, з перемогою — ІІІ місцем у ІІ (обласному) етапі Всеукраїнської учнівської олімпіади з німецької мови!",
+    "content": [
+      "Цей успіх — результат наполегливої праці, цілеспрямованості та любові до вивчення іноземних мов. Ми щиро пишаємося досягненнями Олени та її прагненням до знань!",
+      "Бажаємо нових звершень, натхнення, віри у власні сили та подальших перемог на освітньому шляху. Нехай кожен крок уперед наближає до великих мрій!",
+      "Окремі слова подяки висловлюємо вчительці німецької мови Гоцій О.І. за професійний супровід, педагогічну майстерність, підтримку та віру в ученицю!"
+    ],
+    "full_text": "Цей успіх — результат наполегливої праці, цілеспрямованості та любові до вивчення іноземних мов. Ми щиро пишаємося досягненнями Олени та її прагненням до знань!\n\nБажаємо нових звершень, натхнення, віри у власні сили та подальших перемог на освітньому шляху. Нехай кожен крок уперед наближає до великих мрій!\n\nОкремі слова подяки висловлюємо вчительці німецької мови Гоцій О.І. за професійний супровід, педагогічну майстерність, підтримку та віру в ученицю!",
+    "category": "Офіційні новини",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vZTV2NOpla70zwQ6Hye8jJdYtzkZOzwjp9RJ1o-gd01rV3nSNA6Ae2JD1K198HP2_opVvFklj5XiOU1nKnBM7IwAlRHJY8PFCpTb6WwZMFYtx0valzI5qLESebSfy_6FeK6g1BmxbX93-rXMOyDJhcMIoDde7Tir6bvA1qARPTu8A21nUyZng3-bXeLWfjoExtlWfWrdvy5_1RjyZH6fGsMZ-LTeh5Yt0cJR8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72th0Su7u_4vLghI545R4CxaeA5WlZ8n0N7LLq-wh-ezgDPeSXPBZ0bXNWXbHZtU-T-9ps4FqzmzaWHdmVQ8Zq9BiND3ZmmKIDHzBV2CDdI6vteOUJsUKryREaXxqW0XK9iONna9d0MPAxSRKN6Yz24BrwuYM0hai0jhTfv4OV5dcqWoVGbnyEmWH2G6QWCt6GzwbjZp7jmxzN1TCrTOVf-y8riArrmdLSge5Q8mWLQ=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_35_1.jpg",
+      "assets/images/ev_35_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 36,
+    "title": "Ми — різні, але ми — одне ціле.",
+    "content": [
+      "Сьогодні, 22 січня, ми відзначаємо День Соборності України! Це день нагадування про те, що наша держава — єдина, а український народ — незламний.",
+      "Нехай любов до рідного краю згуртовує нас у прагненні до вільної, суверенної та демократичної України! Ми пам'ятаємо історію та віримо в мирне майбутнє!",
+      "Дякуємо захисникам, які сьогодні виборюють нашу соборність на фронті.",
+      "Слава Україні!",
+      "Героям Слава!"
+    ],
+    "full_text": "Сьогодні, 22 січня, ми відзначаємо День Соборності України! Це день нагадування про те, що наша держава — єдина, а український народ — незламний.\n\nНехай любов до рідного краю згуртовує нас у прагненні до вільної, суверенної та демократичної України! Ми пам'ятаємо історію та віримо в мирне майбутнє!\n\nДякуємо захисникам, які сьогодні виборюють нашу соборність на фронті.\n\nСлава Україні!\n\nГероям Слава!",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vWcIXTbTuAJvy0QJxEb0tzP-6DKThZynQDWMqzwjh-7_FR52vaBEW_5IrrYTJIrGxGixUzV-DA7V3t8IL5Dt4_NNsFkYUrEm8MFCYZn2LGlSJytHtxf8fhPvBhZvkL5NMs7McEeIm4a0u9YlKc6VCBB1-Hd8UEMwknshCRhfpu0Ele2alpyKSftc1OvsAL3VDIsdkXkJnvKLu3ddqfJI04EHQ_-XPLQue1XtI_=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tZsP8yUlBavILKw7cQt7RZKnX39yrSE8tLi0Qz1sEOQwuh4L9pz-Z6ZVQFIyh5X8MkD67mD8DLwSuNPmvBKM8uEdAXG0IoKkpdo_iy7y2R0n3cd4k8AzQ7Nhrs8S0dt-amXWkk7A6ZgSXjUttlm82cClrHQd8fWN3Ub1o4OJx8fKVteGT6WZHst-0TjsdD1A1ft4IF5yQU2-E5z2RTJvqTsxONSfE1sThSlNQwu7k=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vscSIuKQk92sWNlu93Dxc-wb0BIE8axm1WXjqqVN5j8uAzPdHY19v1Mxakjym6xFhLNDklIZXWq8EwjMu231Zf_cjQEwPN8duiWCsQeotLjh6lCAc9TJ2GyqQNhITK6uvXRMpSLu6m1W-tjfjJkHt67UxKoEsRFdpxHLbmRWD7TtZjMavn-uwK2WjYb5FLf8xbHzILPfWtUUITI-_K6BGn2YSRiZdBP5G8EMu93Z8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v37qMXb8NpQENnze3ZHD7iZCda-PEiGyWHr9knpUsxlI2VLtMgjiRJl77DzL7AAYf1R1EgcYJdjYrm5RNQ5ZILnlo0r0_0pnbmcN3RcqdLhRaHI4HGIOtpbQFc4oDmIltFH9GDgVYKPWS8LRv7hf3O_V04yLroggLIrt4DDGEwKO6jxaqJZXIXdukbLb41-6-dAU_TG6ddSuzWOXF5EFI6NZQYe-ueoEeE2-y7PUQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s2c-qOapvs_m56rW7DSRlN9qLmc-V1KtP0ZGIA6FRxd-hTVO7LksxYiIbSRF5_IAu-ne3G1rTRKWZ2TIgHIG0e7BR5L5So3yVjZ2t_07G9lGgCPEFvxmwf9h2JmsgtjxnIqWlUA2oiYsKsfB1dgSvV0MFzpGJEjKsrhRlOZYI-tXFrNHXELUKKN8nVY5oxIUMo1zpCnkYnnZY88mh9AOd4jcoUEBgY1HYCb-zW_Ls=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_36_1.jpg",
+      "assets/images/ev_36_2.jpg",
+      "assets/images/ev_36_3.jpg",
+      "assets/images/ev_36_4.jpg",
+      "assets/images/ev_36_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 37,
+    "title": "Батьківські збори - це не лише про оцінки, а про співпрацю️",
+    "content": [
+      "Під цим гаслом в Липницькому ЗЗСО І-ІІІ ступенів відбулися загальношкільні батьківські збори, під час яких було обговорено ряд важливих питань:",
+      "1. Про зміни до режиму роботи закладу освіти в 2025/2026 навчальному році.",
+      "2. Про охоплення учнів гарячим харчуванням.",
+      "3. Про реформу загальної середньої освіти, формування ліцеїв та гімназій, профільне навчання.",
+      "4. Про оцінювання результатів навчання учнів 5-8 класів НУШ.",
+      "5. Про гурткову роботу.",
+      "6. Співпраця школи та сім’ї у вихованні та навчанні учнів. Відповідальність батьків за навчання та виховання дитини.",
+      "7. Про доцільність використання мобільних телефонів в закладі освіти.",
+      "8. Різне.",
+      "Дякуємо всім батькам за активну позицію, підтримку та довіру."
+    ],
+    "full_text": "Під цим гаслом в Липницькому ЗЗСО І-ІІІ ступенів відбулися загальношкільні батьківські збори, під час яких було обговорено ряд важливих питань:\n\n1. Про зміни до режиму роботи закладу освіти в 2025/2026 навчальному році.\n\n2. Про охоплення учнів гарячим харчуванням.\n\n3. Про реформу загальної середньої освіти, формування ліцеїв та гімназій, профільне навчання.\n\n4. Про оцінювання результатів навчання учнів 5-8 класів НУШ.\n\n5. Про гурткову роботу.\n\n6. Співпраця школи та сім’ї у вихованні та навчанні учнів. Відповідальність батьків за навчання та виховання дитини.\n\n7. Про доцільність використання мобільних телефонів в закладі освіти.\n\n8. Різне.\n\nДякуємо всім батькам за активну позицію, підтримку та довіру.",
+    "category": "Офіційні новини",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tm-8vmD-Yg6jsgJRq9GVkeIJ19QEHh_Xw6otNkKh4oos_kJMyPtorTfMpo0NWuBqOqrrbZ3kRQ-wW_lDzn1nvpbhh1OA3VcrdyumRTlelbaHb8JCXVr2foooqPe5YsrRmZpzXZJyvDLf1KHYy7otxYC8SIin82RXzH-w3HCGspC4kS_WziosNNZia8DVdOM1odGbyaIyXyKM3xdRL9SSMM3u2plICNzywvJTnXlgM=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72txdyWXF4r0-Cq9wEocfbyWs2Rt8DTXIW8zs52gIsC-zolh2_plVAkRFcQwZBa_S-MewpYYsDh6NcWD0Ho96RJVt-LwKlt72yMEPWlc7kDl5oOpzw0EhkUJGLdQl7V4-R46D22vTS98vY2jbGi3x4sYvj7_VqSvKyoWr1PyZfDiyd44PYZihUy4Uj0P-IdTGPzCoQjBvvEAH9oKeXIU6tt9eXbsIFTpmbtyNVYt0Gw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vwrvd9OoU74YZ8DsjZmmMc9FYGYXuhvytpTUaHRgr5k0pNVjXEb8PikYGtLoEyKYLn_RD0Stfq4ifqO9OFhp9YEVlqENYQkEd1ux2rl7k36vu4lJ9XyjZo4Nhe212hgZ0nR2V9hw6nO6iuuuwjXuxKWi6K1OGZVQBfloRAukbW4GuQW3mkLC-UkFWcrpbK1TyZMeL13pw-ZknTzQT1v6BzJPpC63DVAjcEFoj_=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72slICaIgB6FySUHjpL_xR_vPVpqNtNfyykAFVZV9AnV1HlGfQVVKUegt4iRTWYwGOlrqiFMA9-t3maL7cZ0F9swr5E9LS63CQzSr3jkm4QV4nfn2HMhKg9jk8B3xde0jNaMYjUH_jAHNPOv5LK0doaJs8a0kaoMMFUCFjvC1VKj2qK3dUXhuOJTTxGnhgG_CpZMLiD5oyjGejif9LZj_WJesJ38AuasgtGCHDa8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72veJKrHQGhx3iYsa6WfIJBz38V9cz54QAEjXA-wAsE6DngMDmoGcbYOn0tAS0u1Ut0Nf-WKfqDOlA5Wt1CtuaGQASYSo-D-daoG7hR_YqyMPoG8hefRUkB4DlWV_S1_yh3MJNTNyu_fx7VxfzR4KJFkZjyZtfTReGlgyYkryNLBn6GLAgxosarYdcAHb9jWYmt5pPqf6SkPT38n2YGb1NT3GP9NIGV-C0KfJP-tPh0=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_37_1.jpg",
+      "assets/images/ev_37_2.jpg",
+      "assets/images/ev_37_3.jpg",
+      "assets/images/ev_37_4.jpg",
+      "assets/images/ev_37_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 38,
+    "title": "Протидія булінгу - наша спільна справа!",
+    "content": [
+      "У Липницькому ЗЗСО І- ІІІ ступенів проведено низку тематичних заходів,",
+      "спрямованих на формування в учнів навичок ненасильницького спілкування, толерантної поведінки та безпечної взаємодії в колективі.",
+      "Віримо, що тільки разом можемо створити безпечне освітнє середовище, вільне від насилля!"
+    ],
+    "full_text": "У Липницькому ЗЗСО І- ІІІ ступенів проведено низку тематичних заходів,\n\nспрямованих на формування в учнів навичок ненасильницького спілкування, толерантної поведінки та безпечної взаємодії в колективі.\n\nВіримо, що тільки разом можемо створити безпечне освітнє середовище, вільне від насилля!",
+    "category": "Безпека та розвиток",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72v9T0zMBQpjR4sNP_CLD2COWLLs2-78R1YteiIo-MgWsBAqFhpzCtaD8og5-IZW4GqNR4xYMVpcYBHAHo-YUjI7yysnJLSir9qZKLd25C1qVt3i1DeXXirUO2nenVUQtXVtwAXY0YdHhAr8eJU7URyGPMCVym8kAPjkFgk9zeE4oJ4xAdVJsv7ZtiFPe4s=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u-GKtkSvspD9DglRfcFkGnWlZkqOqjhrmFkIGggZaBIqYQO475SroxWTdi4HN97GnjgR_czyFMkFqziJpVdd2GmUdMkWTdwQgR0vrqwVzwCKs9nGbnxzuBYwEHfgy2uPP9Nrpl621t462_Wk2pAPCSlVoKYXYRP4XTdXIposrhLROQMlXgZ-Zd_6sxGC8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ssTrAfMby1N64Gln7KcGis_lKLs99NvdP0p--cPgrGmvukYO5eS_sNApg_8EVeFDfBRHt3THrGYTc6VgMF9uEJjTygvORZKs04oMZ2tdGvxr1kmptQXfIPiifgxgrlI1r_JHhd9Ndk58Tp9yblH9B4qLkLOwdod0aZaBkSfSv6LOrnIZYQuNizBL-BSf8o6zUDyhVPce8JpcC8XBIhLWh-IkvFTAK-uSghC9U0Gg0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tLz0-FpmG4iKJCBipLWeY1UN0iLbyj3mGE7Ak9ZnMTfsg-M0UkcjIdnO8oKbmPQRVXq3lIS6bfCpPWliet9ZJtZP48zs73E-ZVUA4aJp14qWXhzarJhNIgWfCcD1uDCOlLNFksiuXnqbs9Zu-D5zYltyKl0V4Uxzp1CuIo_ogBdqmSbrtfEW8sMv4zRk89bR88BgXH-eC_Du8-wbRFkgG9ZcV54Bd34L77badQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s3BRwA3UjKw9JQmN2lpaAjZ0MCub0qE-KDcQJO0uh5-AbjSsjChJv2mEzQP7nr3Ad0LH7J6dAWgd7v2byB6Wgh5mXgcuvlT04vXnQvXhn8WjMEIkYJDZ8C21xuCAyvywd6BM2SOTCeEjEZm_hdoxMfT-atX8KneTvAWx6Ti2_oliKbL0kzttByb6ppDZOYRA_E9Rdy1byk878bEVtOVTfD5eV9Qk7NFbj3o0d8Pfc=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_38_1.jpg",
+      "assets/images/ev_38_2.jpg",
+      "assets/images/ev_38_3.jpg",
+      "assets/images/ev_38_4.jpg",
+      "assets/images/ev_38_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 39,
+    "title": "21 вересня - Міжнародний день миру.",
+    "content": [
+      "Ми всі мріємо, щоб на нашій землі запанував мир і не було війни, щоб діти сміялися, а не ховалися в укриттях.",
+      "Нехай у нашому серці живе Україна а велика мрія про Перемогу збудеться якнайшвидше!"
+    ],
+    "full_text": "Ми всі мріємо, щоб на нашій землі запанував мир і не було війни, щоб діти сміялися, а не ховалися в укриттях.\n\nНехай у нашому серці живе Україна а велика мрія про Перемогу збудеться якнайшвидше!",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tbjSgtv8P8bPRbM6EMG4SOy5BYC5J70xgQ2noacihwtEZA-LT_4iJ8Aj_Z5ALB60CYNMk_wrWrI9opw-vUe8MQXwpibFJkjOKAuMzU8ydviegUz9LuG_f7-eA9Nd8wiY3RB80YasW_AwrKt7qNxnMrPKCb9NG2SBwB1ykkFY6UrMxFKXsn5mdzFGrP=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vfl3DOKaBMtf41V-KgBslkmnAD9FnRSSB_JKmruOoI5eRjWjicKLDxWrI2yQVv6HleX0Tba8cqU1S0xN9hHXxBTyZgvZDta9aLY4vZ6zLzRExDxCSrynVI9WKXvzvhXoh233-shLn4JQcHhn3f6pRw_mWraZByWiZhvJqGmkAmgXz6B9DPGPuWpOfi=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s1C4G1unVJUHQDIZwmjATlTBfCPcP8O_SYeqKx_eRaWv4D04FDbdAVbANR-pwa2JY5lZNlSAH8CU93gxY38y5Fc7x6DcJbTGScKmWH_9cbZA1AsYSOHdO7e_I922mNYieSD3dzoDxjYhT3wnHRcd-x7KQxL7aG_cR92ZaWFiM2MbEJbNi0EaCX-Bl8BK0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s9C_A5-_jJkg4LI9c1pCjV0tUjkgYB-A1qfOkfrZZYP_x3daSR7W8yOovemDX5Z0kevtty-PFTgvRrVsgV5ic8-cn24TVKk_KJW7KpZtpsznYXDnRhRMBgN1Vir4rM_DC7Nuld1XmaD2hq_0MvU-dyF9MBw6452Jlw6LHkO6vwn37OA--4ZVCXR-730yU=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ue2rs-E5B8KPNVDJsaqOu0bOGzgYvPgDHJGnhG94oPBqqnOL8cuYw3M4Np43T1TuIcsfut2y8cRwZS95ew9-VAHt7X1mQ600bPahaldBGgobMrK0_4c6jJSVtZG1D7TSpmNAic5UYaNw0ssHW_7GOyc_Dwes2W67n-_3epR_AoZKX_FIUb8p1AFQxZ=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_39_1.jpg",
+      "assets/images/ev_39_2.jpg",
+      "assets/images/ev_39_3.jpg",
+      "assets/images/ev_39_4.jpg",
+      "assets/images/ev_39_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 40,
+    "title": "Перше вересня - день нових надій, сподівань, очікувань!",
+    "content": [
+      "Цього дня учні, батьки, вчителі Липницького ЗЗСО І-ІІІ ступенів та всі охочі долучилися до благодійної акції \"Квіти зів'януть, а життя розквітне\" для порятунку життя 3-річного львів’янина Марчика Гладиша, який хворіє на м'язову дистрофію Дюшена. На лікування хлопчика було зібрано 26500 грн та передано у відділ освіти.",
+      "Дякуємо всім небайдужим!"
+    ],
+    "full_text": "Цього дня учні, батьки, вчителі Липницького ЗЗСО І-ІІІ ступенів та всі охочі долучилися до благодійної акції \"Квіти зів'януть, а життя розквітне\" для порятунку життя 3-річного львів’янина Марчика Гладиша, який хворіє на м'язову дистрофію Дюшена. На лікування хлопчика було зібрано 26500 грн та передано у відділ освіти.\n\nДякуємо всім небайдужим!",
+    "category": "Життя школи",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sd9AXPSOcw5SN4hO6fO0nKzEbA944R_I_4KYaxXI8um7xeEyFh_K7tdfPbcCfBiBhwC2bDIlER6WyDKCylFaHtxrRKZTh9V73whi7N6cUbFK6SZKcjhrqijCEHUmq7amDeXWyDjBFjuCoIyLSs9TWIHXeS8b0onglQ5n-Y9X-PlmVjeZkpFwkfrAIKfb5p-04XMDnQQEYZGqZ2ewwpXg2Jy2imaAjWKWIi8lcmpYU=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vXkmEnMBAdQ60zxHzNGN-u0HkjTTVCSumC_PhfoOzreraLKkgZTSSwn_S48F5K7ITRcNyvMcGcI_7ShPjw-rmddXiP5trup2FxH86pqVq7pHgLULJZhAzD1l14qYedkY7UgS0dcQZ7wi9DhBT4ZWRlx3ynnapitBdkhkqGBwE41mgegtsMXiDaP9-k4Al9wpkaSP73Hn0pnVI887Za-bYLO583tE_LuS-ZUbnu0_4=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vAWQlH55R1ytwPPq5xqtHPV_xHUMPeeycAToSZdCvOgZO_-ioibzOvuMQF05XIQL07494O3SaqpaFCzU9Io0_pkB5r0LdIbDdMT8zJSZ64amPptgh2gp84NyT9vaOqB2XkKfIRmdKI8Abn7VC-o6SeTBZHhUB16ie4YxRIGo-nDtWK2DrqqcGY7vxVL0v26-vhlcp9CydlGPoo73ljzzzf-afrhvZEEykWc5qgolQ=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_40_1.jpg",
+      "assets/images/ev_40_2.jpg",
+      "assets/images/ev_40_3.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 41,
+    "title": "З Днем знань!",
+    "content": [
+      "Нехай цей навчальний рік буде щасливим, результативним та переможним!"
+    ],
+    "full_text": "Нехай цей навчальний рік буде щасливим, результативним та переможним!",
+    "category": "Досягнення та спорт",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vqNojcef_QZATeXmj4mGu-3li-_p8Fhw5xEiuqt3HovEF7_6azsCQnunDab7R1v4Nkwsmzb9FCOqEoCXSSD7r0TWEW4QMsd-f64x6wVCRyXt5Yhq45bjpYsWyYp-JyTSIl-Y0pvv6o-DpOBYfkuIdLb-PAR8Wj6kJR_POhtv5_6W-U27YzWLq3CyoTKHQRbPz_tuCezqA3EcKJhYTSt7TwiXrkSAg0wwZRcTQckIQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72txTiG0NoaA-MjSLGobOVdEHPRp8BoR-LwwLDpoPuLFGKfX1WTB7IucCBFJzdobefLoCdbB894TdH5yN5mzgnFWLwGZBcpBx-onLFjL0GyRyquWc4blfkAlZoUDdVT_DW1i3e66iaLBgLjC1jbwNID_d1nMbdyqck21gL5IV1evxFzYf-d774Kz9ljX4-g4GlTKZoZ1iT1Z_uAmu_uuZGB33V37HsdrJXBQbgpuhrg=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uyUB9LIre7dP1yYYlkfm-ysAonisCW-IzObwaLl4FwfVUYCam-2j6GVrHFCtVifug7FcZ7ZkoF-0LuQg4dHgQbYNHFQpZoBFy7S5oxZZqbJ5m6pScSq2_CWWdYuLGlfwyrbIAB9tpHtiEcUhaqHHLrRlMHWTjD4ykKiUeRPfXKZyALKrxaIfOs8_DMHdsYbytWuMe8TlTlu_lZF9G_4UBQO6FCRg_6kbjV2PkYGa0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vxMDMurig56YrUv_HyR1O-g1gy3d57KevolsbDypmDj1TzRSIQK1iV4T6QUyvEhTLmdPVvJj4c6RTM_24Adi0Voyt7betOBqQBk6wbFDnNHzpL9xadJIbvy777DAI5Jx49RZINMDP1QU3qNtH_kbZ1BrNGp9ERVAhqqfkLp_aNyaao7CsPE2Ik29KbicLACJd7PMxRpt_Li67UCdaSKMZv3cp2sO3YyyYYIcLT=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sWzdtl-6DvouCCoAplOMicAn8o5wU0kDHiIWVq0hE3FEUKpf0_-VL4tDfYjrEDRcSq6ERm4xxZHz-EuQmDKaCHE39su0lcsNxyN_Ac0dE8XXkzNXUIeTAP16DBn00k-SKyTtAiLNodBSkrdNNLVj0QM4keiRiv0sAB2nmM7J-UCf_X-xE6gEc0dX5v-pYkJdL35voiV7vJR8F6dbiIfJKQFoHDatGwXBfqRwSP4Wo=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tMQA5ikRok4EZ883bIIF8RrwwiWNgqHjgxqXCppTOV06wCF1vNTPJns6zpTwxUjkPtZaq2x41STPPxXHSFpKk_O_z8lCHWC9bPMcT5Oqa1ma-mSAgQrSTYswBi-xf92O2ybcA-BhJWfeitnMIDd2bFvm0YVQvz0rZjYBoy0FUDpO3RswwF-cpewvZINzd2tDSfIWb0LlHxS_NMRVR3qTtIi4MRDXdQTSVaEtrCd5c=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uDRa88butdoDZIPClu_oJd6priTOg7ETV6qmkX8aWRBPBYUIxkh2AaNyMItSqJHNe9OapALPuUGXkWUPYNWfZ9OAq4VmEe5tQ0ozzLk9jO2fVmjw2BrFUVo4h619gbP1AwQR2ZoMJmNhLfoc-EIAEYdKwAF5e7O4p7lnHEEAtqqosdx7hQTEV0DtwdzKi3wIqp9bjfH4isnH0GxP1KY6IqZjfC5elwdcF0cI_jSj0=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_41_1.jpg",
+      "assets/images/ev_41_2.jpg",
+      "assets/images/ev_41_3.jpg",
+      "assets/images/ev_41_4.jpg",
+      "assets/images/ev_41_5.jpg",
+      "assets/images/ev_41_6.jpg",
+      "assets/images/ev_41_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 42,
+    "title": "З Днем Прапора!",
+    "content": [
+      "Ми пишаємося нашим стягом, що втілює в собі мирне небо та родючу землю, та дякуємо всім, хто сьогодні на передовій захищає нашу свободу та територіальну цілісність!"
+    ],
+    "full_text": "Ми пишаємося нашим стягом, що втілює в собі мирне небо та родючу землю, та дякуємо всім, хто сьогодні на передовій захищає нашу свободу та територіальну цілісність!",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sgDj6NJguL6AxG-oq5rVJJqXVPXsOktEDht7byLp5WNip3zS51mPoCkyeo3HzAbHiOiCDox-p2SiVYsmQgSciClWhfdPJ8VhrxANsbf-2TjPEE-7lBHti2ZZg6ahZyk1evcje2iW_qqBPoPb2hJS9DdufoqEULA8h1tIlFlxiredAMcpsEzpn91kvrEZj8_b7l_OOPD8UHCgwMBI2Nd4vyLzsozYtbIff302N9mi8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vow_AUJZhMCX-cM5CVROHC-x0-SekqQpMhXCQinmXltmq3Rez3YzYH4F8GARS_8a1n1xpLVKr9utjXMxXMIBSORChG4oJpvq_GB7EDo1g8EQR5rCtrXuRE-LKSK0wKkgjQuLnaB-Ymy8xeKv2XcOTUd7xvwU_RL5oUiCbXh07yj2tlWrFnf-JqC7vW_IA2Ri7rlmuKfKmh62xt4PEsUCN7rRD9eBKHowjchLcX=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72siGBhkpfJn7IDYBy8KY5dJKnQZj0XpoM9cFGxgeIHfXnI_4Vxq9dC7WHL6m8EEix6qkO4GJqx8tN9UVAd3k9SaSUUwf_XEVyPkl8AGVsXU2VBckOX324_M2TOYEAgdlxb9HrSuEPlQo8d399NYD0UZID3mIuyO_o4YO4NpQ4cVuIDUZANIwohF07t5czWpQFMnrx3WyhgWjfEU0hT1FxrsF_nRqpaljOouqfl_M_Q=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tpb3q8hXwwoxJrcp_T38nGXbCphMJlwc9uK2BV_EPgJxxDg-XqCg_zHggUo69QiAU-FTK36QQBhZZ9T8Ik7yIyk2jTEkwgXkmtAfwYxTDqO3wfWU9LNjhHCyMSm7ArbI7f6fJjyfrbLEt4lp2qtjfdUT1nV_ab0zriTrWhWVTFmQ9pyUQPEO758V9lyoNxsknJ7w5a01EpDRtPQ5fHTH6dxk4DavDFCYT9mGRAXes=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sQEzR-iQ8VW0KJ3kEkwoaeuQ7DChi7wFrEFdfpqlaVmKPGC3yZsnpyzvsBGViQVNtQyurdf2aGPuaOKwxXrFPmQlFS6z44rZwvus_Qj25Popm_xXIs9DmMY6H2riVJE1200rjGmu8eKBxBuOD0km8zduAjSM3b-dboxmgwlleop7EqpiTJF2sX_QFTp9nvRuCz9E2rYTMrhXoMxmOKouZNLHV1OkUutM9WWQgk73g=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_42_1.jpg",
+      "assets/images/ev_42_2.jpg",
+      "assets/images/ev_42_3.jpg",
+      "assets/images/ev_42_4.jpg",
+      "assets/images/ev_42_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 43,
+    "title": "24 червня в Липницькому ЗЗСО І-ІІІ ступенів відбувся звіт директора Ярослава Суховича перед колективом закладу освіти, батьками та громадськістю. У звіті було представлено підсумки 2024-2025 навчального року, висвітлено основні здобутки та досягнення колективу, окреслено плани на майбутнє. Всі присутні одноголосно оцінили роботу директора на високому рівні.",
+    "content": [
+      "Дякуємо всім, хто взяв участь у заході, поділився своїми думками і пропозиціями та підтримує розвиток нашого закладу освіти!",
+      "Разом ми будуємо краще майбутнє для наших дітей!"
+    ],
+    "full_text": "Дякуємо всім, хто взяв участь у заході, поділився своїми думками і пропозиціями та підтримує розвиток нашого закладу освіти!\n\nРазом ми будуємо краще майбутнє для наших дітей!",
+    "category": "Офіційні новини",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sMyd4IZkzeNXZtbi9AcLZjJgmS3xj1y8FRGgNT74AeWp2MfkYzI5SVsFz3uACUDQsazwASZB2caJqsWRYtRlKFVvhclmqYO4YNB25uiYgDAuYwj6N9RQ4aqYlS9iu1WjoJqR9aGe7oHxkg80M7tC9K2wEvhs4LLi7kFeb3dejFJGebSmYbrybqbEqMMcI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sdrRuQ-41JOnViwM3XuhHxsAEPmfF8AgMnWedCIYceZZN31zNq3zaZRFESmLvxpkASqCvs32tdl63QqXQCY6u_Fs3iVs5p3BNM3ZCTEa_vY9b46__k9TN3XGOx2LnmaKHq8plOVxg4IBFA2Qr5PA5G-ES7gb_v2pXRiimscUxazo4UngvrP29YuPZLqAc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tR1KOmRhU6B1RXkCqDQJg1pYayAwSzHymPQ0lZvulRzmxxuoQZiKIs0133Ns9VIRYnV2_xW1L0u8m3DTY24_-r30OcXk7FBjw_SVZrwENLsn-GREEgUZ2RmDPsZTcUtL0HRCsZXjUPv-IURMULlfTjC5SCImOBFzmNiCbgWgEHE5zVaatkQX61Qc9p=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s6VycGVrGUKx-mWqqZ39-n6NwuPakOl5zB_zRI8EwmqcSHEr3V4ZSTW3LGCrzZQ7tYpnFhI5QyU8gpMxsHKhN4XDSUBL97Muf0SPtWxorrOkOC1jvZHY0T7VBx4fl6DiPba14KI8rmex_izesBzutetevtdDeS1SpMzFZuHfk4VEb3QrBsKtVsNQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72unWoqCTe3hKS4xHIi-tSR53j4XTuhBAcVTiwDxMiw5OhmHraW-yZJ4Fh6LAI8LQe_wlcQLyRgeIeXOksi3o8xAAIZ3aiCIyw0PB1EziqS_RIeBeLbf8BBAX24UUFTw8CVrpXMan6Qd__Sm78lPkOLYO_6YwLrOYFpMSm4Uu80OHBbbk8y7afSxtTkiyLs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uthFRqD6kUWRfQvqEjdoP5mCXGEQTex7u1yjzRiAQgOqQ5rpcHtXbvbn5cjzgLwW0ZE0c1P-5LlSMxcGa3zLqY1MQspuMAAW_fY2v38p04Ia4O132qSTGE_2WKxZL1juoMc9HZ_Vj4JppvSNggjlHO4Dn7Z5mqX5njcnWOuiloVi2XsJguyOFrJL9Im-Q=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tH-jwm8O9SLw54JYVeX1y_QGfwqnh9dXyrr807zTM-b-2oCPA9ktwkqfZPHZGe00cLeMQtIKfQMVg_mNj2thYUpwp59OafDuaku1yYKMs7aUX5ZQolZnLo7waVAI4z7tAQ5WI4oJu62PD0vQscgGIe7GyyJ8cBahnbjgFq-vLhVIwgL5xZ4Dgij8HZhng=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uSJ3Zu3any4bjz7OgYatHpLUEh-iidU_hZrlj6kF1h55ag1q_TSiYO2uiMCx7uDeylJH7QK1ovT1DFZg_p-gEEWAnMLrRTlcj6jcEj2oIszYucRs9L8wfrRqmpJXr8y1KNLYUSzdqfFGfiDEMqf9TAW98d9bjMt9flxOVnEbP5dEq-wxalBNxCY523=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uKkto6mu0dvRzqcgi7rZvnHIlDcrOjlgkvg8dODHCMukt00vrIsXW5c1XriOPMsc28FOg7MtmjmfRdtu8x83TtOid-GBxA7pWcHzx-Ci04EbzCCaBEa_UpGdqnYpXSR9MstwdbgI9lbHG6QgMucGIDUPV2d0_KZD8Jq7GWyir3mTDA4GywhpP3Z5uv02k=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uzAXb3gxFBANTbGHRuXjh8Lg-2E92W13pqKpg4uZTqoFfdopJwkNi5bPTSpCkUgqfVpeSQBoOIqDqBIumXltHiLImsdIek2AXTB3XRuJ510jWKSzZlepHeMxZ0XId8xO3ko_F5nDgCFheDct5wxByuXv8HTLpm9kfPx_YYHQ0DTN1YGeX0Qi5dpk9-BwU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vm7UQiRhiglfQF7y3g4Ifa_8mJ23CoD_g2xiISot_hriH7WIb-1LTEdLqInxWlNXV2yxBBvEWvSlvqLXXWJXOJb4I_YWqg9UeOklbQZtLAvhAp-NFQjPQPOLhYbhHSA9Mb1Misa8_gfG9OvaT9jUxeiZGZFht_OZq6yQjmpHCFqZL-6PGQsBWX1ZCwIJU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vj1K6YrZLNpc21wjNBZonwycKBJNkvpDP1guHUTL0_GTotUe8RD_ip8bbKOEIewlGqnzLtwoyxXTZcNCnPz641e_yHh1gria9CtsL31mQg8LrAvk711mfcilqrv50bxpc7dRpWA2mdPKncCNDBt4JvGt0Rf-UjYh3yScTWGOuf_Bny9ExkxwcphUPR=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uBLY5JpbxWBZZC7p60jz-f4_qepUMD4E0N59teVv3X_DM923B9kON5s-plYb8NIXlZXWSl8KpjtAHpYl0wBIRwUpKSHALkwn-qDnX0aNcUN9BTAirK10Njwzt3y4M4dVynBVpqy06NTly5-4l7A_LhTiGOBjjXCCMTREjENAobhprtIoPUpxN725KQOOOUMzYxSD3eunfgEXDglzhHO-QgN_ROi_dlk0jLB7sVpFE=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_43_1.jpg",
+      "assets/images/ev_43_2.jpg",
+      "assets/images/ev_43_3.jpg",
+      "assets/images/ev_43_4.jpg",
+      "assets/images/ev_43_5.jpg",
+      "assets/images/ev_43_6.jpg",
+      "assets/images/ev_43_7.jpg",
+      "assets/images/ev_43_8.jpg",
+      "assets/images/ev_43_9.jpg",
+      "assets/images/ev_43_10.jpg",
+      "assets/images/ev_43_11.jpg",
+      "assets/images/ev_43_12.jpg",
+      "assets/images/ev_43_13.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 44,
+    "title": "Дропи: як не стати “грошовим мулом” для шахраїв",
+    "content": [
+      "У світі, де більшість можливостей зосереджені в мережі, онлайн-пропозиції можуть бути справжнім порятунком, особливо для молоді, яка шукає спосіб заробити. Проте, саме тут приховуються небезпечні пастки, які можуть обернутися не тільки втратою грошей, а й серйозними проблемами із законом. Сьогодні ми поговоримо про так званих",
+      "“дропів”",
+      "або",
+      "“грошових мулів”",
+      ", і про те, як не потрапити в їхні тенета.",
+      "Легкі гроші онлайн можуть обернутись тюрмою: хто такі дропи і як не потрапити в пастку?",
+      "Уявіть собі ситуацію: вам пише незнайомець у соціальній мережі або надходить лист на електронну пошту. Він пропонує просту віддалену роботу, яка, здається, ідеально підходить для студента чи старшокласника. Все, що від вас вимагається, це приймати кошти на свою банківську картку та пересилати їх далі. Обіцяють від 5 000 до 10 000 гривень на місяць, працювати — всього кілька хвилин на день, і, найголовніше, досвід не потрібен. Звучить заманливо, чи не так?",
+      "Насправді ж, це типова",
+      "пастка",
+      ". Саме так шахраї вербують",
+      "дропів",
+      "– людей, які допомагають їм переказувати та “відмивати” вкрадені гроші.",
+      "Хто такий дроп?",
+      "Дроп",
+      "– це людина, яка добровільно або через необізнаність погоджується, щоб її банківська карта стала частиною злочинної схеми. Через її рахунки проходять гроші, здобуті шляхом шахрайства, кіберзлочинів, торгівлі наркотиками чи людьми. Головна мета злочинців –",
+      "заплутати фінансові сліди",
+      ", а дропи – лише зручний інструмент у їхніх руках. Вони є буфером, який відділяє шахраїв від джерела незаконних коштів, роблячи їх майже невловимими для правоохоронних органів.",
+      "Чому це небезпечно?",
+      "Дуже часто люди, які стають дропами, навіть не усвідомлюють, що вони стають співучасниками злочину. Вони вірять, що це легкий і невинний спосіб заробітку. Проте,",
+      "закон не звільняє від відповідальності",
+      "навіть тих, хто “не знав”. Незнання закону не звільняє від відповідальності, і це правило працює бездоганно в цьому випадку.",
+      "Ось чому бути дропом – це надзвичайно небезпечно:",
+      "Дроп не жертва, а співучасник.",
+      "У очах закону ви є не потерпілим, а повноцінним учасником кримінальної схеми.",
+      "Дропів затримують першими.",
+      "Оскільки гроші проходять через ваші рахунки, ви є першою ланкою, яку можуть відстежити правоохоронні органи.",
+      "За такі дії загрожують штрафи, конфіскація майна і навіть тюремне ув’язнення.",
+      "Кримінальний кодекс України",
+      "передбачає суворе покарання за відмивання грошей, отриманих злочинним шляхом. Ваше майбутнє може бути зруйноване заради мізерного заробітку, який пропонують шахраї.",
+      "Кого найчастіше вербують?",
+      "Шахраї майстерно користуються вразливістю людей і грають на їхніх фінансових потребах. У групі ризику опиняються ті, хто найбільше прагне додаткового заробітку або знаходиться у скрутному становищі:",
+      "Молодь, студенти та учні",
+      "Вони часто шукають способи підзаробити, не маючи стабільного доходу, і можуть легко спокуситися на “легкі гроші”.",
+      "Переселенці.",
+      "Люди, які опинилися в нових умовах і потребують швидких коштів для облаштування, можуть стати легкою мішенню.",
+      "Люди без стабільного доходу, безробітні та соціально вразливі групи.",
+      "Їхня потреба в грошах робить їх особливо схильними до ризикованих пропозицій.",
+      "Шахраї грають на потребі заробити та обіцяють “золоті гори” – саме тому ця схема настільки небезпечна і успішна для них.",
+      "Як розпізнати шахрайську пропозицію?",
+      "На щастя, розпізнати типові ознаки вербування дропа не так вже й складно. Ось на що варто звернути увагу:",
+      "Потрібно лише “переказувати кошти”",
+      "– без чітких обов’язків, посадових інструкцій або конкретних завдань, окрім фінансових операцій.",
+      "Немає вимог до освіти або досвіду.",
+      "Роботодавці, які шукають чесних працівників, завжди мають певні вимоги. Відсутність їх має викликати підозру.",
+      "Спілкування лише онлайн, без особистої зустрічі.",
+      "Шахраї уникають будь-якого особистого контакту, щоб уникнути викриття.",
+      "Пропозиція звучить надто вигідно, щоб бути правдою.",
+      "Якщо обіцяють значні гроші за мінімальні зусилля, це майже завжди обман.",
+      "Вас просять надіслати фото картки, паспорт або навіть передати банківські реквізити.",
+      "Ніколи не надавайте таку конфіденційну інформацію незнайомцям. Це може бути використано не тільки для шахрайства, а й для крадіжки ваших персональних даних.",
+      "“Роботодавець” пише з поштових адрес звичайних поштових операторів",
+      "(наприклад, Gmail, Ukr.net), а не з пошти офіційної компанії (наприклад, *@company.com.ua).",
+      "Особливо будьте обережні з так званими",
+      "“іноземними компаніями”",
+      ", які не мають офіційного представництва в Україні. Перевірити їхню легальність значно складніше, і саме через них найчастіше проходять шахрайські операції.",
+      "Що робити, якщо ви вже потрапили в пастку?",
+      "Якщо ви вже погодилися або підозрюєте, що стали дропом,",
+      "не зволікайте",
+      "Негайно припиніть співпрацю.",
+      "Блокуйте всі контакти з шахраями і більше ніколи не виконуйте їхні вказівки.",
+      "Повідомте в кіберполіцію.",
+      "Це можна зробити онлайн, залишивши звернення на офіційному сайті:",
+      "https://cyberpolice.gov.ua",
+      ". Чим швидше ви повідомите, тим більше шансів на розслідування і викриття злочинної схеми.",
+      "Зв’яжіться з банком, картку якого ви використовували.",
+      "Повідомте їм про підозрілі операції, щоб вони могли заблокувати рахунок і запобігти подальшому використанню вашої картки в злочинних схемах. Банк може надати вам додаткові рекомендації та допомогти захистити ваші кошти.",
+      "Як себе захистити?",
+      "Захистити себе від залучення до таких схем нескладно, якщо бути пильним і дотримуватися простих правил:",
+      "Завжди перевіряйте, хто вам пише і яку компанію представляє.",
+      "Шукайте інформацію про компанію в інтернеті, перевіряйте відгуки, офіційний сайт. Якщо компанія не має офіційного представництва в Україні або інформації про неї обмаль, це привід для тривоги.",
+      "Не погоджуйтесь “просто пересилати гроші”",
+      "– це вже привід для підозри. Жодна легальна компанія не буде платити вам за такі прості фінансові операції, не вимагаючи реальної роботи або кваліфікації.",
+      "Пам’ятайте: швидкі гроші без зусиль – це майже завжди шахрайство.",
+      "Справжня робота вимагає зусиль, знань і часу.",
+      "Будьте пильні!",
+      "Навіть якщо вам дуже потрібні гроші, не погоджуйтеся на “роботу”, де потрібно використовувати свої банківські реквізити для сумнівних операцій. Ви ризикуєте своєю свободою, репутацією та майбутнім заради короткочасного і нелегального прибутку.",
+      "Дроп",
+      "– це не просто випадкова роль. Це –",
+      "кримінальна відповідальність",
+      "Бережіть себе та свої дані! Не дозволяйте шахраям використовувати вас у своїх брудних справах. Пам’ятайте, що ваша безпека і законність – це найважливіші речі. Якщо у вас виникнуть сумніви щодо будь-якої онлайн-пропозиції, краще зайвий раз перевірити інформацію або звернутися за порадою до дорослих чи фахівців."
+    ],
+    "full_text": "У світі, де більшість можливостей зосереджені в мережі, онлайн-пропозиції можуть бути справжнім порятунком, особливо для молоді, яка шукає спосіб заробити. Проте, саме тут приховуються небезпечні пастки, які можуть обернутися не тільки втратою грошей, а й серйозними проблемами із законом. Сьогодні ми поговоримо про так званих\n\n“дропів”\n\nабо\n\n“грошових мулів”\n\n, і про те, як не потрапити в їхні тенета.\n\nЛегкі гроші онлайн можуть обернутись тюрмою: хто такі дропи і як не потрапити в пастку?\n\nУявіть собі ситуацію: вам пише незнайомець у соціальній мережі або надходить лист на електронну пошту. Він пропонує просту віддалену роботу, яка, здається, ідеально підходить для студента чи старшокласника. Все, що від вас вимагається, це приймати кошти на свою банківську картку та пересилати їх далі. Обіцяють від 5 000 до 10 000 гривень на місяць, працювати — всього кілька хвилин на день, і, найголовніше, досвід не потрібен. Звучить заманливо, чи не так?\n\nНасправді ж, це типова\n\nпастка\n\n. Саме так шахраї вербують\n\nдропів\n\n– людей, які допомагають їм переказувати та “відмивати” вкрадені гроші.\n\nХто такий дроп?\n\nДроп\n\n– це людина, яка добровільно або через необізнаність погоджується, щоб її банківська карта стала частиною злочинної схеми. Через її рахунки проходять гроші, здобуті шляхом шахрайства, кіберзлочинів, торгівлі наркотиками чи людьми. Головна мета злочинців –\n\nзаплутати фінансові сліди\n\n, а дропи – лише зручний інструмент у їхніх руках. Вони є буфером, який відділяє шахраїв від джерела незаконних коштів, роблячи їх майже невловимими для правоохоронних органів.\n\nЧому це небезпечно?\n\nДуже часто люди, які стають дропами, навіть не усвідомлюють, що вони стають співучасниками злочину. Вони вірять, що це легкий і невинний спосіб заробітку. Проте,\n\nзакон не звільняє від відповідальності\n\nнавіть тих, хто “не знав”. Незнання закону не звільняє від відповідальності, і це правило працює бездоганно в цьому випадку.\n\nОсь чому бути дропом – це надзвичайно небезпечно:\n\nДроп не жертва, а співучасник.\n\nУ очах закону ви є не потерпілим, а повноцінним учасником кримінальної схеми.\n\nДропів затримують першими.\n\nОскільки гроші проходять через ваші рахунки, ви є першою ланкою, яку можуть відстежити правоохоронні органи.\n\nЗа такі дії загрожують штрафи, конфіскація майна і навіть тюремне ув’язнення.\n\nКримінальний кодекс України\n\nпередбачає суворе покарання за відмивання грошей, отриманих злочинним шляхом. Ваше майбутнє може бути зруйноване заради мізерного заробітку, який пропонують шахраї.\n\nКого найчастіше вербують?\n\nШахраї майстерно користуються вразливістю людей і грають на їхніх фінансових потребах. У групі ризику опиняються ті, хто найбільше прагне додаткового заробітку або знаходиться у скрутному становищі:\n\nМолодь, студенти та учні\n\nВони часто шукають способи підзаробити, не маючи стабільного доходу, і можуть легко спокуситися на “легкі гроші”.\n\nПереселенці.\n\nЛюди, які опинилися в нових умовах і потребують швидких коштів для облаштування, можуть стати легкою мішенню.\n\nЛюди без стабільного доходу, безробітні та соціально вразливі групи.\n\nЇхня потреба в грошах робить їх особливо схильними до ризикованих пропозицій.\n\nШахраї грають на потребі заробити та обіцяють “золоті гори” – саме тому ця схема настільки небезпечна і успішна для них.\n\nЯк розпізнати шахрайську пропозицію?\n\nНа щастя, розпізнати типові ознаки вербування дропа не так вже й складно. Ось на що варто звернути увагу:\n\nПотрібно лише “переказувати кошти”\n\n– без чітких обов’язків, посадових інструкцій або конкретних завдань, окрім фінансових операцій.\n\nНемає вимог до освіти або досвіду.\n\nРоботодавці, які шукають чесних працівників, завжди мають певні вимоги. Відсутність їх має викликати підозру.\n\nСпілкування лише онлайн, без особистої зустрічі.\n\nШахраї уникають будь-якого особистого контакту, щоб уникнути викриття.\n\nПропозиція звучить надто вигідно, щоб бути правдою.\n\nЯкщо обіцяють значні гроші за мінімальні зусилля, це майже завжди обман.\n\nВас просять надіслати фото картки, паспорт або навіть передати банківські реквізити.\n\nНіколи не надавайте таку конфіденційну інформацію незнайомцям. Це може бути використано не тільки для шахрайства, а й для крадіжки ваших персональних даних.\n\n“Роботодавець” пише з поштових адрес звичайних поштових операторів\n\n(наприклад, Gmail, Ukr.net), а не з пошти офіційної компанії (наприклад, *@company.com.ua).\n\nОсобливо будьте обережні з так званими\n\n“іноземними компаніями”\n\n, які не мають офіційного представництва в Україні. Перевірити їхню легальність значно складніше, і саме через них найчастіше проходять шахрайські операції.\n\nЩо робити, якщо ви вже потрапили в пастку?\n\nЯкщо ви вже погодилися або підозрюєте, що стали дропом,\n\nне зволікайте\n\nНегайно припиніть співпрацю.\n\nБлокуйте всі контакти з шахраями і більше ніколи не виконуйте їхні вказівки.\n\nПовідомте в кіберполіцію.\n\nЦе можна зробити онлайн, залишивши звернення на офіційному сайті:\n\nhttps://cyberpolice.gov.ua\n\n. Чим швидше ви повідомите, тим більше шансів на розслідування і викриття злочинної схеми.\n\nЗв’яжіться з банком, картку якого ви використовували.\n\nПовідомте їм про підозрілі операції, щоб вони могли заблокувати рахунок і запобігти подальшому використанню вашої картки в злочинних схемах. Банк може надати вам додаткові рекомендації та допомогти захистити ваші кошти.\n\nЯк себе захистити?\n\nЗахистити себе від залучення до таких схем нескладно, якщо бути пильним і дотримуватися простих правил:\n\nЗавжди перевіряйте, хто вам пише і яку компанію представляє.\n\nШукайте інформацію про компанію в інтернеті, перевіряйте відгуки, офіційний сайт. Якщо компанія не має офіційного представництва в Україні або інформації про неї обмаль, це привід для тривоги.\n\nНе погоджуйтесь “просто пересилати гроші”\n\n– це вже привід для підозри. Жодна легальна компанія не буде платити вам за такі прості фінансові операції, не вимагаючи реальної роботи або кваліфікації.\n\nПам’ятайте: швидкі гроші без зусиль – це майже завжди шахрайство.\n\nСправжня робота вимагає зусиль, знань і часу.\n\nБудьте пильні!\n\nНавіть якщо вам дуже потрібні гроші, не погоджуйтеся на “роботу”, де потрібно використовувати свої банківські реквізити для сумнівних операцій. Ви ризикуєте своєю свободою, репутацією та майбутнім заради короткочасного і нелегального прибутку.\n\nДроп\n\n– це не просто випадкова роль. Це –\n\nкримінальна відповідальність\n\nБережіть себе та свої дані! Не дозволяйте шахраям використовувати вас у своїх брудних справах. Пам’ятайте, що ваша безпека і законність – це найважливіші речі. Якщо у вас виникнуть сумніви щодо будь-якої онлайн-пропозиції, краще зайвий раз перевірити інформацію або звернутися за порадою до дорослих чи фахівців.",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72u-04ldE5QE-NvPLkjRZabd9KTknaPcwLFkpoxsS7mkgKqMpR4RVu9cAavJmfNaUme0dY_wex2FfFXphO7AdcK_8UtDX8JRl3zld5JuErwbj43ZJGeTeUXL9jb0l9zu0qQmNOOePtoteVoAGssc4vc6tVci66tbasfG1i3JDLM0Z6jOepZxyZ1AHxezP8SI_8UWSIZmLX8zWlRGsvANfX2Ja7BiHNcFEvMx6EOXo_s=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_44_1.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 45,
+    "title": "Ось і добіг до завершення навчальний рік...",
+    "content": [
+      "Ось і добіг до завершення навчальний рік..."
+    ],
+    "full_text": "Ось і добіг до завершення навчальний рік...",
+    "category": "Життя школи",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72t9b-GLqLQymRzQ2jVMscDA2ymF22Xp5j2aIhNwtR18az6-CZZtcU0s9Zw2b8Fg5hQ018DM2skA19mgrtGhy86u2vKoP15VeJ9SljE_o9D0wVx-1jzmqsjT7n1DFVFaNF-S9mLof7dE7cp5iuxhk8Dw3UOP-BfVuCYI6ubg5aTZ5u2ZuHFEFm2nHJRhhG_ffdIWbHccq2SwJpIhfK_cZIPqGEUA_o1d1syOcX6AHLs=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vFYmdVpmYp2MsZcGsX2bNeGNS5yyh02oYqzoJss0r3evDYir5tn50o3eOIvk6B5oSze_geIErCMvQAo4PZQI9ATwg0sLqFms9FNd4y-re-CmuTEv-E13evSOVluAEkjK1Azcl5bcm1160tKIDxsrIj43deftygIJzGMwny0cNYeMv3mAi0FhOaynrjZOjBBTqj2tiBYdDi1N2RrW4xiDO9nLC7Xs9aNO3w2tjYmMA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uXC6QlRjAEd3mvGL3fIQjHd1OLqp24kzfqLJhRcdr4Z_OjbPv7hm36m5BRfNhECL7UiOqzQFcaI5o1LqjBKMigQPXvH1JJH4ow9wh4tU14vRZlROjYlMLpQwORHK7wfLv7BQIMbAHauqb-7T9R0Ymqe6ptnRspmA14sBicLKaqG_I6LfU4vbtvQFw-A16f3cFWqNmvUUiCoxSfuNkj7AbcliUPnag7UxWiJmgqte8=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tkjvRXfvITi6PISrV2CVmi0y5RwR0IJHa5_eK_ZV_p7Rsh2q0Bt6R2xUgaRRqK5VQ8omSjvefuHRFrmn7lJM8vrCW35Z_RFPCb-2KW1fruUcHyVMVkf1qS6jPG8xVsS1BURSfg1E8mHFcTqOQo4G8NdHWpZtiMHMnOmN2Lq4eZaZIEnLoefMdVZN1n8lvApGuOwrnhSfbYw1DT2d3efeua2kCfYwR0cz5PqvJxLiU=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v5EJGjScbh1F68-aJpbSqeRFAkoYHcpGMS00XXbG9c93LYITcC3XlYagBMBFXr4vU-Pukn8i4Oug8MDsmMewxA9sqRzAQ4fX9uHIkO_ygf0Zn0koDHr6FaxZM-djBkVB_h8bMDAL4rBho-Qz80Z4Oa7X6-vrITLdQOd_mMHiUYL0KPi4bEeRSgbcA37vPsjjvKGVcGCN4v_o4HanlxLjV9smKVH9iynF0BpSci-NA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vP8WMHADVapRsy9GiXHssGgsIEbdi5J2JleaEV1F0nghB2z8uP0z7RsbGkmNW-GZH0RKxXQOScQE1jXZpWm-vdOPekdo95gEFvuWhiJ26trjfLaolLSOspRdKHiCE5Q9CVeJq2ajBMvWTnJbWvr8LmSWN4PkbybNzl6YVVpUiGoHrKgiQHBVhzlnGg_lOunvTJX7oBxYqj_n3XM0QWLkgSoIglFk5UmYOzbKN-sBU=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u31SlsCl6K74EoDC7_HS-xWhw1bmvVuBmb6eXvAddyJVAjESXtbh4uImHVcI6bBcSqJvuQ4Z5JyV1h6q26pXFWMlUEm_EnSN-QLETnO3GbbYFUAwlPpYP3US-dXWOQ0txRMH8QiJ1lvNMQ-M_KGApDtIfH2B427lZS0kReo1FmE9z6d24KQzmbNC7Wmtydb4Llbq1wIiAJJVJx0Fh4t2e7Uxz-SL4jsAMnbKsEkx4=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v3irvKCn30wBlAOkC2NMjOEaD6h9gsEYN8Odah5o1WKYQPLnEb-9xqcDmnclKPzIKq7NAkRboPygNQmbQZ435XlLBOsOQgsYnNM1Oi7fKB3X7PPbJHWc6xEnHCBM3vwMP1i-lT8-AD1KoSKvhvUfazyqY9wu2GuDeRqCSyiiF980dvjdvtGCzTT-9gL9TywtvEKv_alhnNh-a_-Bbn38qreVSCBC5EKqxw2dpfVLs=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vLOFNIKCqFT4fAjq3VEm2zpNjn45GHe5hpXBUGpnN5htzHQYTt-YDCT6Nakxie968I7nau_EtlyRqHzgoRvj_etI5C1sNH2UEtBdOovZVOIiXKOhD6xRa-kEB6qvw0ZrnxKrUMR-Xd9ahDGlSrw3W08_V1ZliKa50wdz_AOjG-mmi-dSXtYyVNj0-MSTBEZSXaprADG-rABXCsBNmvRuC8iaL5lBt-lNqi48A6=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_45_1.jpg",
+      "assets/images/ev_45_2.jpg",
+      "assets/images/ev_45_3.jpg",
+      "assets/images/ev_45_4.jpg",
+      "assets/images/ev_45_5.jpg",
+      "assets/images/ev_45_6.jpg",
+      "assets/images/ev_45_7.jpg",
+      "assets/images/ev_45_8.jpg",
+      "assets/images/ev_45_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 46,
+    "title": "Днями учні початкових класів Липницького ЗЗСО І-ІІІ ступенів взяли участь у розважально-інтелектуальному квесті \"Дітям - радість, дітям - сонце, дітям - мир і доброта\".",
+    "content": [
+      "Діти - майбутнє нашої країни, наш найдорожчий скарб. Вони мають право на щасливе та безпечне дитинство.",
+      "Тож хай буде у світі мир, хай цвіте на личках дітей радісна усмішка, хай дзвенить веселий дитячий сміх!",
+      "МИРУ НАМ В УКРАЇНІ, І ВІЙНІ МИ КАЖЕМО \"НІ\"!"
+    ],
+    "full_text": "Діти - майбутнє нашої країни, наш найдорожчий скарб. Вони мають право на щасливе та безпечне дитинство.\n\nТож хай буде у світі мир, хай цвіте на личках дітей радісна усмішка, хай дзвенить веселий дитячий сміх!\n\nМИРУ НАМ В УКРАЇНІ, І ВІЙНІ МИ КАЖЕМО \"НІ\"!",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vKKSqDeCs2cmUDHFymbf5f0X5CrXhS79vp2j9j1iBzyLumAe7JrC3tBknh2Mav3Lw38hwy7HCAybpcEjG0LTzTtKaoUIIqkgm9GJsmTkPn0xwVs8VPadBQSJYulGawW2OiU7znVRhRQ2QreW6bZVRyi0YlE11ak6mZlbDFKAGiUsblY9WOQyDECg1mV9hdo5wTknqxQJ2d3VApX44_IVaMG3Wysyo4SZ6dIA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72svHFt21-PXwGi29OOHYCnZpAO1Sqea67lFbtYdU32DQSg33aQAhNeqnkFLVutbFo5VgbTtco-mF8Pn9hoymsvsUVGkoOrGIyjeiLXkE94vkDg8cwkUkE4MeLv1Czn88R8auqU2xaQ8tCSOMvGzdoHX5-f4HdzcFHBqZ07g2Z4t_dnCOo1jNypI2ox2ocsqegJqJe1IMS4Id59G60FSXWUbySquxi67Nz7lTr-krnw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v5w6PTB9UPS79rae6CCjTkyT6dYaPgORpuR4ES8nIeETgTpTHBTf1sWah0Bkyjmc0naOlSTiAisztFAq5R46PPN98F2mOURUZMINXk9B_A5-LNsJw-3QPRFck-irS98tzuhiTnsIUAJdHbU7L9XahyMKoBrXcYsS6HJBVVsKmNVQ4TyWoOLYx9G8JXPYXnlQaastHLXVbbrTo7IoTXUpSJv29n2Z0HmR3qdEbcv2M=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tlkVBhLjqW78Z50cNgnbw2i_EtujRJIVzvrFJ2bXVIgCB4BSpkXXwmoGjUHBeHoazWqryXpWqG5xBd4O3GtWRmndsnq1NtVMHqOBSIoRoPwQUQJ6tCTGrdU4ZSG4_koplkmwk1CLFtJu37tz6V-t9DldsUIb38aRwObGReLVEK1wVfa0pt6wPOVXZ_PfFLt2nEh6F9nGAF0O9DJzsC0SU8cXsEHMiDh44NEwFVmv4=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tS9IKmXScypPhkABI6EKgS3EeuZ7W-rgTV-xEeCNyKFUYgA7sCtHOmTlms9RfgxiIElDobPf0Ob5k-YGTufh5R6l6krR3T576T1oWnBibEsLUqcMEZDZy3d8Ybvsx-WaxE7JB7X1jx6xOqiRYpsMfqEDUm8Aep57NOZ8S5XuFMFct63VZXKGob9YDsE0GaUBsKGOAPg79BXzyCPA7FGkp5xUEU9S3gDYugN8zTwG8=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_46_1.jpg",
+      "assets/images/ev_46_2.jpg",
+      "assets/images/ev_46_3.jpg",
+      "assets/images/ev_46_4.jpg",
+      "assets/images/ev_46_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 47,
+    "title": "Світла пам’ять...",
+    "content": [
+      "З глибоким сумом сповіщаємо, що 22 травня відійшла у вічність Нижник Віра Трохимівна - вчителька української мови та літератури Липницького ЗЗСО І-ІІІ ступенів, щира, мудра й чуйна людина, добрий друг, порадник, наставник молоді, турботлива мама та любляча бабуся.",
+      "Її серце зупинилося, але пам’ять про неї житиме в серцях усіх, хто знав, любив, поважав…",
+      "Висловлюємо щирі співчуття рідним і близьким.",
+      "Хай Господь упокоіть її душу в Царстві Небесному.",
+      "Вічна пам'ять..."
+    ],
+    "full_text": "З глибоким сумом сповіщаємо, що 22 травня відійшла у вічність Нижник Віра Трохимівна - вчителька української мови та літератури Липницького ЗЗСО І-ІІІ ступенів, щира, мудра й чуйна людина, добрий друг, порадник, наставник молоді, турботлива мама та любляча бабуся.\n\nЇї серце зупинилося, але пам’ять про неї житиме в серцях усіх, хто знав, любив, поважав…\n\nВисловлюємо щирі співчуття рідним і близьким.\n\nХай Господь упокоіть її душу в Царстві Небесному.\n\nВічна пам'ять...",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sv4FLcTra3cggLtK-c9y6_7Ed0oE7cuYn4tUjc7MfCbPLMVo0PHWAC0xM-aPWYDs-bOaJDLyFHvq4At_qsRRb5VsN8FJAIPJC_ClJ9SsFuttl4AHtT8kO3HuksDQsGevUdmiKah9OzYHgMu_QiWW17MbmFeww-ynSZdN_Arij1zTYvvGS6oQy3te3lc-IQtiYLI6uowwWyHDBOdMEuiVMcPYcIe7sHrqskwOvede4=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_47_1.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 48,
+    "title": "Свято, в школі - щаслива пора",
+    "content": [
+      "І вирує уся дітвора.",
+      "Школа – то є колиска добра.",
+      "Вічно юна і вічно жива.",
+      "Сьогодні в Липницькому ЗЗСО І-ІІІ ступенів відбулося свято «Прощання з Букварем» для учнів та батьків 1 класу (класний керівник Жигайло Г. А.). Саме з Букваря починається цікавий шлях у світ знань. Ця перша книжка ввела першокласників у таємничий світ літер, навчила читати, познайомила з новими словами. Буквар став для учнів справжнім другом!",
+      "Бажаємо першокласникам успіхів у навчанні, адже на них попереду чекає багато нових відкриттів та злетів!"
+    ],
+    "full_text": "І вирує уся дітвора.\n\nШкола – то є колиска добра.\n\nВічно юна і вічно жива.\n\nСьогодні в Липницькому ЗЗСО І-ІІІ ступенів відбулося свято «Прощання з Букварем» для учнів та батьків 1 класу (класний керівник Жигайло Г. А.). Саме з Букваря починається цікавий шлях у світ знань. Ця перша книжка ввела першокласників у таємничий світ літер, навчила читати, познайомила з новими словами. Буквар став для учнів справжнім другом!\n\nБажаємо першокласникам успіхів у навчанні, адже на них попереду чекає багато нових відкриттів та злетів!",
+    "category": "Шкільні свята",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72shpMnlpzBHvs3sKlJpqWmOnKw3tQHUqHeqzzRadu94Na-n0yUEgZpoZUBJZqGwh1n6cUFjQDOoaVAQgTYvDCwWS-YXenF6oiXnMKfG40EB7dks7WEMN5otjlTK4L5IzszKuGP4sf_8hPi_Diriz2bJOKRxewX9BiEwYZEUmHrEf-Q5YdHGCCLExwgboTZUZ7Totm3Ok8weITBd9qcHsKL_XwG2u7udd9w4zaspaeU=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vq8WLT2sbULXtIL9jL71_-_issDNI--iNSc17eirOApshW_2v5XdQYTMWs6HkYALu8z9lmbRiVzj3zcHOuuV7-WsNLD7Gbo9E1rhpyRhx2SD9vrfOjtn355yYwHka-rod8WiKtZGZfdRRe1WbgaIL1Ch4L9Gv_DfC0bdJX-MfsG9ScI28QS80XPZteCEqQnqOaJ54DQDUjUnR4ZEPJMhtYdwegDlAW_josoeN2Kw0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t-ro7dsTnZsREdRkm2L5nRn3FjftUQ84KmQsqbkF_8QF8gC4sdoOQfuvtpGjNAJFa33YNtGxgnp3TFeEPy11T6YOASSFIBg2boEvhVigxM1aGDJgNgBZpypdzy8GFJeB_5H2PEqgLNHBTnI7rDj4WnXybvcVzi6xMEju6BMT1NnTniBYobmlfpYPwSfnUOQxbFoBzUCAMu5HhJ6LHXjlt9mrxW8TRe-asbOCcZbQw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vwvVBTYOAf8NxsNGj-wTsHKLQaaghRgW5q-i9QkPvlKeN6myfA4fWhr07qI2j-m6WX3Yq-BBNV3jOHFTq5VMnb3OzmoNG8mjTh5dd7lLwHydaMNAL9Bz8Nx3e1PzHPL8V-Y6wcsJpbauy0p-6Cy167ZWMHbxjj-ABvRNyRYjmtDK93lPecbsUDCWowcDUy6Y5AyWALu0XpWRoeT3vzMonL_6Ak3NIcNiej778XAN0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tZAgWCaGAUQOFHf1CXfZe6nm-hKalQZN575EHw1s6A_EJBQAUeC9TdD8OvsYCIu2HEDIjgg5MG_S-M0oTb0S0csV82z4mjKSuWlGwn4N5i1xtslv8M_AUplCkSfZwzb5j1fBVuV-K6O4CtX8-aVn2M1UWtm3RQCXAa_UkXCGTGPGNKnEOaA56UpeNDanSFunPGMHiA7NGcV84YW8RwPeuQwZBihfmHn_fadhS1zlQ=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_48_1.jpg",
+      "assets/images/ev_48_2.jpg",
+      "assets/images/ev_48_3.jpg",
+      "assets/images/ev_48_4.jpg",
+      "assets/images/ev_48_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 49,
+    "title": "20 травня 2025 року відбулася урочиста академія \"Таланти Рава-Руської територіальної громади\".",
+    "content": [
+      "Наші інтелектуали - переможці районних та обласних олімпіад і конкурсів. Цьогоріч це: Солтис Микола, Стасюк Вікторія, Васечко Олена та Нижник Ольга.",
+      "Пишаємося нашими учнями! Бажаємо подальших успіхів, нових перемог та творчого натхнення!❤️",
+      "Дякуємо ЗСУ за можливість навчатись та розвиватись! 💙💛"
+    ],
+    "full_text": "Наші інтелектуали - переможці районних та обласних олімпіад і конкурсів. Цьогоріч це: Солтис Микола, Стасюк Вікторія, Васечко Олена та Нижник Ольга.\n\nПишаємося нашими учнями! Бажаємо подальших успіхів, нових перемог та творчого натхнення!❤️\n\nДякуємо ЗСУ за можливість навчатись та розвиватись! 💙💛",
+    "category": "Шкільні свята",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tSAByuW2ylX5VkFkYtEnqomWlYKqb1XYzsyTX64xYClW0G1W68zVi6gGFw3R0_YEnH_xNVS3gMCu40bypfy2Ht4JPjH0uyP9JaZeEeR-lj_MqN9UOuM10w935LfmyM40msbCPtujUyvgQ8g1dT8trjslV0NGVVWe1agxJXBjh--NmYPdPVMsrD_LTHv6lb5FgrZfAKzCogEjO-lOQpij87nwqcavkF6Y1iFJonTIU=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uD9p34fhHC_PZP5j_1daPZNszkvorxsJO9PjkJB9pmlLU5iJ7Zuj_KIFUxUItS2kgWdKRIAaf4Qwt0VmWCCkxZHubaQHOswmLADYamB_SFJLiIskd5ERD1zF-9eko9uZo3pJTdukrY4R7zzk4Tvw_k3C4aA3DiSB-QRnU15LvxAvfqgvLMw2O3HHOg_f9f9NmMi5if_0Bf81tdDMmcR-MpfoNzkf2XRKMQlRhZ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uspjVvQ3bnA0vX4yQJWM-AOgjg-Hy15fBwEecFBlGGVwteCwiWXsGdo0TJEcM2dSQmaq0ndh9wTl3EOYLlIBet2K0y0KUWBkLPt9f1yOEb_Qw-w-TaDqP-b76aWyZEbZ-xp0X2e_LaP4tKjPl39qinXDY2E1CTAYbCTWf_I0wO3SxuaThFF4QTIfkhvyPlVwGkfryKXeIT20Eqnc3VK3qWPMv9YLnJGDzomwbH=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vvaOie9YpvhYdR8BxOJ7kBXatAK-VvgmsSWTP0KFDfxvV9KCuIHgVPEvPaQm1IceFH3zpVfA6WkolxeCCRT7BsZc-aVmSUxSnGZPvuwyBA1HbyJkkR1YOC7OHFPcjdsPNc0psI9fcgh1KgVrDzn3TZ2AOdOWLqGjJdZrKFgFtSZYlrZzZJ-XDJBOsViJpBqkM4kzjtsbWwM-3hbmiqtMe4OkIVamFnsos2rOcz38Q=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sMXE6vtzIXjSqlKtJxmMIXlO2QIlwblH8OGAZ8EIvQNKvH55Kadqb3zkX39HmRGkD6TQEMx4hSVHlHP-gV_Ft7UTil9Q4eg5lNDyJ1uX_cGHVmv-BxvPJ73EY3gt6bq-K-lSxvgLB67o9QrolPzKg7NXNaxCR_xhbziE-mkMh25eVrZ4wVXIKTMXfjFrb7CVpAeGWSLIFwc2sWZj-nAbzy2nFbFxQedltSwkN_MHk=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s9BnFuX9C0BxDX4YHgs2pz4TQr8BSw0WUpxkKRPo4RYJjU_p_3899A-1IflDfze9o7o_vXHST0mVSHJhvYhSv8o8yS64jyLFjjMB6ZaG3PyanCwjhVSvje67GxOZzm3Q8rHHr8S2BxpL7VbNGSNQSFALDZCzG9C9z_iy6yAkzNq9WNoneIDk1N0xLN=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uUa3TtrYJP6I5XRSFfKvMaPBnmVSKOWiLwaHY9yYLwmu0wuIipBUhe4_cfAG5JJpQgSkMz_SPeQAqQA6x9JRYQw2pKcv3GyQR1Rncb2wjbUX1yUF_bdPpnXgvLo1hvrQV6zeScGkYfIi7OnRhhTLMtlmlMNVrPfcnYg4152fTSZXMXFxoLkmqEurfIqLk=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ufvvk8t3X7YlWkwNmLefv9O8byirhiVBs_rI1TLY3Rf-w4rKR9_vPmYJBFLnF8VNQ9sgIxdQeI0YiILeDrrweFz4ZCnXiSv0QfiznUzp8miBch5Y9WB3O6w91_B3_-vA9aqEy7RpvhKjN3jOQe88MYCmlNKi85YgHi8xvdekLtVTTutGCwZ-qDiRFcwyM=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ty0G6Cz1v7jN2dxJZEpLDjyrqFsvNFzN04D77FCpvztXoIq7yVOvOxwSvvM9C2Xc1UrmeOqZftE9ERgS7iRk_Ijp5lOL3CRqmL4jPhgPCvhTXqKLq24BAuMgsiXltTtpTLzFWaX9NXa7lbz0eZudCRs0EhudI6LBZYvtMIa3oGf205BeXB9Q85S7Bw=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_49_1.jpg",
+      "assets/images/ev_49_2.jpg",
+      "assets/images/ev_49_3.jpg",
+      "assets/images/ev_49_4.jpg",
+      "assets/images/ev_49_5.jpg",
+      "assets/images/ev_49_6.jpg",
+      "assets/images/ev_49_7.jpg",
+      "assets/images/ev_49_8.jpg",
+      "assets/images/ev_49_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 50,
+    "title": "Гаївки - це не просто пісні, це наша культурна спадщина, українська традиція, яку ми зберігаємо і передаємо дітям...",
+    "content": [
+      "Дякуємо Захисникам за можливість пізнавати світ.💙💛"
+    ],
+    "full_text": "Дякуємо Захисникам за можливість пізнавати світ.💙💛",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tKl2K_Ztc3lM23IejuUGru1mKfY9Q5ZooJz4YvqSvL5C2Z1shvGGUt0mG3Oxf5t18hucOYRphsyGS2SxG7eqlvyFsQ2rCtLHJ3U9rZq9vHelux8aUrV5RsVAQaSdbAWNk_Rqt3uZXF_NT89dhG0LytwUvovPE0el6OwHmRAdlZ-bbEG-jnzQ28XV6iGccjjBW7saT3MjS6OrX9hHQoeGJiP-sKOliZxtvvQ1dC_gQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tXwlt8kJhBUorESPSMRRhaR7JLA2ex2-LsqSQsL2JQzx3gJQUcWFDetJ1BduFw4JJWyz8GUhMX4FpjpFAXadDyA3EpvIL484tqw1kC9WiOSKTlzFXFEsta53c36-4MJ2iYYSNUABTnQ4xSsv1EORz4w6Y4TxgRrs4YUolqWiCiV7CErlUhMdYzr9GtxahAi6-HvkOTWxqJqzPwgUNJXxljvHTT6aQJvQwY0a6o=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vG69loRUFfvx77ZElGkOdEVy30KFx7CtPEXaq9K3B9BavoN-LvEE_5a1H8ToSteXA55ROcwMsb1MStdmlkiEYbRwn9AaSWajCaIz2BECMDd1Koy7RqkTS0kVQ65ELmhiHuVZCuUHXChOHL9WdbHCxwxdAkX4DevTNiMAew2rfhs9omrt1_YYuhXpYKYxFqJM8MPFwPj8EsnaHSLR_w4ZBbz5zIeRcR_oN0vqkV=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t53cl55Eg4gekWHgfgpfxq-TxelpxWhBegQdHe4MglDKgVr1exGlMSif_KLieTJYzSfVc6OhSjmVVqnGckG-26uUyTQCyDJiXbPykeEQNYMQ5_xkY919pk2-FfRtRR_9kNUnuXnJBu1rIcIQnWOGRFO43omacMUPr46Vq8gvPjid_JBcpUzK-3vQUf1B4vhnQzwsDkGfb9v-P2Bi81LwzKRTjf4k_7x_tTyx0iF5o=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tqc58UQmA8Tdc3swLgdUZyzeibuqvljeC3VNpiqw7k8jfIvK75KgvhxDDNvF2Qe_yi0-iAdPdnU__0JjPbkNkCxpz46snxqH2Je-eGi2ySTVlRLek6yrRBWGQ4clwXzmsm-2skDd2_GDgIhPXEDvlmeQOtOyrU_cKFLRfV2z8yi-0cDvFT9CJAbuODftRPuQaGp_9P5j-J-nLgkud4jHKlc2JuJs4gUwhktzHjbvQ=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_50_1.jpg",
+      "assets/images/ev_50_2.jpg",
+      "assets/images/ev_50_3.jpg",
+      "assets/images/ev_50_4.jpg",
+      "assets/images/ev_50_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 51,
+    "title": "📌Гості з Сумської області завітали в наш Липницький ЗЗСО І-ІІІ ступенів, де на мить відчули смак шкільного життя. А тепла зустріч з педагогічним колективом залишиться в серцях надовго.",
+    "content": [
+      "Також діти відвідали духовний центр \"Заглина\". Почули історію Чудотворного джерела від о.Михайла Шевчука та мали можливість загадати заповітне бажання.....",
+      "А мрія у всіх одна💙💛"
+    ],
+    "full_text": "Також діти відвідали духовний центр \"Заглина\". Почули історію Чудотворного джерела від о.Михайла Шевчука та мали можливість загадати заповітне бажання.....\n\nА мрія у всіх одна💙💛",
+    "category": "Офіційні новини",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72t9gHDhJq0hf3O99M65lB5ur2SzaqrhsWbpVbzjdVASKf0U1n3i9j5UPeMqnoAo2B2QP5ziUZ3fepLqi_c8SrTZpyrO_2xraHq-PUH_j2sFUtKShl4ZV35HJeURMBFv219fqZuDuMHbq7ZRXSbJdS_eqWbtKU-WUaelVhfwvMXGkO3G4xRFeCIDLIYDmqj8L3_2qWqu2vwde7viKROO0Jef-CA65bm-DnQ9oAxb_uM=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tEQux6R8_whHMChC8oPS_OQE-rlI5-G_Mob9ldMLuXQPw3Nr4RFoqqrGubgPNtB-vaahT3L9aecNDe-B4pqxF5BZVGzdtBZ1u2y_WtCb_ZBFxwebp6Ef9A_8IQjJBSffxUUu8cgw3ZL146ofRnp0M_Zaei9pd_noCZxvV5ZqHQSdWsOFlPCvrxs9CovEveYcB6IG7SfNMQD26UXZSXZ52lSQYC_CP2fGslAOVC=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sPIGQ5MoW6ngFagbG2l0nERHQBBbbKySwI3Tvh6iLTM50XqKuFRJDrvN9KTp09_0qJkf-7NvE0kAP4IyqKfkZu9kz4HPLL-cS7dtnCPyrMl6s3bdxaY7tziolBCFDpXH901Dr7uX3HyDtPojBRwEOKcCTXmEK-tRu0edGwvCF9wzZUpaQxXj0WypWeoLqisN8INKzd_EXFOur98xoRYDok4kzQTp87-M0vVzkaHM4=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tw-0HZs39n1bbeXTsQ3bKMk4XFsytdIV14uAk2AW-FpiED4gckC-cC_9DXBv-eZ3fRIk46nE6V1NkmkzxoWL75t3YKnjlMasHyq01Un6-V_oter6T8D8b8GXHORZAeko4nXYD6ak5RgKLnRamCPkJrfUDI7i0eSqTe4kGpgoSmDp6xU90qNR-pplLIX-PYkNq9t-m6Rs7JBsgyWM4warAfFzA50zi5X0ATgoDS=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_51_1.jpg",
+      "assets/images/ev_51_2.jpg",
+      "assets/images/ev_51_3.jpg",
+      "assets/images/ev_51_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 52,
+    "title": "Сьогодні в Липницькому ЗЗСО І-ІІІ ступенів відбувся День цивільного захисту — важливий захід, який об’єднує учнів і педагогів навколо спільної мети: навчити дітей бути готовими до дій у разі небезпеки.",
+    "content": [
+      "Протягом дня учні брали участь у тематичних уроках, тренуваннях та практичних заняттях, де вивчали:",
+      "✔️ як поводитися під час повітряної тривоги;",
+      "✔️ як надати першу домедичну допомогу;",
+      "✔️ що робити у випадку пожежі, хімічної чи радіаційної загрози.",
+      "Цивільний захист у нашому закладі освіти — турбота про безпеку кожного!",
+      "Разом – сильні!💛💙",
+      "Слава Україні!!"
+    ],
+    "full_text": "Протягом дня учні брали участь у тематичних уроках, тренуваннях та практичних заняттях, де вивчали:\n\n✔️ як поводитися під час повітряної тривоги;\n\n✔️ як надати першу домедичну допомогу;\n\n✔️ що робити у випадку пожежі, хімічної чи радіаційної загрози.\n\nЦивільний захист у нашому закладі освіти — турбота про безпеку кожного!\n\nРазом – сильні!💛💙\n\nСлава Україні!!",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72u-9Ggx2UROxSFtxPx2OEw2z02-DW933vwZAneqkSZo5ssXcvUMPhIC8f10K3J4WZEMDdN7C-DYxaFPpQJqp1natIK2v1ZMYjTnoKBruAJsijbHY6xZYUUI3NqSucysLjhtRJtOdtWJpcX3ZAaS9vZEyvrPYeOL5jE5D4Rb54gjEImP-rX526hHxzB97o2ciNU96q78WzRCeUoLGn_azIhRE098HlzHJ8pCUmeQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tmQDtXEek5HYUBqSAju_NU03Vw53iaoo5gpfeuNW_Lj97RRXCyJB-1K8SFgu4GRAu_jpLR8KNviYCMwmh4ZdhmP8epHxNQ3IfPbBM0A6xCYKIdR6DcFzgTwzzxkmgsXrc07AFQy3CAEp-lcoAzE6SVzbRCh-Hu7XtnUy2OEQTMX_irgBWqHW7i80LxtYCReL-MlXQE2dOLqb7os9qQMjEMTXtluzMPDKFL4FddbyE=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72stBQJ1YxOcsK0yzZVY-V1fVyPlqizc19Zx5dTTlh-XFdgzp61O0F8488elHwKiHAHVvjpfrvWnDzu53D4GJ4Zo62fJE8eg-5kVM3fJ0WIkASjT0Pt3fR_-lTZuaY8m7zUCByKM_yJd_0XgHVIcj8S_nsJ8XVH--WufJ4lgmjE5HwrNcJUw7C0x-3ddN9CMJig_F45ZqHLJqqCO95s8aUDdzq75eZIWtEeDC6lG3-I=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72srQ16h6NWpRYN-YHlNzz_KvGAnXsgHb48zSO9MsfAaXnqA2qWTenHJf6WPH3hpWcHiRTKzB09N5UYGqt0bv1b7Agpwf7LTO_GdPGya7T1ArDwMfkZ_jerHGxkGrGxx_uA5pywND4fqukf7Q7Bi3BLTmnrIMnLJ-q17lLh-eMtXr5XDUFadXNZTP-10Vn7j5S975j_OVchdajNfJOWbg7TSijTtFc02NO5aSK78nyg=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s-KL4TaCkf17GBsOR9x_USd8HJFW4Kj5Kh4JIIgeBMux-QfHyBcEXJ-c_VgP881qnzu4pR6PoJD0eKPZR-jsKwj6Bv-yMQqy6f0JT-g0pw8jt73VrjcR7JSeY3QjvESmonSQNXyPQk1OPkEtxh0yXbywtLCnVbjV9UmE7QMdM7uKFCEqujBkKW_0XeO1fwXWwghm6UvoDORjUZalBSuD_NE_tJjQYt_XH_m5t6=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72taf49dEc2diUWq41BfjboOyrZvzXnTfHHHZSp5UjJ5KsPOY10kPbGRwADFhZInvWLvddkXX4JNmsEQqvThkSeYgYazNXa55wdT098LX8nrnTRlIG6ZZIK6WXxXnisHBDOK9DeS1lBjnPYqY2U1t0w35GRMqIEJl54uidMHxjNxubDAOsCQL2kv8E-uq7592OuaEMQMu1QmJOEI4NRJL4NgHpTwtLa7JG0R0MT5jGs=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uKxWsPgTX-CgbPqj6m1yT7bzMlPcTClkGuaD4xIg7WOM5gPFMD9W5BFUgeBcmHzS317qoIkNGlWI3fNbDPukLdo7gqG12GpJAYPNpJo_oLOi4eN4xC9IUtO8I9dujOoEaFLQ80tN8yRpa2yyXQjBFGqEQE4gEoVuVoxda6Ho0-Uc6JL9qDdLRMENMUNGiK1OAvoZ4Dbg7KgrOgYh6YE1gUu2N7n70MahsMoqYagDk=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sJOR3CBWYddr87C8puR5yJ7aVPrhKPVZFqu7v4Dogot6wxp6PbZYEAyclwjB1NSWGtBbBYEFn-7nhZRt7rpnOxclPM5i4t108Y0X72HO0fv77JmQ3AE4UzTCWkDbXc_L3idaxF7c62pFDriaiqcowYGmNjbheQncjCRtUxUSY08H7aGd2oDscDrAFgtEmvzhLjpuSvx6ePRpsmVc8hVZmXQkUG-fVgbFs1yY3lFCA=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tYesw1rqPu6Nz5T5ps8rVZ4Bw13j0XWBaePtIb4U_n3o1djdTj2ZiW-sGraJYSPEQ4A3189Bvx7v18RZfoG7R9xE51oCBEijR2jkVhiYe2BHJEF_L2bq6XA4ST6SJDS31AcN2QgvDNCrgQYkMrxGzlIeJHaNN1RU8Fr_Fq3gH1Iupc3RfG6ZR9Blf4qDx_fcKsQfeRQWMTNpbhWneoR41BpNAdTt46gT6hE5MGBSY=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_52_1.jpg",
+      "assets/images/ev_52_2.jpg",
+      "assets/images/ev_52_3.jpg",
+      "assets/images/ev_52_4.jpg",
+      "assets/images/ev_52_5.jpg",
+      "assets/images/ev_52_6.jpg",
+      "assets/images/ev_52_7.jpg",
+      "assets/images/ev_52_8.jpg",
+      "assets/images/ev_52_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 53,
+    "title": "30 квітня 2025 року на базі Липницького ЗЗСО І-ІІІ ступенів пройшла першість Рава-Руської ТГ з легкої атлетики в рамках ХХХІІ обласних спортивних ігор серед школярів.",
+    "content": [
+      "Результати змагань:",
+      "🥇переможцем стала команда Липницького ЗЗСО І-ІІІ ступенів",
+      "🥈друге місце посіла команда ЗЗСО І-ІІІ ступенів \"Рава-Руський ліцей\"",
+      "🥉третє місце посіла команда Рава-Руського ЗЗСО І-ІІІ ступенів N3",
+      "Пишаємося нашими успіхами в індивідуальних змаганнях:",
+      "Стасюк Вікторія (9 клас) - І місце в бігу на 100 метрів;",
+      "Петрик Богдан (11клас) - ІІ місце у стрибках в довжину з розбігу;",
+      "Беринда Олег (11 клас)- ІІ місце у штовханні ядра;",
+      "Нижник Василь (11 клас) - ІІІ місце в бігу на 100 метрів.",
+      "Бажаємо усім учасникам наснаги та нових перемог у мирній Україні!",
+      "Дякуємо ЗСУ за можливість жити, працювати, змагатися!",
+      "Разом до ПЕРЕМОГИ!"
+    ],
+    "full_text": "Результати змагань:\n\n🥇переможцем стала команда Липницького ЗЗСО І-ІІІ ступенів\n\n🥈друге місце посіла команда ЗЗСО І-ІІІ ступенів \"Рава-Руський ліцей\"\n\n🥉третє місце посіла команда Рава-Руського ЗЗСО І-ІІІ ступенів N3\n\nПишаємося нашими успіхами в індивідуальних змаганнях:\n\nСтасюк Вікторія (9 клас) - І місце в бігу на 100 метрів;\n\nПетрик Богдан (11клас) - ІІ місце у стрибках в довжину з розбігу;\n\nБеринда Олег (11 клас)- ІІ місце у штовханні ядра;\n\nНижник Василь (11 клас) - ІІІ місце в бігу на 100 метрів.\n\nБажаємо усім учасникам наснаги та нових перемог у мирній Україні!\n\nДякуємо ЗСУ за можливість жити, працювати, змагатися!\n\nРазом до ПЕРЕМОГИ!",
+    "category": "Подорожі та екскурсії",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sHSP7rTXLz_-R7ZQ8ZIaWwNEVvGuc06is6ThofQIBLpRNtWr_hXVGWilCUeuy-mDvcUStPn1EnATGLYznEeBvpfyTZw4CN-v8GUSmCOP3SzJO3OD71VOcK9cyXcB0RxQepp9kWPG6P_FXQnanUG0eCe7U48u1Brd8OF-JQv9Vy_xEHG1GHAb6TLk_Z0kPI52E7GaLoAiCJ35Tfuy6n5kHftyHJa-kyhnxwqhGv=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vIK8_QTO4Q8LRLXlZa62hbsw1g0ezDkjGcAG8-XLq6GAhdgjDCJwWyezgmu9yDJUGtICKZN3HVZJPzz-DnsXxc3MePvlgQC_BYyFwKrXTGDi_SDOcVSi4Bn7lOeLv55leSDEJsTC0biBFe2oFb5NyPYz2JOlKH8q1WzOyOSsvjPRoj7LiKCBh-3tW2=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u05oytf4JHgmStS3wlBl4oN_mQBp_alUiS18tJPKUaeZa-hOkFvkbwjlkYNJ1cdvp2pad2vgU-mE2wWf3WhwaAn_zBad4wg50LNm5xJjTEy-WpHYMtjfSevsQyDFCOmtNW1f0EUmzmi-BtVMu_sBz4SI0kAPQo_Y0KVumFFO3jdeIc94-dHGMJQWUiNgxwXoyqtz0ae2wiVjSNq2PQ7Fw1xieOwN4P-UfeqbU=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t7mR3K_QVAZnJnUM2p-At0AofzAOHUy8HHyUD-G6nROGizuIzIOh-S8DmMaFPaPB1e7y3IGA4PGXApNKWVHLYc-at_If34klrr3Tojou2GxiqsXrdB0uJQ75Ek0ZkiSJF-jXrHclfDav3uLPyzRk89xlyuJGgXl9LeMoDYEmvWdenehiIagnKgMpCtFy4Bqhb_DTGszz34_FvBbhLzHiE_o3Np4dblK31NaaAnEcY=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uM85mEi--NvwoGVaBF4wLyT89PpceytqN4rwqMfcCKkW9s_n2Lnc9gmWCrLkDw_3xQdAS9g8_Esj-66iSCCQsxCS2LP6fyme-CR0Nxs8bpTIBURKEuDei9YJV3BkkhcHyP_lxDWigHPJwbMLByny-GP7LbvjMJPitecBguiBBgent00dTlkDODInDZEztoTPb6f1qEbH4PeOt-yIvi6CZQNLsNP46bluVyViOj=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vtH4BNmY54w7MRKCzN-Y6IBJ6onlieLR3wWmy8fRhM8wkyD48FmzaXl0Sbc1mpJSjkh8KgffX1hKeZyRt8hate-wQ0WQ2mUY1x-sl-sup7MK-fhymlraQhXHdgFvCIHbjinCRJqv1LwPT1zH-gWioLMqjuO5RMUGajyzqt1itQhEn9emtNXlQSdyDsJi6SeyeaDae_y0D8EVJiwm68LnHbaXkZ9RQwzFsI6UC7=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vge2toAaf7Rz1AkfkWay9-K1ivlyvPjm16Yq40pYX-VwS6iWBJzMgr1LCLAoS3zmoCjhJjNtbjafXth4UVfo83IS_GCzoq2hI3GdRUUYN4eneahWRVpcvuJeWnDHdg092ZSxEPW5L9UtsZyeLDj-P3Tov3zhNTG_9_cWMVe-AR-nfVUg8_ACVLqcR4zQN71HiqQWoXJ8SErF77_-1yf_I92a_6yPrqoskU1gOo=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sFTK44uYL4ToIOXxPK_eCNZ2hv0C6PmgiY3uBohYvU56BH0DKk5OLuyLo4tPbW_lpBxkQGOp5jLe9G1xzstafiEXSlya9ttXI-tJfjkqYajs2Cp0IZZX21ikZWLi88Vdb5eC0awhmvAsBFSPiT-cP1sBdcimpUzbncp4Cupz-enLWrUGfQ-QdatTS2kYz_xOlLnbO43c8VAJYSBmlDDtAUbn2ZcbImlzjHCz1BpAw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tF-V6oxwvyBLB5A8VV0h5lJQ9DSjZ3XJhhT5QmNYhuKIuP9povyfGRIwRlwgIW8eesK0H9U50K26yHjfcYFVScMP5_8Jh6uOs_N5P3SLwoHsSHJ7D4DGngpLALAnAtLTN3WLbQyiMmFmVj87s4EJTesfWxmJYKUbq_j7mqPoycUt2wKdWEd9Ss3DTRr-1_7jjuyNaO3f_HMuC5Jv2gY6hRxG9gb2CCUS-Y2EXL=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_53_1.jpg",
+      "assets/images/ev_53_2.jpg",
+      "assets/images/ev_53_3.jpg",
+      "assets/images/ev_53_4.jpg",
+      "assets/images/ev_53_5.jpg",
+      "assets/images/ev_53_6.jpg",
+      "assets/images/ev_53_7.jpg",
+      "assets/images/ev_53_8.jpg",
+      "assets/images/ev_53_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 54,
+    "title": "26 квітня 1986 року – день найбільшої в історії людства техногенної катастрофи.",
+    "content": [
+      "З метою розширення знань учнів про цю трагедію, виховання почуття відповідальності та вшанування героїв-ліквідаторів наслідків аварії на ЧАЕС в Липницькому ЗЗСО І-ІІІ ступенів з учнями 4 класу був проведений урок пам'яті \"І біль, і пам'ять, і тривога\"."
+    ],
+    "full_text": "З метою розширення знань учнів про цю трагедію, виховання почуття відповідальності та вшанування героїв-ліквідаторів наслідків аварії на ЧАЕС в Липницькому ЗЗСО І-ІІІ ступенів з учнями 4 класу був проведений урок пам'яті \"І біль, і пам'ять, і тривога\".",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sEn16qUiih-WP7U_lX_p3q9-mALe64TIlmftmIU6ZQ4SziqBi24sg4bThqe7t3uwRzHUu-fTiaGbfsaHbvKfD1BqYevCdaSEQr6gn2z-klDf4YOiilVYgusASRPgQ_JHSNMz4kRAiaNztfgb4N0SHySjfDl0P6BzVlTvhBVQPWQ-irDuyE_rxEYzNBxJucpOA8TFBUQWI4ngTE6ntzLBBEZmm1K8lzjNtzmrVV=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uzvNsmlFmmFbwl8befWk2OX05kwFV-rtLrmLDim3o5MN9QUW6aU5J2flOTGuVNiQf4LIGl7-LZJq8rRdTMHjzvneNOSBzsfmAvw4622aJ-7ZfL6eny17u_q_gKFvi_CChubl0J07auCiSWKzMPBw6kJdIZOio9-bebltnI9W76ohocN0QvnVr4Ce2cWmw=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tw1vZ7YHPaUnsnHu1jWdW_zuChtPJwx-ZyWTNOJK3NPGKOUBo7sHMYjeBfjsUyQjRRx2bS6FnJtzLDE9Ms2ZXCoVZXkkWcsfy5IME9iojOlNvNVZwZeSZXqN4VBRRIPjkyQqvQCovOuDSaEdzbj5uj6i4ZM1XWc_VYrv9AENoiVCqu-IXZXKj6io42=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sRay_eIgw9Y98Ixc7pgoUmgx7BmoJlXBd8kh31OamQbbHAcSnURnEcxsnncrW132nkVFoox7vO827xFtWFV-2FY51wy5UkmGVVQBIMLavl1zeGYYWhPASPdeeAme4vorce0D8uYo9iUMtdU9pA7KDPLcvp-TsHSfFxHHgtD4QPAUepyM-GwFu-prZjkzE2xIOQHahPOSwLekrKQ-cRIE99IBjIjZUSMajtHQ8a=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_54_1.jpg",
+      "assets/images/ev_54_2.jpg",
+      "assets/images/ev_54_3.jpg",
+      "assets/images/ev_54_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 55,
+    "title": "Іде Великдень по землі - з любовʼю, вірою й добром у серці. Це величне свято усі нетерпляче чекали й старанно до нього готувалися.",
+    "content": [
+      "Учні 3 класу розмальовували писанки - маленькі шедеври весни, співали веснянки, прикрашали кошики.",
+      "Пасхальний зайчик завітав до дітей в гості й залишив сліди щастя. Усі шоколадні яєчка були знайдені.",
+      "Доземний уклін і щира подяка ЗСУ за можливість мирно святкувати!"
+    ],
+    "full_text": "Учні 3 класу розмальовували писанки - маленькі шедеври весни, співали веснянки, прикрашали кошики.\n\nПасхальний зайчик завітав до дітей в гості й залишив сліди щастя. Усі шоколадні яєчка були знайдені.\n\nДоземний уклін і щира подяка ЗСУ за можливість мирно святкувати!",
+    "category": "Шкільні свята",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tCcPXmbeOCcOQXW1wY6ox2gtu-sq7TcKip7zbvK724yn24WT537i153iGnWMrsmuoElSsl1PT7CcUUIwgjB7LJvPtM-Oihlzy4wuLSQhYECQEALhCQdfwG00Qfttf-8-wyJMsIK0M_9K8H6h98RF51FSsoJmck47vzZ_F4VmP6De9JfbHkKntWO7A3_S31J4F7cx99hKAYloWVVsNEvG4HeLbZrYGMgksjzllnhUk=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uaUrUmo_Xeq7xD2Dd4lnIBDfXE5nEmNvSN2NrMP21jGPgB7111_vmtpWO_EQ2Ahge6wseG_RlVpzoIHBbC1A3VVnzNMTav4kotOQwtXcOcNbpCnwz69f6KQ6iroJ9QkdA7FxMTY5edg8Z2XpuckPeoBR9X5C2TTqcnzieLooN6BidZ1JR0aTFIcA7tVIhmaCptvZHyro2E8P7L_RDkcu74Rv9oic3GOofsqNC81tY=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uvRkHjhGrUkgbrH6cKVuWZvYxpIeGOZ2DjGlzfr68C_eAO7CZ0ZosKi-ZjWqCUBVcHaBfzJdOZC2vLYdddTbGZUWX8hRKhNOGnrI4XkJ2j6kb742hQs4rJEvWpGFOzM2WoWyRXjS5H2IAsCYEhAEVglf-V4cL42KsXYBphejHESgknq1Vp7FF_vLDZMZFBDFrzBNbsLsDqf8ZcJ5kKagi9aEnjcNVWDZptiE1n1Ic=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t0CXN44-CHm1bSm-dxky6LkmDCUZqeCkqO6tv5zp9qbmGfEsLjh3fa1b6GogTf9TMyV2dkNsR2tO4vh0Qhra7IsCAmkJzgtLYC4N9cbR6gLvvecqmczdAjO6vSJi3mtFrbKldfpoI1NPd03t1klViZoMDVTH4fwvdGDkraBPi7GnsJRoYIa_qQxT7uA9s=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vIZo_Mf1c322CQLEPdskb-IaC5QehFmzlPLB-mQKNdP3nLesaAt3AkF34R6DruQwws8xbwO9bVLNFHVCcPS9SSByZBt2KZhuIeu6wZbycBAxw-j1nyhXDJae3sIjxWD7o-ay4Pn31DAfZULe-db9sqSWfOMz2Tp6FQHigtJ8us2cfYOqsr_kbbUX6fC8eRGfHdpHyCXJ7Fc1NO0MgKhX1BwGqk9-qIc5nVlU8iuZE=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_55_1.jpg",
+      "assets/images/ev_55_2.jpg",
+      "assets/images/ev_55_3.jpg",
+      "assets/images/ev_55_4.jpg",
+      "assets/images/ev_55_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 56,
+    "title": "17 квітня 2025 року керівники закладів загальної середньої освіти долучилися до акції «Зроби писанку для героя» 💙💛.",
+    "content": [
+      "Вічна Пам'ять і Шана Героям, які загинули, захищаючи територіальну цілісність і суверенітет України під час російсько – української війни.",
+      "ГЕРОЇ НЕ ВМИРАЮТЬ!",
+      "СЛАВА УКРАЇНІ!"
+    ],
+    "full_text": "Вічна Пам'ять і Шана Героям, які загинули, захищаючи територіальну цілісність і суверенітет України під час російсько – української війни.\n\nГЕРОЇ НЕ ВМИРАЮТЬ!\n\nСЛАВА УКРАЇНІ!",
+    "category": "Патріотичне виховання",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tc-8QHiHTL0LZoHSYw_mC0XhC0ufeKouu-D9sAQ_-dP6FEE7ylsPfAKcZvZ8vvXYSlE6b-UL2Z1qTtbZzb58dM0BlNXhlUiNPHR5j2USK_sRECH_9cY2TeUu687f2Mv_HfuA_5P_8uzArpzXKVx4ruIW82zv8Oouupdh8GOR9th5MUnZb393LkoEqV=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t-uFzOw8wJL_oOK_YOTH3S3GI-ZX05ttes9lQvPWbpzSMS88I4ArKRDkwAKJZ43xWNmaDQk2uo8kZXlScHl1pOhA2R5xfFLdrK8qB1Wgbu78XcfRhKA5dtL1PD5Nm9iHY7GS_CrWN8ZJHEtSgzXJNo_GpLPuetfo699y37y_ZqJt8US47wSvPFWm9-ZOAVS2nje0ru2qGACM6jyIkcVDjupX2u2_h1DACiWQexlYU=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_56_1.jpg",
+      "assets/images/ev_56_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 57,
+    "title": "Вітаємо переможців та призерів територіального конкурсу \"Таланти твої, Україно!\":",
+    "content": [
+      "Ансамбль \"Незламні\" (учні 6-8 класів) - 1 місце,",
+      "Вокальний ансамбль (учні 3-5 класів) - 2 місце .",
+      "Дякуємо ЗСУ за можливість навчатись та розвиватись!"
+    ],
+    "full_text": "Ансамбль \"Незламні\" (учні 6-8 класів) - 1 місце,\n\nВокальний ансамбль (учні 3-5 класів) - 2 місце .\n\nДякуємо ЗСУ за можливість навчатись та розвиватись!",
+    "category": "Досягнення та спорт",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72usfu0MybKlT4pUoJGG1Si6Dsfknh9l8qUEQLNhjDGgJDUG5Ma7x8iHLKgHBdEskMcH7Bfky137zrjESJHbHCDYSy9emdhnt8QKilmDpstA-tb3DLahvlcq7g_zalCTJOO-piGtSZhSvrFLINl4GAFXhfMLZ_WobNlCxfPJxC4vuoB-SZNIUwyX8_-7_bol-hHEdhoUQ2XD25wmqmILuCCHLAYf2T6GBCD72mIU=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v72RxGXcoulkthSPFvFSfPpMnbNChZ8jkULFJliO3DiylOl-F5ZPBQ-oQTtY7cPo14Gj8qhMvLcEB_5cltJINsi-8QG7VCFUqTcBbnHcJJTDIaF7r7bd0aD_e9IFOSDMTvAIRqhlKcpXizn3hLnFd4BFH-jv5EXX6moUNt1KZpNf3hdDwhTCwVKBk92LUrtdYTMLO4gNSvHwT3McKFqQxqHYJjCk-1GMHZwwsFoV0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tlol8GzGA8KH59Mme3nF-rh7OmvfpaNcdBKGKmROt_cr3UDqbmgwL6cgdw93wNh7JQ7HeVbs7062NqaB4sq6IGWowvI8mbhgtkWt2uBk5gUA8VjhEe5pH2p_EC8lSRLvV5oEhvYG_9PTcPUw-TjpAObXHUbIP1xkhK_Nl7BzFMd7f9FFlZVk2VhQ5tu-nD4juAZc1mFMsqjDHHxZfwrjOHVzaaJTAY-3scQc4DiG0=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s2FmwyUhWATusjqvhylRrOL3wYwJrQWxjLI8WQEDCPTbI35pUZPtXieo_M4DXYiDMLQ08n167dhmlbpQiZDRdRyo-vW9G6x7CDVoL_C20VVc_x7Ho03Cz0uWv24HOa_XB6M_jUBelAu_CZ9ktGehgWzAdpb-wztogW9Zkp8UMEG_Fml9NE8dENxJOIU9JObhPo7H-1t0H7OtEgRfQyutVzfEqyNhRsmuMyumLjRec=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tq_1DBIDR26grd3JEN50NZzet3CD96mmyyB6YHxP0vEDuzHPiILKptadAxmvkEWtSYSmCAPpQMAa_3E3p1kvmqcTRUtTk1MV893w7nkReei8ez-lmOHs9dwN9W6Vp6tmNt6nwZU2vAb0UsPGd9p6guDkfMrNcDocc39Z8SSUUh-9NKSKJwp1RvrUTFv7WOI-CcI7fvfDCP7OTCRDTU2p130dmlvgB75oA5wYPSvqQ=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_57_1.jpg",
+      "assets/images/ev_57_2.jpg",
+      "assets/images/ev_57_3.jpg",
+      "assets/images/ev_57_4.jpg",
+      "assets/images/ev_57_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 58,
+    "title": "У період з 31.03 – 04.04.2025 р. у Липницькому ЗЗСО I-III ступенів відбувся тиждень духовності, основною метою якого було плекання духовності української нації, формування особистості на засадах християнської моралі, доброти, милосердя, людяності, виховання духовно багатої особистості.",
+    "content": [
+      "Протягом Тижня духовності учні взяли участь у тематичному загальношкільному заході \"Роздуми про піст, молитву, милостиню і милосердя», переглянули фільм “Військові капелани під час війни”, дискутували на теми: «Ісус Христос-ідеал для наслідування», «Заповіді Божі в житті християнина», «Молодь - майбутнє України». Кульмінацією тижня стала Хресна дорога за участю о. В. Ховалка і церковного хору. Учні мали змогу пройти земний шлях Ісуса Христа на Голгофу, разом з ним страждати і молитися.",
+      "Цей тиждень дав можливість всім наблизити себе до Світлого празника Воскресіння Христового."
+    ],
+    "full_text": "Протягом Тижня духовності учні взяли участь у тематичному загальношкільному заході \"Роздуми про піст, молитву, милостиню і милосердя», переглянули фільм “Військові капелани під час війни”, дискутували на теми: «Ісус Христос-ідеал для наслідування», «Заповіді Божі в житті християнина», «Молодь - майбутнє України». Кульмінацією тижня стала Хресна дорога за участю о. В. Ховалка і церковного хору. Учні мали змогу пройти земний шлях Ісуса Христа на Голгофу, разом з ним страждати і молитися.\n\nЦей тиждень дав можливість всім наблизити себе до Світлого празника Воскресіння Христового.",
+    "category": "Патріотичне виховання",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tNPKnm6IQHm3Z1Ulm2nBzWl_j42uWvMWaDBVMLC0GVMou5AAJsPH-hGzJZ0b7cOtXcMb6tvMDoY3bb6A1CRyXnAyJBMDKtUPSaADvfBhZNCNg58YNIbWLAcNnmYF9WO7YrthziyoX2x3Q-8f7bisLs4ophNqLLyOVkb2ejH_I974thBnYvONg5KyteVOu14HIJ4YkV1-XUDQPTRFL-rBP45HDWcFdAEIsqqRTuUxc=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sNcUBST5VexkzwJ-b_b3FrwNRbCF97si0YZP7vEpKq09Vj7mOpfAqXu6aoaixxV4KWRLHPhcIRNF34qpMYDY7AF4hkVCeWKDlVGgskmL1T4SMm-rtRE6uSGOv_fCtZbRUDarK9OL6MAlEMkJHG73K0r6vxxr6uffUWu8BuvJTM4JQmbg5mUWqzKCzZkiLn2uyuK9sBjst94fBC0Q_5KRN3iXuAFtLqenvMeDII=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sZRPUEbZ3mZKSRxzJjh2M7-hHOvQCgt4_x9SRswIDRrRPW-T2CYoNbLapxU_Vf_bzVR36TJACrcJHiw6S8kANhJyCyJnCv7IqoBtOdgDaGpXALaaZIAYGMpb1eL6YA6DadQg7s2Yu1KX0wlRkuozaCntjLjDo0qhZvJrnIFx4ld4iJIJNjTUKk8FGc=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vY4ciEdkgbOj-qEqVXhmtIrZKI-c1SVvCi0G1Q-O2v8KIa1UVFInkCSkXvxP8JAxIjsrH6jQEZmKDnK-x_UnpeDDr_I-tPMd_hJhSjzpmMn-Wmv8CkITF09KAkopBCVM6k6OL9unCcx613ycrMaIimBEoun_UhWUwNOZIf_3mWYMP7iITw2MB7z2PHQDNOqmbRwYTWK1fL-ZUMDUMyVheNLoDKa7QgV4YI96JYKv4=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s4654oQGPmjC2DLi8VM-TdN-EAYRf1fKIrbrAtVnNzEoq8THkBmkBJWi6ebw-x0LouxaWcUMVukmyjNrDVa5Q3rL7Vksg7fEczZ1J90jGr3CQVTF76weNniPWYdD7q2WFRO8Mw1nLB-Ore9v8P0TRkwtjaESdzWkWlYox7Nqhkj9SRfeiZfoTWhw5TEb5CQO7KnbVBI10i6afkMG_RPJ9apX42AflciLopmbeMyEM=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_58_1.jpg",
+      "assets/images/ev_58_2.jpg",
+      "assets/images/ev_58_3.jpg",
+      "assets/images/ev_58_4.jpg",
+      "assets/images/ev_58_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 59,
+    "title": "📌Протидій спробам вербування! \"Не пали автівку ЗСУ! \"Здай\" ворога в СБУ!\"",
+    "content": [
+      "Москальські спецслужби, намагаються використовувати наших неповнолітніх співгромадян у своїх дезінформаційних акціях, схиляючи їх до підпалів автомобілів військовослужбовців Сил оборони і будівель ТЦК, а в подальшому подаючи це, як діяльність «активного підпілля, яке підтримує росію».",
+      "Найчастіше замовники знаходять виконавців через оголошення про роботу в Телеграм-каналах, сайтах пошуку роботи . Тому, хто відгукнеться, згодом озвучують деталі, що насправді робота – це підпали обладнання “Укрзалізниці”, машин військових, будівель ТЦК. Далі надсилають інструкції для підпалу.",
+      "Після вчинення злочину, як доказ, палій зобов’язаний надіслати замовнику відео. За підпал авто замовники обіцяють від кількох сотень доларів до кількох тисяч. Але в результаті “роботодавці ” надсилають лише частину суми, або взагалі залишають виконавців без оплати. Замовники також переконують, що мета підпалів авто – боротьба з ТЦК. Вік потенційних виконавців для замовників не має значення. Навпаки, тих, кому немає 18, активно заохочують до такої злочинної співпраці, переконуючи, що за це “нічого не буде”. Але це не так.",
+      "Відповідальність за підпал військового авто українське законодавство передбачає для всіх, в тому числі, неповнолітніх. Злочин можуть кваліфікувати за 5-ма статтями Кримінального кодексу: державна зрада, диверсія, терористичний акт, а також пошкодження майна і перешкоджання законній діяльності ЗСУ.",
+      "Діти віком від 14 до 16 років можуть і вже притягаються до відповідальності лише за окремими статтями. З 16-ти настає повна кримінальна відповідальність. Наслідки будуть і для тих, кому менше 14 років – це від трьох до семи років позбавлення волі.",
+      "Москальські спецслужби намагаються завербувати підлітків для підпалу, теракту чи мінування? «Спали» ворога сам – здай його до СБУ!",
+      "Для цього Служба безпеки України запускає офіційний чатбот «Спали ФСБешника». Його створено в telegram, оскільки цей месенджер окупанти найчастіше використовують для вербування молоді та неповнолітніх.",
+      "Якщо тобі або твоїм знайомим пропонують підпалити авто ЗСУ чи адмінбудівлю, влаштувати теракт чи мінування – одразу пиши нам! Не допомагай ворогу руйнувати оборону твоєї країни!",
+      "Хвилюєшся про свою безпеку?",
+      "Ми гарантуємо конфіденційність. Кожне повідомлення буде ретельно опрацьоване співробітниками СБУ.",
+      "💙💛Не пали своїх! «Спали» ворога! Разом зруйнуємо москальські плани!🔥"
+    ],
+    "full_text": "Москальські спецслужби, намагаються використовувати наших неповнолітніх співгромадян у своїх дезінформаційних акціях, схиляючи їх до підпалів автомобілів військовослужбовців Сил оборони і будівель ТЦК, а в подальшому подаючи це, як діяльність «активного підпілля, яке підтримує росію».\n\nНайчастіше замовники знаходять виконавців через оголошення про роботу в Телеграм-каналах, сайтах пошуку роботи . Тому, хто відгукнеться, згодом озвучують деталі, що насправді робота – це підпали обладнання “Укрзалізниці”, машин військових, будівель ТЦК. Далі надсилають інструкції для підпалу.\n\nПісля вчинення злочину, як доказ, палій зобов’язаний надіслати замовнику відео. За підпал авто замовники обіцяють від кількох сотень доларів до кількох тисяч. Але в результаті “роботодавці ” надсилають лише частину суми, або взагалі залишають виконавців без оплати. Замовники також переконують, що мета підпалів авто – боротьба з ТЦК. Вік потенційних виконавців для замовників не має значення. Навпаки, тих, кому немає 18, активно заохочують до такої злочинної співпраці, переконуючи, що за це “нічого не буде”. Але це не так.\n\nВідповідальність за підпал військового авто українське законодавство передбачає для всіх, в тому числі, неповнолітніх. Злочин можуть кваліфікувати за 5-ма статтями Кримінального кодексу: державна зрада, диверсія, терористичний акт, а також пошкодження майна і перешкоджання законній діяльності ЗСУ.\n\nДіти віком від 14 до 16 років можуть і вже притягаються до відповідальності лише за окремими статтями. З 16-ти настає повна кримінальна відповідальність. Наслідки будуть і для тих, кому менше 14 років – це від трьох до семи років позбавлення волі.\n\nМоскальські спецслужби намагаються завербувати підлітків для підпалу, теракту чи мінування? «Спали» ворога сам – здай його до СБУ!\n\nДля цього Служба безпеки України запускає офіційний чатбот «Спали ФСБешника». Його створено в telegram, оскільки цей месенджер окупанти найчастіше використовують для вербування молоді та неповнолітніх.\n\nЯкщо тобі або твоїм знайомим пропонують підпалити авто ЗСУ чи адмінбудівлю, влаштувати теракт чи мінування – одразу пиши нам! Не допомагай ворогу руйнувати оборону твоєї країни!\n\nХвилюєшся про свою безпеку?\n\nМи гарантуємо конфіденційність. Кожне повідомлення буде ретельно опрацьоване співробітниками СБУ.\n\n💙💛Не пали своїх! «Спали» ворога! Разом зруйнуємо москальські плани!🔥",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vm_RAZX4CAaAR1SP52pD5HHTYG9RYaa30BYKypqKm3i35OkdYzcQcPYNuSjDwf4jvoWXjUpEf-L54X0AXnsMCZc_KZF1CAHPuwWkq15CH6OEp1dgXjsZhZmStt-4dz-deiTmoN0J8bKoqnypFIQGt84eQyURyxW8wO6cIQnfcS_Cxuc55OkL6Z79ekFbM=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_59_1.jpg"
+    ],
+    "video": null,
+    "youtube": "kw7X5Tq6DNU"
+  },
+  {
+    "id": 60,
+    "title": "Днями в Липницькому ЗЗСО І-ІІІ ст. за участі учнів 5-9 класів відбувся виховний захід, приурочений творчості Тараса Григоровича Шевченка.",
+    "content": [
+      "Школярі вшанували пам’ять Великого Кобзаря, який став символом боротьби за свободу, справедливість і незалежність України. Його слово, сповнене болю, любові та надії, залишається актуальним і дотепер.",
+      "«Борітеся – поборете, вам Бог помагає!» – ці рядки надихають українців і сьогодні в такі нелегкі часи.",
+      "Нехай дух Шевченка живе в наших серцях, додаючи нам сили й віри у краще майбутнє! 💙💛"
+    ],
+    "full_text": "Школярі вшанували пам’ять Великого Кобзаря, який став символом боротьби за свободу, справедливість і незалежність України. Його слово, сповнене болю, любові та надії, залишається актуальним і дотепер.\n\n«Борітеся – поборете, вам Бог помагає!» – ці рядки надихають українців і сьогодні в такі нелегкі часи.\n\nНехай дух Шевченка живе в наших серцях, додаючи нам сили й віри у краще майбутнє! 💙💛",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72thzItypfYBPSEwJVusfVJHgZF41pG9WbvAWHIiUJfP-0QlC9p8MB12m6xmxQZHqngVMERleP7Xjvvr2mYh7T80T_D1m5mFkp1Fz63Y1YZNCsMD5iVpcUC-lJQnQfR_aGkVeHHK8OajGfzZPysKiqrdqmqnScEBO_lHeN7DZIPJ3UPV4Luohepp_OccM8_-VapqtIdAYCKmhePRgXS_yWvEpXYjVYUMdhtq_RFQ4Ko=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72szmggjRSvjylQZSV06TN5G49QkMSxrEV-tuj1XEpHY8gPKP18oyUi5GAE_NXmK-GAC1cuXfQAuJphP10lOnDJaflPi0A8Gek-6ejhTnI79GcDNCo5D5Tihyq2EKj2tB-DOEvqGfcAE2efs2CvjvabgeK9sd865-93fnZ5h6qF16st7TXDlX7F9Y-2G0zTrkrnqPnQjV7rz6ufjGjbLTcnmrjsfxGVKsodPsY9qzdg=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tc9d3Z1hmr7ZGJB2ZirhaCFzY5z3hZAH034E58LRYoCXJwcPwv6rovL7gR8s002x0u4jlijmatojLWbUddQpwecjT0vQDo89LomUn8VA2JjQot-txHdLvwRbTwx-1SOed5QJkopIB8LSbfqv8qZGSLhEho0YmYogVCJljMxj8ZUQPlrjybDlMaL9kNaH5HW_ltDE9_D2un0YSt2pVb-WDaO86gpoXXBzsdr9R6Djk=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v48mkmzEXprLA1mlsfxOblGu0dpypVhENfNuZa4aqA15Wh8TNJvKzoulLrnSMJOOOJmCavoB2ek83ODSzoKdks5qPgAhYnir-YGluixA2niI1RcQAYhT5tTiUkJmKnsSoVTF4NRWiaMq1Gq1zKXaKrqqLmtyJkgiidZG4REyY8LafdxPFMRB-iK1RZfllxb3IOhhrOmq_zlyYbndaIG2cvlkUvfvRYQhE2OHertQs=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t1kMweVvcnhSxQne2gndev5nmUelPpug_PyQOQ44Sxhv_GFa3NQ7DvY-FKQuXhAAMINhJ2Jtd1WIGPPkh8NaOg1Jre7yw0kUml7fEVXSuYJBewk7cP27wjRnqB-pk86XVpn8NtOMTHoynQY8U1jIluTChzrzCtPtolPtwfejvxQc_fd9bYWK1IJMAU9ys=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ui2vhNt411X_ToCMK9mGakpCRogKSbzkteiHP0oHj8PBqcu2d3j9RzfPmqN1hVYo7gp1OwdVyVEgimiSXlLjDpomNP_I82gt6Q4PKOm0WicfUO6RjtwKD1rWO2i-TStkQ-3PbrxxDkHceo49GCyLx_pcLQl-Dt6mAujslfWROzFjIh6jQTkLGQMmR9vFlDz2qzmuyhff_98SdUAftAWdI6axBmSGUsIzNSjDV7=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_60_1.jpg",
+      "assets/images/ev_60_2.jpg",
+      "assets/images/ev_60_3.jpg",
+      "assets/images/ev_60_4.jpg",
+      "assets/images/ev_60_5.jpg",
+      "assets/images/ev_60_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 61,
+    "title": "ОГОЛОШЕННЯ!",
+    "content": [
+      "Шановні батьки майбутніх першокласників! Липницький ЗЗСО І-ІІІ ступенів розпочинає набір учнів до 1 класу на 2025-2026 навчальний рік. Для зарахування дітей до закладу освіти необхідно надати такі документи:",
+      "• заяву одного з батьків;",
+      "• копію свідоцтва про народження дитини;",
+      "• медичну довідку форми 086-1/о;",
+      "• згоду на використання персональних даних.",
+      "Прийом документів з 01.04.2025 р. по",
+      "1.0",
+      ".2025 р.",
+      "Адміністрація закладу освіти"
+    ],
+    "full_text": "Шановні батьки майбутніх першокласників! Липницький ЗЗСО І-ІІІ ступенів розпочинає набір учнів до 1 класу на 2025-2026 навчальний рік. Для зарахування дітей до закладу освіти необхідно надати такі документи:\n\n• заяву одного з батьків;\n\n• копію свідоцтва про народження дитини;\n\n• медичну довідку форми 086-1/о;\n\n• згоду на використання персональних даних.\n\nПрийом документів з 01.04.2025 р. по\n\n1.0\n\n.2025 р.\n\nАдміністрація закладу освіти",
+    "category": "Життя школи",
+    "year": "2025",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tG75ULtxTLyHfRIUuixpKGjkec2MMZUU7CQpz6CEQv-odrL0bBCIn8rnDlAuCu7NPOPWfgqTnJh7CkeWeGuxTPN_uM182lPcdiL91QX9CC_wDbNGeviwPdErYsNfjPETeKvAluKIwLf3Lh9l21XeoLxFXPAnl_jx1tcuOt4yv2L-gB3uCZa1HhRQP9-3lTetDBF-SIsP0U94PV-lqUZhdHnm-hQkilH5Z9QO3m=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_61_1.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 62,
+    "title": "Вітаємо команду хлопців Липницького ЗЗСО І -ІІІ ступенів за зайняте ІІ 🥈місце у старшій віковій категорії у змаганнях з волейболу в рамках загальнонаціонального проєкту \"Пліч-о-пліч Всеукраїнські шкільні ліги\".",
+    "content": [
+      "Пишаємось нашими здобутками!🏆",
+      "Дякуємо ЗСУ за можливість навчатись та розвиватись!"
+    ],
+    "full_text": "Пишаємось нашими здобутками!🏆\n\nДякуємо ЗСУ за можливість навчатись та розвиватись!",
+    "category": "Досягнення та спорт",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tsJQw9HFJfhCIy0yfI_hqp1-S2E-Nvf0tUF14msurfpjUatbJuC_pNGNTZQZXM4wwPQrG-QuCBVxdZ0k0_osrxKZRNV33cZryB69jNxbIAqLpR7mvOZ8p8LgIeGc3NCW4kbbBroMMT0gX49LBT_zsVzzfFutcxqJb1FLV8tquCcclDtR_992bmQyludPQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72si_08JdUKu8rVQMcJf_grq4IUQqepOpwJHk_gzZxwUosNLmsNZyYGdrs5U3NYG5Nf3Rrd6Ewd5zMpMtWDuRE8cWG3u8OHJ4WI2sVeZRuC6XGAo7kMMF8I5aGmBuQS-kYqZH37cnkVRO2s8gXm8N81Y0nyxMvzz8gGrAzXuibZ2dEMrTGUhMBzAJXyJ=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_62_1.jpg",
+      "assets/images/ev_62_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 63,
+    "title": "Цікаво і змістовно проведена інтелектуальна гра \" Я люблю Україну\" між учнями 10 та 11 класів нашого закладу освіти приурочена річниці Злуки УНР і ЗУНР. Учасники дійства прослухали історію про об'єднання українських земель, поповнили свої знання історії новими фактами, отримали багато позитивних емоцій.",
+    "content": [
+      "У ці дні, як ніколи, ми усвідомлюємо, що лише в єдності дій та соборності душ ми можемо зробити рідну країну незалежною, сильною і процвітаючою. Віримо, що територіальна цілісність нашої держави навіки залишиться непорушною!",
+      "Слава Україні! Героям Слава!"
+    ],
+    "full_text": "У ці дні, як ніколи, ми усвідомлюємо, що лише в єдності дій та соборності душ ми можемо зробити рідну країну незалежною, сильною і процвітаючою. Віримо, що територіальна цілісність нашої держави навіки залишиться непорушною!\n\nСлава Україні! Героям Слава!",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sp8GuK35OxHvE5_Cq22QJfqX0_HFC9jQZodDcfCrwi0Sf70Zim1sAh7-yREl5-Us_lM-PKWVfpLrJ1mIy32YZ5W6hCcgkbQre6v3hWSr4QoMGrzsZ9vCjiJ2yfZk4zukw1Jz86aZRxp1PRr6MzmwLDmrQ4qRj_mH-XpICZJ9cK_jHLB1nyMlz1llAF5EA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vWkUWjUidEsP_xhsq7kRSRewQmaSzW0r_aZ-lotIc1DAOmtT1zY3bEkob2RCdu8x6hTUhEsSSUQjdkMykHJNzNSJW2N3GVgcqxF8OeRgyB8V2HFo6R7TI-M7f5Hg_mnFkHLZx6DHSg92BGESrciGG_bvKVapV1R6BkfwqtE_J_N6-V4WXtt5i55Jmf0fU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ueYriRXmImDmdA5BsHiM-y3W79DLqWvN-HDQ1mNGF8uMBsFTraISjgGDhteSV5H5uxTSUaVOWMhRa3BPVf_bywfcZgmQZoKQRyBZ70Qfl-GqBNpe9f13hff5YROKtYSCjget_mCvKVpLFVa1-xZ6uKzZ7UNdFDZvAqm6h7PNUttn_iZlsqDRAdrcQHZCE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sBl_dcvXvPZEtAasJCLz05uVly3SuqImxVUYWncTDFBJq5fDwp1d_-YUW4eUyU1xbr8nWLLf-jqTjF7N5IGMMq-J6JaQIanVPP2rN3lOJWTd8qyOGVOd_ljvVwI8xrFOEigzWTVXywOaFqwF_54JQB89Zu9H85_5vVTAaHvRphpIFC-tsqOv8SBawBbCE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vYh8Z25y1pF3ViaduRCscvOkZT_rJp8itB1coI1fQR7cUUzfZptgRo22ftrvpkt4Ih9z4wV5ml5J5hozd8I1bHuYommeROG29mTF9Zl8Hn3TmRxr43iFxgNL7CZ-i3UXkkD7DOogEp94Mhn8YsLGQoDr2zTsRBjfRj02RjaukeiFF0ek0no8lAGj35UP0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t4oYoBIFoDnzYMCQh7SEZwpgvMd9ouamkErEfTLej3dx7GCZZ1NanVspdfeURaWpGLAzQ0LzEDme8TRUL3yCum-qt464If5XvzFr1Qlm1ZbYlGtkvy-z9_qilSZQKRc-OgJCDRHPGMrKqg98t2NJ9HhLvhwcU9gshljQ4IFnYiFG9gpnJ-hj7G1KA3EqE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tZ78YM3Gvx8m7B6OhHwxOcK2Zb1Es6jsdKG2DWUjFMP6WvBfdZjqptNCEUaukAmUaR_lMMyVwwBD5HXkomSYTMNPJXWsd3pKki9pvPsGipSu802B29Y8iVrQonywWwQ_o8i8GlaXoYOEho-aPAVCwbctZRJVkMgl6L8GLL8hdTTyIRQOBKJnykIWFvSus=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sgaZ0oYT77wVkegcoX8jwMwM3ZQarSV04nof2wIzJ91Y-GnRPnK3n4zuDoK8A4Puz8xIVwz16FgSLbdhKGy2HVn2k4oLY9tDbEJt0eMiR1BuUNjQ2lRCfEvf0_7yiYwL5tS5DqrF4gPg8XsN1KojbfCwz6OWhuOHaLW_Tk9ZmiVZEv7hIoEf41rK241f0=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_63_1.jpg",
+      "assets/images/ev_63_2.jpg",
+      "assets/images/ev_63_3.jpg",
+      "assets/images/ev_63_4.jpg",
+      "assets/images/ev_63_5.jpg",
+      "assets/images/ev_63_6.jpg",
+      "assets/images/ev_63_7.jpg",
+      "assets/images/ev_63_8.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 64,
+    "title": "Коли війною вся країна оповита,",
+    "content": [
+      "А у домівки стукає Різдво,",
+      "Я прошу Бога у молитвах,",
+      "Хай в Україні запанує вже добро...",
+      "Такими словами розпочали свій виступ учні Липницького ЗЗСО І-ІІІ ступенів на фольклорно-етнографічному фестивалі \"Диво Різдва\". Діти відтворювали звичаї та традиції українського народу, колядували, дякували захисникам і захисницям і бажали їм якнайшвидшого повернення до своїх домівок.",
+      "Окрема подяка організаторам дійства! Разом до перемоги! Слава ЗСУ!💙💛"
+    ],
+    "full_text": "А у домівки стукає Різдво,\n\nЯ прошу Бога у молитвах,\n\nХай в Україні запанує вже добро...\n\nТакими словами розпочали свій виступ учні Липницького ЗЗСО І-ІІІ ступенів на фольклорно-етнографічному фестивалі \"Диво Різдва\". Діти відтворювали звичаї та традиції українського народу, колядували, дякували захисникам і захисницям і бажали їм якнайшвидшого повернення до своїх домівок.\n\nОкрема подяка організаторам дійства! Разом до перемоги! Слава ЗСУ!💙💛",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sSaGns1RjX8eHe6W_N1BwLo5kuPNceE0nTLACA4M-sE42dRV0wzT3WOOlk3obIo72FA6IH4vVCehGZa2lsnY-1fDQow9fzkTWojzl_fUN4uBMOWjEzMfO4lODWVW-eAoHA9h6FlKcfHB5WSs1Ra44oyerT5bRcd3iVONgbykEMWQLXmqjpz6ERz-pZPx8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vmDjXNoi9CJ7ICJDLvhSBxB0RX0GXWtaP8rHA-3p2bemzlb2qfJebahVmB6O1fLl7uLoLBJE5lyCyMZnGcpsjsIx0rM2Ous9crOKMV-8GUm77WpzXkR2vGSaKd0ePR0Ooh7-5oHcNqtLEtd14EYpeBT5P5qqXX_UUWqamrcNas-pN0wItHNaKkfFjpnTM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s3NvaI0E8CjOzWawAhbMuubdpQSPsFi30StO0g7akZCGKHGvJgQ9NEr7dTyfD3vSIDCwBHdEFRfhfhLYIVWdMNW2WNY2eqEB4XBPDPYQCHmD6MPhnmq46gfOYmkl5DfxNKQnRuIuxQnvf8_WSQIooK9BDPqwwCnRDDq94G-OVJ3kN_gl_SpCeToULGoqs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vVHbzds_KhoVF_7KuMG4CUpalOMq8JVJUgqECRSf3zti9pz9bj6GYRdqIuD3oaXQQq1XbvIME8DOKKgNrx2E-J2prNNPdpevajCLX_a0NQE266Ni8luRUTLQkB3ZpaXNARCCUAM049u6TAY3KSNDtoJgsCZfNwSFA2VaIRzv0aK-9UIeVQOupVmfW_VtQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72turWQXaEfiSk6UK2oBXiVEbXUaN3XqW7K0KozhtaHNS8fiG9FuJyYc0SqFpxGsytkzrSdyyXYbRH-w9m9r0st_qjMODejEKPt-nFks9KMmAov9464aVk49pofB3VA5YHl76dixk0icifFaaHvC7H8tz3iML4uAxTxHpL1rlXdYMYJRm4RH3CIwRxlh5yg=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_64_1.jpg",
+      "assets/images/ev_64_2.jpg",
+      "assets/images/ev_64_3.jpg",
+      "assets/images/ev_64_4.jpg",
+      "assets/images/ev_64_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 65,
+    "title": "7 грудня у приміщенні Липницького ЗЗСО І - ІІІ ступенів відбулися загальношкільні батьківські збори. Зустріч привітанням присутніх із прийдешніми Різдвяними святами розпочали учні 4 класу (класний керівник Мавдрик С.П.). На батьківських зборах обговорювалися питання адміністративної відповідальності неповнолітніх (вчителька правознавства Дева Н.В.), оцінювання навчальних досягнень здобувачів освіти у НУШ, харчування учнів, безпеки вихованців під час зимових канікул (директор Сухович Я.Р.), підведено підсумки навчально-виховної роботи у І семестрі (заступник директора Василько І. Г.). Батьки мали змогу отримати відповіді на запитання, що їх цікавлять.",
+    "content": [
+      "Дякуємо ЗСУ за можливість працювати і навчатися!"
+    ],
+    "full_text": "Дякуємо ЗСУ за можливість працювати і навчатися!",
+    "category": "Офіційні новини",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tDWJHJuNtjPgRyfc2YDS4vOa15zJabUnJf2tMxF2p6tauiffDGfbQ8Z4ruwvozSUtLwq4tjTUVAi9MevutYPldy8W_Eq_PzpGHnmIrzAWioNQ4lM3h6bUJA-nVyi0tBnvS-HDGg1phrU8dM19I9gqbBfBw24NXjYhaTURlFlYUyJTj_mU06GPx99G9iRI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tiJwy-cB6s7IPFPEFW1-S3v_SE6gzdnYcTqx_brdjtPm7xALjccJt3ijYlLr6Mg3sH6-rGHH4y4GL6H1NnSOQPE0IszBq0RcVjN_oMzoPaqVUBHnL2jkH3iKNtZ9DnN3GI27BelxRjnB5_UuPcZjUgLwshf-w6vf4SB9Xkhqghrwjcepd8npu0nKgD9EE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uFWdC947lUJ3eNkst6m65IUjWdoK-jGIpwgezIkMzCnwSGcfvT_YL5DfWYvbfO8sFFEWmw_dCy_r_yKi9D19ybmkpx_rKiIdTGnSnsQDwYGuWldOfjTrHnSn6uMp7JmrH9d4m1JXuDqc1-08Zl9PtbXxoicna9vKmmCLpfPxZGomfjvnMX5C9ML8mRLcc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s_ckLbx2O4D9FHQZ4dVgrbEr1BcXqXjY4JyVbuZH3YdK9MBSiy1XecaSS1gsP3v8JYX2pcFn2wxPGDO9MtnclOA1CgJPpm08a7dnOfJvwBaokppLr11irHJdTJ3ir8ZNutr1guNUgGYGyKIfCv5cSl_Z2NFdFaFLuRjrtv_ninUlBAfztthDCA-ySvMYw=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_65_1.jpg",
+      "assets/images/ev_65_2.jpg",
+      "assets/images/ev_65_3.jpg",
+      "assets/images/ev_65_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 66,
+    "title": "З давніх-давен наша Україна славиться величними традиційними святами й обрядами. Одним із свят, яке відзначали наші батьки, діди, прадіди було велике зимове свято - день Святого Андрія Первозванного.",
+    "content": [
+      "Щороку учні Липницького ЗЗСО І-ІІІ ступенів відтворюють обряди проведення андріївських вечорниць.",
+      "Цьогоріч гості свята побачили справжнє українське дійство. Хлопці та дівчата жартували, співали, ворожили.",
+      "Кульмінацією свята стала гра \"Калита\", учасниками якої були майже всі присутні глядачі, адже атмосфера дійства спонукала до розваг.",
+      "Шануймо українське! Разом до перемоги!💙💛"
+    ],
+    "full_text": "Щороку учні Липницького ЗЗСО І-ІІІ ступенів відтворюють обряди проведення андріївських вечорниць.\n\nЦьогоріч гості свята побачили справжнє українське дійство. Хлопці та дівчата жартували, співали, ворожили.\n\nКульмінацією свята стала гра \"Калита\", учасниками якої були майже всі присутні глядачі, адже атмосфера дійства спонукала до розваг.\n\nШануймо українське! Разом до перемоги!💙💛",
+    "category": "Шкільні свята",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vVex5-UBNJOFlUXZ1kaHn54TwsjbjUwPEwB5KILaZOXLB50xca36oP5VnfG4S3D0IiFXHotGTPa7XU8VrHiNjWxqVSN7ZMaUBmfnUxpWUgWzENj4PxJXDdu1cIoII4Zz5t8nndEcQ3l1ufhE73uBqG5mfoMkopyesdQxynjTjbcrvhlKo130yTVT8v-tg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72snjwIKqKgQD4oVPRNFTcFeE-znZQMbxHN0zhx-BiJ7YboYDKqcINF7i9AD63GEpW5sOxzS5GiwhQeH3wHbgb1KhUyIoRaLyIRKHk4JGlrgo37IxwH_shH0AxyEPuwZfdWmYzuIN1XaTH_UUFOmpSlB1ZRA-Oq4-5dzrjRMMNtupwKKGU3_tyw2jvQl=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sgK-Mls1wrOV3Bxksh2TBQksqHn5uazYHorJACSYuYxGB6JtVXIEwBa9xGqlkeKbtP9D2CH6Z7Z_WKQymxUJYZ0VjeXm9jlo9kJybPGzGCqtVSkwPMcvR0namQMwArd-hSTPKqqrdeqFrlZ4auFyT_FfF73c2pV4sEhDLC2bMzl_sspnMqiBK95hfP=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tb2OSIKmLG1YT-guKc_soKI5Ulzjp8nBLYJ08FwWtYl_q70oRROvNqcmF8988qigV1Nilv-YejZY8DO-Risf4WEQOUVAnfeh5BYOnKRp-5UJWaJL2ndbCqMl66x1DGV_qCVgtLztyWXZu-z246qMez1BSAuepnYRoyKIlz56gvp-WtAm8oVqzr_Ys4mTo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v6gDsv5mLZ0e4u8vV09u78vNHx0TeIIkiU_UTlAi368lOKiOcCaFxd6Wia1yeOBeDM6zyKsQwnxp-M8aDOpfuhBPKsupmhd2u2xhyi4VlmYe5ZvkADeF66mhxbe2pQp-90H1D2MxUh5Olz_KtIqjaJP74yMsNaC5PkFy89Ugp8f2rQ4LqZEUPB-2S1=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vRldNntqMQYjW5hQVVERVh-LD5QFbvBy7FnAREbrqFNArE9nHKfPU-550EJYPueOntdukjkWM5WBbych9t9ZbmH6f8eaBN5FlfQJkq3kDk-3MB55mXi4RKyKGT23YQjAHeaLwhyrYZHLQ3MChoMFZif3AKdcYge27jwe6glw5njHEhELsFjycnZnf5BYc=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_66_1.jpg",
+      "assets/images/ev_66_2.jpg",
+      "assets/images/ev_66_3.jpg",
+      "assets/images/ev_66_4.jpg",
+      "assets/images/ev_66_5.jpg",
+      "assets/images/ev_66_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 67,
+    "title": "Щоб хліб святий народом вдячно шанувався,",
+    "content": [
+      "А в пам'яті людській Голодомор не забувався !",
+      "З метою вшанування пам'яті жертв Голодомору 1932-1933 років учнями 7 класу Липницького ЗЗСО І-ІІІ ступенів було проведено трепетну акцію \"Тихо свічка мерехтить...На долоні зерничко лежить...\"",
+      "Історія - це пам'ять, це повага.",
+      "А хліб святий - основа із основ.",
+      "Пам'ятаймо! Шануймо і цінуймо!"
+    ],
+    "full_text": "А в пам'яті людській Голодомор не забувався !\n\nЗ метою вшанування пам'яті жертв Голодомору 1932-1933 років учнями 7 класу Липницького ЗЗСО І-ІІІ ступенів було проведено трепетну акцію \"Тихо свічка мерехтить...На долоні зерничко лежить...\"\n\nІсторія - це пам'ять, це повага.\n\nА хліб святий - основа із основ.\n\nПам'ятаймо! Шануймо і цінуймо!",
+    "category": "Життя школи",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72ugTZoUGFK95LQOGfGMtV2j7b_5n6yU7v7UID0tqrHxnrQplkWx63e0HsX-dXMSLhF362WQtUbE8HrSmEjFRHQhi957NUb8d7U5oSEmIE_kO-JoRkp5Ax_jLWT1tsF7ta3gzxlNP0tyUW46m5IEbwHhQTnqX6arzfw3MH4TB919-RaR_YnmhNGGaek3Azc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ts92D7ivUdIF-xUsBJH1JThlJlBKh8sEVhGh3ubB7PYjbPgwzgp5JQTk-ogKsEnsiiRa2D1bKgD7Hy4_0_5JxPGxbFp7LoeT19P3URp6fIH62n270Gv9DAj33EP59f1z4VWltH8AzrHVedkKaDMu34IpC0LET1iYNidd44NDxE08Ie1bthGQVoL30Tb6U=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tl__w_M2ZYsOWIZapv6s_jvltfy4evPKPxBINiGg2xYNWrmqtWsKfiqDATotIVS8yOD0SRR2vZgBrMp_7h3uMMBBFVd-B9FIBqxBpL4zMryx5hKArDB8n7LfBYXNA2OqBcAFy6FhXL5yN2lvzjJrJ1uhiwtvA11LkLoRxji_pXp1vOdWHayVRWja2plh0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t8_t0jpr8181dk4TG-0Wdi46dwOMz-tLU3RKR0h7vAkyx6lxEISbjdSHqVvhUlUPBYK7zBk5TVXunFT6u7pJ247o9GKSaQ8RopYc5EQMIAN0K7oZdQk0p50kx4fOmyQOfOfe3S8OSaRoga14XEBxH00ZrT09n8vJT8bPaZ96w3SI0BJmVKoIlelmF8mRo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72swBN7ivtRl-3pCjb1Xrvzsfsg33R9FE9AxvrJpo6OHtzuX_x_0uXKhXQ2ry3n2rLiwRWVw52kAgqUAb4l2BrNYtupAJPeCKJezzBiZ8S7Biil2iuj-5p5pDnmj8j8ac6aZ822JXI4gVa7-j2dzudYPNtVLfxrh8HL1QOzHSuKc7xlGuLTbVek87aBghAY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uRQF6527xEUjTgaEPcx-fM00LCn24hMoRJYYR4b5wDUdeFKOzicFg5-99JW9-ui3d-VoVbPpppy5oztHACjk53oUOcnlFi2P4pyCBICtjjkWPKYTlFtOkmPIwq_KE9C_G0m-3Yw8iZZ7eLLrc2NyQQyg9rk5GpXkrz_T7S2MxAu5HHsej2gUo_wa0H9nM=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_67_1.jpg",
+      "assets/images/ev_67_2.jpg",
+      "assets/images/ev_67_3.jpg",
+      "assets/images/ev_67_4.jpg",
+      "assets/images/ev_67_5.jpg",
+      "assets/images/ev_67_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 68,
+    "title": "21 листопада у Липницькому ЗЗСО І-ІІІ ст. було проведено годину спомину, присвячену Дню Гідності та Свободи. Учні вшанували памʼять загиблих героїв хвилиною мовчання, декламували вірші про рідну Україну, переглянули відео, заспівали пісню-молитву.",
+    "content": [
+      "Проведений захід сприяв згуртуванню дітей та вихованню почуття єдності та гордості за рідну Україну!"
+    ],
+    "full_text": "Проведений захід сприяв згуртуванню дітей та вихованню почуття єдності та гордості за рідну Україну!",
+    "category": "Патріотичне виховання",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tsFhlNZgIj4_FwYGkbh2QObIYxmOxPxBmRaWoobrf6-jXcQIwkeytj-EcLtb2T0M7nkWQs_ZsrDL6xqwz_B7vfmxTRuo43s-Mj_0D11T7ZagS5gu6ZTRUzZJwzxYuNf2RPL6HD_Gq8X6IQrWkNtTpaoIyjSyknWrV8CKdmBV14mRuGPMfp41HadCsL1zI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sXUy9afkfGrH6nM8uCs2NztGfEpldpF64mEBJ3qMTXqSwZNE-ZHSbInJ86CDpymF0qvfDtfDml7GArAOeC4Ld-1833NpqE7fDPyIIozbzwZsncxiX9uNvHu4Cq6Rgp-Z9R5UX9e3nGiET9PrJnnLd4nvlNe8vVe9PpBbBdYNHA-cWcO9PTwoNxBFFoIls=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72skFxdCOLvgkykqc-cM1stmNcm37rSpqI7uZ-E6bkWn3PzpH7UsVKJkeIP3QcqbNuXxu1sAvnCSD90Hf-lCG3rRW-IwiCh6ZCO-X_b4ooj6pMrH53uet01TAE33gnDfkPJzA6iIZEtBgn8Ua7N-oEbS4N5NvQe-k86nv1zVly3myj8VDA4fmk0IRyF7k5s=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sUksa7B9CY-9BiV0LnG0Ag_aZlDRWmM5TFhjRoeziQgZcIaHuDSTUEK3qDeHKddCFrZVz161cj5fRMjD_Ix4zFC3qRFHUWSaBEZ0PnOZZYdgWePkCn1f7Ssypu1UJcjKAAFwHqbL580RlJqe7O8YYvzXTuwA1rC8-uGcjrX7WSgmoQe6QC53SvXQUx9jY=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_68_1.jpg",
+      "assets/images/ev_68_2.jpg",
+      "assets/images/ev_68_3.jpg",
+      "assets/images/ev_68_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 69,
+    "title": "Мова - як хліб насущний!",
+    "content": [
+      "Шикуймося, браття, мову боронити! Станемо в єдиний патріотичний стрій!",
+      "Укотре учні та вчителі Липницького ЗЗСО",
+      "І - ІІІ ступенів доєдналися до написання Всеукраїнського радіодиктанту національної єдності.",
+      "Перед написанням у кожний клас завітали учні - старшокласники, які перенесли нас у часи створення української писемності.",
+      "Літописець Нестор (учень Оброцький Олег) , Первозванний Андрій (учень Нижник Василь), брати Кирило і Мефодій (учні Борій Павло і Петрик Богдан) розповіли про свої діяння. Ведучі показали, що справи Святих живуть і сьогодні.",
+      "Живи, рідна мово, живи і цвіти!",
+      "Сьогодні ми славимо тебе навіки!",
+      "Слава Україні!🇺🇦",
+      "Дякуємо ЗСУ за можливість навчатись."
+    ],
+    "full_text": "Шикуймося, браття, мову боронити! Станемо в єдиний патріотичний стрій!\n\nУкотре учні та вчителі Липницького ЗЗСО\n\nІ - ІІІ ступенів доєдналися до написання Всеукраїнського радіодиктанту національної єдності.\n\nПеред написанням у кожний клас завітали учні - старшокласники, які перенесли нас у часи створення української писемності.\n\nЛітописець Нестор (учень Оброцький Олег) , Первозванний Андрій (учень Нижник Василь), брати Кирило і Мефодій (учні Борій Павло і Петрик Богдан) розповіли про свої діяння. Ведучі показали, що справи Святих живуть і сьогодні.\n\nЖиви, рідна мово, живи і цвіти!\n\nСьогодні ми славимо тебе навіки!\n\nСлава Україні!🇺🇦\n\nДякуємо ЗСУ за можливість навчатись.",
+    "category": "Патріотичне виховання",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sX63ygUtcxJVwru0G1UYNVB5H-wr1P3amQkeJpPLawcqiLi5DXYSYXIv-2Z_of8ee7P1ZjJvXorsnGx8c-xRY3ISIjvs4pwxBELiILiz_2kAdrbW_lATll17jgujb9NcmG5EmeqnsNYxGx2pzyMP_WXMPjvUMAc_QXUZ2g4iLgE5p6uM8xYlVgqDgaKcQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tDbiHlOt1QLBGYGUAWeIbpwJ8N7MSZGNSjJzv170w_06wNpuBhc2Vv5Q2J9pHyQViQ1kAazlwNcPH_xEjoGlRayubg0TdSSENgt1wML4HiFc73T_eTy5h-uPRLBNQ-BTs1hTsXTQOtYe3k-2kag2c8nSrjAOEVaTLE4DLxc1fqLmsetAP7wAklI_hIWEs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tEu_sQFATtwEjj8hBuI-AsnXJsFeQI_YjfXypuxoh4nMhOqPxGQcmoVkhxfDXkAR80Re45a5EYi0Zn2aw6cWUcNXsXIw48eSN0Tr9lK3fy_c7vKg2MgeJy33U97PghOz7UHPmnz4uYr2j-b8osar6KAcaCOqm-CejVQ3hoFKWmZ8c8l3Ofu_UVZ1GKNnY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uOaIlW3swSkOLLGQw9ulRbi9W5dM4deUk2wuXznyJaSeWmD1CAZcp833gG8Vv5xWUJNx_CPRGRENM1ACd2GJWgWAP_bHuKnfHCJyH1ktYMH10Up5oYUSAbvaE4n_N-p_hBThdQgSl4A4g8wsxcM-AnTHZgx_OsvLI-emPweAk5E4zrVJA0PBo55mB6=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vHxp8731rbLgLyRS1Cq_lD5Y31KdhtFL7Hy-4_s4Bj0oO0yxZrFjWNf4KoRu4bQxhks41mvoIlQjIqZ8rnNKwXDzupQ_uv95oUJy7oNN1p9Abir1cMZzUdSxEvhvORLMYygz4ZiVuSuf6Wq8UylM1_ZGutMJv2_gT33AJt9JH8yDw0Ai4sQ-0EMjyQhx0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sdkYhWnJhqzerB7YCN6bMQMMnFwJLz_3k5M9D1QXIha2qVWUYtb6Yn8TYV830ihfFb2CdbupTb1t8hyjfhBdxqApad4zsLBSv3eTu6JsFDj69jZjgSxAHCG7ZvZOVuvz1dNi9a_J9TE2LMadytMkkMzie8LbMEx0cg-_2P8NroaSSTJFjx2I2lwz7OhVU=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_69_1.jpg",
+      "assets/images/ev_69_2.jpg",
+      "assets/images/ev_69_3.jpg",
+      "assets/images/ev_69_4.jpg",
+      "assets/images/ev_69_5.jpg",
+      "assets/images/ev_69_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 70,
+    "title": "18 жовтня рій Липницького ЗЗСО І-ІІІ ступенів \"Хоробрі серця\" взяв активну участь у Всеукраїнській дитячо-юнацькій військово-патріотичній грі \"Сокіл\" (\"Джура\"). Цей день виявився напрочуд творчим та пізнавальним, адже гра пробуджує дух патріотизму, привертає увагу до історії України, звичаїв та традицій, вона забезпечує підростаюче покоління важливим життєвим досвідом, відкриває нові здібності та навчає.",
+    "content": [
+      "Дякуємо ЗСУ за можливість навчатись та реалізувати свій потенціал"
+    ],
+    "full_text": "Дякуємо ЗСУ за можливість навчатись та реалізувати свій потенціал",
+    "category": "Життя школи",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tGE0R5fAYNSWJmhRnwPybYn8hN4q1B0fg_2S0efJvUOxRTBRggPPw_cyTSBGxiAgIM1krb8BQXNFsGMCdFDBRwsg3U8ldgblJp7CLFovgFUhE7UKNu2De1_aVzBkaCXeXjDVYs6c0p4XgPlf8fW0DDFObhFdxTBacWfVn7LEupLJ561Qgk1BlKZRlMjXg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vHossVqgFW3hcnSrT8siXkNNlQQxqnamk4Y2dvgDp2Tm0BQcNvrYCr2I03zXc7uCVZLGrN667Q8Pe7ihwOnlCL8U7pCHDxIh1RqdF8JULfBOs265DPaKRrNNF0DPJZ96RZGro-hsfHBYXu4QAOoqDr9oK2mNUnGc-ZEPQjIBeEZV5ys4Co4V2TF1YdNMY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s_4qpVsWFaH8LB3RA8LgpAn-tU9ha7AE0sKcip_JTOeseJ3Ifrp90CeTROwvjVls7P5B6bh-jlVGIZzY_UUQh9TbbbyLtCHpKES86DpD1SVgywZuttdxPOW2Syu87ZRBeRUPH9__C4xb1xbJig9b4vbQnmQghsiVPPO3vsyYvKIJd5tp8zhBV0OEEG=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tsnaKTvmOb_oMRhXGiG9G7DX_4Hx0aZ6w0ao7Gp2Hd23raAhFpGzoii1BqSNB9DfnsDyLv-l_haw4ngJ0_mRWbQrp-q9FEx6u_LlcdMEuS8sIH2rbsj7aH2bHHicUIStu8HdlwVhiJBm5bOOjrYIwM8Q2keorBVpEXE7Xz2syMmRysxQlm18yBwpaj-eU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tLKDBU8mSP7knm7kVEdpwp8ZEodtF6tmVQbiDL21w_kcEOAHgNf6blQdv3CDWTfUQartxM4TCt0AXfvOJKGO0xj6LKcD6TBFJPziFv3UVp3DcFWUmQT98kb3NCZRBUNlDHnsubgH1KoZwN7dxPP3GdQchgtIKakFnZ8KnTsYAjVDmG4p-lq5yyeJ96FAg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v87lnGWXhIxUSVRHOKXn-UMfcLiBNmfZVpB6uCCv-yTKEtpS9vY8clbYFDfa3cOQtax6Kl52FBjs0RavFWQDamt1SNtFIjtkA6tuoywUBssEjeA72zzxq7z4GcGdZgZjjjoFfaRz-igsywPdb-v-modoUo6I0yQnGK-HRxnU5xYOKaO7ArxzIeA1HWqvE=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_70_1.jpg",
+      "assets/images/ev_70_2.jpg",
+      "assets/images/ev_70_3.jpg",
+      "assets/images/ev_70_4.jpg",
+      "assets/images/ev_70_5.jpg",
+      "assets/images/ev_70_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 71,
+    "title": "8 жовтня 2024 року учні 6 класу Липницького ЗЗСО І-ІІІ ступенів разом з учителем історії Девою Н.В. провели екскурсію стежками армії УПА. Мета походу - вшанування пам'яті воїнів УПА, що полягли в боротьбі за незалежність України, виховання любові до рідного краю.",
+    "content": [
+      "Діти ознайомилися з історією боїв біля села Луцики, відвідали могили полеглих воїнів, поглибили свої знання про історію рідного краю."
+    ],
+    "full_text": "Діти ознайомилися з історією боїв біля села Луцики, відвідали могили полеглих воїнів, поглибили свої знання про історію рідного краю.",
+    "category": "Патріотичне виховання",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72t2nVBYmIch8wl3Uru0KelD64gtu8kRc6L0t6o96k_xqXZrGYIGnnMvQnFB_7cuWyMT_OvN7sxVXmvP_PT4VyfTxG5NNrsMGY8Fo0uZrkEq3b2ubj54wsfDTjxSvBztTuFCqC8kqPxxv4vVRIIsaWVg9LHR_sGdnhdLVimgqHcPueoAHYZkWXCJkMkH=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tW2VeEozwCHEM9uS0HtHbZ4E8NoKc6fmCfrE0GkHhon-e-Qxz-4TuuCa9LltSOSJVLyGRCGtgD4PnXjucbEqWdfbdJ4daJr5AIxsvUkNO5cjmIidmGNiWtGX4lL4CPhVJiz4qLcARjgUYcC1yeuV3-aIxKyFEbIAz-SkE6p7zN79jY5rZrModC6rG7C3c=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tU3XFDwQ1MjGE7499EYB7DKVznD6q8C5TfVOekjFonfaV0o9zMxucZDjx97T7YqCh3qJNRUIVMJSLzJt68DyHN5CoI5xzQ-HhsW4czhsrlH7wqPGrnb-Hh8__NfovlObYBLoxSn6fG8VoGEUT8ImZkuy-kPsLGJts53MHppFALFM61nFXM94ocg8i1=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sgSUUwPPblVK0oAOyP1SGmP5ynprVWyE9dySLsfo9DRbKmUUnICzfGDS9-2pYkGbr0Y-nx9XZaAwfCeB5qhSLe2f2K_WipTFxn-6SjPdWU9GB4T4HBvSYYKEqDb3ZGeZ8cDDtTyau6RC7hVUpqL8QQuw3WlE_FqN7Dw4qsK2Prsu109Xs72k93o3YT=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72shTfDolyyLpq7u7ZmsLPgcNSOrqhQrJZVSiz02pjs88KcDbFhs2MqmGkUGy84TD0Nn377s3SU0rFJXOHaH35RpokzXHNdCtJ3OjK49tGdaE1vGtc_Ts9TJtvHXsLC4M98waC4szQAN-oFDLnB3RSCIiwOFvxp9M83wYpHh6pYdQrkaG86ZER1JQaSN=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sLL6Pqvqig8sxExajygWWJxAV6dvtlNkMets7qoSYM6Wo6KA3X8UIMEgSRP7L2UBgzWRN-NJlXn7M5uHCq3DFflJPiag-Rdpn6CC6mLkAwzrhjvz3_rsNhzjHVrak7CEgXKd0ueJmNhHo7-Jh1Sj9umrVn8be03B3u38zwf5XSDX7hV5uTcDIzdP0Iiu0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vyrttxBvEPq10ESTpWwX3iHVmBdSg1HOzYMxO-iOxCy3E9Q1iavIx7VdUzS5CuGe2_0Tagua99izjaJyHRU6A4xVUgVfOSkTp9nDyO_hH-yxo-6xYXShbBKx1UOL0PLU27GQDJffZKU8jnfuL1Cr-VXBZ3fIn7v8H_0BrD8U8Utx4L4Gk_CYA8oYnq0oU=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_71_1.jpg",
+      "assets/images/ev_71_2.jpg",
+      "assets/images/ev_71_3.jpg",
+      "assets/images/ev_71_4.jpg",
+      "assets/images/ev_71_5.jpg",
+      "assets/images/ev_71_6.jpg",
+      "assets/images/ev_71_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 72,
+    "title": "Початок жовтня дарує нам одне з найулюбленіших професійних свят України - День Вчителя, свято вшанування людей, від яких залежить майбутнє нашої держави.",
+    "content": [
+      "Вітали своїх вчителів і у Липницькому ЗЗСО І-ІІІ ст. Атмосферу вдячності, тепла та поваги на святковому виступі дарували учні 10 класу (класний керівник Іванюра - І.І.). Проявляючи творчість, учні дарували присутнім яскраві емоції, гарний настрій та незабутні враження.",
+      "Це свято стало символом глибокої поваги і вдячності до всіх, хто щодня працює заради майбутнього.",
+      "Дякуємо ЗСУ за можливість вчитися та навчати!💙💛"
+    ],
+    "full_text": "Вітали своїх вчителів і у Липницькому ЗЗСО І-ІІІ ст. Атмосферу вдячності, тепла та поваги на святковому виступі дарували учні 10 класу (класний керівник Іванюра - І.І.). Проявляючи творчість, учні дарували присутнім яскраві емоції, гарний настрій та незабутні враження.\n\nЦе свято стало символом глибокої поваги і вдячності до всіх, хто щодня працює заради майбутнього.\n\nДякуємо ЗСУ за можливість вчитися та навчати!💙💛",
+    "category": "Шкільні свята",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72to-qnw78gBjLZ7XB5ptHXYoE1FpkvIkDbWGdSEEuUupnJuRff7Jo_MVHqMrqbxlByKrhtA9o2W4W3VCyrMFvVwIOc_VDLjUhDaqjvairiPFciPglejjZ9Bl2fwpvRIcm6ka7_TQnfs_AY3zpz6Ls5HakIZcJuYYI6CH5Fuim_BNdmxKnrdDRC3HxcKpn8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vIlRG5wx5g7gH1IvDyDxFY5cP4m_53pWFQcdfsvg7fbMPjrvuaHGA8b2R7BoZU_jY5_eKRQ1E0cnwePdP3lPoSUz54mP3zBlt66zVl-1sOh1H8a9PQvheWHB5r6PqeEAvbe3Rd2_wBj48q0EfzoFeiiaQpe_YoE_OJx0u_P1eo8cLCdII41H3n9rke=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ufMHn1_Qc5JA9HAZXku0SGdqE78lHS2CTxPRwH_sStDg4VxleETZ0M-Gw1a3zzGQro7gNna6RwZ-kCHfdHmgCkfeW0X-Y55dj0hMZAu6v-JMuGRK2RHpqS2ISvHMUm2XsBf88qMt3AHJKCCpaIZjVWzDubeWHCxLSrXMFRtgQjOqiJxaypGyLHCH_vw4k=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s5oiOwD9K9OnIy0Pts9WB-O45vlcXHdLA5NOWjlycSfMEKf-jBigYCo2ZrQO4mUK6CWpmXe2_pb61lDHOwDWthO_JFpcjS2dBVZCX7sVdB1xqKuSwX5c-ZKCUte_hLoCiX7frRPzFEYCKNRYQMTHOc7gAbbCwSYD3FRm5k3fsI9nb6Oc9a_wiqMDioDGM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v5dgOMVM_R7AIhM94qqAchPNpal861TLqwTfeNrU9LmbkVngCACLyjYser6Z32mMMVeY839r1E_hbSLYp-ZRwiRFnXFx7zsImL9q68MCSBCrMU_I70mAFidTzgkRB6cOor1VhnFHidTaJfTaH-bTtaGosk97LiYRHZjh9byMiPQxQsN7R6re0c3Ge02lI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72smcoc7aDsPowl8pTW5FU3tFs0DMhk7KsUs-VQY_0cauMtffQY5FUWYPtqo8vMSbv09f3zisODWp1NeZlwm3eiLV6Wb69jEpvyvFbzmJqCWWkhDbcf4klnM6Lw9Q4BFoNb7hkU4dteDyH8LxHtHpwOumOh65uUgNS2X2GfEKxYWyMDRnYaevsPx0CGHpzY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vh7DBiANkNGp54ZWnSMb-eyhCU1JHhfcdAAWWtjd_6SywpbspHkyrK2IluWbzZt7G6wT5StiGerY5HZwwXNu9osasO0Lq8Tb8dpz9y18V86iJz7ANe7SQDUFJ0yhFV_kxW234IYLOiPT4ELdST426KQO4vrxo_UKmcO7OOzsZqDMlu1i8khRdv9SRHUrM=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_72_1.jpg",
+      "assets/images/ev_72_2.jpg",
+      "assets/images/ev_72_3.jpg",
+      "assets/images/ev_72_4.jpg",
+      "assets/images/ev_72_5.jpg",
+      "assets/images/ev_72_6.jpg",
+      "assets/images/ev_72_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 73,
+    "title": "Вітаємо нашого керівника, Суховича Ярослава Романовича, із заслуженою нагородою. Це результат 35-річної плідної праці на посаді директора Липницького закладу освіти.",
+    "content": [
+      "Вітаємо нашого керівника, Суховича Ярослава Романовича, із заслуженою нагородою. Це результат 35-річної плідної праці на посаді директора Липницького закладу освіти."
+    ],
+    "full_text": "Вітаємо нашого керівника, Суховича Ярослава Романовича, із заслуженою нагородою. Це результат 35-річної плідної праці на посаді директора Липницького закладу освіти.",
+    "category": "Офіційні новини",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72un-KZWqZI2C9jQxteqwt5sz0S6wfH1Qitzqa8N4PxuXDmD0rP0oKw5EHlZvguzl4zyYXS2CJRkjixbaqr5yR4v29DtcY_NQrHVOudIwNU2T5HnCI96WMCimmmv2-UZlYlcXws5oiRzOoAPfpbEaKAI-yB0rGsigbVO-0l0oZqy0nNf6QzF7381d-skP_o=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tDvNu4QxbgrSvZkaXjJqdPgnzSE5rFmfhJNLCIoj0fL7za7C2f0CVUxW8K6T6CbEvw0dDZKPItK3YHhcc9HWOLF8NIe8FBphktNr9TkJ9Km-YxshcnIuqwGLqPiclUypDVFv4FWeBSVLLBxQRg-nDwhrfhMYhi-_7AAkmnClLxeuUWPEnNFniZWVfo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vMzVRoXp2Y8fOKwBC2e6Mo2l_6W8WMhKwKbfjPgzQk43gkAAl-m1JAqIlFuSYFWr0-hqFrWYkAmhN8faYBnv3cfOL2FOfhCO3W30B6r9E3akYgaTwoPnzd3NEBJUCN1DEgdWrT94jpoTrduElqTYjp4RgKyolyUmD9hmiZc6mcfrSY2HBCVQrKSTxmWoU=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_73_1.jpg",
+      "assets/images/ev_73_2.jpg",
+      "assets/images/ev_73_3.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 74,
+    "title": "Війна відбувається не лише за територіальну цілісність, а й за інформаційний простір. Російська інформаційна експансія посилилась з початком повномасштабного вторгнення. Тобто, росіяни намагаються досягти власних національних інтересів методом беззбройного проникнення в інформаційну сферу.",
+    "content": [
+      "Несвідоме споживання інформації та недостатній рівень інформаційної грамотності стали передумовами спільної для всіх українців проблеми – засилля ворожої пропаганди та фейків. Дезінформація в мережі негативно впливає на свідомість людей та хід війни в цілому, тому користувачі мережі Інтернет мають завжди бути обачними та вміти розпізнавати фейки, пропаганду та дезінформацію.",
+      "Щоденно, гортаючи стрічку у своїх соціальних мережах та месенджерах ми натикаємось на інформацію, яка на нашу думку є неправдивою або небезпечною. У свідомої людини виникає природнє бажання прибрати таку інформацію із медіа простору або заблокувати її поширення.",
+      "Для блокування того чи іншого джерела необхідно надсилати скарги і чим більше буде скарг, тим більша вирогідність того, що джерело буде заблоковано. Саме із цією метою ми пропонуємо нашим користувачам стати частиною «BRAMA» https://t.me/+pLG6kLua36s1NDBi",
+      "Діяльність проєкту «BRAMA» направлена на захист медіа простору від російської пропаганди, блокування каналів поширення дезінформації, протиправного та забороненого контенту. Також, метою проєкту є покращення медіа-грамотності українців, зменшення впливу пропаганди на суспільство та популяризація безпечного поводження в мережі інтернет.",
+      "Що ми пропонуємо учасникам:",
+      "1. можливість повідомити про джерело неприйнятного контенту, для подальшого масового надсилання скарг спільнотою та подальшим блокуванням такого джерела;",
+      "2. допомогти заблокувати джерело неприйнятного контенту, шляхом долученості до масового надсилання скарг; 3. отримати поради щодо медіа та кіберграмотності;",
+      "4. бути поінформованим про небезпечні схеми шахрайств, які ширяться мережею; 5. бути обізнаним, щодо фейків, які просувають вороги у наш медіапростір.",
+      "Донать свій час на захист кіберпростору!"
+    ],
+    "full_text": "Несвідоме споживання інформації та недостатній рівень інформаційної грамотності стали передумовами спільної для всіх українців проблеми – засилля ворожої пропаганди та фейків. Дезінформація в мережі негативно впливає на свідомість людей та хід війни в цілому, тому користувачі мережі Інтернет мають завжди бути обачними та вміти розпізнавати фейки, пропаганду та дезінформацію.\n\nЩоденно, гортаючи стрічку у своїх соціальних мережах та месенджерах ми натикаємось на інформацію, яка на нашу думку є неправдивою або небезпечною. У свідомої людини виникає природнє бажання прибрати таку інформацію із медіа простору або заблокувати її поширення.\n\nДля блокування того чи іншого джерела необхідно надсилати скарги і чим більше буде скарг, тим більша вирогідність того, що джерело буде заблоковано. Саме із цією метою ми пропонуємо нашим користувачам стати частиною «BRAMA» https://t.me/+pLG6kLua36s1NDBi\n\nДіяльність проєкту «BRAMA» направлена на захист медіа простору від російської пропаганди, блокування каналів поширення дезінформації, протиправного та забороненого контенту. Також, метою проєкту є покращення медіа-грамотності українців, зменшення впливу пропаганди на суспільство та популяризація безпечного поводження в мережі інтернет.\n\nЩо ми пропонуємо учасникам:\n\n1. можливість повідомити про джерело неприйнятного контенту, для подальшого масового надсилання скарг спільнотою та подальшим блокуванням такого джерела;\n\n2. допомогти заблокувати джерело неприйнятного контенту, шляхом долученості до масового надсилання скарг; 3. отримати поради щодо медіа та кіберграмотності;\n\n4. бути поінформованим про небезпечні схеми шахрайств, які ширяться мережею; 5. бути обізнаним, щодо фейків, які просувають вороги у наш медіапростір.\n\nДонать свій час на захист кіберпростору!",
+    "category": "Патріотичне виховання",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72v0b-ckLyJLT4EJvd77gOj0dlMwVp5fuqhxvvFFLAdbxOfbJvHDHcC6LOQYaL_noPz_x5Ffv1zFtQiVR3Y9GnsW0FZ7hcmgKai8fjpJIbHL7p_BFy40YhM6eKNPjqUqHDN6N3ZcY_cuHCN6bBYwT3mSrSm3pRZ7NA52ZRHUbTdOTiLZ_LTtk5clIaDLqf4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vMH7gNTdm_d0voIA6_CQJlu_dw7DEBs_MHEqgQR_lgmCfCvUyhj1iiIEDamZLNtJU2gT9X4wgW_rOHa9CxOTVGMuyhiaadqWOacrCJ7_TRZMq-B6mbvs24PpyD2nSysO8DB0Nn1UWcFRg4QA215Qs-zCc-1vUuZbIvaJLz-PNM8mqWv53D4Vp5HCAQk4U=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_74_1.jpg",
+      "assets/images/ev_74_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 75,
+    "title": "27 вересня команда учнів Липницького ЗЗСО І-ІІІ ступенів взяла активну участь у змаганнях учнівської молоді Рава-Руської ТГ з пішохідного туризму.",
+    "content": [
+      "Вітаємо призерів Васечко Олену, ученицю 8 класу, за зайняте ІІІ місце в конкурсі \"Туристично- краєзнавча вікторина\" та Оброцьку Вероніку, ученицю 8 класу, за зайняте ІІІ місце в конкурсі \"Азимут\"."
+    ],
+    "full_text": "Вітаємо призерів Васечко Олену, ученицю 8 класу, за зайняте ІІІ місце в конкурсі \"Туристично- краєзнавча вікторина\" та Оброцьку Вероніку, ученицю 8 класу, за зайняте ІІІ місце в конкурсі \"Азимут\".",
+    "category": "Досягнення та спорт",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72t1yJlAlvZj5MisEuwHB1xi1YYZUbToA7aFxTCYcnyZXf8LYD8MLuzU93X5tzHLiOPkwC85zm-S7c9VsMf2HhYQIZMVIWytG2H_AlwnLecN0wB9rDooIj8WJCUxsSYZCMtAH-VQv-hQ1sWUpzW3RQpR-VhOqjhDc36-Bbgsv4vJbUMd5FpXPTJyizpnmW0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tIctuE_cgRqhSwI_Tk6tueHKUjbmATtL4YE0NzycPgoKuyCTTiBrAiFLAHv0tbz7PEJgJV-ZRGgmRGMueE0qhu6a-O-M3dLORCadJrFhGkNHN9viLl3J0c6ufBb4W7S9z-S5xU3O6K5kKXPrH_8LZMgPYi2LjD6NK36eI0I7RBc13KfK5YlKAT7bW2=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tmwPQHHYXMyILlKUQ1Cb_Jm0NngT_KLQ_uLCjU_KeO6b0JHdnlyu77FVFjCKL5aoIuGEOIMAxQxPExMGqJ0TSL3RdHMiJ9arkFCx5dA-E6eTDwNYqhaaroRjIXdswi9tGBluIqJjbjLQmIn1jCSo42LcRk1s3kiiklsde_rEQf0PIxyu4Ah3ynfbt3=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tXRLl3zJpwL0I44ofBbIzNiLymrBbiAZtor-bceOZPIJy5Y_oHlcSaMu3k2kvRLo3R8eiR7MlQkbcG3IGVhU8p7Q6H275x_6LqzhC8ECeaEoBAUT3NaYL96Wx7UjZHj3Gb-ZGvKMHEV5EproSTRKifQXyjJI5poauZ_sez76Q0RRuphIuOZqKCxMdSfak=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sH-q7g8GblSgAns76aOEQ82dKCP0fpDS0mDVCn-cfb470twXddQ_ZaIaKP02tJfzwgieveLmp6sLcfCoNsbxmHB462VMAGMqett7znHXI8fugescinDTSO-fi2Q8BzXG8uIWvzwhDn4BIsceuku6nxewm2cjAZi35x3jH4AA0Q2r1dR3FURFFEPBIJSBQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vX6Kt8SLEWpWsFhUcCSFB_0bA2ybj7tCrs3VEonUDWj86r6RZG4Ocv4hmt34nPDQY-xRWUN-K6LQu10mv9i7NehlhHWAQ_qGoFvJOlD3rJz9n3KXmJuhZhLBDPViEJ9-rQI3LHcnsjcg6UDLPcQggV8v32Qqhx7l7DGyNwuIsvovI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v4L6_XfwATW0wrzIdEPWL24q_sx2McoAO4yR9wJABvfZf-Sa_5TDGkYA8XBU00rp2iZD4haE6qlD2xG8dkVaxxLE3MhIQq2MAlHLBa8Bt-bbW-CqwiEE9wujLfGwEAms0YJhMDSseuoTqYEFa-2FNMTdVweKvGs6c3vLu1ePsM5nLiEblInOYwboPpqxI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sFgfSkdpcVvLeK61BC-zsur42P5u2Trqa9tssY1CveiZvnEONXoSULDpQy1RJRAV7KFfk3Hzg-a4_aavbMBvsVfwcT53wWKTe9P-MXUB82ysEDAg0P7MfIYjN0joxm_OwxmhZf-mP2RBvakSN1b-8WClVXLhotyDP4FlCyrgOBhp5a9iw9v9ya2gg7I48=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uvz0kFQeMs0WakJS5h8t3M36hPPzCxFsXvtN26O3LXim1wwnRwVFJhIoTDeLP2HPO0qpjR7-VX7dN7PEGfzdVu50ewe5Vo1RDp4NeLGaRUZPWrjozh85CeKdePVk3eaMB7ly166WVEoWDy0RpHJZbYhliW0DtVCnUbFK1XOzEwmbPDkG_buZwcXTPvot8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s-OYM0013-zvpIxsQOOI1qCTdRXK-Uo6wuNi-IuqHRaAc-cwjgTGmY7wUJla68lRG41TjOamCqY74T0aumk4Q-m9Z9Uox5PVvAARnRmmTPLlWwHfWms79xO6rfKyhz6ukKiFLRJW0NCnSg1PgVC8z3jeMKLuv02u8JvWqlRyrMNTXtmPjMo3hdn5HD=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_75_1.jpg",
+      "assets/images/ev_75_2.jpg",
+      "assets/images/ev_75_3.jpg",
+      "assets/images/ev_75_4.jpg",
+      "assets/images/ev_75_5.jpg",
+      "assets/images/ev_75_6.jpg",
+      "assets/images/ev_75_7.jpg",
+      "assets/images/ev_75_8.jpg",
+      "assets/images/ev_75_9.jpg",
+      "assets/images/ev_75_10.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 76,
+    "title": "Всесвітній день прибирання, або World Cleanup Day, - це символ солідарності та відповідальності за навколишнє середовище.",
+    "content": [
+      "Нехай небо буде мирним, а Україна - чистою!"
+    ],
+    "full_text": "Нехай небо буде мирним, а Україна - чистою!",
+    "category": "Життя школи",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sBGREkNdbgY4kSmk4Tcxu3p_CRbbZTroJXlz-lSCotR67EKgGlWyRCSIfvpX-zeqiP0p-OdSBggLy7DzwU1FkLXvs6dKd1Nwqh6GO-U_3mvIEYHYoJpmQNcYU0SO3GJDN-RDwZXWRsqu9uP3iANV01CgoY0q2Jcrr3KB1Qoyw7AO33kocZaSftpHqFV4s=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t1OS6XRn6X9iw53YRGwlNk7c4ro3kt5WpFBPHlMk18s1hyvqMqI4PRYhHsFaVq7_IsJuAnXNK1iJ_IQW9PdDDKOvSAr47PdEBS6VXCoYw6YMx23oR6jKkm0fTz65zcuC8KUeHuuogScPyxHV6AXmoCHecCUf4zWkTwflYvg8wgVz3GaSdo-btCbdaW_Pw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uTGnOYNIIBSn9ogWOk9fmFEhauvw5R_Mp7rk3a5hzKxS-TO1YKDxcmkw9bh7Rgt4XBNuvt6fdSeRAq8T45ZDZhdspUQ_GkSpfel03HSUUvMoEXuVdO5I3aKHrNn3h6qUYMjLYmcTnO3d-aLOrp7H-DWSyRiaT4CHXqho1GKEF8IAwxSeCgrDe0PS3Mj_4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uwsDTTX0bZojXYt8wHlUT6UykugrLyDtGJlNIqPhOHyOLvKDsX381cBxmNQeP6mPE9nz0aYQPywOtl6TDvVebUdymZUrGFFQjphvrXAzR20B3Xgr_xof7Mm3IU3FixCGrLGdzanDkuWGtrtLWka1hr3UfGioLcgArzUd0aVaPciMx-RsNFa10zVFmUOIU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s7alH4Z-NINQBRwgQ0ZfflYFQ3mYi_WvLSR69Ek8zE76pTPU-b_ACVIcQWDtoGifvP6AUSg77V9M-FxjRseCkpGpJhKjl-rAOIBerObiQ4wfchkdUmaixohDAwqlMDFEalkhB38KIHKQpFAb69095sYpfugzrP-2ZuIdZOj5mQNAHX1TJkTlrre5sA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tCPPa-PihqurRbLsF6v3zahuZjcgXQ58ZViYM8F3r-z-lRRvPm5uGeGvH40kuE9KpZ2o-wRKnKXRsI48SADe6gER2BhoHImY-yvxbjIvQQWo_nHulh1KMKeu61UwZVnTWrRGkN1N0_WBawaB_mIthEYmieW2jzwAVf3Li5qHW0W9RPEFpj9rYlluOFq_I=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t-qN4mkWi7Ya_Berz1_AaCH4_Z5K6USS3cFpV-ZNpTQ6Ya_kQpAO3NLmkqqmnkiZFdlF2wh9wVYORNsq6TSvhcJbfa09e23wztQEsADQPcYaAYFi7WOdDVfnX86u4pZ2ASYtV6TZ5iO45D0nb3BETD_rihL7RcHJU-0sltPBvN0von_fSRls-vpLtUB8A=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72txxJPdev5M1EvxrJ1w5QmyRY8gldF792zBiNMCBM0lH0qL18jgtjGR6deAmC4bvEKuQrrLOiG2Qz3BRUh1FMn8sA9QTsEp-OyVf8pFEa-50TgWVwSj7so8L1v4WS9yQE5tCJJVLnOL5fQlnaPSISxHz5JyZb-6FKrgKx2Tycy258kwGtCRYqMqWqUQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tiBwHQW7nIyqN1dATfY72ET5iso3WbhFrqXm5s6Wbx2B1xfT64aPpLQ3epHNS8L_Qon-fIQ2aJDl_j8hWC9S5SaK4sedaRqxxWED7x9ftszzGkXf4KYAA_ouaPQNMRwOutH5GYBDjrPqTI97oAJ2AHenH1ZSars3guR_Ej6lK8unR75qZ0VaYPjO0w=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_76_1.jpg",
+      "assets/images/ev_76_2.jpg",
+      "assets/images/ev_76_3.jpg",
+      "assets/images/ev_76_4.jpg",
+      "assets/images/ev_76_5.jpg",
+      "assets/images/ev_76_6.jpg",
+      "assets/images/ev_76_7.jpg",
+      "assets/images/ev_76_8.jpg",
+      "assets/images/ev_76_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 77,
+    "title": "З Божою допомогою в новий навчальний рік...",
+    "content": [
+      "З Божою допомогою в новий навчальний рік..."
+    ],
+    "full_text": "З Божою допомогою в новий навчальний рік...",
+    "category": "Життя школи",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vpaEujB5GI0Sugtkdwsaem5CqbdtPCIE-C-BDA0owrZY23NPEFO70FWaaqGljuR9CNpfBUmJvOHTjdjw2zrsmS8FHA4qMBQ5ae8b3encrF_kTjfex_RCmZLEqZjN37qivrSVd7GOs8fQkYykX8ueYnVTL6VB_A_XvIemZVsD2od24AUkHhTMMB5yEnILE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vW2JYAjAUQHmF9MhTwKj-kp6ECsOOh_6FCg2M_ihlQToyvyHESBA5fbmbkX-kuoIIw_iZHuwoCBui4qmq2-6czHejVkNlwidQbA0KS_8PshxcSA7Fl16AbwIdmNp8kd9CV38kz6l1odo07cUXcW_t9Cocn-B-LfFSjYTJSPAuwnM2yb6i9gmB5VRfJ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tkqN3JHkqTjzeBsb5bRF_9LRB10mnqDkkrOUsVugC4X4-07HEXqCkOom_Y6kBITXCWc5kn0XXQohBp63UbL2Xaq813RoIXqKGVKTVsT0kggcgk0uMTKOkaJfHcMIx27gReeVkLe4TM1-NsliprdZm7Zs0E6-Xq5wf_I323zGrFfHhLLeMgRnlyhOsa=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72umBfVtb8bAB6eim8CednEvxEIxVZIYRicoq3gRrPyuBmW2cFk6g7mWwysLBoiluldBo2y73YNtUU8sCAU-aUXFLBO4KUtFII-iRZB1WBBlLsF8lNfs-BRejd7KmiB4YVAUtx813Aw4OfxZgLNjzMYnKSMr_GWvzF3bT7riuqfTyzaiVBQy5obPbzysESg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vY6Sgnw4AYtweIq0AFz5rOBKZhj_M54t4NeNG8GnVlwi7tHOq-F9ZIX4rGK61kAHWvj_jHf9eome1SMoPFqHheWMNE-FhPeNTcWH1cuTscwJdeXtzGhUdLkgPuyEXw4zlGASqhF6i0k9siQIwpXXO_6KnXlAJ7_TnqqREinhJBLWd9V2zcI_qoXQDnXas=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uA2JiYV05EmtxzzsjZ-b_GVJluXsOkrcOkPahnr1fgdLxH7bUep3JKm_2h8vvX1gBCns7ac40jTBEJE-hOqeYkojCT0Osj0I_Tu2wuDb9OZqNRwcBO8yNktjvfVYNXFJfYH_vRh488YIJUGOkjrBzM7M6ZQ8SlORi403B_WcSibeE88aKEyWEj5ajQRbE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v89rA9gY7CnyCHzQ6zrLgejL2iMry_L7XYeR6oIa9lzbFnGtNE8cpNc5x6p5g6qt4BoBcnA0kN-LZUB0IPIvtzjZCvZipabSF9PNtxGstN1tx97lrAwONcRQ7-pG54976G5L9zsqkHRM9pZInGcjhjkasx2iwxQBRKCTWWIxg9_HRiefpN1pFGYlrM=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_77_1.jpg",
+      "assets/images/ev_77_2.jpg",
+      "assets/images/ev_77_3.jpg",
+      "assets/images/ev_77_4.jpg",
+      "assets/images/ev_77_5.jpg",
+      "assets/images/ev_77_6.jpg",
+      "assets/images/ev_77_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 78,
+    "title": "Ось і фініш у навчально- виховному процесі Липницького ЗЗСО І-ІІІ ступенів.",
+    "content": [
+      "17-19 червня 2024 року учні 6-7 класів з класними керівниками Гоцій О.І. та Жигайло О.Г. побували у мальовничих Карпатах.",
+      "Чисте повітря, заворожуючі полонини і краєвиди, сходження на вершини гір Високий Верх та Ільзу, подорож до Павлового потічка та відвідування національного музею у м.Сколе, проживання на турбазі \"Полонина\" - усе це справило незабутнє враження на учнів, показало красу рідного краю, сприяло вихованню взаємоповаги та взаємовиручки, згуртувало учнівські колективи.",
+      "Ми вдячні #Роману Суховичу, випускнику нашої школи, який гостинно зустрів односельчан у м.Сколе і допоміг у змістовному відпочинку; #Наталії Прохніцькій - гіду нашої групи, яка провела учнів вершинами гір і почастувала карпатськими стравами.",
+      "Слава нашим ЗСУ за можливість мандрувати стежинами рідного краю."
+    ],
+    "full_text": "17-19 червня 2024 року учні 6-7 класів з класними керівниками Гоцій О.І. та Жигайло О.Г. побували у мальовничих Карпатах.\n\nЧисте повітря, заворожуючі полонини і краєвиди, сходження на вершини гір Високий Верх та Ільзу, подорож до Павлового потічка та відвідування національного музею у м.Сколе, проживання на турбазі \"Полонина\" - усе це справило незабутнє враження на учнів, показало красу рідного краю, сприяло вихованню взаємоповаги та взаємовиручки, згуртувало учнівські колективи.\n\nМи вдячні #Роману Суховичу, випускнику нашої школи, який гостинно зустрів односельчан у м.Сколе і допоміг у змістовному відпочинку; #Наталії Прохніцькій - гіду нашої групи, яка провела учнів вершинами гір і почастувала карпатськими стравами.\n\nСлава нашим ЗСУ за можливість мандрувати стежинами рідного краю.",
+    "category": "Подорожі та екскурсії",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vFYKsLVq24f4vsS3R_u0zQ3bLPB5w5CoSIw_XeoUXWUqHr7a4dSV3TrkzRkqQWI--JPLnEa6QiJmW-eNQiEgp6iC_jngay9o7M_XljIP0quaORo9xcAJrKKGg45d2xmNbFIAjQIMgeMgGWzCl8yhBx7yFBSQ1fIx9XnUFBKmOrc9j5Seuu2vscuE4aJTo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vz-a4u13rdZ5uo5Mk98sIlAHh7wUAlPazmKeo1RnI_F5sZiUeSR2XlXSn4oG7bU-TRYeLrQLneb2dJYZtDquU2DakcdlzfgBd1S0_Hrdo6HeRbfmSaqjrSa5T-iaEs62sCAJOAApiNt3DKSkJxAUihc7Hqpc5I9vS7l3yPRCkZ_cD8xyYdFzM0VXpXlH8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s0X_3oizDIaDDjFpROs_nkKIK8D7_EbM9GkmvDPnmDwtfpnJV6D-cVy4RaqIQgov8wq2EmUblavrUMK0O7-8K3_glVWOZ0FOTubsSUvVJebtanW2iaWQKxN6A0Yi1mLm3eUPTGZxhJG2oB2e7WE5NS131sY_RiotBM66qoJ4gYB-utDwVSM4jg6kUDCBg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vSLTM7rXs3P4rSZG68UUGjUxfKWn0xe6RJEN2B909qJXo92Yn-2SnhEd2-f8NDARwz2phzbPNvzbWr1hguap8GRtGNAab32YTZ-VpwrpmNJRyC3T4AT71cNroqGrVt6y-a1GzHx7Ps5uuVaSYYUKBpenGT43mDWVl_VFIGznWGc7nSr5RhSZdXJryQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sZIhBpmJcLslpxPopquKIf0vsE768AgKE70pJXe1GfSzHtj5qjMAVG05bT6KXxVlfzfa-1msYWCJi7Wsr1YHjLVtp2iLN0NCTqD8ZJnFadfizu0dbJAJB4fkdmaS16d3vZQwCVi3_LB43Ap4Pq0itZeeCoWppZ0KOP36wm-TRbthidOg1Kn5cvlvSMo08=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sPKHw6MbVrrwLJlNfLIZt0s1MedCern7qhGrzWFPxi3rsNF_-75iFzJK4o0F8QLdEDxSwP2SDeKLFip_VQ5LPsU8sIGmg_Oo2fvcd-zNweZBHI7c3N3CvcKwv2gBYJwlZu0vebnt9W1R70o5SFxup6Zls2m28P6kRt90CC6nFuyDsKXE5lYpZuX8Jusow=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72scmRFM5dK-Zcb1Xxwa1UyN_4l-ZR_TCIUKML9jGGg-GLazfUG1CeliTj9Tds4SUUwKLZActwABhnvvmvvI4M9M3edLdNlzZtnkz5XcVDheokk5yL_z2G6K4Hnx9tZP8s48WCJlJtWhQojv-hu5Th8F1WiCFYmuhZqoLe__RJJHtliWa15zXCp3MAZL=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t7Rstr-GMxSsq8v5OXMeL-aoy4QESYLFMIBz7NEg-3l1HfKM8ZGNX5gkBRneLvq_mATCNgAbjhnYDP2eL216MZLbBBPrKfB6MmrDNsuwibL8QT9ypkJhMjJNcr2rosrSvgA8vvVIh2G8RaHd_kEdHJZ5QCOX0VaPYg_rGpgRf9CQ8fGJwEUgoQuxYNoBg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tMhFZyfdCMGfltTLfWVyMtHS1xzdaXcWlfjeXk22SAZRCQ-xzvHaF-rbvHz-VWzU4T-eqJ3_KtFR18txIZ9QKnXgbRTz7rEoufrNjZIfjvIm35civs6fEudSYvwgklR-J10Ma7MK5_Zt8H5yVaKijTFnbIPzeVhxuOUDhrNsisv7HN74obdwrHfuN4N4U=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72slrQ-LT8OahAwvhC8UKjz65dBr6Z61o-xf46R8Cau6jamz1cbLu_cKDE7FIcDtn4y-VbOOEPP_lz1K0Wb4IDCiAQFOAOfbSwp5AhC5wcG8uw91dLHBX34ZqLla5HU0Nu0e5ymz0knsppdDZTH9npv9MXViENOD_vIAQMsfmU70J3PumDMObyCdGf4UGXM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tpX721SOrnZwPxVpS2pqhy3BFBPswGGeB7jXTPelw6G-Yb1nVfgSDXA0xM5Z5fMZqbeCSWn3NQyZVS0G33B9UV1KCWE1lmMHyxA2E-epsvV1CMItxjHiFFwAkDiWZZ3PnQPNTp5zoejOZ3Yp5RnUQyh2Mda-N_T2jNDhclj_UtWD4kube6Zfksfg=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_78_1.jpg",
+      "assets/images/ev_78_2.jpg",
+      "assets/images/ev_78_3.jpg",
+      "assets/images/ev_78_4.jpg",
+      "assets/images/ev_78_5.jpg",
+      "assets/images/ev_78_6.jpg",
+      "assets/images/ev_78_7.jpg",
+      "assets/images/ev_78_8.jpg",
+      "assets/images/ev_78_9.jpg",
+      "assets/images/ev_78_10.jpg",
+      "assets/images/ev_78_11.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 79,
+    "title": "14 червня 2024 року відбувся звіт керівника Липницького ЗЗСО І-ІІІ ступенів Суховича Ярослава Романовича перед колективом та громадськістю.",
+    "content": [
+      "Керівник закладу освіти зробив огляд роботи за 2023-2024 н.р., показавши присутнім результати методичної та виховної роботи, ознайомив із досягненнями учнів у олімпіадах, конкурсах, змаганнях. Була надана інформація про фінансово-господарську діяльність.",
+      "Присутні оцінили роботу директора на високому рівні."
+    ],
+    "full_text": "Керівник закладу освіти зробив огляд роботи за 2023-2024 н.р., показавши присутнім результати методичної та виховної роботи, ознайомив із досягненнями учнів у олімпіадах, конкурсах, змаганнях. Була надана інформація про фінансово-господарську діяльність.\n\nПрисутні оцінили роботу директора на високому рівні.",
+    "category": "Офіційні новини",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72t-U7BXDnqaXZdIZdARiGoBo0wt8AgBOAz4dTAYVy7jni692SeE6IJEcoPObaV2RTB9VfW75mYqG0GNJHJUh4tHp_aNkArPqoIgsE5PkFCyRD-HbhoZOjHOvPyjUiFjuTdllQobltLDrBdA4KTDieGVE36wynPVcnZsACcmUVVQOpnU6-QQIEh4SBZwJOg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sGO2ksevvGbjAsE5W0iAbd_vKeFABuQRzRuQHG7bZ9h5y1DtHbt7MnGMF3qL95IGL5upPS3oJnkm5vz2_B6JdNTmCzhBE7sIp-K7uw66jE31-GAfCJr8z-1gqLIEnwOZrhp4NuqXu-wwXl8mZiqo2-hbKodM1veBTUmiVwPuCkow3OaVuEwxDJAgXq=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uceBLczzC_46N_INClCSLTbHauyaXe81WxnO84hUcppA0ioaHGUEFBzmaEz_isX05G-XsDXYq9qISQZZHuV22xoQJzrL5AVkXi0U7wrLyqSjutIr8-KFxCcWdlGKF8MT4zgLxN_JryV2-VUuJiEu-bFf7Pc3ZOd-YjfbgaOQRGzUrkAVXuvbIItzpjvb4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sCzykQSgSC5w4IIzfsGdql18McS8HiXmTWpgkHkLZvk0ruY3FZ4LsQgpwEoH6oKTzXwJMhcQqTAaDtFHaCb3BOTxqCwj0urOFDoMVO_Ao4QJUu_Y9-bs1x60hNoYGMSKZ34lKUlrxAqEdC5_reG6Zz3-PfVveUMr3ZMMgFoLkXW25p2dR9Cj_XGGsjUw8=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_79_1.jpg",
+      "assets/images/ev_79_2.jpg",
+      "assets/images/ev_79_3.jpg",
+      "assets/images/ev_79_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 80,
+    "title": "Щороку в перший літній день в Україні, як і у вьому світі, відзначають День захисту дітей .",
+    "content": [
+      "З нагоди цього свята у Липницькому ЗЗСО І-ІІІ ступенів були проведені спортивні змагання, конкурси та вікторини.",
+      "Діти - наш найдорожчий скарб, наша радість, наше майбутнє. Дуже хочеться, щоб усі діти нашої рідної України щодня були радісними та щасливими. Щиро дякуємо нашим захисникам за можливість навчатися і проводити такі заходи."
+    ],
+    "full_text": "З нагоди цього свята у Липницькому ЗЗСО І-ІІІ ступенів були проведені спортивні змагання, конкурси та вікторини.\n\nДіти - наш найдорожчий скарб, наша радість, наше майбутнє. Дуже хочеться, щоб усі діти нашої рідної України щодня були радісними та щасливими. Щиро дякуємо нашим захисникам за можливість навчатися і проводити такі заходи.",
+    "category": "Патріотичне виховання",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uYCWFrA_6x-Beha2cMJQjxNysXMeofkHdo8Beof9T6Xnd98GsDJQYB_vQbWfKg7BG1hWdIHTjq51OliYbzrr0IppHUU5rnobll0StvjUlMq3nNC1B1PR9275OZf1PQqpvNXn2t7OWMfm0VVAXYFVDlEGEJg19_vkwQRmMF8lNg27jOIt1B2zc8zfcfcGc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vn4Km6bGhMFC-ljY1WFG5jsfdDSXo1RXBhtI3Qrr5LLqkYRFR9XOmLzq4jeIyYu-75LusP66e0074dwL7sSS8wZb5ZH4qQh-eXRZlKBS4Mn5YI3FSd3EcvOhoWRDhWnOVggsRyMuCxmoOarYVH_yk0rhh6K9_uKaEFz7Ti1F03VrU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t_3YDRqr2hZoV4tMRMyARo9QgNawy13tb82fOcdB7Ebmrgl4cfHvmxnUqthOPetWs-iKeD66RLo2-QUhysa0QLYGRH9cDPNJZCM-hllx2Mb14rtLjJz0usESEsQncj1IOQ-x9pLC5LAN52Z2l2PG9gotHucwNHPJOCLL2eljn7M5HVetkCZI3zze-k=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tFQxmgc4eE6W-jwf-z7IqzPAJi2CywS2RBtizeI_7MytKOuCBGMzLlwTI2V1-32bvbuhT7yQnK5trC2_8_vu0T2c0TcTjN7WW5yFo26rKFKS6fGOm51ch8zhyVX6I-xDWZNBZh-E-rL_XS87aydIaa_oLfDfZl_qSOuclV7-b3HPwW_mt334YopxZDuzo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u3nMbEx1tmk6mH07zK0DYYS3AkfutzG5EWCimHkqQnnF9WnepSWLnE77xG8-t_HHmRhwYv9n3u6RxIdmhwxKv_4ikJkLM_PbWT9S1JKN0hXTTuGzPCPV0aSmyQlihFfJRJDhLxcQT79dJeLpXJQHWxX0U_LdWzaVbBdHluCgp7EtULngEEiVv0UVyTz10=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tOmLTgzI7w2ktB3hwO2UqYLAj9f2vvSlE-w_ZZjO8tB-E3NdXJgkgMQphzQkEg0wj-AaXfT0h0YpMt3WnGYpcYaPiD7bZMidzb-PoB6m6iYihlN_WxLAbzMUifLJ5pB-OrkumifsY96qVbwqrh8-MQbg6lPJ0-HBSW8QhUA3q-RzjVzHXJnwCxuJnTLyU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vdlGRdTVYupSFssUQOhIbJvpzwD_SU5pcwOLmHpSnbagBwLK5MjfXXRYJGrVe0d47ns1K3ql2S-2uQFIgLswdEERujq3eTJWnRhIyzGCB3qXxNd9du7Cqcd1BANsB8rAPmGnSI9XEIauuYBFKaF7mQ-QxzvcUZzu1cTvG9JYN21uR9rVL8PhRBNizHqeE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72syBrkdh6tuQfRgOk5TThZ9u0awAAf3k-JTB6NXW5ZU-76ICR-BRLdYPty3FkQWEWjrCgriB_E4c-WhqV2_tEr6kZlNr_hqVvxK-9Cqum_AT0janou12-nIR1OC9dK-rlTeA_vMV-zZY-soXHT3CwcORS3BcLtfvfspg5UDAIw2IX3IHlnma8mz1H1c=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uuwAh7osYgHQ_rPsPRmOMtyHAp0s1xrZWOp8o3ANqvMmAmG_KsPYTKcGlNyv0J_8hoEZsX6F7hag04ZsaCEJLvM_RLv9cuuiakVrnnJHvshrD7bMsldElDlyJjj0gzx1ptJxHwcVn3YDf418QzAnKUgxti_4JnK5QyXXNX83HL8kNQEgoUbtfRpxHKVnw=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_80_1.jpg",
+      "assets/images/ev_80_2.jpg",
+      "assets/images/ev_80_3.jpg",
+      "assets/images/ev_80_4.jpg",
+      "assets/images/ev_80_5.jpg",
+      "assets/images/ev_80_6.jpg",
+      "assets/images/ev_80_7.jpg",
+      "assets/images/ev_80_8.jpg",
+      "assets/images/ev_80_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 81,
+    "title": "Шановні друзі, колеги-педагоги, працівники, учні, батьки! Сердечно вітаємо усіх із світлим святом Великодня! Нехай Воскресіння Христове наповнює серця радістю, світло Божественної любові зігріває рідних і близьких, а віра допомагає долати труднощі! Нехай панують у ваших родинах любов і доброта, турбота один про одного, а воскреслий Христос принесе перемогу і процвітання нашій Україні!",
+    "content": [
+      "Христос Воскрес!",
+      "З повагою,",
+      "дирекція Липницького ЗЗСО І-ІІІ ступенів"
+    ],
+    "full_text": "Христос Воскрес!\n\nЗ повагою,\n\nдирекція Липницького ЗЗСО І-ІІІ ступенів",
+    "category": "Шкільні свята",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tz3KozBG5VZbPWB6JqhgAWloUbaeA0UyMjg8QBJ_wUIx_Yu5ZeEtIMvlFFG7t_FtsU7GXYNPAIbbzuG6MWXl77qKNUUhf_8yRACIFAF171UUHH9WDgmIwK8hKAsHYIuy4doNkig3lvGALdyuW0Rs8k-40q_INaqNoKCTabdZtl36mmqPSzUoVJAV_KE2o=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uXfQ0HlSH--6qHNBSRKnF2njUD-QAZLTqfKn50XxMilN8UCXj4T2Uj1nDsHR2T50OJDOxo_Y9JfOR9jj1dErfJRje9ykrP9US1k-nMA_amBlSU-cd-cVQqpciB8XPc5TuBaAmDlc-IxSP8q3TPju0fEUbTj0-30AM8NpMo9pG3_aLk0jDvQLET8GBNU5Y=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_81_1.jpg",
+      "assets/images/ev_81_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 82,
+    "title": "\"Допомогти! Врятувати! Запобігти! Бути обізнаним!\"- під таким гаслом в Липницькому ЗЗСО І-ІІІ ступенів проходив День цивільного захисту.",
+    "content": [
+      "Під час перегляду презентацій, відеофільмів та проведення тренінгів, майстер- класів, тренувальної евакуації учасники освітнього процесу вдосконалили свої теоретичні знання та практичні навички щодо дій в умовах надзвичайних ситуацій, перевірили здатність грамотно й чітко діяти, щоб захистити своє здоров’я та життя.",
+      "Усі переконалися в тому, що отримані знання знадобляться у повсякденному житті.",
+      "Пам'ятайте, життя - це скарб, бережіть його!"
+    ],
+    "full_text": "Під час перегляду презентацій, відеофільмів та проведення тренінгів, майстер- класів, тренувальної евакуації учасники освітнього процесу вдосконалили свої теоретичні знання та практичні навички щодо дій в умовах надзвичайних ситуацій, перевірили здатність грамотно й чітко діяти, щоб захистити своє здоров’я та життя.\n\nУсі переконалися в тому, що отримані знання знадобляться у повсякденному житті.\n\nПам'ятайте, життя - це скарб, бережіть його!",
+    "category": "Безпека та розвиток",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uvDEANxub3h6jIXBOZ_4Jg3nNZV2abMFajAzCwmzraRx6pjMsb4Wstsd0dOscAg36UT2otA99FvcRC98bB7YtSEQw7YOlmBcxFobXdQQkc99Bm2WfGNz0B4CNuL433JGqqguY6KA-tfpQW3273KFqFxzea_jHYzIQyfUiV65EJULmCPFZWTA4uyprn3bk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vDcQJk-tmr_Ofjro4XJSDSYiuCCQAf69KX6Vam7Ed51JKBGHKUeRaL9qxMPGxPAvP_5SIN5l79-vRcX17i5s1ty1zIRh8a2atpIww1xfRoOih8J10mfFQuSejEVua344r_KXkw6c4eAbVK6YTrHgGode24f7q-Pl_2HFJmWmVbGLvJMbO1FBurBccgWig=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vm8bd4yKmX-KYcqfvnsYTkXa-HWN3Dfcgo9lNSSQ7HztwnevZ8D5BuDds-IwyblSsX8o6jtbr9wiXDoYgyU4-qhp5sQ6tnXDusU_1cxxrEg262JePOx2Wb7RCWTzdiG81X9SiPPzc__Lhc74h_0dwRHhdghlkX0VjQqb5d4WUifHVcwtM9gLYz1-WF=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t33nGM4mHwhlENbxX59XW8p0fG5-Qa9dPXHmpw_8ss_VQYwwOSQTNdP7kfB6___bdmcSit-2BqweC0om23pOGHahk9snSs9NbrJcnwjlkSHXlrQmKIpgqizMW_-7imOtbZ_66V6Yy3kn61KhQ7rYuDeuc_OSV8mgmwvHg6oML8H_ABdbPKqkXo0QJ8K6w=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vcBrTHpcA-ikIZmDrpbixvMxUKv8MBzijassob6-ZROAAGPmRp81mNaY_47hSI-doXCPwQMCBY-r2z_R26Czx7ru8GD8BTbOF9xn7fu849DXcTzjfFqW3caBdPBfwTVk-pFdElrTARB0e0bUi9Bbb3WJ3pxU1wUc3baRU7wepQP1lnLrbtQMNQbv6sz1M=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u-LcGeNgfGpd_J6sKprlTuTeX8l4bDrt_nuRvM6MUJsdCnZJvKMO6v7fGb5yFncEyhS1iJ6UyMhQRUjmoQ6vpbq1bxAIsxO_3Dz4eq49_cgDlmWIgz5_OHAA_GCm596CclgdQiFSfhHD7GeYLXLaL7IYz2VDsmLvYVn4za7tvhzzTi-HKUIFBWF5bflDs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u3v-CC7i_HeFzXuPXCsNeV1r4owThH5n7xGHNnPa9G_zO0_VYYbhpd_Udgj8kZC07Wv4Tk9Cjrng3dvJWxPwvB_ym2xlGDYZCZjaAP_k0Bww44Eb9zCk8gBKJW2zZT3A5Kgxm-mqJJ8NecW7Rar5o_2RZblCjcSYuE4Ktac9VHymizWXzVMCdtJh9fPSk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tqLHs89N9GIDaFu-NexPGl849Y6fAHssNif2gTv79wucMJCUYajRfyvJnVsS6uxKc6LV6ETr05qdrQnu1Mv3XWgfwUjWsooNRYhgkmVoW7y90ckGzzFlg4-zo5nIuVi1O7tVYDI-24_R_t5dKJbd61SuyxYWWcqZkCHMrHjLzreUv2gZi1V41cjlj_hPg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vMhnS3zGaQntgq0hTNiZckJaDX4J3558B4jiRO-i2wYPogg5DZoiyV9H87Yajhapqv0EyhhWv0Rg3UP7K3lDV38BgKNXTijw_eflqaOwF_GSPdKEV22hIMAKhlGs9xPsA0o9HsdK9lgwLP3xL19eUBC_jMyBF1a3gAuvL3OH1zW_dtGqUJYy_hhBAe=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sC-RuU0VwbfT5xfoLGtl9DqFH-kGp1xtjFcHLE6ex-8ARRkBl5I30BqRyM4PlWkJflq2eSSzvZm_IpebZpKvo1QEoeHxVUYUKwuTO68Y1oVACEjJ6TZQvJW4dUBr0tBPvDpvCuoQXvxunNWJYm1gIK559dgUe-IoDxX4yE_G39XFi_Iz-PQ-uF9O09JVA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vEr0xYsj4BDKpzx4pdK1ZljBc8R4HFFv30eUF6AS6_ESFd-hzWWBYH7lJ6fl00XFznWyzS45rEKz4Z8Ek860BsNhAg-P8AvPNezPEoiLQYvH6OW5-GiB4IKoG1wPVZcOsn7bVn7FeJPHMDg0VZVoi31ZXALC-ixz0MhbFRDk3a58IWcNEsDQ5JvVNF=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uRiAY8-xU9WThATYOSa1poSzTvuRWEc4afHUiIJDWhmhEb1hnooMLzqFiMBA77L_dnygjIVg58PfOqnYg7as0G5--a9AVVJT--OfL9KIvAlLZwlkw6CFL4AMTC8m_JZ0oqW3ZjrKEru0dXlKOUN8iaiMbQu_mAmiYjScBQ1dLPMqmmqaEuStW7uWWzf3U=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vRA1yvH5yu_dcuiMXKC5MI_UgngcXA2ySlv_lHyx7XjCdAdRz3cVQaRf7l0vqlXvxhKRZz6uJj3dlUTIrGMpMbM_mr6XYvjSvPE1w8d-uE8NAOdMSKX_DxO7WZDJDgyIdz_ijUqp-TZk5hRMSOxVlzSt3L5w_QnsC78293R8GrZUfiMWhVz6f0gbWfZ8w=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tUgPXmN3eEHks7-iHgKAcRqhhb3TG9ywWi-TowwM_Jlbj6uVxD_cb4y3oLqcLuylvYImjUKOnlaTVmGB2marVgG3s2VHCqD7JxigL_p9S2FzQmeVx2eXv1eL6Nb8BAD4qy4OulLRP1e8FuoA0LO7kI3WbPCMu8Ab8FVnNjgJj0u-SeN5b35FmdoL_w_hQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tqoe_uemBlGHVloBIJ-_EX6-eTyb4nhFYpP9aoeVL9HcwgWm-HXMvvLNY1SZSS8NN1aMwn2m93Y2voEnSGihrNbw7eyXUqf5P63IxsIbJxjDvrzHlOhGXbQJIfzKtq505kA9zqyItpkzPgOp1yEgQql0-0rs3SxwNnY_AQu3ReBLYmpLx8NBwumu-LAA8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vsCqPtRRtu79Y0Qi8UvpF430DDe-ZIF-HuaklN7OydIUCA--hV7BjaiehU18s5HVZPfwDwQoML32C9nOA1mIqAwhSNnuqQ6ePCHl8CeetNNrSwZEj5dt1tux1KzTY4ikKgzDVQ1JqshkkIX3NvEm4k4GYhjlc7gpUmaRfeR5XGhnUroVImk0C6BvCi=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72st2AVyZv0wL_ymaTACW5d37KIiqPXU2sbKU75UgCiWf1WfQJr4d67IsG7oWcCemWNoy_kUtF9_YCv9IQIxKcZkvYojp_TcLGT7qxxP7XiDCL-ZYL5jhjVRpsfX79b79NUM6qqJA8Oz1GDih2VyL1CPgIZMQEbwBvr6v5Bif_qYlcRdf64uX4YErr7qwG8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uT82AL48io5n-fMHY1oGQgzTeKIQCRBSPdM2Ahou4FETOe30jFQiMkZMv7VnMx-gO1n-vAKz5nNOPq9StzTJ1bRTm61A9zUCuku_9szkdaIVbRxdYfLUmyR-yqwPxrjq9vi9V6m_upqbK6dwy5fMxg1Xn4e7xSVFr5jOIaVv7ahW1gR-prCU7YH_r43Jo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vXfVF-h09XF0pPbZTIS6LGD54PsJ3Qo-S1-xopRuN187Qvop2OTbVNhNxKD7kXffgxIBP6zsAXCO80TUIERkzmYTpxRhRZQ1VpHR6yHKOngUtj4wyUwgYInzIpDRdY1ir4x_-4WO5h23OazFyfLYzlwnoHnEyjlNdbabwJjRWgu9HrDEeuGOdFeBU5=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s67gSnr0QMr4_U1_r09ZXxLaG-J_RGr9PmJ6mdt3_fNdZHUzP8QRWWQtFCvSW13O3G3Lj_GyLkB5dWsOjtfXg_iebRKHvnYz4ML1u_6kHQCF5L_3cWnjuPisJV8tvaM0VwGinhsOJVBcaKWmb6Pd_dCN_nwN6IMBhh9VwgvdriUppsAauNPJ_170spUvw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72siJ5e86y3m79yu8TtuoEYp4gROLRa_xQ07olswhWHH93xTWFEj3BKaMFXYE_uxyY1I6Rs9DKmNfhmgMCFlMBwVIsjkUuI3s9rtVtgEquZPu27nSm_7Te2dKfygoayH8jmFLsLWQAHQHEHlcJwd6qgICZAZ3z94FSUY28j_HfQUI-pNT_QwYEiOA6WM=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_82_1.jpg",
+      "assets/images/ev_82_2.jpg",
+      "assets/images/ev_82_3.jpg",
+      "assets/images/ev_82_4.jpg",
+      "assets/images/ev_82_5.jpg",
+      "assets/images/ev_82_6.jpg",
+      "assets/images/ev_82_7.jpg",
+      "assets/images/ev_82_8.jpg",
+      "assets/images/ev_82_9.jpg",
+      "assets/images/ev_82_10.jpg",
+      "assets/images/ev_82_11.jpg",
+      "assets/images/ev_82_12.jpg",
+      "assets/images/ev_82_13.jpg",
+      "assets/images/ev_82_14.jpg",
+      "assets/images/ev_82_15.jpg",
+      "assets/images/ev_82_16.jpg",
+      "assets/images/ev_82_17.jpg",
+      "assets/images/ev_82_18.jpg",
+      "assets/images/ev_82_19.jpg",
+      "assets/images/ev_82_20.jpg",
+      "assets/images/ev_82_21.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 83,
+    "title": "ОГОЛОШЕННЯ!",
+    "content": [
+      "Шановні батьки майбутніх першокласників! Липницький ЗЗСО І-ІІІ ступенів розпочинає набір учнів до 1 класу на 2024-2025 навчальний рік.",
+      "Для зарахування дітей до закладу освіти необхідно надати такі документи:",
+      "• заяву одного з батьків;",
+      "• копію свідоцтва про народження дитини;",
+      "• медичну довідку форми 086-1/о;",
+      "• згоду на використання персональних даних.",
+      "Прийом документів з 01.04.2024 р. по 31.05.2024 р.",
+      "Адміністрація закладу освіти"
+    ],
+    "full_text": "Шановні батьки майбутніх першокласників! Липницький ЗЗСО І-ІІІ ступенів розпочинає набір учнів до 1 класу на 2024-2025 навчальний рік.\n\nДля зарахування дітей до закладу освіти необхідно надати такі документи:\n\n• заяву одного з батьків;\n\n• копію свідоцтва про народження дитини;\n\n• медичну довідку форми 086-1/о;\n\n• згоду на використання персональних даних.\n\nПрийом документів з 01.04.2024 р. по 31.05.2024 р.\n\nАдміністрація закладу освіти",
+    "category": "Життя школи",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sFsoDaxVLZfNdiG5-2U32RAxSGPynRjC6Re4zkCUveqHi9C1GFO4wC1venPhz-DteeqbREitYC1_-X8DUHsdJotxOnvvzB6iPqqNr37XjrRX_ifGMvR0V3mf2gpEZ4m-XJjh6TLzpxIOGJSGdV0zXYOE2uv_vSoUFxVlWdxXN0qkm3UBYwR6Fus7_qtgA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tSRLNfuRdDGRsoCSJj862UT2gBwRbuy6iTDQuIDb609txaJLMOAwImmofj25L72TcKnYTpbqCJZwjlT0R0QH7gcTDteHKkTzDUi2ja4wwmK5r2bofMhoCY9IXApExPTBv3Df5fbA8ejCqodm9tkM3SDg2AiGWiTXf-P4xGkW-Nu4KMWIkiBHroenrcXUM=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_83_1.jpg",
+      "assets/images/ev_83_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 84,
+    "title": "Проєкт з кібербезпеки та медіаграмотності «БРАМА» (Кіберполіція України)",
+    "content": [
+      "БРАМА",
+      "Брама - це ворота, які захищають від не",
+      "безпеки та закривають нас від негативного впливу.",
+      "В історії людства Брама виконувала найважливіші соціальні функції, одна з яких – оборонна, як захищені в’їзди в міста, фортеці, замки, садиби, на мости і шляхи. У середньовіччі",
+      "Брама",
+      "уособлювала все місто як захищену спільноту, що відображено в міській геральдиці багатьох українських міст, таких як: Львів, Івано-Франківськ, Чернівці, Рівне, Херсон та інших.",
+      "ПРОБЛЕМА",
+      "Війна відбувається не лише за територіальну цілісність, а й за інформаційний простір. Російська інформаційна експансія посилилась з початком повномасштабного вторгнення. Тобто, росіяни намагаються досягти власних національних інтересів методом беззбройного проникнення в інформаційну сферу.",
+      "Несвідоме споживання інформації та недостатній рівень інформаційної грамотності стали передумовами спільної для всіх українців проблеми –",
+      "засилля ворожої пропаганди та фейків",
+      ". Дезінформація в мережі негативно впливає на свідомість людей та хід війни в цілому, тому користувачі мережі Інтернет мають завжди бути обачними та вміти розпізнавати фейки, пропаганду та дезінформацію.",
+      "Щоденно, гортаючи стрічку у своїх соціальних мережах та месенджерах ми натикаємось на інформацію, яка на нашу думку є неправдивою або небезпечною. У свідомої людини виникає природнє бажання прибрати таку інформацію із медіа простору або заблокувати її поширення.",
+      "УНІКАЛЬНІСТЬ",
+      "Ми перейшли від мрій до дій, та вирішуємо проблему кількісно та якісно.",
+      "ЯКІСНО ми вчимо виявляти і недовіряти ворожому контенту.",
+      "Ми не займаємось ДДОС атаками, або іншими діями які потребують спеціальних знань та навичок, або спеціалізованого програмного забезпечення. Наразі є подібні ініціативи, але ми вважаємо за потрібне підсилити їх. Освітня частина проєкту спрямована, перш за все, на задоволення потреб учасників нашої спільноти та утримання їх мотивації на систематичне виконання дій з блокування.",
+      "Для того, щоб бути частиною проєкту, користувачам достатньо мати мобільний телефон або компʼютер, та трохи часу, який користувач готовий приділити для важливої справи.",
+      "РІШЕННЯ",
+      "Для блокування того чи іншого джерела необхідно надсилати скарги і чим більше буде скарг, тим більша вирогідність того, що джерело буде заблоковано. Саме із цією метою ми пропонуємо нашим користувачам стати частиною «",
+      "BRAMA",
+      "Діяльність проєкту Брама направлена на захист медіа простору від російської пропаганди, блокування каналів поширення дезінформації, протиправного та забороненого контенту. Також, метою проєкту є покращення медіа-грамотності українців, зменшення впливу пропаганди на суспільство та популяризація безпечного поводження в мережі інтернет.",
+      "Що ми пропонуємо учасникам:",
+      "можливість повідомити про джерело неприйнятного контенту, для подальшого масового надсилання скарг спільнотою та подальшим блокуванням такого джерела;",
+      "допомогти заблокувати джерело неприйнятного контенту, шляхом долученості до масового надсилання скарг;",
+      "отримати поради щодо медіа та кіберграмотності;",
+      "бути поінформованим про небезпечні схеми шахрайств, які ширяться мережею;",
+      "бути обізнаним, щодо фейків, які просувають вороги у наш медіапростір.",
+      "Також, ми пропонуємо нашим учасникам розважальний контент, який дозволить трішки відволіктись від виконання завдань та порадіти разом із нами успіхам українських військових та недолугим вчинкам нашого спільного ворога.",
+      "ДОСЯГНУТІ РЕЗУЛЬТАТИ",
+      "На сьогодні в рамках проєкту функціонує Телеграм бот, який накопичує лінкі на джерела що необхідно заблокувати, телеграм канал де публікуються лінки для блокування спільнотою, Вайбер спільнота, та сторінки в соціальних мережах Фейсбук та Інстаграм.",
+      "З початку діяльності нашого проєкту, користувачі надіслали понад 140 тис. лінків на джерела, які на думку користувачів необхідно заблокувати.",
+      "Станом на січень 2024 року учасниками спільноти заблоковано понад 26 тисяч джерел поширення неприйнятного контенту. Як видно із статистики – роботи ще дуже багато і ми потребуємо допомоги нових небайдужих і активних учасників.",
+      "ЯКЩО ТИ НЕ МОЖЕШ ДОНАТИТИ СВОЇМИ СИЛАМИ АБО ФІНАНСАМИ, ТО МИ МОЖЕШ ДОНАТИТИ СВІЙ ЧАС!"
+    ],
+    "full_text": "БРАМА\n\nБрама - це ворота, які захищають від не\n\nбезпеки та закривають нас від негативного впливу.\n\nВ історії людства Брама виконувала найважливіші соціальні функції, одна з яких – оборонна, як захищені в’їзди в міста, фортеці, замки, садиби, на мости і шляхи. У середньовіччі\n\nБрама\n\nуособлювала все місто як захищену спільноту, що відображено в міській геральдиці багатьох українських міст, таких як: Львів, Івано-Франківськ, Чернівці, Рівне, Херсон та інших.\n\nПРОБЛЕМА\n\nВійна відбувається не лише за територіальну цілісність, а й за інформаційний простір. Російська інформаційна експансія посилилась з початком повномасштабного вторгнення. Тобто, росіяни намагаються досягти власних національних інтересів методом беззбройного проникнення в інформаційну сферу.\n\nНесвідоме споживання інформації та недостатній рівень інформаційної грамотності стали передумовами спільної для всіх українців проблеми –\n\nзасилля ворожої пропаганди та фейків\n\n. Дезінформація в мережі негативно впливає на свідомість людей та хід війни в цілому, тому користувачі мережі Інтернет мають завжди бути обачними та вміти розпізнавати фейки, пропаганду та дезінформацію.\n\nЩоденно, гортаючи стрічку у своїх соціальних мережах та месенджерах ми натикаємось на інформацію, яка на нашу думку є неправдивою або небезпечною. У свідомої людини виникає природнє бажання прибрати таку інформацію із медіа простору або заблокувати її поширення.\n\nУНІКАЛЬНІСТЬ\n\nМи перейшли від мрій до дій, та вирішуємо проблему кількісно та якісно.\n\nЯКІСНО ми вчимо виявляти і недовіряти ворожому контенту.\n\nМи не займаємось ДДОС атаками, або іншими діями які потребують спеціальних знань та навичок, або спеціалізованого програмного забезпечення. Наразі є подібні ініціативи, але ми вважаємо за потрібне підсилити їх. Освітня частина проєкту спрямована, перш за все, на задоволення потреб учасників нашої спільноти та утримання їх мотивації на систематичне виконання дій з блокування.\n\nДля того, щоб бути частиною проєкту, користувачам достатньо мати мобільний телефон або компʼютер, та трохи часу, який користувач готовий приділити для важливої справи.\n\nРІШЕННЯ\n\nДля блокування того чи іншого джерела необхідно надсилати скарги і чим більше буде скарг, тим більша вирогідність того, що джерело буде заблоковано. Саме із цією метою ми пропонуємо нашим користувачам стати частиною «\n\nBRAMA\n\nДіяльність проєкту Брама направлена на захист медіа простору від російської пропаганди, блокування каналів поширення дезінформації, протиправного та забороненого контенту. Також, метою проєкту є покращення медіа-грамотності українців, зменшення впливу пропаганди на суспільство та популяризація безпечного поводження в мережі інтернет.\n\nЩо ми пропонуємо учасникам:\n\nможливість повідомити про джерело неприйнятного контенту, для подальшого масового надсилання скарг спільнотою та подальшим блокуванням такого джерела;\n\nдопомогти заблокувати джерело неприйнятного контенту, шляхом долученості до масового надсилання скарг;\n\nотримати поради щодо медіа та кіберграмотності;\n\nбути поінформованим про небезпечні схеми шахрайств, які ширяться мережею;\n\nбути обізнаним, щодо фейків, які просувають вороги у наш медіапростір.\n\nТакож, ми пропонуємо нашим учасникам розважальний контент, який дозволить трішки відволіктись від виконання завдань та порадіти разом із нами успіхам українських військових та недолугим вчинкам нашого спільного ворога.\n\nДОСЯГНУТІ РЕЗУЛЬТАТИ\n\nНа сьогодні в рамках проєкту функціонує Телеграм бот, який накопичує лінкі на джерела що необхідно заблокувати, телеграм канал де публікуються лінки для блокування спільнотою, Вайбер спільнота, та сторінки в соціальних мережах Фейсбук та Інстаграм.\n\nЗ початку діяльності нашого проєкту, користувачі надіслали понад 140 тис. лінків на джерела, які на думку користувачів необхідно заблокувати.\n\nСтаном на січень 2024 року учасниками спільноти заблоковано понад 26 тисяч джерел поширення неприйнятного контенту. Як видно із статистики – роботи ще дуже багато і ми потребуємо допомоги нових небайдужих і активних учасників.\n\nЯКЩО ТИ НЕ МОЖЕШ ДОНАТИТИ СВОЇМИ СИЛАМИ АБО ФІНАНСАМИ, ТО МИ МОЖЕШ ДОНАТИТИ СВІЙ ЧАС!",
+    "category": "Безпека та розвиток",
+    "year": "2024",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72u9GC0_EoeF3nKlN67e5bmU1y3TjUzkWXRXkxu9E0yV3lbjQjnJ4dZqLac1v6ltUr88m5iJDNdWQE_Ggz9MtiMjLFmd9Bs8aanIf4ZX6vv_xwGY5KVXGLmVUvcvMChzOer6FV4fpSUn_8EiWaoHE0O9TO_LcSC49ewG6EEajMkj3deJD-jrEtA2ZKE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ttWyYBPTxnJCFJgYJdlUf3W9AYsiErft6-l7CPLGdJzxV9xQfqC_7P3GzpiOpj-HaogeRtuP4Ldz7u4Lo1wC1LPt3XQ4RyAuPAnm52LT05Ph2LqQJzpkT2cHUSmmEb_u7RX2mjtrn7zIIt4buA06iHP1DI63_DH4NgcUdGGKSpIB3TMAFT3IrVx-VwfEE=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_84_1.jpg",
+      "assets/images/ev_84_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 85,
+    "title": "Дирекція, педагогічний, учнівський та батьківський колективи Липницького ЗЗСО І-ІІІ ступенів щиро вітають з ювілеєм Абдулліну Олександру Афзалівну, творчого вчителя, прекрасного педагога - наставника і просто хорошу людину, яка за 48 років педагогічної діяльності передала величезний багаж знань та умінь своїм вихованцям. Значним є особистий вклад Олександри Афзалівни в розвиток освіти нашої школи. Будучи заступником директора, виховала цілу плеяду молодих учителів. Дирекція та профспілковий комітет подякували вчительці за багаторічну, сумлінну та плідну працю.",
+    "content": [
+      "Роботу Олександри Афзалівни відзначила Ганна Богуш, начальник відділу освіти Рава-Руської міської ради, нагородивши Грамотою за високий професіоналізм, бездоганне виконання посадових обов'язків та з нагоди 70 - річчя.",
+      "Привітати іменинницю цього зимового дня завітала Ірина Анатоліївна Бродик, голова об'єднаної профспілкової організації освітян колишнього Жовківського району, яка щиро подякувала іменинниці за мудрість, щедрість душі, за велику відданість професії і побажала здоров'я.",
+      "Приємною несподіванкою для ювілярки були привітання її випускників.",
+      "В свою чергу іменинниця подякувала за увагу і турботу.",
+      "Многії і благії літа!"
+    ],
+    "full_text": "Роботу Олександри Афзалівни відзначила Ганна Богуш, начальник відділу освіти Рава-Руської міської ради, нагородивши Грамотою за високий професіоналізм, бездоганне виконання посадових обов'язків та з нагоди 70 - річчя.\n\nПривітати іменинницю цього зимового дня завітала Ірина Анатоліївна Бродик, голова об'єднаної профспілкової організації освітян колишнього Жовківського району, яка щиро подякувала іменинниці за мудрість, щедрість душі, за велику відданість професії і побажала здоров'я.\n\nПриємною несподіванкою для ювілярки були привітання її випускників.\n\nВ свою чергу іменинниця подякувала за увагу і турботу.\n\nМногії і благії літа!",
+    "category": "Шкільні свята",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vm0BMyCh0dB1HICX8UH6Gk95fGwwJbfOh5y6_dbED3PO5rTcbw_BtdGkloPNquaT8fe1c8VdJb-IMzyYmWDE5EWQw2Oq3CbcsdyOPs5CAqj-8Yn-4fH8f_32dkFjTYWiBlH_fHlxCkDK_LQJt3Of0BZSRKj45oNBgB6Pr4YnzCWIBmDJKEFjCnRGeb8XE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tduWTYi8h-srbAF_T3ECu8mREHa4IOW1EkkMAsQiIbzUkAfJCwb6uf2NWPlaF4KutpvJIsyBt38-9Z78ep7Hsv443rNZotl6gFUr7Gtb9-xoqlYJqI0dC59zPTYXh_0fM1kv1MgHc4xhQFFNS1m2mBuHLssgwURGJ0PK0WHKm6LuUQRXmcWHWLkmPuxjc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vKYKUNHXXJltXVvmP1tqgUhab-zpxZqUQQITqjF9N71Oeo03LYIoDyWUU20efXX5u4z8lM61zEoSpHVmAIxbmUPVkL1jmnoyo4JS4auLNtenzRcIPGypXGKgd5xH8T3Ag9CGmbx43qa2sULAhZa_hAXIz03reetDQEYJX4bFhljrLwPzKv3mPjWqBiWuk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ucw_dHn63A6k3cI40TP5k2Q6L_4ztPTpWBUG0laoBCpBxdGIyq7N20p4mkuVqUKIgqYFEcR6sozPuCrDpCBTR-naStkUL72Xd5OKTDz7VVQB867ZqQ0-AYIDDgJ41-ki49tMO2ed-cgIdozD96j7ZNlEVONjgxuDnQW9_u0Wjd9E9Wdrs-Koc2znWkX-M=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s8y1JT6m6Kdmrao8-7833zewiv5UeNDiuH5xFW80C08iD144pENFyscK1gCxSyV5n4zfEUvHwbnMZhEBUELqIfflOQlbNUnpEgvaNT3A_Gm9anF4IgIPeDzF0RIYJ1lPBZXjV30s8ZYHhKeI76CgkLa0qVUR3LW50Iw5QuDp-J8ZgxhVj-g16AKJCy=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sUXWj8L8UxKKSaTdAF2NOc_-cBkIfBY2U6oMPNJHl1ZrdUD85EKR8z_MhHOwIv5e1LORMe4y6_pi78DX4VrIEzJS0_myW9FbLoNxEqpKpwOne0t6j-TLUKrFj-WUwNWaLWlKFHA--1taZN8VIkbzGgOXFxqAce4aMWzSZmnyOMOb9GKeAt8Io2OTDR=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_85_1.jpg",
+      "assets/images/ev_85_2.jpg",
+      "assets/images/ev_85_3.jpg",
+      "assets/images/ev_85_4.jpg",
+      "assets/images/ev_85_5.jpg",
+      "assets/images/ev_85_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 86,
+    "title": "Велична і свята, моя ти Україно,",
+    "content": [
+      "Лише тобі карать нас і судить.",
+      "Нам берегти тебе, Соборну і єдину,",
+      "І нам твою історію творить!",
+      "Ліна Костенко",
+      "З ДНЕМ СОБОРНОСТІ, УКРАЇНО!"
+    ],
+    "full_text": "Лише тобі карать нас і судить.\n\nНам берегти тебе, Соборну і єдину,\n\nІ нам твою історію творить!\n\nЛіна Костенко\n\nЗ ДНЕМ СОБОРНОСТІ, УКРАЇНО!",
+    "category": "Патріотичне виховання",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tDfGg53_ZNNy7YSdinoTj9VHSYOk3hX0mg1j87kbGoQvVn-cYkXY6bhLROney95nmCb5-rW_D1KjhXoP1NFC4ZYtgijw6cKqRsqPkJZj5IgYKcL7_BTPJahiDCDo1K_CmmjwE02Jm4fh33lCB_qOG2jtFT2S2zOTAI_67eDjh4FXJ3BYLpazFoA-lQ1Rg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sR3KbxyBceH5QWJwvHzjZ_ZvuUYtpedAAZVE2FCppy0UDbkFcCsQugnxlGb3UH5ZNOUir8agURfU-ckxTFKMqQHeJbeJ92cf5vh8LBpkSIkDD4Kx0wJYwy6drfY-KlGJzelmA75JYr4RKpoyr9czMA53GPKF8942uy7oFb2h8JhCOpxpoUvwYZsQwf-cM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sTtuVOo6Kr5Fx-UR857hTCB5X3F105PY2n3nNxGzX3Znh5M-NY34pLDZqKJh72Abjfg_Za2I5hfpOdL7lLaZHPWrM_5k9VqGjtzAAoUzFDR1-IJ0pkpEn7I5nnGO4xUh4kFtAGKv9JHaKMXq94pi33ela0ngZNK2xIUecUWjOcwjN96gBMV3mNAxHtKfs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tKpJ3q3E-fN0Js8sg39iBptk4GskTQsk0VTUblnlB96GRqqZRNffIbVvKJZDYbYHIErVAmzbjA-jIWedPTVACy8IJWR9oMGnQGQASKe_fJ3JbVK3RM88g4TgQkEDe6Bl116mGVxYDk4dTTYkeHiaoKmO6IT8w9KgnsIsDNsSkRmHuUM6GXDUPimGPTMXQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u8VrNXIg5p6WXtcuGxVWcbq9rwpzPmkN18Rs9zjB9d99jyKqnelepQFzhQlte_elk6d2dw6vEYxpz-U2pOOkhkzOa_Nj1WTDRF-88guWKyMDjZiFxbE40lzs93sGIP1RClCkt8jLrXSXkus15hm0R9u59RuehwBMW9v2OCzjrKx641Pc1hvAO0WgLC=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tdGFJzdb3Qtm9mZHjS0Bfuryj8CupKAxBzEBNAl0XeGePVj_6z5bd39DspXR5Lw_EowY_Ro4coZoMIWnoeAFuyeboemGdQypRvvwtNqV2l9A5ET6AB_oXXCng8TpnjNu8TWl2CRUHjYSztWB0EYGiLZn0bQGzidiCsLIU1IZGiwiaH7LyCq3QJzvzr=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uPwGh1xarKHGEOBMnb68oUfTSj3YrXftuApcl66_kvGNxuL2HaBC7zdGvCDyFJvYl-YSkJsTSHjewbA0_zccSArBq0VYOX544kRJiiNfwlyPxq5mhZlwPMX0gL6f_DeVpLX2pfAeiB-_i2xVYtB53wZ2b6YHENII8AOR70foRz6U9ozxkV6EgBZo5Ktuw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sFHatHpIQUtNzN6K4Mb86QL_AsznwDmfUphhkQqrMzxvpQs5raSXtVWflbkooFVxMuxldEcP2YiyTwhosCoShKwFyUb98BcXRDbU3fxraFpugYGRzelMEygvsDXDYO5VxOjq5Vifs2E6Wel55fgwnjq2fVW-WezmDDhLqAx3778PEu__n4kCX2oon9=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sijiU0WnwIzhO3SKMIY7TCzJrE5LWRjRVoRynqeOToxCAU1BpvgWZtrypD8N7QZnYUcOsDdie-0E9mR0zasarZOVoZAhrIsEMOQ4DYlOz7VjumXynYy0aMXvPVEVz_xOLDPfOCmFfgtGCenEF8WGq9ldo8GaDjTrV6AJN9phMIjgA8S1kHLvJBZ5DIiCE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ui2FNgnMVGAL2Fxw40KbJEilv19apUB1Vr6NNClARsIjYHTuiJc5YMPZfJqHzGkGSX1lvhDII0iEyPRQ1N3KBew4bkBuxfKLJa_AkMFTAImjoOZemwqqhk4wnyS1Qm55JmxI8lV44SuVBq28uFcmdxnRvS1kaJuNe0pEDqhUFfIq499YcIMhaDeKv-i0I=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u2qQIvDhIp34QRLm7Kx5bTxyk5gV52Oxg6UIzxvL7qIuD5r3r-ZNkBaoI3YDGfFGHxazPBTnZeVhftkQct8ENdk700W5I2AoLNHnk3t7mGMu9aB-shiBu2iHwikSlg6mQB_KyP9is_S_HdyXLBMHgfc2YG2Hilnd214HGTkuNEtU_H4POhJ4TYaLth75M=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vXW1KpjnWDGOrnOqtHkNA0tf8Glv4kqFPgwRvMBTbUDdsxB_QiBx7HGePvaLmQ_1UbWA7H2f4Bk--YhTtdc5nlcVDncc244IjtLaC9cLZsRPmZSRP9Fa8KOYyj-HJSRO2O0jNtMK6F0tzMfDwIs_Dc2jnDM2jGly7KGEFuQ2mAU9eSGgasXv1H5FCRcLs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uLaC73H-urkQD0gv4sPTnP2Tvv2keTM7OjLDtddSTWxkNo6sdrNnSwPPwskKBsEjiqmyjwZ3MTtpLIat2vcTkWN8jHM65WmHSyrEgcoLXujY0HhCSLCX59gR3BsSjRPh2BIP9HNHeimeoicVghqvMxwO2QE1twUQXVRw757AzfvgLVCPThEgVf4sx6=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ur9x0gZtPUEQn4rq6xKix1-jZu-w7MoX3RYxwS1qavjujlB5vnkoxBNc5MImwpjrFMQ3rVS63MT9ihhDehORiTIIVvadmifpl3k7TIyZulbpBnsIS1SBDAiJDT_zKaXANUCAPSpBgL2uzof1cLarFHJA1tQMN0b0qqIPDyfP2TR6uWtyluD8W49YnmOjU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u6PDjegnYkShJQsnTJXB41ywHC-FGTZGLN8_F-M3JNzlGyrWrkNElnZAG5mo46LEPD1-Tb3Lq397neEfM8UyuixJQ68Y_qX2dtVd6K7hdh7eSzclO9vlQ1ScJstmn_QeOHqaX8QwRHPWEH9lTGGIYnIhIrVo8v9d5DGGzT4bsPVz-LpE9KWCM43TWY42w=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vrPMxdEvcNHTRrIkdmgjU6OI7VQnMmSjQw4Ef-3ec5QrZqxJBLP6anTXMmSORuBSOcQE8kfnE05_uFw1ms26tsJHOK7obXxWwiyAUrYoeHub7rWCg0qFRkSTEgzzqDdveeMrv0ieP3xKBPZoQ4yiai_OEmGAR0aUxXODbQoBWZ18RcrW08JxVJVbh3=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72talhbHi8pHWegx2Ezu5l1n7f0OT4FMeJfFGQVjufogjj1Su2SZMUo_ahfy1CatUOAqbWd3irAH2Qo1ROW7SU2yV_vyRJFtHXbcBaC8RJEUzSCNatNMPCd3MYz-AO4P7cz7TwkAuOOf7fy9Bo9V6sZGIvZynPoxoM98suj_APBkt_1LhbP9ZiPXN5XIRtQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tQL8rf49sJ2yJlmLBveQywvX9qJDtN0H5cv5_xcO_v84767qLh0TLH0fLXRcRCv0_igR7QlStIj84-i4v5mOu4vHKrqiQfeMX29638U55z8Ca7SiTA_h6YwjZ1gS2inVkBfhCPMuNmUWKiAapf8uWXK8EPPke_ReQkFqhzIYPFZhsgnlfbGWS2gYtjSwo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v9kNrw2tVyiZCjhqnCXNE9E8MChb22x-rBOlTcbCETqinWomMi9ivRkXG8-55tv7U9FNvmrlNKqgQxC4a712OpLSCPj2yYiQK1yD-y8BmvrC-vK5uLPJnuyoeb2LdducuEzdro3oaVWrAJ4i5dlscxL8vviIWF3NWJoUOAUQmdUDGNYt-yKcE4Mp9W=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_86_1.jpg",
+      "assets/images/ev_86_2.jpg",
+      "assets/images/ev_86_3.jpg",
+      "assets/images/ev_86_4.jpg",
+      "assets/images/ev_86_5.jpg",
+      "assets/images/ev_86_6.jpg",
+      "assets/images/ev_86_7.jpg",
+      "assets/images/ev_86_8.jpg",
+      "assets/images/ev_86_9.jpg",
+      "assets/images/ev_86_10.jpg",
+      "assets/images/ev_86_11.jpg",
+      "assets/images/ev_86_12.jpg",
+      "assets/images/ev_86_13.jpg",
+      "assets/images/ev_86_14.jpg",
+      "assets/images/ev_86_15.jpg",
+      "assets/images/ev_86_16.jpg",
+      "assets/images/ev_86_17.jpg",
+      "assets/images/ev_86_18.jpg",
+      "assets/images/ev_86_19.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 87,
+    "title": "Вітаємо ученицю 11 класу Липницького ЗЗСО І - ІІІ ступенів Близнак Роксолану, яка стала фіналісткою Всеукраїнського конкурсу есе «Моя Україна», який проводила Державна наукова установа «Інституту модернізації змісту освіти» спільно з Благодійною організацією «Фонд Ріната Ахметова».",
+    "content": [
+      "Учні 11 класу: Близнак Роксолана, Бабин Ярина, Кутрань Андріяна, Свистун Катерина разом з учителькою зарубіжної літератури Василько Іриною Григорівною взяли участь у Конкурсі есе «Моя Україна», який розпочався 21 вересня, у День миру. Організатор конкурсу - Музей «Голоси Мирних» Фонду Ріната Ахметова отримали колосальну кількість творчих робіт - майже 4 тисячі!",
+      "Усі конкурсні роботи стануть частиною Музею «Голоси Мирних» Фонду Ріната Ахметова - найбільшого у світі архіву розповідей мирних мешканців України про життя під час війни."
+    ],
+    "full_text": "Учні 11 класу: Близнак Роксолана, Бабин Ярина, Кутрань Андріяна, Свистун Катерина разом з учителькою зарубіжної літератури Василько Іриною Григорівною взяли участь у Конкурсі есе «Моя Україна», який розпочався 21 вересня, у День миру. Організатор конкурсу - Музей «Голоси Мирних» Фонду Ріната Ахметова отримали колосальну кількість творчих робіт - майже 4 тисячі!\n\nУсі конкурсні роботи стануть частиною Музею «Голоси Мирних» Фонду Ріната Ахметова - найбільшого у світі архіву розповідей мирних мешканців України про життя під час війни.",
+    "category": "Патріотичне виховання",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72umGj1_ps2difqs4c7qlqVTEMaG1dPP7R9iLqGjx-Xgplx2C82Uopp8RnLzC-nqMO-YMapXpbNOwNeEy3fmClCq32KfSjAaZx9A5tIeTRy0vzlbx5mut7cpHWOLAOGf4a3g-rtKvgRFlt0Y4kLDg73SmMxeHLSSyWwPgo8__L0z-yowwRUBaaoK2DSFvcc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vlAoknYfzUP4YOqRImOnnz-ZeVjDd_1PB30D5q4S_JGXs-vbZGwTbLvhh3ICDAykX50Rn5LYa03D9tHCvi8uwDGSCIIvy3m4FlH40KqglvmmVJOwE8Hn73fcFGwxKCluPoQFkoK5uHpvFwC1FY-t8Sq7ZWTXaVUNrzPuQRZzg483GtIi-3oMQJN3eaRZ0=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_87_1.jpg",
+      "assets/images/ev_87_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 88,
+    "title": "28 грудня учні Липницького ЗЗСО І-ІІІ ступенів взяли участь у фольклорно-етнографічному фестивалі \"Диво Різдва\". Діти зіграли ролі воїнів, які зустрічають Різдво у полі, колядують і просять в новонародженого Ісусика якнайшвидшої перемоги.",
+    "content": [
+      "28 грудня учні Липницького ЗЗСО І-ІІІ ступенів взяли участь у фольклорно-етнографічному фестивалі \"Диво Різдва\". Діти зіграли ролі воїнів, які зустрічають Різдво у полі, колядують і просять в новонародженого Ісусика якнайшвидшої перемоги."
+    ],
+    "full_text": "28 грудня учні Липницького ЗЗСО І-ІІІ ступенів взяли участь у фольклорно-етнографічному фестивалі \"Диво Різдва\". Діти зіграли ролі воїнів, які зустрічають Різдво у полі, колядують і просять в новонародженого Ісусика якнайшвидшої перемоги.",
+    "category": "Патріотичне виховання",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tDa0ANJqsgNrbMeOZacXJgcoN2iBuDnGeZ4vppgpVfwAtgB-3L42WBQrzQlUrlcgZycKvLrYOQlGbr6i3rpV81BlMhCTpTAfEg25wWinok0RrD1v8HKOeO4J8fYCTnfW2iC0g9hF6IUG-DscbHmJfci3amS8JrT3MHZLkO7jSxcUiF_9l7hjPDmx87=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t-8OH5LTherKxrEeiVzkCMdibojp5eXSaIrXcTAnZMF-SbyySK3UlClMmZNUyh0UQ3lx7-aynQzSkZaNx6tU1JeWb0snVdhseGCPhkUdYRtb9YnCrIv9qUOZpewhwWV5hxaN0lqZtr5FOWLmKn7adask9Fj9eC3Rje1UKYx0S3V27dKRbewlDdg2hvVkw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uBGrcS7zIV9xMU3SWOqp1pnylrvQFD1XZxHBBOg0HUXpEXPF3uoxRLmaCzyxN0IBf5uIRiqd2z_42FRYtHdgAlVp3H68qKdFDt501QIsE_Gj-rLAquDAmaf9o8V1QTXeK0fmpr0R5pR9sh-_Ku1WW41GmeQINnbTEoj6wBD3dSXmscmYhB3zHNTcUc9dM=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_88_1.jpg",
+      "assets/images/ev_88_2.jpg",
+      "assets/images/ev_88_3.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 89,
+    "title": "В день Різдва Христового, в час, коли добігає до завершення 2023 рік, вітаю усю шкільну родину –вчителів, працівників, учнів, батьків з Різдвяними святами та прийдешнім Новим роком. Нехай це чарівне свято наповнить ваше життя світлом, теплом, радістю, вірою і впевненістю в нашу перемогу над ворогом! Молимо Ісуса дарувати витримку та здоров’я нашим воїнам-захисникам. Нехай Спаситель та Матінка Божа оберігають кожного захисника і кожну захисницю. А ми і надалі, з вдячністю, підтримуватимемо їх за мужність та жертовність.",
+    "content": [
+      "ХРИСТОС РОЖДАЄТЬСЯ! СЛАВІМО ЙОГО!"
+    ],
+    "full_text": "ХРИСТОС РОЖДАЄТЬСЯ! СЛАВІМО ЙОГО!",
+    "category": "Патріотичне виховання",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tq-BSi2SYOFK5vG7AgK5xTtSNc91AABS0jJl5M14foBwQ0WnpVZjbjA1-xBIAu4AxF8wceniVKsR0AfryeOTJCoeuS7I0a9kL98Ay41mefS0HNNKi8BIlzKHgYJi_MV1eEr1DI60NkGvsqzUJDNvS9rZqpxXcuf5zDYMheXr1IFNcwxGuCIluhMlGWaig=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s8K2W7sd9aPU0C6HrbI4APw5Dl-NTq_Ple2HP2uF4SrVIeg7VhAkPSs5xhkEjVgPDBidX-B5H2-YFUwqIa8_V9uIU3SZ-5_BlazPPvnHViBlSpBXtGW9492AcURdA-WDoPcdt0hKEDvOyKIf5ELLiISk_QG1g68_rvZgLiK0fo-4HmQHr0qzsGRjr885A=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_89_1.jpg",
+      "assets/images/ev_89_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 90,
+    "title": "Зимової пори приходить до нас велике свято, на яке чекають і дорослі , і малеча. Кожна сім'я з трепетом очікує народження Христа.",
+    "content": [
+      "Напередодні канікул в Липницькому ЗЗСО І-ІІІ ступенів пройшов виховний захід \" Диво Різдва\", підготовлений учнями 5 класу та класним керівником Девою Н.В."
+    ],
+    "full_text": "Напередодні канікул в Липницькому ЗЗСО І-ІІІ ступенів пройшов виховний захід \" Диво Різдва\", підготовлений учнями 5 класу та класним керівником Девою Н.В.",
+    "category": "Шкільні свята",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vWhch08S5T0zh3NFyPzoucmxTgk7NHYvSu9QNO0qzPc4uPc2TcGS6_GH6v4G47UDxTClya1wiVyWPpefqa3ou1H-55u4Chiq_VJBAuoSesiFZqS15cxIS9E8o9xjfMJKTeLurwcxlUZKRMi3Us-THEX4vT5yI5QzDtDbCRazq_lk2Db4AWx3ilHX-T=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72suXy2SlGN0pzgStHUinpjiunbAVlRxSnmXxwfQxNNVOwqdVzt40dUEpOkTQbz0xFzLlzh6qz4r1E6OzC3CCeSbcTAw1VW-D4IULqnW0WyOunxdihS2Ca86LOGzRISjOSx31tufHuOVjyiMud43uduHgtE3Hi8W_Kz99B5NNnUeJvTVXw-c5p5QhGuSCzg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v2M85-ac8J60obOk7WBOOJ11qjvAQEO4SpJqPktRw7y3KPPdD2hMJibzHlpt30w7huMFW-msDpcnlRrZMeMbD-6Fmczz76Tsq-jCJfbHGEGG4yEjcjpDUzDhxrxUyOlsP3U6a4KvhnJOTgVGeTyeLXsLtYg_IzR83gQEowC2uLPp7K_M3h2QvfKLwWNSg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t-frtdq_o1esZpA3yuxO2WcBMKfp0CRbTYKoQ_7UtPquhkBSt2e15tgHXQwSoGbzYMOGbYX94yn_Vq9szUFcFJqrodiIDGeg_-sFw37PW0OuXcaatN-igRkxpowMmASXCuEU7wyEbLwK4aojGsmXfwuQ8dIVmuMapRRySGwOZJqB-R9lwdhteziqO7=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tvU6NUxeDpbMkrg92j5-YwE0kbSfGzRh_6i77d72QHRq0TvADKJVojUH12Iba2ZPMODcvFstox_wYsxVm1LyZOHkjNs_ZwYScUVO0eSpTASwsKlfEnCgNv6a4YlUIDhg2zom-obY_GQbaLLxOgdRuAMaLFfGISfY8E4p7fw6pUWAoVV8Y7Hz62w1Tairo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v1VXEcBlXaqdyao_13Z2jhQ2c8MLJlg6lqZw1Sm0aCC5uAa4hhHBS_0ehW4TACHmWSHSQNRTUlbYGiQdnaZDWJEECn_PavoMReU00HfJbj7vYNZq5GXQmoyM6FDhWvwmLtkCBzwKKGui6Lp4AedDR8rBVajDa1YZ9GSD7eUzA9rKJDmXZxTpGS7v5Jueg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uafUc3YYfREtrf9fLmaC7RgDI2tC1C-cWBk6sOMmCI7gWEDY-WVcoskpsEcM859lS3G3CqPFSRG6XGYyyrJ2ZDjsXbs99RQo74AFpj1UIkQWTJX2YhUgFbhgGvj9tiLKfV8IOchPlJSpDx50GiUvav8qhh1UVbuEG6jvNq44banUk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s0i2CsewRnfBw78wwwoBUl5m-7MjG8yydaZjz5w9w1teTcUUh1dEPu72OGy5ZKewzts60lCqBqZrJQzqDjobZsM0qx4AplH-bflLUHnjCUBmtuZPMKbU2Gy4Hf-nNnjo9DZV34AtUEWZm40Oe7eS-1HnlWf1kkCMUrZ867m7xuNhMXXIdi_Jrc_37K=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vZmnjpvt403J_M2aeUrEtMxH1LqJEq2sTLToNo7jNwgioSHML-Zifj7yf8ryKTYq9RU9nyc5mLlMmp6ISo7dusKV8kja2EGEAsbSO599iW5AruJZBhzPfOcI2rDE_4Cd22tVoMv3sasxr4TROyNrFjcvqQGbSuANc3IQ5tNByT3f0H2mVOBkcyllxmv00=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72shRjWXgYw175xeFahw7kj3Pc6VpGepRHBi_DTYW6_pPLbxvUSBIXXXTOw1jr13gP6RcfR7yQVEV4zt3iD3szHb4f42K7qWgRs5iwi0FFHykYEMJ2tgn0asPV7zyJbKSu6f9GvPeyXCLv7MWS-vkvQZmOquBfvAMiYNYEsv3v5vhr-OftSKrvTXEvraeRM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u0eEIJjLAC4jaVPvqsXIR0A-a93xO9NKyOEg1RpLEFlQ07JqvhbIXf_W48NhOItjHmiEGN18PNFBTw0WjTN9snMHF0RKAVxaurm2TEgcnNTJemmBwq1ESyo_ewSAH7Wykmm8NELH_yoBTrnytsTRZMaYdvOAF_S5itoiyTUm_Hx7IvCeluG8KxOwpFklM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sJXq1qpxsa3PCrPxr7s6ylNGJkFWdAFhOArC4VlwmDil6zccnpmnNKhPqCsLeHbZlFxgFIodu4vYA8iKZvHa4ccNVWLeK5lEFGzeixarH3tmls-C_CzSeRsstt13_60G13JwGvZM4PICS_OwXYfacKMpMc9od8mixJt_HCXb3CZbeEmS5DqBVaDdZP=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tpgRlYwA_i9VDR08gGQi0Q0cUV95QjneiI4NNgX0obcvHBrCMu4lbwlMEPvCjxKYNketfjaXkbCWgv-iNubLI0UB8iC5M7zRqb8OBNBO2-QWrDKgcu-JCkfoXHDdzp7vviAy5X6CmjIl47Tn308JLMaeVBkX8rLS3ZG51ohMEU_T_SzqM6favWaRACz7E=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sIjMuO0gOL1XhnM_-ZBFiUsaC43S-SRy38mpLR7Yb_ak933gtsAV3TTOOhtjJE-lcs47zIpAj_OQopzAbr1llI7dDCc7KcfPh-GokA1STp-bR6DZVFul8xbwdkSNnDqGYSrezJFNH0OEmYOW-XgojzKyb3sSMSZMmdVNTkNuplpxOZZNPcMM2Dzvgdq6M=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sMxYvVmYbmW4eCe4luaejMyH7mH3kBbDGwa8l2G9PZZmvvoGg_oqkppB0ciV74pu1WEw6G-Ww8Ll4Md0Jkevvteg5pDQ4o7IOSOIQfdiEQpJBKO7lwmYOZpDlTcNECMqqf6tjnt7UwGoECFPNB7slLiVdTizhW_AzEeId6CBd6HkNHs_FnAV3kYxqyURk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uEJ8lccNVUKP5gaImMr4eVGmVeR0yFB6IvLTgDC2JimlCCM-gdHs0a2O6yJ7f2qaxRtQ3XvGqhEix_YTQVErg2D8Mb-BQaJTBzqFdU6GHl1B2MQ_f7dsdHjDkPhebYFVG2IWz2Jv15pkl-vQrWAgZTKnZN6dYI8GtO-hcTjsmWdlqMnTdHUgBjNL8n=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sggUUux35sHWSSeSI7k7lmyGEW_6CisjA33kMWda3BS2jVYauAkA4kub0_6fqQXjBUMh8LwXz1rh7mZpYMUi_eHtL1pNfm28D0AMPY3ZtDTMuMcLCJV9GGB9nVa8Jf6hsr1g1__VZixHQv-leqHkKdZAuMBD4wZCNDQeumLpGXI99NYEimi7KbRI5G37c=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v0lv3-r3bBleBD9AIMBcBdHSlx7mP3WDTeydcbmk8yvRPotrv4z54gadSxNU5pZWrbxIlqHs78UB1-CSNWv2UKz-PWXFUffOC1SaDMOK8FOy7Kpe-7zVLDYTS1UiD_X1qU4ShNKn3v_npL4VdQXfNQPZPG7TYVDr4gTo-b8GN8aK1CZYtfmrcH4gJyoSM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tNmW1sCOT77Vb3H-GLdTTHM4PxcTrn_2dg3Dp2IaUyFzpZ-HvIoSZKhCEaY5sOWl6das1YRHs_j2hthCT29uU9rhKiRIOCLWXYSXjPDkLiockWvWpfADCphZ5p25qUgHdbOKiHwOSUvn33QMzqL5RPBvs2R0wCOkuqw0fh9oqPTd0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sW2y1agZVEM_JBPIVVwAFvVsAdgBv1nBtZm8YK289KQDpkQjUicMnUELmUfCqIkIel_qU9yahmbeyDjl2fJ3GxFndi1I_ntaPSMk6ZxXHf9yGCCfMnMtexUp-l4ZbINLpxl02l83Ls94glNq4eBIEfPlWDdFw7dIGrGeUVUJxdp4iScjRZgPuD7jXopA0=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_90_1.jpg",
+      "assets/images/ev_90_2.jpg",
+      "assets/images/ev_90_3.jpg",
+      "assets/images/ev_90_4.jpg",
+      "assets/images/ev_90_5.jpg",
+      "assets/images/ev_90_6.jpg",
+      "assets/images/ev_90_7.jpg",
+      "assets/images/ev_90_8.jpg",
+      "assets/images/ev_90_9.jpg",
+      "assets/images/ev_90_10.jpg",
+      "assets/images/ev_90_11.jpg",
+      "assets/images/ev_90_12.jpg",
+      "assets/images/ev_90_13.jpg",
+      "assets/images/ev_90_14.jpg",
+      "assets/images/ev_90_15.jpg",
+      "assets/images/ev_90_16.jpg",
+      "assets/images/ev_90_17.jpg",
+      "assets/images/ev_90_18.jpg",
+      "assets/images/ev_90_19.jpg",
+      "assets/images/ev_90_20.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 91,
+    "title": "Допомога ЗСУ... Разом до перемоги! Напередодні Різдва колектив нашого закладу освіти відправив для потреб 5 десантно-штурмової роти 80 ОДШБ автомобільний причіп, придбаний за частину зібраних на благодійному ярмарку коштів.",
+    "content": [
+      "Висловлюємо щиру вдячність батькам, дітям, вчителям, працівникам Липницького ЗЗСО І- ІІІ ступенів, які долучилися до виготовлення смаколиків для наших ЗАХИСНИКІВ, яким був заповнений причіп.",
+      "Це саме той випадок, коли ми - єдині, коли ми - всі разом, заради спільної мети! Нехай наше добро йде до тих, хто обороняє нас від зла!",
+      "Слава Україні! Героям Слава!"
+    ],
+    "full_text": "Висловлюємо щиру вдячність батькам, дітям, вчителям, працівникам Липницького ЗЗСО І- ІІІ ступенів, які долучилися до виготовлення смаколиків для наших ЗАХИСНИКІВ, яким був заповнений причіп.\n\nЦе саме той випадок, коли ми - єдині, коли ми - всі разом, заради спільної мети! Нехай наше добро йде до тих, хто обороняє нас від зла!\n\nСлава Україні! Героям Слава!",
+    "category": "Патріотичне виховання",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vxt1jRBCOUJkS5SP5c6IMvUk-nOQNK3S3xAMjRCA7qLJVnF0XnAxDspKFJvkEm2wC3f41IATCfGeSCPUZhB_ZTcf_SeU-6qaRlTmJx9xK2BeQW2jWtLSW8nZ3C3lMtO3riNYZrPCw1MvdlXhy5eDTNjhnt4ugooULKoA1kxGvw1FrZaat8ROrlwgaI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vM8wTHVSDS5n-HgLL98nCUs7Lj39iOmUyvb6y12ccDwC-19hic0N2IGe4FIUdGLbEB0ifIT8NfYePehsDD6y8DVUX62rYkA5OPrLxYnIwWJesw5lhhEkFjNeyQuqYeWyJj9m-0liCWRgkRVIcuS4CAJqTkwlxo9xGIN1UkeRXE_lbaeBQ8qRCzUuGWKps=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sCx0r_D90Ail77xCVVOxlLJFEZKu7XIjx0dVzo3MvnRL_diRsd2eyFBo4Yrr8S6MmshHS-SRoOOjYEim2kKAkOTH02scUoUUFZ2xXv0LFQpgBWybQfwILOYHuvwHcGKjcP9a3cMbFjZhz6WMxlXzDNVuUajr_Z71E__BGL33ZjYIDWRmcweFO2ww4Oaz4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vXIkSeKpLULibNH7uaqjFkHNfcq-07Cgbb3WGkDzo9LhqDpMacaaGbRV0IFnrnrDT4zvwW1gFCjjUzh0AFGEr1SwtybJvmCtIJNiQY-Ebi0OuHnZw9HhTmW9jCHmVSlCYK40N_8YMrBmSte4ZkQEQBvJqiMkhYjFn8cyTAwJXaZC_I-VlYo3oBi_DZF0w=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t1PTPCLYQFK2LMt56nt7ikBVwzPaJfnaQXHyu09tuj6zD4bxHX70GIWFY65jMXnK0gebq4vMkyjirhkKX9Bv26SNaqgamwG2m_yncLNpUyCWm0n0JuIybDl_6u-g7XLjmLZ7xgIvH84R2EWHdulbyMWtLi5WYBCHduTdkBhEJlWV-_jsC9Mjqny3LI2aE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72soY_1LazixLD4mW42q9M80yNowe1eaG_tPM6KwomZWbGz3LsBH8JvPNJUwGo7drmfs3WSSOmJTGw3CIdYiN1ndvTlz4XRkonqNutUzaxxh18Ky5xQ2oPGPBmKFzOpsUORhXI5M_8gKYoUB-ijkEySdjwwk6VrUQJJQ7Yq2B_ytCSMlTEbuU9bO9l8f=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tGfsI5fYnCcd9P_JbVdOvocEx1LagC9KBHn0TWsqTis2B9d5B6-VDC5lY-cgRdX4AxeXWYJM-i69jizVYjgb8AFdjGUp6ezS7LGYsNnltiBSCS0ESaLo7a1wzb9jJBZUGtTI1GM_l1q76SDDuWRRZj6E_LrperN7APS47cwltClFiimsTjyJKrTcaWvCg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vNgAj0kLm3P7QLjbhKILI0tyEPqSHodikhxkg2-iGYZN9kgjz3ZS27RX9IkLNSaSU0qxJK9fNdRkTekl-5_tTpzgsdlT3CsLD4-AmMHtYTXzyZykJR0l0Jdh3FCssTkAbglPk2EU2m4E64wzRP3OJSCz2DgrQLrZTqKcOVLbmIwRW8xUw_LxztLqs5lPU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s_fHZeSi3sc7cXdTYMAqiE91vAqD8qXCkjwMoWZ7KbUaCX_SynRrQ3Y1Mjj-PWkHkM0WXoj9viocZv26R9c6Dr7eEkpkaCEL2-h-nkeN2tQX7MLuJA2l3R7GPjVi0ryrUVE5ZM6Zo1UNOuJsJ90sqGyVA3Gq3koxQ1HTFlVwCg0_IWtrX7WPbPJIrH89Y=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72teTiFmdHkHblh8B_ZbNjLr4JiR9HnRejH85ya63wkJl-CKQaMmJ3-iqjKDd78J48VN72FMCawcyep2g3p8jXqOOxTSemUJdirgG_KYIWibPO_8ezf_Rdb0Qo0OcTVd6r1vFar6EDpjW8r2qcQaE3vkd0EHBESnO6ts3kugMRYxGB9mCr870y2k96TJShI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tN_hf-0vhzHCTdcOr9zlIkTTCLa3xkxqnwjuYSVEfoxJB1PZmBwkp9OrRwOl7fjAbjm0nNU0iSQnWl9u1tQuMoCKXkqnplH4Rc7kDkP-f6oy-YGFhBkjyOQukwbOz3iLyxVstR8SlhPCEv0QvG_2O9pz_DebrBplaRzl41D3tOGwPNPKbexHHxLnzQF28=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v2Y58IktSFGAc0V-jCbAQED8eBzy2jhWvFr9QH1FLwt2r0-0ku7d2cuR6CotYAkRpwmfvvTGVVssEhFWB1qCDNjzfPxiyn1m4M1MQEWyULrtjLs49jNjwuK3lEgxhJs2E62iEzZxmvmxhFY2P-BaGdKmuW3I-rGZNks6v6zNmqqrw5Vph4d0xuhXr2kSU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vRoPmKPZJycK4I6V9DrN8cdDH1n1QCZ2ItluLBTOBruvHkqCjW1uf7h0DUuTIciKYoH-yJFIgRluURVXePovOxY3hyReQZ-WDpK1i26VYj-xUGLC-XC41Gh1RejmjW5bOQjtT7SgSQRla0VolKMXo7dmFpwHpRhOln0ez8bnfTCosjp4XvEQMhRDdeKYY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tCYfGmT-mnk0AhCoA-z-37EFyjzT7gVo3EjSMZTVTfpiiPdYuOQ2Q9-1E7SYazON4utiwqtGCrDsYU2dos3Ieu7Y5-AiMB3NuxNJ8DNEE4pHUvltxdO52BUOqJgW-jHX4QyGr7tmHhbdMmSOpItcPvnEs_zGvXhp-IeIG8f4vMlLd5kb_9eOtGZsGH2YY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vJhFR6q38UPw_8eyr3TJpH8ZaBABmHPB68FwkboS4FyVjVZ9k16xIobcDdy35wqB6k1aIIlxitNi9DnVjPqLA0LzOxFI1eedxxbYtIo6O98iTlMx7-5RIWhiVu_WNy5Nf0I-iDFtKvZpFJwAVxUPrJDUhCJCnvkbZ3XBbNjgQnHR8L81lWzLtHRO0A=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tOlkCvhZfgvEcxCgNh6jlX9wuId0y1O06YV_CJFMCmJn6Tz59JBI0UbQArW7JVyoo-VeFIAOhs22nN_w7-f0IP_0xJx6h50VG1MUcoU5J0aK_pXJcDJ9m5wRShNXqQgctxZHLUzrIcU4sA5E2r5uKoQRDI9PbyeU_8DjE2PbgJJ5e1kxJMUhp10S5Ky2E=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sCkPUn6HQkZ4dlE3w1uSQl2jbw5d_D4oA7fVRC_lSnpKb4xCOswG9VRWOXgqUJhmS8wLKQroOIjyY71uizniLM5734wJsi6f5kCOEdT8X89JmPFA0ccv03YAR4scZT27FuGCAYxOwiAGr0yKh4a4DWgBWGy9lyxX0OSW1gcWhfCCpXsE5K6R5E3UfX=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t3UTaxWz4-dxO6eoIrUyBr6NazmB5iG7rqadgQbxZFqtpCjPWhieKpGNqTatcc3_nFlBGMst0akYYlH1xf7uAIKZs2zOgUA8UxtonbRpgh2srJrZs2c5qrQkNayDW5U3IJGnaxK9El-aBkxxopqDwwGAzT1zZj4eyj8x6DsvLzL3BB2xaLcr0t3dN_ufw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tCBUTPR2NaTKsCSvfLhkdcbijHPm_uI47i4OZ_JvyiE8Z5n81sI8ALCQRkDy80ezoLEGPyY2gEy6Zva0xAvvrZRCydczzCsPyq2za44aDJokeFY7T0Xy54sWeT0p49CM-SBAgyoKgr1FaYHBOKrWJb-l1DcxD0Wy87Zj4vtIN4Bt2qpkmN5fSzASu7utI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vxWibJ810iaG9hgihvMFyqxf32trKk2wWfsRGUKIsXj3qEm_m-TUXs48uHRBsQ9r11E9nvPD0zg3Yu6jsKAvavtWsG7YUd3mWqPTDXk3xZ4PIP5LsVJeny_6TqiOETTMcQ3MuZC0VzTB49UFDXxOFOr4TDxwBCz9mdHi3rH_2sHffR7Kkbh82JpfD1hb0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tBgMC1XtF970hGlE2izzwhej_WlIAI0ipLwk8HIy8kH_fxSE2MXa7wWuvokTi-HQ8_jJkOYjyR4lJIqw-NykSwQv0wsIUe7Aaf8r4VAVLuvhy13mK5QmDbwNgVMB91rtQ4nJ0u4BHZj1ZQnqqjr08yFv1zXxRbr6obqIxdON-5EomY8hC4H_31qkuE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72shMzwgIZj2hI7uHyyOSDeSjVTmYignNgTaMo1afKzrMmGGBxGJC6WgaAmY6bt3VvXZfRdZK2QEyUJ8ol_M0Lq1FX13MU4T6-y9rp14Ls4c6QY21aY49EQh3AYIQkTYVod0gw7_Iw9VpwSxxXgqsfIhyhakZ9weBDyRMt8cLCu9-EyyAF3cpWKEjQsNld8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uGZOrXFwqmFUp9I2rwrtjAxCeSzrYv4PtWAVfiA35cjc62Lkx9VQr91HgURoCKd8icRWOm4CkHsUkWl7L-BYS5befPSArxOSu-H7YrrfI7XfoNWxk7nCruYiUs6uc_l4ABiB0o7awG-YFkopc3Gg4IPs42E-rkS-dY_qq7MDX3qRy3VrpN0Q85rBJ_JPQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tqVUbeKYk1UGd98GDIccu2AeUy3BNcq7QjEq4O47HmDbbnODyzaRq_2FaU63s5-NKQLT28DSuAJwr6GwHSyYzG66ITnsKd38xsERtNGxhVMvvHm-JSMGYxGMY_7oqqLfB6_P7IOTxBAstX9OzUJy5DF9SoGIdBJYak2YwTGPyVbuCkA8lkldISLzJG_5g=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tLFf9ekDoRmw-ffHo1M5V6BBcvS6He9d2luMUkQwvCy9fHuV1bu4Xr95P1Psf1FrVGAdg1DD0a3pzffPT2ZfPlw078QQqRQ5b5s7lBQPrtJdpz4whTXvK8Bdtjc1E6kMyfu1pDmPCKFQckqtW2Zw2WnlKngfWkokHi4sialh-kTjCMjSdK9D9bhEFZybQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uIhHbQHvjwgg8kinQkLxljhoWWsZom0v7RB3eaEEHfU3eyV88Vyg5FtrwdR3POEUT9ySMSr1CFv6qLfPaHn5Xe83Wr3zFlZI3cL91vYRu7dyhsKQXV_EE1qA5Dozs52F2HTG1Skbr-Jo8QDEuwhzAOWn0fQdv5Z_zSU0RCx1zPqbgtdQ4tVwnRpqT8ECc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t-NUwk38PoWojKxJ2yldZrN2UkPykOfI-COkxLzEg6fkQvL76Apm7urMS8O6KMZIJ7UAzIvug2F758oMSVtaA1w06uWkrUXTEWIdnVFFYOx7DZqzynEK8uUPyO3ZWGdj6B_qIUoME4BID-qmKyC5vKd7XAIdd1zf_0pBYLaEcXsj3pwVMsw9d9quXLtag=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_91_1.jpg",
+      "assets/images/ev_91_2.jpg",
+      "assets/images/ev_91_3.jpg",
+      "assets/images/ev_91_4.jpg",
+      "assets/images/ev_91_5.jpg",
+      "assets/images/ev_91_6.jpg",
+      "assets/images/ev_91_7.jpg",
+      "assets/images/ev_91_8.jpg",
+      "assets/images/ev_91_9.jpg",
+      "assets/images/ev_91_10.jpg",
+      "assets/images/ev_91_11.jpg",
+      "assets/images/ev_91_12.jpg",
+      "assets/images/ev_91_13.jpg",
+      "assets/images/ev_91_14.jpg",
+      "assets/images/ev_91_15.jpg",
+      "assets/images/ev_91_16.jpg",
+      "assets/images/ev_91_17.jpg",
+      "assets/images/ev_91_18.jpg",
+      "assets/images/ev_91_19.jpg",
+      "assets/images/ev_91_20.jpg",
+      "assets/images/ev_91_21.jpg",
+      "assets/images/ev_91_22.jpg",
+      "assets/images/ev_91_23.jpg",
+      "assets/images/ev_91_24.jpg",
+      "assets/images/ev_91_25.jpg",
+      "assets/images/ev_91_26.jpg",
+      "assets/images/ev_91_27.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 92,
+    "title": "Тиждень доброчесності - це чудовий спосіб ознайомити дітей з поняттям \"доброчесність\", спонукати до доброчесної поведінки в повсякденному житті. Різноманітні завдання, ігри, бесіди, пізнавальні розповіді, дискусії - все це допомогло здобувачам освіти засвоїти, що потрібно дотримуватись правил, навіть коли тебе ніхто не бачить, і бути чесним, у першу чергу, перед самим собою.",
+    "content": [
+      "Ми всі хочемо жити в розвиненому середовищі, яке базується на взаємній повазі, честі та гідності. Тож будьмо доброчесними!"
+    ],
+    "full_text": "Ми всі хочемо жити в розвиненому середовищі, яке базується на взаємній повазі, честі та гідності. Тож будьмо доброчесними!",
+    "category": "Життя школи",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vh61G8HqA1w8Y2ZdP2WsjnoOkgPrxeA39pOJcIVV7nahfMJuwI7RJU3wls4DAXLK0iZGFt_T8TNJZht5WlrcwT1lXJ2eg3ivx3NOaLsD6K7kVouiipb31DaMZ5Yg6fTfzyhzOU6BlLG-9nIA4clvzGruKOL92g_CpCFeFYCLSCpSBDuuXBENt1ZhLsycM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vcNvttLimyYkJrD_Mke6zMvkNJkg3aeyKC2GaYIcneTaEjMxEekf3302qG9h2g4G4Ca19SYKVHprzWmXo8enrWpb4b43y0fT0D4VhFS5oQmY14bEQCAKVIYPkIT54wlCCqpLvC3vMm5X42P7sdIFF_FW9ypjru37Gcg_4JAZ-CHn68bp82f5Gu9S6hIuc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tZ9fF9m_sh8o1-ciULWQsBJbv5Qr_T2aK4bvIE5HBd7V3GJHCad6v-jS0YNPBqZFdLbSGEn50Mslkb-N_H4pp-mMW6CrYAY90RpZ_666zMdzb3G3-7OvmUMztmze55NG7BlIOL6sjJ8AaqRr4u8WhAFvTXjxDshtFJWwGldjWD8wvDFluOVkXsW07aMg0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72suLukVd6NFxfPXxNecLEA_nxSFA9ey_ww0tds0_zH_j4_oacsLngg-KMRpDAX25S5NVlpdQyshgn8UtH-Jj5NOI1KHmqZZvArKojzVHeRz5M9f1rTSld_8qo0t6sBhOc0Gy39VfcA_amR20pbNKsuMeESxTy6Fsf-_64TDvvC2BEMxmZywAqvBeYCTirU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uW6VDpSyweeaLoulL9a3WFqPc8RetW-RLvO18ZD6C1HL2tOaFRtBX2dAyZfvucJkgc8KKXlV8vX-D1RZ4XzAmXDGiBnNnbfi7XHpe2DlhFjwtwbZ0kKfZX5dDJ8wzzV5sSya_6c8xV4O9n-D1E5MKaWOgZBmX3rAkAXDJW6zhskI3z7FKxRSnllwpp_Eg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tBzpIp-5wz3TRPJeMDckqQB5rprYN90_MnnMWJnXBW9hIHKbsKlgXZLho1DCL_xdFgT0WRQr5m56MdSqVuwCXhHrK-AtssilqeFU2kpx43RlobuO-jIKallxeP_W29vCj656iHtuvLHs0QB66wTC_8G8r_YB0MFwCUZrd_iGs2fE8PNIAiF5xEXk_3=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sEYBxRxFnbjm-exlMiJx2VfyTsKxoy8zqPbRgWnmvWkffjElYaZ8boP9-rblT6l4AfAhqQWlNZCy4ZotwYhMDhKJqbctT-WnB212VLvY9cWfZ8zh3Q8GxAMXHavsIQEm1h19P7SZwsWkvsvKZgEvNb3N3aDXu_4Ecek9ENRkSIEUl9F9o8d9m82Wcq58M=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u3hRuWceKhtpmxPef6qKki2C_LewAT17g_U35fDWi4PDHxqv7v8ksw4tnYXzf-Htpy22prh1_4LZVUq7JYufMsqeyf8g6B9-vrIz6tBItp1Pjp1Y4NCKo9yzBsplgk4cTRE5YkmmTSWKW4dr1pYTwjKcy7HrTAVJ3oLGta5XZHkdE6KZfO-MI027CEsvY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sbekwgz1B4LmD26O6HSZPDY2dWaCaAIR1CiFiW3eHvzWzvNbRwR48riM1K1bTWZk_RJzBJ57Pqgcy7gmRyr2-z6go5Mv0owXm9q0L7i86hZ-d3GBeKJNxiOuFnPh2pnv85H7k5qct4bHTNMvwRIWV3uLcYrS3aPjw4mGomQ8xSyaOi9Eg-flWrZJ2yZP8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ueC13GvGuFiwNOMIVDWOY7ACTTyozzOljhaitc_AwR7SV2OfAzR_VEWxtNQ5rFvgfnCFXYk30NDkJSr4anISU2VHkxI8U4ODHru1VKLHcAc-_E4vQcQ0Jxa5lboYla_vjZsBWMP3C1HhDnhPVkbuS_sJoOeyUR-wXPrD8KFDyFoYCqSaSwzy0fOdDAbbk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sHk93WdDUeMsD9c7cGTMJo1r7iY-Tn8mdwfGcMwLmI-vydsQb2eUAhGwvVXB2m0N5WwyJbJY5iwh8okj_5-y3mikox72LNz2YZPk8Br7Ez1suM0lLMd12M21Rc3yi_8uduQrGlRHEocCy_KvsmLh9b6AR9p5SfffkeAbEeKm8-Jj99QX1kubfqJRwVxMU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tT7AnTALMUsExUQrVFJ8FxYX6aMthpKMWPHV-LBY_njVX-8P2_z_uCWvBqjLkkjU0R0fb5VUJRJJ6fFCY9FbnUgUegO8wIJbjk8Xj6yOWekgAfstAINIybJ8t5PqSmD0qzkc2zor9gkG8BRMiwAeeuUHAoa4zRbdH97Khzi1cLY9NqESuG9G_ikX_hHNA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tgN7rfWzRaGYZkkfKNNVegNg2JnDSzVMlYiMTrmV4qwKfKCnX9PkM0cApugX7aJC4GDb8NWCrgz0fKkGMepvdkMWDcq50fnoSg57Os3aMEvyIV9OtMGaFiI44vgyGa0czVrNYr6lsVMjkRbq-OK4mcVDwON6eOKeHFXIVeCtmiX0vaNS1J1ovCwkRD_Eg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sBRUElQmM53amVVF8OMyUGTEdKKvU81Sw8VYoakkt3Hi0N8d1bCH_uJQsdlDsmVBy_KgNrSVgZKTwQGc7MQtLTBb6dEgsB_KFudl2KwAQoRmxX0q1wmEVFh3MObZXZ6_rW5NqvlEsj4AukEq613R_FGCEUWA3VpMIMelGSgIEfsnhzwJ0Xrbf_kjCGCMI=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_92_1.jpg",
+      "assets/images/ev_92_2.jpg",
+      "assets/images/ev_92_3.jpg",
+      "assets/images/ev_92_4.jpg",
+      "assets/images/ev_92_5.jpg",
+      "assets/images/ev_92_6.jpg",
+      "assets/images/ev_92_7.jpg",
+      "assets/images/ev_92_8.jpg",
+      "assets/images/ev_92_9.jpg",
+      "assets/images/ev_92_10.jpg",
+      "assets/images/ev_92_11.jpg",
+      "assets/images/ev_92_12.jpg",
+      "assets/images/ev_92_13.jpg",
+      "assets/images/ev_92_14.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 93,
+    "title": "Шкільна екскурсія до славетного міста Львова...",
+    "content": [
+      "10 грудня учні 5, 6 8, 9 класів Липницького ЗЗСО І-ІІІ ступенів відвідали музей \"Львів Стародавній\". Тут учні дізналися про цікаве минуле нашого народу, побачили скульптури видатних громадських та політичних діячів 13-17 століть, проходили різдвяний квест- пригоду у пошуках подарунків, майстер - клас з виготовлення мила.",
+      "Незважаючи на холодну зимову погоду, школярі отримали силу-силенну незабутніх вражень."
+    ],
+    "full_text": "10 грудня учні 5, 6 8, 9 класів Липницького ЗЗСО І-ІІІ ступенів відвідали музей \"Львів Стародавній\". Тут учні дізналися про цікаве минуле нашого народу, побачили скульптури видатних громадських та політичних діячів 13-17 століть, проходили різдвяний квест- пригоду у пошуках подарунків, майстер - клас з виготовлення мила.\n\nНезважаючи на холодну зимову погоду, школярі отримали силу-силенну незабутніх вражень.",
+    "category": "Подорожі та екскурсії",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tJc7nK6spr7VYaisx0w7tlUJu4rWfvjLJuElal1xIymIbU_2W9ns-WUpgJjCkVWz5aquujS5eLvMHTcFvB1MI2ocE13VBSCBgc90E61KxkkhpFtyOVG8vhjFiMsFsZ1jWihJgu9aBZ200kymyZudDtTe6MHgMDZT5MlDD7Zq6M_I_hYR3OEVpaICbCFz8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u5CfiQIlGhWvzTXpmwMxGWMvlZLw_PDnMhfY-Y_ruyXAuG-gS8-eStLhgYaejQZskJOkjajGPQwtAGeS7R6iAcPSdvUM1AXGi1qyezC7zKl4m_MYTR4ZchUx1txVIBhK35OPaXHbDq5vOZGleIHiIpyLnPN0TvNjrJ4CTvl_78inlMR2OHykP1sUkTFg4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u-A_AH7_ewP-VM_wHuiSRDOOujzeOcUza0iTvZhyiNYrGT6H6cjye9TK2JJ9BGDf0AX9cgcLeIzSqG3z3UlK4YGwUaYsj-cWU51a85y-Zdcm_VtTyFVooVyQDETYYCWpwMzvBODXm2LVRPbzI2lAD3VYZx6s5xgmu9oFndKWJx2wMesCf1Nd4d3w9epSk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vpXngCnYg4faHTZm3c4aFtyjSIbJn7bMI3jJ42YpVR9zwgsAIRkrObQcndD2xQf22iwW2NdofpJsSTvhXwIWGWLQlmfqWAuoIQje42FngqzuQ3s1iBRz1zg5Ac9l_SsyS79Exh1D_65dKk5OC9GeVvF3mF-nytclGpNa9c5tOkIah0UEPmXfjj9PudgYQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sRt0dxwzWBjS_zOcnotZi3hbZv-UtO7xXl0FnUZGJGPiJ_i7_BYaEJvdV5wOWgPqZgfbJK3LOyy2BcZJX6wR9b9eacfG8NGIqcf2_FsemWd_8MzhMSRZ8KlHMExAP4cp34ZU5MnWiQhF-tTbY_gfNsS_Hprql-C028-ssb6tTqC4yQ5-s-dJZzbSF9NXE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tTH86ZnIFuJBn1kkG3I3wqWqhRYQCiRgyWNL-a39GrXbutm6wmRHs2ap9qK_wO9cAb_m8A-inLdY09hppS0BFv3VBUgnEw6T8DN2ifkJkisG5EYEvyxneng9lN-NXiH1v2q2Zv9fGWsj6UnM2WmcrxvLvokUYtfAoKAoF2cXZAkW8xzeVjhc5wSLZR3_M=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vfAA3ffEi7gtOjk5tI-S3fc83_gHLI5vDOUZ_d2EEkSAwJACIzu_UNCDUktNUGqOjok-juKwkhcmbVz4xdKH-NtuhlID6tk2crlKBlYu5oaKvXQOjIzTP91a_zu4s00eBiegPcXh8u-EL6HUm3D8rZiNFE1ksgEOEEJPOaGAmst8cO8GvZ-6kNej6llFU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vAZ2yHRn1shgpRv9AW6LXfDwHYAh0IQZHJXE7XBXJh_nMGbueb484cXADkRLVkv7a-XYhbUUrN0Qqsskjy_Ks2_H6vH2viafnTkO4x5EzvozxXDZphHm_TfXcLm0t1PHS3_mf7XSU-87DXTY1dzkjNNRMPa5qcInVbt5xY5A8ZVwobs3J3lOHwmNL5pfA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v1QZmuJYR0OVlOw3J07BXVUgk0Qx7I49Oixze1EVowpzKJALlzzv7yz_HDVAH4R1u_topPyl3iibN6rDtqfEXuCXA3l5tUNMs_ZH9yLjDnw-R6HHrcTm38sE7df__dmIImMsN2L2f2Fwav8iFMQp-jUae4IIT3IsRsVzDXlAdVbNiU36Dw_8wkPACm=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tcDBWc3xuX09I-5af9MAGm2wd8RwnLpIsqu0m_MDM1fTKk1xhIJxsK7HoUAWyTH9QjWhjr19R5_qrG5ulBsPmPd0Hw-J6JCjsotZqOybftXtqHyKwgsQBdsGOkIlRFCdhQfEiIrMQfHIpYsJ0srz6T2PHObtudLFEEChhkesk_XpXdjNM6kokRvCMI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s5mZn94Xb1cg62aD651N1EsV8Yla0mxbo9xLinrfhI1aWPiyzhVk3V2jK0SYRbQiTVgOSu1qEOmcZMIVLA6JGUY7ct_So-CVISA9q9PTfQqGqTFUh_FlmfhBx4akfrPJX0aEaZFIIYYke2zoddStvtZ-pVH0NXOnnzwoiX43xpjJ5mtPa2ygOXjBQjB2o=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v28p1phs64Vz9shar8aD4ZuQTPdooswfgbiF-ya-Kh59W8qoSHd2BjY0zfeGHm-wQflsM4z2vaiSiWJUt4iP6H5mOywyxWOOJFlUHo10tuy6-Hjyke7VN9h1nVGpse_l_-tkQYsbDVEJDwWLBUzVtL7UuVYPJNRZ8yzfsavEt5QEgeZ4VZuz3yjLPgELo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tUAj8_3NqyAWG9Od_2zCUbBiE7j_JzB1-yxwuNnGjFN3g91R6CgrG_2Spztx_ZC57D2wBqo3gwoDwm93NFmoAFXDPYMwafXCXra-Kq7QQFMhDDpc2ZDl3B_MNN8kOSMB6EcdoSo5UPmUlc43PfTXOiZRt7cdKnwn8kpNMXYFmk2Os_DFXY-kc7ss0nDF0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uNIjwlXXImK_Oc9CC0Cb8KuDBNi4h18RlbTZWZXCnNQ98LPe53Dg8ESgab30wUBh7NaY_mx35biV72BtLodkaeoqCRbs31PpN14oyFvIWT7RKuIcjz0mvOdE-Q28fpwicCnKWjPieGqaL2rOnHmX6PMs3Wda6l2z54q8vGyQxxGOhgLN7xOAYRqDrAajk=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_93_1.jpg",
+      "assets/images/ev_93_2.jpg",
+      "assets/images/ev_93_3.jpg",
+      "assets/images/ev_93_4.jpg",
+      "assets/images/ev_93_5.jpg",
+      "assets/images/ev_93_6.jpg",
+      "assets/images/ev_93_7.jpg",
+      "assets/images/ev_93_8.jpg",
+      "assets/images/ev_93_9.jpg",
+      "assets/images/ev_93_10.jpg",
+      "assets/images/ev_93_11.jpg",
+      "assets/images/ev_93_12.jpg",
+      "assets/images/ev_93_13.jpg",
+      "assets/images/ev_93_14.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 94,
+    "title": "\"Книга завжди буде для нас найкращим другом і порадником у будь- якій ситуації!\" - під таким гаслом в Липницькому ЗЗСО І-ІІІ ступенів пройшла акція \" Національний тиждень читання\".",
+    "content": [
+      "Здобувачі освіти читали твори, малювали ілюстрації до прочитаного, взяли участь у вікторині \" З якої казки?\" та конкурсі виразного читання віршів.Старшокласники провели літературні посиденьки до 130- річчя з дня народження Миколи Хвильового.",
+      "Підсумком читання вголос стало \" Свято казки\", яке підготували класний керівник 3 класу Мавдрик С.П. та бібліотекар Мастикаш Г.В."
+    ],
+    "full_text": "Здобувачі освіти читали твори, малювали ілюстрації до прочитаного, взяли участь у вікторині \" З якої казки?\" та конкурсі виразного читання віршів.Старшокласники провели літературні посиденьки до 130- річчя з дня народження Миколи Хвильового.\n\nПідсумком читання вголос стало \" Свято казки\", яке підготували класний керівник 3 класу Мавдрик С.П. та бібліотекар Мастикаш Г.В.",
+    "category": "Шкільні свята",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72t13_FCbdPosNwBqqvneIA5CfD35r0Taxlsir0wcgdtgiVHoo5WIwzCUXthTDb8kj2xkfxGSiRp9DUi8Ga0CQe4NlYWOho-hGcGN0xA_aVutGSfpALuv_eoq7NJaHsfCQxMMYD6wJgIEL4aP3ZEBrTZl4sQ-3KJOB95ATyatk1M-19kwrOW-9WMyi3fLlU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uaHmDIr2SD-inTB9nIROKTm4PwVfM6Rw8BZFcxe-bl9L_RYk-3hjnScJtPQ_po9B0Gz-FXRQvqg6HQRyLK0ghcIN8uijb4vmGXUTvV8s7OYtQ-5ibo9pJQS4fV37UbIG6ZFtsWjUDl3rdk1FX1Hu76aXo3F3BH68-jcS7MXcvzdA5dFzmsMS-P__dM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vW6flwKunPeMMq2vc6cDOLDCUazSXr6ZfkwrIjOoauuu9QrlyHcKkCpWi_LwjQj4jI2Qe0DqsFWPjCvKjiXKOvJLsA6ObIr-o238wT1NWyznGc14S9Y7UXy5OD_oQB4mQsWhAUCSFJsdOtCxmUV9VdrsKxfOp47euCTf4KOmrcWIUxl-8fkTb6KrlsZ7o=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72telK7Mmf8sHMHfphpLdsFUW4TJE5vwKm96OeKYL2udy8yxZiHzUQM0A-5WJPVq94LRsxzRQvTtG8GXh1hRz5_IcfbdA7NtvkK2_Hvj9StOUAkQ82ZWOCPMiT4Wm3JqJPVYnwntv-GeUwX5RnBWamMMOkk0RLyagG74IAtd3S0cE2bzcy-dWiAIszZw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vJUx7VbPcz4M5V6dK7KrXBdfx00zU_JBnuzjqDFL-7Pmr1Keg2EGvlktCtzC-UJc4o8D0LVA8T45CdHFfYYUDoxDGKf2Dao-jhhyDjpSJBdbQh5NJP2p6Oll_w6o8ILNdhLNYgqrBk071I4fZDE8DkVGGCX5qn0ujoym8OuR9imYl2ckr4fcNXwV2XI7M=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uo2-10DlzkkxAG0ihbx7tB4NL_8lqCa1qwhPK1EpajQylkIdAcvKMWlmvaG_cayZMRq0rh6nosg46K6Mz-PfccF0O5W01lTaas7CsoGiw22r5cHpbLe93v4fDbB2W3xn3xOaVZoS2SxauLgGpeB3nf8UbqAdbvuY3ILtxzZ3omhV-ptUyXWEsq7MENBdU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72snzK2qcs6eVNPeTavGYbhTcb4v0VmCzXi3fwpF5DAOjldeABjv9WZcXFJtxk7-BEzAcrOEbAanbYmZSpok725aZSbYoZUyVtogvZFRvxZgRTZ3wyUjXVVQLcskrNphowk8EBPhJKD2QImKrasfA4lDWEkipExQHEmYZrqQNFDyeGcwku0FveVux_2aRmI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t6KUqtBQwNP7QT-1TAY6LkCnsUConJybQcUNaZ8ulfA-8b3YWqh1i3x_tF9OlO9el_EI_VdvHnuUpp4avgE7wZM72ibveldMYOIrd4SHJG7LrBLj8qIkJdgPJGDv2k5egxkCFhVhsCJR5m8jNTpIjSnPpuTNqEyDdVNNHyd67-0h9GzdSUxZ6gxE3GDrA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uPNThPZMtRZPFMH-nhDqiDGL3TLISLfAuU5FUwai72sUNvmJf0MtbPVVbf4E606R5__Ddvxvz--zKs_OFf7IYIx-z6f48YZlLNIQYKq1ttytKlq5X_ZYco60X8UBPa_lfgoNsPum6he0LYbG-aTjQip6fpUnceHAp6Z-hPDlwINQG9iutwTv7L1AvkvoE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vMyBitRglhdFGhQBlq-pxaZUUVfQ9pS8f2TYMP3SQignofcYQMUAaAkRsKvYDkutKwzSI0jqhboRp819tPUzoQPl7rqMq0AtCn3mtL-NS88kENiIZlIRMLt0A2NDokx8WvH74_LE4EJYcLuyEIiTZ1AL-m0x4vz5hlNQyXhulKdtiVXsG74UxlYJivHMs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v6Q4lo0xTJb_FpObPtWGsKzpysRVApk1cz0L6yM9s29HpVS3jweFtIt2bmJqQ8VmIImS2IzWB4WgKiPq502Ca6kqZmVzalLVAWELssR-HJzwD07rxiwGitGrFt4vkoV2AeEXCDNku5aZJjehuq8jEbDXnFHGbAyhMz9gS22Pn04wyUTXuULby0_5HGbxU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u0WOlvvQVtPhU6qDQ_RfUvGC4FEOR2qoer91hAJofIxahvAuSpysI-iNurjbOvwTNcJHkXJtyNhnidjMqa61anGkESxlCuUAO5xjyzuBH_4snTysVh_oRoefgdwdPEn2q4QarvAHSpS4RYdnG8J3YaJDLd3uB7IIAt9S7Z5VHTUwU3S9jYHSD2hNR-V1g=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72urYD8B43iwN0IarkMynNfB4kdlm7GVme3JNkpg8Bf6oO8ea0zyGYBTfuZrVL4kMFDUagmrAZkYOu3Z5KPs8xsAyF2CJgYXVDlnKrqSVZ35RX56fRSDqlqCyUXpzKL7PfgRTFunmWf9lKIXSJeFh_DSnW3fiq8wa3bOLSkBJeD4I-YCF7tlvaS7nDVWGKs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sxvu9KT-wTq15VpLjxMRbbrYUctqx_wEA0BAnI6x5JKyGpYPVokNqqB35TNq4bWz5JZUe83iBJwt4f62oqYbhBtAnKC6jSG2t8UBQNYHgm9EhB1BSgxFKvulEz3ddx3EikjMUOIuB31wuoDj2PYQQTe0nnHxHh3_R8ZHOsqOGnlUQW-nOIt1Ply37E=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s4i0-aW_Q5KFt7mmToWG2jAyv8X5lJmSRi1GDD4aH8Oxmsg32NoF8vIEFwVjZucsEUw65ZU-SJ-fvZ68gKdi8mMTajr01aOSP_IjLa3Zo77dOmetMXUocOZIz23V90pwk9Mt9T-efUaL1o06NXM9lZ1hqe9tKF8OV2ZCyf2hbrOd-wzDg_SAczHpOt=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_94_1.jpg",
+      "assets/images/ev_94_2.jpg",
+      "assets/images/ev_94_3.jpg",
+      "assets/images/ev_94_4.jpg",
+      "assets/images/ev_94_5.jpg",
+      "assets/images/ev_94_6.jpg",
+      "assets/images/ev_94_7.jpg",
+      "assets/images/ev_94_8.jpg",
+      "assets/images/ev_94_9.jpg",
+      "assets/images/ev_94_10.jpg",
+      "assets/images/ev_94_11.jpg",
+      "assets/images/ev_94_12.jpg",
+      "assets/images/ev_94_13.jpg",
+      "assets/images/ev_94_14.jpg",
+      "assets/images/ev_94_15.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 95,
+    "title": "Цікава і незабутня зустріч учнів 1-4 класів Липницького ЗЗСО І-ІІІ ступенів із Святим Миколаєм.",
+    "content": [
+      "Цікава і незабутня зустріч учнів 1-4 класів Липницького ЗЗСО І-ІІІ ступенів із Святим Миколаєм."
+    ],
+    "full_text": "Цікава і незабутня зустріч учнів 1-4 класів Липницького ЗЗСО І-ІІІ ступенів із Святим Миколаєм.",
+    "category": "Шкільні свята",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vj-C2c0A6TpH5FPDcOr7s9svdhC0a3Q3QM2K8DBAUGaWZ2PYsabu1wEu1KBUKZjPTj2wDDPDURSdD4ZFEZizaXf7emVWvL8aDT8xmO1O19fBVOBIGYa_A2OeZPJi0smNPrVs1zT2a98IiqfnKKdqy-tkmW_mxOvOYCbyckrqRCzZ24hYExax13gxZUQg0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t_GftTXvk2VxcSKCPFCBe939TOCq76yeABcndziedA3Dpan8A1XpOtJyRd5PIcLnfggh3LLHVIxCJGui_PupVs_pbh-q8BNMm8WEhAQ48VMXC2gjuVQAbdanVErE5_g3-gs1lqf6LpPNBj9CoXC3T4AWd6FTCcMaI7whRJjCqrBjzHVbbNcR6UAJl1aR4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t-x8GlLFwUwfO26c85UmF4ZtJhpkjDzsno4BnWZPM5OT38am4uoIB3hrQYMGw2kFhcxb6PHgM7pSC4kCNhiv-MeuO2G1EPVBdmDbWu3Q6CrbmAW7a9504KahJWMjnSaimseXXYIXHbQbCNHfi8e7Y4b1iH3gR-dr38YqE6YIwQrSaNS8fi9hOCUFAjO7M=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s28VA_iH9oVNQaFs4tQrvXoOI0klLDhqnXIXienXQZe3J9hXpZptsc6j-BF_y_xRX6i2PBzZ30Tds--LM79Tb0Nk5b25ydr7inmYPXqnGG1VE88MHp3ePEe8r9F_O-_0kbMjCIcbt30atZKChCIdkb4WwFAPJSozSTiRjCLcZjf2NspxWmeL77shTFayo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vTyi3Tm3-3PKtGQEZUCDPx9lhiR6pfWuoM6JHiaQdvo6_RjXu6SufLXXLKreR7D_Flxz669Mwp5p5EWVQWaODmHFiRg01UoLygz1Nl-ItmP08mL09Q38aXJb1pVluquZfAd6KI-AAFCFDhPvDt2vkt6Vd_4jLtskynhmiF1l-Ybp2dSoEa6g-5Nj17BNM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72teLZ9tWeQsUCOgGu9FOx33FmnZ7PTwN-LpQaFcwMj0m3F7CoABP0-17BXR6keFWXd8u0-WuyZQ9zX15Kt2uzS3icJm8ea5iOlIIgB5kAiHIusNqyCxnfYv7WDaI_zJHf-KeaLjWtyFJumfYFXFnyRg3gKzjYfUvXdHTqPBJ3GFXt2iEwfCX_pFzCYYHhk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sOWmEuxam-vc_-oAk6oEM5zmtevzRoq447IXohBKbGqDe-8uWK97xPlzGez6ZDchR6hoTa8wr8jdAU1mj-OfuQwpq3lb9deCL7EeYbuO76P-UP6LvlX99zgC8noCKbE8LBVBCf5AWt5b15MkIjM88RA7syoHMUiW3dn2TQPLVUbB-tO0HQ47e7eZZqvfE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tW5u0x4jVbBuxlW98ahs1gGcNGx6mPLl8_cALtIymqAM1QvQKme0LzPml72OgEylki56CL8x_cMULOAe0mTqM3hNwq-lqOQmcdsEaAGq9yFu50xVKRa0WFmi-fXfscp_rJoDtmvhz56p08fkUt2Qv8YY57XeuQJD3w3mGdcFtIxGHA-LaKPbbSSmQo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tvHZApEkxfBoNEBONWsdu-CyT_3-wO4GAyASma2sjhVm6mfLhn3hDPIuskbwtDvI4N_sMUUn_P5jJvJIq_X_Ij782LvaPJWYtQJRc9aZPRe-DpFe_FKpY-rcg9XZRqNuOV7kKS_QIYZReNHS0hZYll9C8I7z7j26TWAjzW7z76AZkjJEDYpadUpMSp6ic=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vpIA7Ta30Y-P6YWewExOe5mFlwq_V-VAVQjjZzwAfCTvg_XpOnPHLZku9DZdRPRZ97boyhMEoHVrhNFPHzkOjkTsngtR5zBlwXQTiQ7tX2E1Xu_fY2ayNOyl0EOF-Lau-eYqJMzyGz3Ej0FttFGVv6x0l-hKAWV2M0_nHbELazKxDfp74nebSONhhfAdk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vW3WK4PLpG9Oxwtd4J_54tubnqu_pShufU4rqblerpVcqrM3yLvjd-cJH3bsfiGJeSUSevaX73_suO_94kIqrq8pgoslvVs3YnXT4VVBwhnP5-7fQA9hIZRlkUj9T5yzPZJheGdIqqQ7zGHlgPQnvqECHoyuGxKJYGu8RyHtaLSVlmy51GLpnmQgYhOQI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72spfA0g-jrtQDYoZVUpUqayi-vm4pR1Avo8-4XDoK4Swmj_hp0iIelxOmPFDZnGIMTZnrpVbB6Kjv_yRk637m39Hc6m9LBY_BZNcCYMXeRY1bb3DX2PFr-KjKvZcCJRh3tIAHpzT6B8nI5b4nw6pGhmeNKuSIt4dlZ3k_Uzqavqt8YCQDmnEakMxIxJucw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72updTNonjtxbAwhhHHN3z4at91niemxIEV4slt3u6gxkeRSJe9zcbH-GGk2D8xHHXLHAvfdUHegP-WItHB-kdNu2LkTzDFc8XuECBX3DVsmkocnr4xotkhScGq8wTwpM5wctQtbtnIpDf1T2xNbVinGMNvDcRwzkJ5LOAALa7lo7BCttqKukcmDqEA4WnU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s39_CJIsVvGyvg9gyI-wxtPc-U0L4f5Zda9IX8Sl6C3UdQc-AZgw59KeWtLaEHvLgi8O3h7G8_cq4ii29judyrE37dGHO0BFXuASlHIr43kvcXc1Yp8IypkgKhAjUlUARVODfmJcO83hJT1FF2Vf9jtxcQvxM6Na0uPjbPdXge_YvBtlKtLucCMy9YMnI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vHNzTZPw0KTtsNh35ypsIT9UtxCD5yEc1l4npJNJw9AxQgOQdx2JQRtoKK962kZ1Z-uP56ghqy06k4Di7rT9CPAeAFCQvC3OC8qxKxHqjr8sDMD6nDCajrIqzbdKoLYjJCqXDvqUlOOM7_lyC_jFfhy73rtUArYSywe4XDRd67OWpU5UbtmA4lInZBJuk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sSg7wpNdTyHNQ1YmEE_7Zl8YEJZQIA8npOGPj2xB5wg7G9eVmITXdhO-fy53-qCjJjC2md9TE7f7zZ_3S3_EMYoGgydw1VnceRG7Oj8w51iz9gKoAeIyuYPDWxjSsuU3SETgr9DqxcClM6uW6zWNQ95KceTxwmSmzoGMwa6meMQFsiF6VGaeIyHXi3=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uPU9hKPxuHKEyzjnP6OXn0W7eUKE2h__06oXu92R5yQU9DQzXE__gj0BUbwd5APdJ73r7mRycRsAR7TSJHN82aZ4M9xrW6TrSQt8AzfnFIXNJF6eBaK07-tB6Jz0YEcJ81EM_GeeS0W892mQ0yh1m6HzVrjM2puTOhxd5vAqaMmIY3u5-Q0Q-TZ1Dh=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uXeyHneqvXc19jPg03KBh-RNP1W7VM17Tbd3StTc0WjOyhs0opKU4DwWEEFOYrWPfW5z_hlikW1MG5hqQVFFDOMFrZdfKdE7KuYkJz4jt3f5O8qfA1T_ax3sy984RX3kBtBbzw_bLjunZmz5IqKkN-49UUfCbpIjC587xr8WAJWja-z5kxGPot8wL-=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uZALRGbJbo89TdfoLUUTfIbmAD2F5RTUONylLXB7_jCihQTl5citg48NxbyhMpErEC6kmRV6I60vEzIjQm30g9wVgGxa2-Cdq7uxbylEGjKERAx1lXlzEPGcrCcfAAmqSi64NLHyXkqCS8nYlMaNqMT-SlzNmYYk1o0HOH9rBuZo82OIVXJbubL4Qd=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_95_1.jpg",
+      "assets/images/ev_95_2.jpg",
+      "assets/images/ev_95_3.jpg",
+      "assets/images/ev_95_4.jpg",
+      "assets/images/ev_95_5.jpg",
+      "assets/images/ev_95_6.jpg",
+      "assets/images/ev_95_7.jpg",
+      "assets/images/ev_95_8.jpg",
+      "assets/images/ev_95_9.jpg",
+      "assets/images/ev_95_10.jpg",
+      "assets/images/ev_95_11.jpg",
+      "assets/images/ev_95_12.jpg",
+      "assets/images/ev_95_13.jpg",
+      "assets/images/ev_95_14.jpg",
+      "assets/images/ev_95_15.jpg",
+      "assets/images/ev_95_16.jpg",
+      "assets/images/ev_95_17.jpg",
+      "assets/images/ev_95_18.jpg",
+      "assets/images/ev_95_19.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 96,
+    "title": "Андріївські вечорниці – одна з найцікавіших українських традицій, що крізь віки дійшла до нашого часу.",
+    "content": [
+      "Для Липницького ЗЗСО І-ІІІ ступенів це свято вже стало традиційним. Цьогоріч гості свята побачили справжнє українське дійство, підготовлене класним керівником 9 класу Іванюрою І.І.",
+      "Жарти, пісні, танці, ворожіння, кусання калити і пригощання варениками залишили гарний настрій та приємні спогади у всіх присутніх."
+    ],
+    "full_text": "Для Липницького ЗЗСО І-ІІІ ступенів це свято вже стало традиційним. Цьогоріч гості свята побачили справжнє українське дійство, підготовлене класним керівником 9 класу Іванюрою І.І.\n\nЖарти, пісні, танці, ворожіння, кусання калити і пригощання варениками залишили гарний настрій та приємні спогади у всіх присутніх.",
+    "category": "Шкільні свята",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72urHyrXSi1DsZR6yEzygtsYoQwBaeUenlLLslqnddCUK43AC75A6j04cNoZFE8umVoQMrvuSYXxZU8Is_qQ2tfwzlDH23PYc7Kj6Q9kH62fSgUzoFzbdfxtNdS5JZM3C9EBOJVtbH_6SUhBTiZY3fcDtMzlsSQC1RhcqVzdxVH1k-7srb56mrI0HK8A5k0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u9hxkHrzxojdZ6mFleMyzsenwrovhjKqU1T5vDr7W5aYFB7_6Kq0O9z08pu0s0NVaTjErqhbJ-MjnchUmt6DGL_6_-FE7_k0ZZVMOZ7NCrL5qvwbi60C-QD9xSz2sLAZnr6oPCs3rhLLRYabylw476_--DPaCW7pBEOzvTG4VxdzW3kzkyVqZ37CtjbZ8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vfn1HQOm2dYDOQXpdOaabqkahkUEcCW3A81vVcf3SVJLhNcizlawXPb6o0gaTGNwZreEDaEZWuL2kmPmPtWljZTJPGs3U6E6sr7wa1SzVL4cZtWGsWNRBsEGHqEGgQPyZ1k0dBbkiCEPSW0AlOgckrZQ46AOTiV5BKW1BbKgQgkY6T-UyxLUq-yXd9=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vadMlTAZsl70uOpV5_ky1UnhH83sPqFxnJVWzRKqPG5ucPpXldgby-TsS4Gcc18VAWA6dCW8AgnzGc9aPPNFr4Uuo8uZbo09S1fd65vTOUgQmp5ykKGLiMM2oc3j3jQCn8VtHGHb5wwZFMhX6AtlS4KHmcdP5lQrwfcK5IUI0Ov01ykedWWuX7Z_mYkuU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sFJ83XGIVleYFPyejbSGdvfeHRHWJla45gvFoeZeiOttJPbHhbXJ06HSVXy3EBqyeGwWrFaiJ4u063ZmcSBSBPl5hd4xgDfIY8q-Euv3Lz1fsi4wVXmtX9U-s6cjEK0jz10Nt8UtyqOBfYivh5CjkvNHBcSkCh2wHohgkSpEyP64nxlwcdSLTPFE9PdsQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s8i_owNLQHtDjI_QDYUsCF-qNa-VEpcYjhCuXyqypal8U1K4THqgLyXY65E4qNPGhqMqBjNeJAeyhOCcor0XjhKPUHk6YRXDnCP2kYQblVds3lZfHaUsrgTKnjOrXYuOKc1ISgOTOGm1twasH_pkUZBH62b23k2_Z7jahAW9meWhPBBahhEvjmsVUeUek=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uWrjZ1-4-T0zGRTF3YYIjpRA6GcOR5yGjnYZlTZen-v0XyRr_eJFgz3NJmfyG0CCWm9ULZ9KrlwzW2bF0Qs3mqILySj0rUIGk_bC2cnP0w1-cN4iG2YzGHkw7I9keGSzxPs3i-fJ9P-VUujCJhfVwJtZs-G1xh1Gu13peU0jVnlmOMCY04bizMq386EQI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vDZ6PFD2uE9S6qmhcs2DnNURk5ODTX27zkX-85AK0Xr-YTayKHPyp8l5iqdA150YHNfs_fQqZxNdTCMYzYYkwDLjWUkHKEsoKKGJbvnr2AIyzsZXiywKN3EopUVlC5OW6xuJlUfAD-ga3Y_Y9iyN4dTz7xKCNnur0DpnAQgOrfh5fvyK3ZAG7VV3X8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ttrnx1zekd5FO9XXqPhDvQoJ_dfFhvYaMSPbpnlG8Rfnv-FGYgYVCV5DC53STvmAr77-G3f7BmVVo1MDuyz2Uqm019X6bukA2W4gkh9-x09-p7Vc8-RaYgozDd1u7JVJUM3foy7dp4RxrMU1iEKFnGa292Mac1WknGlNcqwRRRZ_HkiJMpJjao9aUltw8=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_96_1.jpg",
+      "assets/images/ev_96_2.jpg",
+      "assets/images/ev_96_3.jpg",
+      "assets/images/ev_96_4.jpg",
+      "assets/images/ev_96_5.jpg",
+      "assets/images/ev_96_6.jpg",
+      "assets/images/ev_96_7.jpg",
+      "assets/images/ev_96_8.jpg",
+      "assets/images/ev_96_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 97,
+    "title": "Голодомор 1932-1933 років – страшна трагедія в історії нашої держави, яка забрала життя мільйонів людей.",
+    "content": [
+      "До 90-х роковин Голодомору в Україні в Липницькому ЗЗСО І-ІІІ ступенів було проведено виховний захід \"Свічка пам'яті\", який підготували учні 7 класу та класний керівник Гоцій О.І.",
+      "Бібліотекар закладу освіти Мастикаш Г.В. організувала огляд літератури \"Голгофа українського народу\"."
+    ],
+    "full_text": "До 90-х роковин Голодомору в Україні в Липницькому ЗЗСО І-ІІІ ступенів було проведено виховний захід \"Свічка пам'яті\", який підготували учні 7 класу та класний керівник Гоцій О.І.\n\nБібліотекар закладу освіти Мастикаш Г.В. організувала огляд літератури \"Голгофа українського народу\".",
+    "category": "Життя школи",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72srxXkHm0bN69ctDZ5GF5g5d8PAuAiTsztj_xLkD9azguXR_KuFKAa4neEV-4twhaHOVz5Y2cxeW4eVxbH8g0wrrzJOCq6548PpfvA9EXsEHv4YmD1Fqis8KaLnhUcf0xxsyeikxHvjYM1hM77fvi1TqgcS-tPRArSRX-c5Aaro6z-J8B9O0RAaPFB3=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tR72XrMgb-qinMd36n3Fc6Ah4EDksgvFZxX55qXaSpHFkhH6YG3Eg717TvilxTevkR385qSWI02MclQ0yWZV1mJGb_0EeIRkOcRWPZk5iaddKuqMVBIj56UKXn50RPV9g4X-nAzliEamlyCqIRnCV1z6Ly2AXDvi6ceBLGkKLjr-UDvZu8VrlJJ8cHoRY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72viNyle4f3rpVEXYKvjD38tQhLDRoCiBhWDJqNyCWr0Eny0H-1zcunKI7YmydMwcbxJIIAi2FM_Ok1GC-oSJHgG5dR-2dzdUzb7L6VEl_O-BdVWNg-Zg-bZ3HfYBsInLQp8Lk3RM6Gj-5pHld9I7ud0qgVG5FuK7Xmg-0Bbx63Fiz4qdoaetQtu7KHZufQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tWJJHVX_Tr4i9v60sPx2BwGpR-pgSJo7U2wNMcjsQVFMgBV02oOc0va4TWXHQCgkHxF1KOT0JoTIL31fm484-SP6kyBrUoGbYkhIP0lALD1LD-mbSSS9Ak24VFHkHbFLY3H-65Xb4hmg9SNIPTWj7KgDMUF7aqP7madmllfOElfI_igXLL4GmFJt4f_yY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sPMfw9Kt1YdsJuQ0H0sopa3sMOfhhFhJZCiU91gq0W6vsMlb0Md9O9X_qfe9G-L8V3DsUmiZWtKc5TzoCbQ_UsnKvH0B1r4U3lN3ig2y5-VA3UyuTcF8YjTR5hM5Vpnvvqo3lk09wf1ndWdMo-En_BUdCOtGyj7ztlrOIzn8R1X8Z0r3P0Ezrzet1C=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vo_wpdeWEWYIuDb6RDpvPNuTyKzPcLJ9U3MZGtv1Y6T-x1NrTo7g3T_7mPFeNudwxcRIYUrUWE8LteWF3vnpxVbi8Pcms1sAi-t6r5BeZaL-tI7Lxta5Zh1LFpPM_kHBTJUtSXUQ3wvboxogtzczAJbQ8-Po8EmrPDpkKWDIGQqGzxT9Htt_I0INUAbhw=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_97_1.jpg",
+      "assets/images/ev_97_2.jpg",
+      "assets/images/ev_97_3.jpg",
+      "assets/images/ev_97_4.jpg",
+      "assets/images/ev_97_5.jpg",
+      "assets/images/ev_97_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 98,
+    "title": "Благодійний ярмарок та концерт “Високого замку” у Липнику",
+    "content": [
+      "Вже доброю традицією в Липницькому ЗЗСО І-ІІІ ступенів стало проведення благодійних ярмарків на підтримку Збройних Сил України. Доброчинна подія, яка відбулася вчора, 24 листопада, об’єднала учнів, вчителів, батьків, громаду села. Проведення заходу благословив о.Василій. Учасників ярмарки привітав директор Ярослав Сухович.",
+      "На ярмарку можна було придбати солодощі та вироби ручної роботи. Кожен клас закладу освіти, який брав участь у ярмарку, намагався не лише вразити оригінальністю та творчим підходом, але й зібрати якомога більше коштів для підтримки наших захисників.",
+      "Кульмінацією заходу став концерт академічного інструментального ансамблю Львівської філармонії \"Високий замок\" (керівник Андрій Яцків) та солістки Ольги Фенюк. Дякуємо за хвилини високого мистецтва у важкий час війни.",
+      "Зібрані на ярмарку кошти у сумі 42500 грн будуть передані на потреби ЗСУ.",
+      "Разом переможемо! Слава ЗСУ!"
+    ],
+    "full_text": "Вже доброю традицією в Липницькому ЗЗСО І-ІІІ ступенів стало проведення благодійних ярмарків на підтримку Збройних Сил України. Доброчинна подія, яка відбулася вчора, 24 листопада, об’єднала учнів, вчителів, батьків, громаду села. Проведення заходу благословив о.Василій. Учасників ярмарки привітав директор Ярослав Сухович.\n\nНа ярмарку можна було придбати солодощі та вироби ручної роботи. Кожен клас закладу освіти, який брав участь у ярмарку, намагався не лише вразити оригінальністю та творчим підходом, але й зібрати якомога більше коштів для підтримки наших захисників.\n\nКульмінацією заходу став концерт академічного інструментального ансамблю Львівської філармонії \"Високий замок\" (керівник Андрій Яцків) та солістки Ольги Фенюк. Дякуємо за хвилини високого мистецтва у важкий час війни.\n\nЗібрані на ярмарку кошти у сумі 42500 грн будуть передані на потреби ЗСУ.\n\nРазом переможемо! Слава ЗСУ!",
+    "category": "Патріотичне виховання",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sGCrWPcY6kC1Z9YNM2v42_erqr15q6cq3huWNIueYP-tnFuFUow7RzhUte5Wlqr7I_rn_0mvpCaJt4TsUWELLk4My2LMNksJIJNJ9geOSsuygUiFjuPsxxA1wMlkUusn7YPhm1efOjz_sHnVy8E-aRKE7rfaxlSj5CQf6uB0pd-YtwAJQdfPjsVYA_9b8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tpXdMWBWlx7EPXfeEBfYd-PvX4H-uZosVkOLadOFvC-GkvbFvNxYYQnH5Mko0El6Ye-Hsr1KwKo4q21-F_OQhvJfZNtloFLYf_uUJ9i7ofQ4xlENSvqw3h70SMeSk1xSUzyLSZ6oeYzC2oWuAz7_6MYprzMy-U0VUkjpgQgieekQIWTHkqWeDNJeOdaE8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72seCsiBw7eJptdIkQ84w1NLb0jL8d43zerBzvO9qR5WMDZ0fuD6HzD0SiFNLQesWMp6XJ7KFY6VLYljujV4py9V3z1_iwXV9VYCht4cXNb0nTps3Jy5pIoYGjkyaHoBcWABQtwEstQ9fVRoE9kdY5LPgQJM3i3Slne9Z_KMq9by-XbUQdJJoNaVuj0SR3A=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vWaiWzUo2xMdaycYkxSaQJvbLRA0riarqKYBk_Boh63kUMS8sxe_w1mZCexr91vmccmlE4xwrDGJ5v-3qg0S9xyoKMXLrVwwFh8JQj93ZMwsInNBG80ZMWhfR99xkTXuXGdSc6Vr2ZWBCznCKQkOW2XWUXWQY-I5fJ0aZen7gtUGh0Qo6LCr3tdKCsqsY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sHeCzm3XfyU_QRDfcJTpKe1Jr65dFs9b-ZLxbLN1nvdrdgu_aTlj5n7kPE0DcM3bVMlNSvFtDNC0TzcM4pF62bLCoH-5yQPo02qktzbqPgR8cgM17setHMqhqHzST6cm8rqqaDZyEUWMsucEQnkHl8i5ZTTp0eP2Ygr0dpHfjJBxnpw2GqmTw0qTaH=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t2ei-p2_dc_run_of_xAFwdA0H3_YbFa5OMJksz2MBiQkHUJAoRt6MkwUXsIcGm3OVMXGHeiECzWoVcEnHA26irQ53zEqEdCBZmkqFuOln4SKxyb65xvBXPm9X9Sv1DoHc6WFoyaOyP8S1910mc8oveoLip-3RHBQDQ0xXRF20f8mu1Ip_d_B1sncf=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tF7cFqwQULDmAbLTKgbp4cyCkkB91OFjRzGWPfS-yOYQFIOYdjZtkQo3VkoRa0l__TLiRE2I8meEs2F93Y8DnAJdwIFTTWvoVUWMYlzY04tYAWy_9SMtIJAv6wF-A5_6GtEf231FeAGXlWDhCQvVls-41_cQOtjBomgcb1kCu95UZ6AOk_ROtb1v2o=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uz3jlg2EXVTOgyQvrgdm9Aep6y_c3ZJebesRXc3osg7JHTr4N1Aw601YbBh-AoHDSw8Bp1R22lxmiMPQCNzYIaiTM03uny2VHT72SZo-8PLaRLZR4OKEXVeU_WPZ9L_2FFYliYLCNdZmlYr7MEdLLzPswB3NtcuZkhoHQecT8Hs0GtRo9XX0PlcwrOTxw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72snvnDuDeIczHhBhusHV-taIjfsXjPoP0iR7FkeP07XfZcz4rPz6896HKzmrq1FotRW2YCXYb-_0GFcptaKGUxJV2ndFSA0jmjnUrWV8AUGhtTMDhpOZkY3zWf4-KCheOVsVhLYZL2N5TRWliFzBWY3_SK_e4PuRkp4kqR8TPirVo06Kh9opRgstBalLpQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vINO8pcIwPw9zWk274mmUUzuNorpnaBwK98W86OXthw7xE9D2NKszuZrN_561J8npxOpHlJp7l9EtsuxIYynzvGCo1DPfQh-Y_WfFsIkh8_Uz6t0FDUyeZefyzkRN0vi6nM1UZpGHqgGdn6pz-7Iko5XYXWAnBMcPZPxDTlM9DFaGjllebTT0ElelgnL4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u2bYE2eihrH0lP32P8cXTb6HVScIPtmdNyh0rFqpOc4XPHESXzJN_j-CBnpyk04CE3cExEOTopRERt7bPrh7V-ZVkAKDp-i-YYuaJHNOgAVji6MfUNsHUbGb7PgUSl3ll3xiStvrl_3RCMBW3Msb_xqYg-f0pzzTweqSX0ap8G0g_1NnHY3HPZG8a0yzg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uSG6606ArB2GBbV9W-p6s0_QdlfLo-C6ewJkoPJp_tg-sJCR2q7vVr1uedUOKTQ6urslZlmDb22iT6mEX6ZoPzHoLqGscUCu7kKYxDD8ty1KH3oMXd4aplKNTT2nZSiw-icmBITYK8yt85ht4okFJbTLXCwX00rE2kUpREiWZB1XIZRvsP8y67iOrkqjQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sTpnRmzkYkluX9XtNkHo0MDKDar6C0jV5ZoVuhyGi_MkdwnTuC3hQykEDun7sv1bX5d9W9iYCE8DRtRV3r2l4K2xE4DDCn6nGrPhExRZUmQC4Knw9DY1tyYq-CJtc-000eNYPEwzWOjoWalsxs9Hp0xFZ6ZiQDg1EVcJzKut3AisPfzYbyhfsk8tKXlvo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vurnbXGbpDlVI9QogVIDDlnMJsmHr_RiXuiTObuLC83cDv03mhNrgsBIfE_qVrpUdX-hGSrdo-C9gd_MI6kXkoQlifhUYU0Nh98oIfwvvO0Y8iGxNmDCLaFTog5NIoGK-X9nN-VrC1wsaSbH-W7N0uLZldH5OkFITGcFPC91bjX7t62wW_Lq3_J9tsSR4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72so5Z_pwYFqh-IYK97_GdXpjEmceguwbxcDxUOgjLLS8al_-yr2fWmfe2pxeonA3ws-MQ3cM5J2oOUUvqUrFp7gbT7FXqncza7bCT0LEdyZBATior9I0UKVXRyxUSQASLdXnpG1MryehEX7mdN0RjoYKMM3pmWbCfNhmBq4GrW8D7zv2A-vvYHCD6t2dZQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sUMzGJ4QlD31hVFKulkX74Z_UcXBjj5mMo_GuxU9znw_-EVTmvoJQ6tUrvj0952KE5U12a34QBBwTz4RsNFVuVO47Q1RSv3j7ueAbESPkAnyL18d1Qm4RQCfWYokGR3GWz5QFg5AB7L05mXezNPu-J4TN3obxZayTybYFYK-1KldSuTvYHFhLztFb4IDI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tl35Bsfc6DMkNR33awdUaKslu6vO7z0BiBfd1TF49EO8h2ld0RLiR1K6y9g8ZAQGoEvWH8J_bvWtJjuwdqtrQdH68pa6aytryZILEKxXMc3utHdHakbfL9vGwKbathHJQLZjNo5TB1cchwGCz2bI2vInDuVg6iBGlmON6UnpAt39je1t_vG7S3YAYG=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v2ZjdNVJqzaRq2-rt0jYzTP6jnOMWoo2koMdepOyAXWQ1XSOOQSV2245vTpTTJ_iN3GaOzAZ9n1AZXFtGOq_7zpJpI28ZkuhpM3wkHaS5LQIpklg9Kao7NMiCXtpMIIKRizSduYnHtdaSlF_FyhMPAKnmLQ-XEKnWQXjtcl2eAhk6Cau-9RHOqgLedrpM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vE8DeOlWYWYQb2bJs6jBk02eiWqwRJXHcPpD49iEsfDX4Wjrbnnx4h7sMMJCZNoA71-1B6sgnwFDmPLDkBHok_BI36L0AEMgFqGVwl1l-v6YHfDs3RwWbpKxXpDrcAKAlphYDsalQHuXX3BBwtgHqJw8vb9NmUrBJulSCns8SDOY-FOKLF9K3hRWYv=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uqw2WFwRlgLAo-SE3wIASTy7B_s2090R6vQjjAqK-TuwUipdNskiVLDmeatFyD3JhI4llji6Xe2bh9CWWRCfcF-zQsKgEqNV_EMxEb08qWjDfQAOlykWffFTv5P_I9F9RLZVyX14R7qFXm_WBjTS5Pn0fONty1Ec7xZSy6ZdEBmT5gPyI2I4vwZMf4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tXq4cW2vec_tvxHoaIzKSK7csfgtobHoe2vF-we8AnZep9Oy8L5HYWTII9YyJxNcAccpRYJaNP5kJ6HjQE8zDT7Slk0oXShysWNjMu8x82S6LlDRjJk2R4v3ISHyq3h1tU9ICaNFxv7QilBfTUD8Vk7yn6LtEJwemklLuz2ZWWQdKFJQYOjjbbiKYX=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u3LnWCrQpPtXcmI4SXxhLx90EPS86AKsXAxP73_QP0KyuQA3bWQPNksTEkC5bM6bbUZaMIHMSRslSrlR-AZZH1Nr4-loAgu65aJbzW4-fqGA3-m6zROwG2Botz2Oko_OsWdC3XeXD7y4Rxsr95bQ5gXWp7H8ztNAWcNJ7uyqna4G8ttGR9spQAYr_8lwA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ua9utYiN9PxX3dcm-B2P6jC4EdWdbFCbmmUhyxJ2Dqy_5dLiV9aDpaYh1HQR5w8un6815mR9I9EtC71TF1bur4zmvjSSlDQkXbPw7M0fMdKYqyA26E3vk_YFEpa2vFcvcGbgE4t6ZGBzJLEGAjIuPwEiY66qBFdVB-Gc-x-Qm8URE9QrJaAgdlC7mayMg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uTu8-Of514sgWc0AxUqS07Ks4LoajfLafuoYMjq2gz4yYwm5JJZWg3c1yJHdSvmM6B47arzaIM1qEHwy_oGDL0X-4Y_4xtDXxbCaiS5CbGSomgRxL0_UcVYNvL39oAz047KmW3JWaRHyOrJf-gp2C9Gj0isQtnkmnkvERfBKC4NlplgXANbqFvJ2YTeKA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ujBH2k_O2kOetXEtsToeMuHFJjXK0uXuauyXXC_NkOvVxbGNexYPtOrDT9mY8csjkFgUEs4S0WNo7rSdFPy-O-LC-usIOR8OdMxtX4pGr0RLYkR6m2SdQndLsTVhSz3aB0tywZg03FkG52J2otiBoXbBS8ZaU2c8F-NI-FMkEXKbH5V9FwBnFz31LB=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vRGV1Aa8FggwJRdj_q_RJHNakWNuPkC7UCq8DvGCuqQF5I_5UOCVq3Ozzk_JWmcZZnHNNCpR7PgbmLRkwpTgJJqZanCqRFlvVOSnXu1F3GO8ql2liPQD4x21Dh1Q9DblMQVA79JFk0uStUEmNtlLYsu8dRQjyCiA6a5ouJe1f9QI-OWN4pYvBiObYuvGw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uEK5wVMFmwX_pOrX9CSiYeTjCG0w0AmopBxNplxB_zHNIShtJIwAtrkxJA3K7qzcygaP6NYhjTet16YqBu8jO84KUAtb0LViJCadBgAi82FNQQzwggQNXVY2uzBQfhqjHgP9ptMZNoBEAvE_xgFKdNbl4cwXP67OBHxN5miL9At4kgiCOXcQUEMEsl=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uG3aZTjFp9tXOF1Lt-Jgsx0CFHT4WzS7_HmkW35hwq8EozLqZkamaHECD6OPLXnejHa7vxSTgITj4b1zKbnS_eIR3EjFbW7ysEev5XgQLqH2T7Zv5lxoLgR0dAZ1xgoCEkyNSI4xkLYjGFuySMGgEYdVdm871V5t9e-1EmwIZbb7bL-a29MypS64uf=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u5rziHFRq1IElm3uE10fNsoCOAySbBRek0i-4CgylIPjTmzxVPIkIp9Yi1jz55jt8nvNVTY5dHU6YtWZ0n9TGIRvsH2asy2qAWEfFsrY_INLLrQw7tZKYkPqQKg_SxXNfjFLv0h2Ab1rPDV51szLlkNSwusjJqSDEUWyXdDIRkHMdgNuMoEitl70nw37k=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uE0rR6Bv1wh65cdrtj8BLoplZ-bgW9ZBnpPhduS5zpcww2EK6pSj0vP-RYFcihzQfohfWWJdIMyl-bY1SIdYg8AweGpAc7rZa8snicYcKAhYz1u5tOKvoek38oIE63R3Bt9rAYPzcEzouQSpsjIDvUuF0QQNZ9NE5G_ECXX_bVfKln7Ph-wwnE9kQzIYM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u017TC-sGj77HKgqCbqIVuB3FeDwMdfw4cWmqvnyfs7ViXtIsxszWXNMwI2yBEFDkwThqRIm8eQhZmCQG3GUV2cnNaYyNFRU_4dnK4zyARwVRrl0RVb_Wxs4kxnUSYekNpNsaHTnWdkPWnN5vUbZMDf0LSKTSyr5a_VC889Q6EMORNlol6rCzi353ZCp8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vQve81h0EAxlowhsNgcWtQRyl-bZq5-o-Y18SRXt93xdr9apW8oUq1tDZVSb7AE96APT_8bStL7yjNmenKrPIb00lfbg5lsAgh0rxYa4Tib4h008pmuU3XkFVgaystb7k4tT1zcF3QJd5dpncTDzMQpnFvqoYW3a_3fNSZESAB4Xa1uqHmsOO6gjj4WAk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vb-GVCA9fnlueXgYxakmiOQprQhfiC4SeD95dVbwI_GUNxconBX3IZdoxlt1en4bwhulKNU8snslsYGJgceTzrZD9i_gPEfP7n5fWmwE3Xia9abUyMkvo-PZ7GQ87b0Zvr7XnXq9XVwZSIxfullq6Q15UCq6369FmkGjMIcKzDga9-utKfqwTfiwpiuxs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tcgKuGZtKUgj8K-p0Ja2ZGdFssp1HLdKRDOwEid4iROGBeFL9MbnSYJTO9nsh6-_yq0yIJ2xUWSAJRf3iT8yhykxSTj8kPdCpnDp3ZYAftURyAHtIz6odsgfVSpESnR-EBecA68kBgC9yspbgMPd_cz77p2gZDD_u9e8Be1Gcp52BEeLcVm-HPBKiTGy8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vduwmVNyUAebGyp7lvAYoOAe-0hynA1x48VI1M_Na6vCW3EUA22k7MJk0sHXKjLHhmkIx-d5xee7GWDoGD5vZLeApxXkQGTyF4EFbiBgSyxNVM_I_BeXqjUtQiltktgN2cCJTI8BNmG-AgvlSttcpiLncruxeLWgNcO6R6XOCXyiAEbInoAdEwcGcOE98=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_98_1.jpg",
+      "assets/images/ev_98_2.jpg",
+      "assets/images/ev_98_3.jpg",
+      "assets/images/ev_98_4.jpg",
+      "assets/images/ev_98_5.jpg",
+      "assets/images/ev_98_6.jpg",
+      "assets/images/ev_98_7.jpg",
+      "assets/images/ev_98_8.jpg",
+      "assets/images/ev_98_9.jpg",
+      "assets/images/ev_98_10.jpg",
+      "assets/images/ev_98_11.jpg",
+      "assets/images/ev_98_12.jpg",
+      "assets/images/ev_98_13.jpg",
+      "assets/images/ev_98_14.jpg",
+      "assets/images/ev_98_15.jpg",
+      "assets/images/ev_98_16.jpg",
+      "assets/images/ev_98_17.jpg",
+      "assets/images/ev_98_18.jpg",
+      "assets/images/ev_98_19.jpg",
+      "assets/images/ev_98_20.jpg",
+      "assets/images/ev_98_21.jpg",
+      "assets/images/ev_98_22.jpg",
+      "assets/images/ev_98_23.jpg",
+      "assets/images/ev_98_24.jpg",
+      "assets/images/ev_98_25.jpg",
+      "assets/images/ev_98_26.jpg",
+      "assets/images/ev_98_27.jpg",
+      "assets/images/ev_98_28.jpg",
+      "assets/images/ev_98_29.jpg",
+      "assets/images/ev_98_30.jpg",
+      "assets/images/ev_98_31.jpg",
+      "assets/images/ev_98_32.jpg",
+      "assets/images/ev_98_33.jpg",
+      "assets/images/ev_98_34.jpg",
+      "assets/images/ev_98_35.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 99,
+    "title": "З нагоди Дня Гідності та Свободи в Липницькому ЗЗСО І-ІІІ ступенів було проведено низку виховних заходів, спрямованих на вшанування громадянського подвигу, патріотизму, і мужності людей, які виступили на захист демократичних цінностей, прав і свобод людини і громадянина, національних інтересів нашої держави та її європейського вибору під час подій Помаранчевої революції 2004 року та Революції Гідності 2013-2014 років.",
+    "content": [
+      "Ми сповнені гордістю за наших співвітчизників, які понад усе цінують свободу і гідність та сьогодні продовжують боронити незалежність України.",
+      "Віримо в перемогу! Слава Україні! Героям слава!💙💛"
+    ],
+    "full_text": "Ми сповнені гордістю за наших співвітчизників, які понад усе цінують свободу і гідність та сьогодні продовжують боронити незалежність України.\n\nВіримо в перемогу! Слава Україні! Героям слава!💙💛",
+    "category": "Патріотичне виховання",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sqTMrqz4t8uI03XMcdd5CuUQooODyUIKQab5NquzRWcqbE33z2oZfMjJ0cVsc3AEXRssAMYZcQvkDAxPSz-X7zxm4OCmrQitU6KRyCvVhzhTzo6Ww-TxIpqA97L_jGwfZKFQz61_gK20c1BYHnyc6LxIzJA_AdQ4yH9UATua6Z3aPOR6Uqp9pADQcX=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s_WNGZRvyPVlHqR_BjlKBEQFKG69XRZZGVxDjfAVJcQEpvWYuRexCVTVNhRd8ri-hNRSMwA-w453ZcJYL8xW1PfB3KGRHRjpKuXlAey_aE2pdEdt8peqg6B-RX02xcxyuofmycug91TfErqUmA7-nHtEUhYUhLj_-VYH7QdGfI7_uxUKHVIyINr-Am=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s8iETXvlyKtRdwyeHDsw3RxtgyYW00SNDPewaM4NnEwJO5ssAoq6LAJOK5dblqDQrxEU1hGqr4UqW9erUvlqXYYNoUjulrsvOXyB_pAvpFA3Qcw-4egFGZCvhBllN2Loo0u8kid52Yat_IFJAOpN-rVG9swQ93ofJ2tKWjvwJxW6yjDP5SqGBi3Lry=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vLa57QNLhcwkvKW6k1FzbJKe_WyUd_JdFkwSVFhB8XcYbDWqutGQbhZ0KOkiq_bMdYdfED1klL63c4jEoQUpU4_daLkaV-bie0zxCE1kvBctPfFIUCRz1cZQZpisPCfdiBannpfambZr7cSjX6wG-lMlhFecrn4-10LbMpd05zcd9FPgotX0WU7Ve_z5M=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tTEUzzmvynV2wM1nP-gOIiW8ccBmeyc1Vn0YPCdw1hT6tbWFxW4ROhiHDzovbBxwWq_kB3fYf8i0DiP8nUvemXJ6TjtfXlYV18puiM0MrrftKMbvKs6Vyf5tK9Nfec9ZvUQ9wUoGVp_KAF2gScl-rCLZ8W9jhdZSCJ-mbKCL5V6EH9-JgLhhmUbsVT=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uDJGSKhrVIOXbEE8UrJnlpYRlezUsTQLCkCj4EFB2xxaQd_yOR5D-kM5MRx0hou3u9mOV8_zXX8bF76zZHYws77bDnMLRSB7lf8_8W65Xn6q9JjiQyvAnA8Z3zeIFfuoxtZLh-YWxcNP0SWLtj0Ad9ppIsbu4d1O3bUNC4OQq84iuqbbCM9S7LZhPfHmc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s8CYmjEHcjHSZyzT-8t1anipT1tKNLyj893apbNvzxj_E6YSEXCMup2D43aq27Ke4oqX9G0Y9EHifgiDnLXcbyKevom6yAJRTdPrnCv5PZcHaG5fvCFMew9oTF71xF9WgKA47XtUrVbaBWlLtSpC6X_2E6BhMwfJMUglPaC7NA2kT-JD4OZKb3kmMB=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v1mjuUgv6vi-h-mkOvWubfBsbjq37gWuwLXGVDYjK39UbGSG0wwtyzNcBLPoTAniJxaYFuHy8Y_neig6Fy-YDsXxv9hsNrfWm9COFne01VoL8pZa0tZ7e3n3aYej9_osGOatHv-5wRz-NxGdXiUG3CHK4pGwSst7rPHxh0M_Rgp_JcNueO2ZWc6c7m=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vhKvcaeOrsPWFIKUyhVwNuKH3gxeR2zB99Gb4aFSXuMnaxdlVYk0OvdWU_-tANy2AJ7DTxkWTXqRW19nXKuuJEj4RCiS7dbhpfPU88IXXabaJwzTO7ej111bPd1NsQx8r1IijbDm11Bp1ymSd_Okdt05hhBZjtVMmlcFgkaq6Fx80HM003lgJCKbJzPXU=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_99_1.jpg",
+      "assets/images/ev_99_2.jpg",
+      "assets/images/ev_99_3.jpg",
+      "assets/images/ev_99_4.jpg",
+      "assets/images/ev_99_5.jpg",
+      "assets/images/ev_99_6.jpg",
+      "assets/images/ev_99_7.jpg",
+      "assets/images/ev_99_8.jpg",
+      "assets/images/ev_99_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 100,
+    "title": "Оголошення",
+    "content": [
+      "24 листопада о 13 год. в Липницькому ЗЗСО І-ІІІ ступенів відбудуться благодійні ярмарок та концерт академічного ансамблю Львівської філармонії \" Високий замок\" на підтримку ЗСУ.",
+      "Запрошуємо батьків, випускників, односельчан та усіх небайдужих взяти участь у заході."
+    ],
+    "full_text": "24 листопада о 13 год. в Липницькому ЗЗСО І-ІІІ ступенів відбудуться благодійні ярмарок та концерт академічного ансамблю Львівської філармонії \" Високий замок\" на підтримку ЗСУ.\n\nЗапрошуємо батьків, випускників, односельчан та усіх небайдужих взяти участь у заході.",
+    "category": "Подорожі та екскурсії",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sEoQNGep6-AtFITyKEunF8gPlXidGlCxYY2ST6Ixlp68GNIM2hRCQJsTWj4v2vQxs3oCEvVwDwfVjqafKc4kTLW7htl73ZmY4ADZGFpR1e1LZch30KBJsKWw4jRTqaWumtpkWj-InohXKhk5sMIGnS2BzzZ0sY4rKTp776hyfrk93Torx7wBjzTSQ22Go=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vF5aIMXjKvSaoQoG8hx0DI8-rqtH_1zhaZua4MYmk9MqUszaOV6kM0nq2NwEkyX1w2Jlc14FVCIdl5NE86koS1LMD_2u-Tu6doLOOFrSEq9q4pSR1qYRKqomckzIoHZPQ1Vuzv0m71UtSguDJtTT1h1dfTNUIf1Be2H2BA7kBFXax62D46rXE8V0d7Byk=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_100_1.jpg",
+      "assets/images/ev_100_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 101,
+    "title": "\"Щаслива дитина - щаслива родина, успішна країна\". Класний керівник 4 класу Жигайло Галина Андріївна разом з дітьми долучилися до відзначення Всесвітнього дня дитини: дізналися історію свята, читали вірші і малювали малюнки.",
+    "content": [
+      "Нехай наші діти якомога довше залишаються безтурботними, веселими та щасливими. 🌈 Нехай небо над головою завжди буде мирним, а кожен новий день - добрим і цікавим."
+    ],
+    "full_text": "Нехай наші діти якомога довше залишаються безтурботними, веселими та щасливими. 🌈 Нехай небо над головою завжди буде мирним, а кожен новий день - добрим і цікавим.",
+    "category": "Життя школи",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vER_cw5o7P1tkwKBL37_TTIj1q6QKzBf0Rw8e0Sj71uW44EeW_mltDhcoR4ZG4TQBIh4-f1JO6-A7vW56jdNBsaF41o5fZk9oay_Hf3F1J3naN04XvZNVAdsenB7kQZ0vi2f4gJLIA6YDan5vECa6N1xpubW8SxPe-dV6KFWBoHNNixQ3pVYXoAWalQNA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sEo-NM9nAIPh3FrjUBSAJkycaNraaRaj18vWYxnt0yGAxnXhuDv_hyNzjpZGv18oZJizsn0tjBdEKG5uDJgu1e4HVm4YoU-l2O2LOIzdpgjOAnTZftVMVCQdlCkhXHysH9TaUAcVoWjmhX5uqMWdGmSnYjxKb_8qeHogBPkBQD9PIQxJkMqv40hsTZ3CI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sArKGwJZT0o0OqTJwAZgSd4QghsTy3WdNK_mDLHEf9-4fbehKto6x1acLsrt8ZMFTzvzJ2pcaUXA7w58euG03S5HJhggGW-5J_RgnKSD4dzqsrYTfvkHoaNJgNb6YjrSbBe7_xJOGgkmj5709wfiDNiABildh4eoj9WYASc_kvtfOnH97ziNouLFfl=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tc6eWUV9zLdTWgO-xlUDHCiSbkVPpTklNt1dp2ihpm1hxwvsNif5J7IkF1YZm5DUBTn95a3cnKh0iD-uGv8XKNLgafVuVLTYOMZ_HsfsezXxauM3N_605MGXFZ9BNVP3vLmAmPbT5j_KJ4fr8206AD0AwheC1uGJjVGC4Ry_0uXvfcYdA5PWaWHFp5038=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ump1KzyYuvI3-DIv-POQP4uKQ6Im0RyMvEZOxmriWZyc4gA1XSABTo5G8iCJRA0pK-iZIfC19QNPuCRS-RlqDnUEVdQkxqR13w3pDZIipgdJH4BGstt4OHIjSLJGAPnJr65aJOZR9FxRlLDPa2Q_W6F7GShNFYvjAGdz-fL21hh28sGZW8gKCz4v2m=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_101_1.jpg",
+      "assets/images/ev_101_2.jpg",
+      "assets/images/ev_101_3.jpg",
+      "assets/images/ev_101_4.jpg",
+      "assets/images/ev_101_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 102,
+    "title": "В рамках Тижня безпеки дорожнього руху в Липницькому ЗЗСО І–ІІІ ступенів було проведено вражаючий квест з учнями 5 класу, який надала компанія #Сучаснавчителька.",
+    "content": [
+      "Кожен учасник отримав не лише незабутні враження, але й корисні навички, які стануть в нагоді на шляху до безпечного дорожнього руху.",
+      "Дякуємо нашим талановитим учителям, які допомогли зробити квест цікавим та пізнавальним!"
+    ],
+    "full_text": "Кожен учасник отримав не лише незабутні враження, але й корисні навички, які стануть в нагоді на шляху до безпечного дорожнього руху.\n\nДякуємо нашим талановитим учителям, які допомогли зробити квест цікавим та пізнавальним!",
+    "category": "Безпека та розвиток",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72v8etKzqYZ1Mg9aqbGPVH5-qB5zIcqV9uuMQ0t1LwS-xbC8FcZISJ82-rs6WlC4ZCVRODB7YRrD_XeFYT3gDUSeKr4BeBjlUR8gC7P8GVfsKYfyg4GSglRNu1ARl8bzTLySVjmduaIC1sAMP90acKVQOvcgOoASs5TLkDA4WHWL2MaddUUZS8bNSYwKeJ8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72usRw1byAsC_wxFm98Qt31qXMZRExge9509kqtAQs12mZidD2iHoaySZnmmNZzqLdery1kgIEyXwd_i0H0VvZkmumaf6Uo9cHsaAw4v7aVUeW23uv-7zGC35rFasjzjgMTRpy6peG2nzS6BvdUbKvO4udIQpquiypX7Vv82abPoDuGhF1lZxz2bc1Rcflw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tn_93bVUXlGiq4u5AKYfh9wQf4v2Ucpo1t_zkdT7TXFUJSVtwoK2LpxFpTfLwpQm7KRowFpjp4LEO0J3EG0l9mfa-S3Itl7segZBR8jySxcTNLpeNy_QlTKgrKB_6RBwg8jnu3t-sGog5L0jx2V_BLAQePdW931bwgaooxm2whAgiqGXZ25Gbf9zzG=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uNt5wFOnm7MZadqVQtEVYFU0agSGozCIYqVATgmkdc1nUvsHV-VBINhbG371kg2p5dtpMPz8XjbVp0j30fOzAEc6_nILGkX9nx8YIttZvuTbI8dQRwPsayjC32levgOTclukvFxCJZHTa5SWYsW5nxW4lOm0vGq2ujh0jEXL5S0WZA16USV8Mi8-nudJk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u1o2QUQOAS37BLcKUYWmmDZmca-I3zN1pqOKil9Ip8h-lR0qs7aQUlzCs-ei_DMRt0F8fG_uS62nMovxBI_Q_3EvKQKJldOQLviLh_WkDb-Qq1EXaRTcSGDSTYgCYdHr3CCxstXQmZxpHtpeDAi68g8_EIiZf3dQigSh_GH9iFJDEF-Lqso9_MMsw4b6Y=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sATXZ4wy7WRW-SSdit7rEAEVshnKswF9GEqB-5-pcRD28tlXJwVmkvHFh1QzSoxsWj5-X0n7oyBb4qKv94Iw3sAGq7laA40PH3lZUrUHaakLj8-cf-5VN8Xmru5LUpowuBHv8ScmdJmWza0F5ysUYC5y8zaqPWvKDY_uzQjUq45fQlkbQuxEaCw8WR=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vV55mMfdG0xeDd96Z1cYgIRT11QX_NsonHqjoiwMKsEOb5RC1E0eCsR4YkD3giHVA1NOWUBFkgkueR4-lpKuPJMq-y2PegFP-O_H8PqzM03tPA4VEoIr17GyhVPrRlZoU12tMgH5FuJnzMXJdsDsrqm7biS1POZLJs_G8N3IIOhOEtu5aMufZIKp_CKjc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uV2qwSaH6-l2NJ5v2tVhEFMwyXylvwHjnY6vfnLen8zPzgfq05k1-ncPkWuPJtckBgVt_B_F6FGid7HhfEHthqSLGQNRyND4I3ZOvMpEekbx2KHQXd2vFkZvsMSc1fLZCQie6S_dxVeGfABqC-DQKQd1ZDSGhQrj6b3OAEc8BIjIvXIFYqaBj7MQ7j=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sfGcknNvKVKGIUMNQWvyrEcVvVM_tOTF5t2v_zgDm-WvWhv51cf0FRcQM0gqbKqK0w3CoC6g_b_lAlhqVCsx3wGI5GMSKVEFB1ebPxxRBD2KqpnZvsREol1kJ7r7necxE-qIUuh8lE6fCEkG6GvpisFbnv-bC5oOxSagV-ycwPQwFYuQGFDaY0NQR-=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u88z9Is2tg_0LKexb0NYY8D5ItzTPgSBSCeZcsp6ndjS8XXu__Wmj4so3RH_PDFtRwbQmmXksIIk5rpLQix0M8URqTGlT9xswJR1AwDFVFmt5eu83WOOpaQSsST0dvXv2CTWC52lthaGmEE863vTsQy8VCllPepntHvx0h8Z4FjlU02D3XI5aQz5xx_7Q=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vMQ7IG6y4vFZvi5E-HEI_SoaFkVAMe6WQfzLX6t4k5oHNA1KxexfM2k7HAnvVtGfCwpzK0P9ss8mNr_T-1De6IHHP9CdChwjIAKsYL_uiM75Ul8gep3QbonZyL3Slf7OGj7f24gN14xC6nV34UtmEmIf_4Xm4NWHTCmEo4zyrYSb-AICutyVS7-jSYH7Y=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sFGMdC7Equ71o_nQ8xC5MTJa1arw27HBT1sBtNzQezLX8y6Jh1jKI7t7b-1o-0bD0wb874diht1Cp86Ga_mR4XJbvKcIAK0FdiacjVnwq6PW3fAZ_CB366AUNyQ1BiHb2zjbCFXCzOk9Yp-k8SdIZtOIRe2YOV69gwLCkT8dAqzrWsZNF0vZKAW2tSIkM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tzKGClOJf1eyHA3N7haE9Xp-fifMRI1bszrlETbrpSLAAu3E4lxE16wNJ8mjSz-RtMYoFban9xooBt84yhDpku_73NeMoBIxb9sbZ57iLhUDFA59-eV3jb8ikXPkaaBrvVzw1C9vTO-IWTK7cUHlYRK0BLmrDkYy0DxPbWRc5vD9FP_2fu8XJq23adPhk=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_102_1.jpg",
+      "assets/images/ev_102_2.jpg",
+      "assets/images/ev_102_3.jpg",
+      "assets/images/ev_102_4.jpg",
+      "assets/images/ev_102_5.jpg",
+      "assets/images/ev_102_6.jpg",
+      "assets/images/ev_102_7.jpg",
+      "assets/images/ev_102_8.jpg",
+      "assets/images/ev_102_9.jpg",
+      "assets/images/ev_102_10.jpg",
+      "assets/images/ev_102_11.jpg",
+      "assets/images/ev_102_12.jpg",
+      "assets/images/ev_102_13.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 103,
+    "title": "Толерантність - запорука людяності.",
+    "content": [
+      "У життєвім розбурханім вирі, Не втрачаймо у людяність віри,",
+      "Не втрачаймо в серцях доброти.",
+      "16 листопада у рамках відзначення Міжнародного дня толерантності, учні 7 класу Липницького ЗЗСО І-ІІІ ступенів стали активними учасниками заняття з елементами тренінгу «Толерантність врятує світ», яке для них підготувала та провела педагог- організатор Шабаранська О.О."
+    ],
+    "full_text": "У життєвім розбурханім вирі, Не втрачаймо у людяність віри,\n\nНе втрачаймо в серцях доброти.\n\n16 листопада у рамках відзначення Міжнародного дня толерантності, учні 7 класу Липницького ЗЗСО І-ІІІ ступенів стали активними учасниками заняття з елементами тренінгу «Толерантність врятує світ», яке для них підготувала та провела педагог- організатор Шабаранська О.О.",
+    "category": "Безпека та розвиток",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uioOrIj6APah-L2VYKQE7IPdmaoyqndIep-6GTceCCFFrEflLPMK8-wRiOAmi2q8CktdtwDg9oYUt5dbVPg630qePHuDeCHOywAU1QVBP6smr57AlhiVGoeLxbu9L_x0RhIYzJozJFziM2Obn6FtjN1ovbKKgHeJMQ8CLlGS_adwidd0Igo-9rJRPev0Y=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uhMzzDbLi6wCCqjGFz3JWjwmOD-zy_0n-1J0g_fNVkln3PASi7orqc49sDICxTF5VFqqpKWltporOpCHcSf9QnxIM7Vdru60idPrvK3Z3sDNWMK92LDMgL3LupaLWX3Kt-JbW-3mD1ESbdnPeBr191PPv1-YCP1Rkb7GETexzGKmY3ksJiPIgqI_9xEfg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tiLt3ZEIp7EtJwm6TdSn75OH1vd0OS2kBoduhDUcZHImdqrsqsumngJREgmmwsQt8Z0_IdOT_Ow6_-8M3_Ghih6x1GQrhbJR2l-OLk9LSNExy0e82fswjOMaOmZkqEi_Ej7_IsgCLLXUZ5yWKpeBZpHlgZMFRR5SxS89XMQmZm3x4g5aGRUiQ_8UL4vbo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s39o2n2zrd727FTU_l7OaOinYZwMfdbSH1DQyFciTcy1URQ8D6MQFdy94UEwxpu8yZKoOo5VNgBSgJZlqTqFrXcOKu0dDbHN3jBB5MySHwBMYiRGSOPZyJuOI5VEg3EvU31areALnD84_RvLkW6RZbwx4ktsSpXD2UsNd1kuJ5Lk9dQp5HGjd4FwvegZw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uNhSMZkP9F6UurMoVzv1Oad8EVfdjR0RlSfYmkom-5zgVAuob3yr4tkdDuxvXg8aB1tzhcHPCQtLm2cecbNbMaDRglvfTpC8eDvFzCIpBKfCuS44vTTxnezaMqj3p6RPss9bTXce1o5u1i0HSW_9tMAXdAbEOg4oUaJ_sZO0KJK6VLY8nk2Z9dgAHH=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v8pOJXD6xEabMVuvGmNizeGOZBuUC6bVW_ls_Mnb9lSYpi-CAGU3ZntC7MnYPG4mwKR5-xtf6fJuQOLAxNINt2Isiy1Tzwf-MKk5ktJsevKQOFTqBIeJUHNNIsv739Z5pbaDAjsJftnyB69SFEh1IhUoSmLcdSaR__A6UHdC2KqIJYJJOLKIJMN2Wx1zI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t0R7iiuVSQD9Ng1r4KUpZ7tWiDn4iAIk66THVvcpIf6B3RozBUBt1hgB-4fzBK7fXcZlQzQx20lm-JhTygN6fOc1bXHxYs5_xD520N_6pptm9r8bEnTR183NDdTFrMLP2XH_NR0_ND6A5Y0L0h-XVpdvpZnTEiuXIIQK0ih_xHpLD5Ngt7Ji4gW9ws=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v1K-n5BpViriMATJqeh-5Y7xHiTNNv6_mhCuYx02zL8AGBRkEyFC4w8l1AWuIr9TdmPqdgUCBvTJB-c2A1yrZGFAgWGHuKCcpK8pLNhaTSgnxMwJwT1iOzk--oKE8V77A3C_CvE0nQM5AcAvQyJRzafZa0ixL1u7x7Wo9sAnjWGzwOjI1ORC5W0__-OwE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vS-Vxjb97bSFrkZfkhyW4nOiHnqsvbpM1sApeKMW12e5k4dTdYmMLQX0yfIjNq5-rgejNygwyaOFcAU5Kuoou_5PgIxgO-YVGq78WpImT66JO7Ks6G4qsKz5OX5cJK4kZ3H75VWYqVQhmjTEVEsewoMA7Z2jUJ_qD__LBNmFE-y2o1HDCXAyTy3ztsg7k=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tnzIs5Axh3VghIAAxJRichJFdZEiPSda5IU36rI8HzSF9o4xkBOLbAaRadfUeWEg3coKJDDC8TP_Ur0__HSmu0kBEfuiLQo8ZJQYDmYPTy3UdM7DVedMwSWvEv8kBsY2M8IQK-A0cQeLEGFxNZxh4hrvs4TY7Tk0vypz035QKbYlvV-HxQX8SpZt8j=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uEGoSgQzSmqGELUPuK_XsycoBi5Go0b0ru1QO4ko20OAxbCfe3kbpBOo_9dTtHo15GGgqdEN-qGgmmR73_jFTEoP5FtqmjCoCkLZnPwrqVVgPVm80BvT1UK14z4aYJu-htxccdF_9MtvG0Or_ukgyVpueUhq8lcfu0F1wGk8oEGxEUzODhPdepSYmxhJM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sLCONOnTgRyJ3lpwjM9wdpBigq26y2BlP70elkCZTbjVNIJH6HdqDo-m-m1-ABawq3Qv5Z0c8BIjRP2bynkEeVz4A9zOTgI0CWlerzcTzHq87w9-WHKUorypNCzolnTMGXusHzVg6SKpj4V_FGReDntYCK8_Aj4QyYeLOMp5q3vO3LnrqQXJ-M4cBrTqg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sqtCXcqfwSWK8N86ppnCV2aMvyIROhLFP-ebQ-Mxvdvd6PVbh8S63BZMY1Lay_Gpol6fpJTwIPpLdYgnsqF_bOK6hfdXRhANdwlOLPChSQMRyqibce4E9V0fOx1boRKQ5z_BXUBQ-8uNTJy-F8Q4COKhL0XepBaXww2nyKkTPMRaz6HUcPE35-2OdJjsE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tNbWPkeQxXIyk0oxNlpzUemQlmu10Mn7YtVdJ8qauWmMDDCPYIWjHjl-6WKiqvQ18APv1H5gcB8H-LfrmiJHklNwSM7a67WFLrnO_xTKz2mR7HC2Q3i3TuTOBhAFqgb5R_8X6Hjni5T9_bp3nsRuyEs9z2kPu1Xh95pPUhkz2QV0O8tMNFlIisRLCn0PM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uA1jt5SRNe3qgTBDHJJQtczIc-CAdFPQj0Goee3_Nadeokaea1MmUFsFJlV0Hn5Ue-zBfDrQRGrbp1XWCDsuTOHJVFyDlfx1MKzeaI6Fw21X1TVVerwCQPkn_Wu0A1wLnJMzKneY1-6FcLYxd8xncCy-jcAr_7odU26ahjhHfNFkXxFqv3hO-Holtjnoo=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_103_1.jpg",
+      "assets/images/ev_103_2.jpg",
+      "assets/images/ev_103_3.jpg",
+      "assets/images/ev_103_4.jpg",
+      "assets/images/ev_103_5.jpg",
+      "assets/images/ev_103_6.jpg",
+      "assets/images/ev_103_7.jpg",
+      "assets/images/ev_103_8.jpg",
+      "assets/images/ev_103_9.jpg",
+      "assets/images/ev_103_10.jpg",
+      "assets/images/ev_103_11.jpg",
+      "assets/images/ev_103_12.jpg",
+      "assets/images/ev_103_13.jpg",
+      "assets/images/ev_103_14.jpg",
+      "assets/images/ev_103_15.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 104,
+    "title": "\"Знай, вивчай, люби, бережи рідну мову!\" - під таким гаслом в Липницькому ЗЗСО І- ІІІ ступенів пройшов виховний захід \" Живи, рідна мово!\".",
+    "content": [
+      "Команди учнів 10-11 класів продемонстрували свої знання з фонетики, фразеології, стилістики. Перемогли - майбутні випускники закладу освіти.",
+      "Пам'ятаймо, що любити, шанувати рідну мову - святий обов'язок кожного українця."
+    ],
+    "full_text": "Команди учнів 10-11 класів продемонстрували свої знання з фонетики, фразеології, стилістики. Перемогли - майбутні випускники закладу освіти.\n\nПам'ятаймо, що любити, шанувати рідну мову - святий обов'язок кожного українця.",
+    "category": "Шкільні свята",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sSRGpBnxpl5HnI1rb9be9HFeji_P0t8WUGpxxoNChO4jW5K17f-EFrkSN7KFODLgVTowPDDjC8Uptc2Vy3_ch3V2ZDSfQBS7iFqIbF_f7CZESJefop7SNdTNOvwN32KOYPwWUr7rM5Dvw05vg5JK6fW5w7BDceV1Qb7pU6FOj3ucgbu7tgRuqj-fr7Irs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sqFMPN_rd2FCI89NsouCucUoWV7ezjBmhaKz1MkDg2cX1oz8V7ybSlqwWbia4aqguDHZ92l49K_Vcdliya1MKVM-PEm7Tn7jpug1mOmyN4HdPvfWDiuvjnXAMMuGIml7NrffX90wSPnkIFBtoKYMgNPP4Dt1TIKXth5yMT5DSGYv5IW3v0lh-neRftQT0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vPXLY6Yi7OAmU9sg8o3TymtF0B1EC_60VDUFKQzBGs-riLcXcqBzRh7GG6rP7Fg2GDRobsajIVzW_CUfvlSj8zNrUmgo7anwWQKKNZE71iIrHCjANKhTtXfPIFJwxBesDUWvv_YtCBAhmJl3sTcm_DOvEz42s2eGZqcfEatOCNMzd_seYAVNK5Ij3eZeA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sQ4hVt7AUfxysq50SCPbM_Z2-D_UNeMJgcTQVp_JvWtdP_zg3IU10ikKC1E4YUe8U29_ao75GOsVkzleYu68L0OnC9diSePrbN7YdKW9Uzv0-rtkAibM7OCH4dtdf0ZCzhuyXHz7As0dHVg6UU9bk2_S5q0s5zmbQUe8HJf7e6aIdkUUYFzD5swyN3Gs8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sqW1MnMk2lWoMYFRZYmlIplb1VT37X36RcLaK1F7UIK7WqWvO-5xzZGqJgYfEVheIJp8fbPN1m3feT2s5wvcdaWWnzXiJpFzz2h5LQOExFJLN_GU6MASLK_uI2ZzKPfUSRkenzwdwmyW_fuDaveS5LRiZaMaIcyoII9nwoZEA4XO_gD90lTPXPW9yVHoo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sH6oF40jFvBrRlXpNok1Kc8yuLbs4hYw-UKCUm4gOD4shdZBLK_dsXrqKfRUhwVUKXbEtw0rG9_ILGtKeyvjR0YeX5qhz0h-D35dAZMGU2Kiay6eVcXoVrohFAJUXvU1vzF_02uUArqr0QMKEPuZjQ_0jVk7kwe_sQPttabxOXCio9HlE2uGGs8PvBDzI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tF5YOk_LEi1ET7FfcyWMFw6X8Juhq8t1oH3nt0HAYOTct3ROBEKg8w97AfHuVJP46K2n27D2rieWCgs6MVadfsixmTtfYlXYdOkdKYgpeN7drKV6wgn1QpHwO6B6WwZ9eo2Ke5oTzrvwjR-U7B810l4OFCchJ5NkDKLJLquh_DEqJOOTQFKTEDKSiRtYQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s3FKC14ssiEOAFIJmi8tkb4tl4ZfFp5xQae-nq7csbrzKK2OlLnZAJ38eyyVzUJnRyNP-EklK_IxEtbPTkdgNqeLm2eVk2vPeFFdjvWV9byqjYF49r0crqTZWvlZ-ZysrFOUB1-cwAowoSYv_ifbi-Npe2il8LP2PeubmRa3j-JbkzE_UFTqDqoQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v1kHMl4d-DFu1pyylUMhixygMuFIk6NKxBTT-EZC3OG04jDmtRQgXQnyPd1EUrqZrUoJR9N0c2QG0LYy0aHV-v0jocVyPvf7DD4xMAICB7Rv3la6208EA5G4VCEtW3M58hoSoKQY6jnG9b-7zfrccXsMyvgWVqSMRfCaW4VG7TkEy-xPQwZkVlrIA7=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tAXA9ZW81k8eafWr9nCapFu_H9TBkCnenYQ2oVeHCc9cko-7iirFgeP1-wlR0J-2VGM6Jy_BKMCdpfs3sf0QgYUUmBvicvJ3gexSd5RRm8d5olT2IVeDB01Ftxwy3KshgjcFEdjCGQurpJfQz_F8BxN1DZr-Xw0_o6qz15Nhwx5DcggS6SdGMgMD1Z5jo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uSlwM9PvFn8ytHgXnJj8E8la-228w8pebkGGpxKFFxWPYLi5jqoJ7WUY3INWCtO5k3IlmQ3ptRGTR2H4nScqVBpGKLWsIjb8fk3ai01fG7u2L2TI6OlQ6pUJDBeH0zLBUPTOL6Diih8UU6JFkXpggQYNKVgURkzV9RlLCZe55GZ9OENzAupfQdOMpQ02I=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_104_1.jpg",
+      "assets/images/ev_104_2.jpg",
+      "assets/images/ev_104_3.jpg",
+      "assets/images/ev_104_4.jpg",
+      "assets/images/ev_104_5.jpg",
+      "assets/images/ev_104_6.jpg",
+      "assets/images/ev_104_7.jpg",
+      "assets/images/ev_104_8.jpg",
+      "assets/images/ev_104_9.jpg",
+      "assets/images/ev_104_10.jpg",
+      "assets/images/ev_104_11.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 105,
+    "title": "У Липницькому ЗЗСО І-ІІІ ступенів було проведено конкурс знавців української мови, який організувала вчителька 3 класу Мавдрик С.П.",
+    "content": [
+      "Бережімо та плекаймо рідну мову!"
+    ],
+    "full_text": "Бережімо та плекаймо рідну мову!",
+    "category": "Досягнення та спорт",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72thFB2uvKajpbdTyqwKJdwP5-62t95HmxQXCGhaO0kI2seJSfL7VliVdQqIpKB5KSDHHmKZuDT1nqeAqAjYitnlewDNSDm6YpFzIGVDN4Ch1e2TXERTBTb_V-DSjECvD-X1BbsHdblVVZq1IYAz3yLr-j-qdt9d8fwRpADLNHszDYDjDNhSdvm9LDzStsM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sxVMTtCQI4DGn1jm6zKFltN1GKD0Rr8ngvJOKWLKchNusVbZc11T3vo1WucfzIfg_wtA6l0vj4efuoAYRvVHpREY8U7NEwlVE2jrk3krZRw9DGmH519AsKharpjiCb0-p7N5N2Et6G2OFRj8ClUja7wWHYOL7X5hx0DnwxAaliGfy7aQqeTz5M9Q=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vIrRNmwUKa3p_5_C_uoh6Y8I0A6CJGjv6HbgcYXMnZxrACb7s7RbacVFe042LOGc9gLlUj1qykQUsXJXaULrsiNK15rDHOHricJdZkgoa1bx9QjF8FWFitrTqzH0PyRygbc7P1LM3rKueVf14b3T9cKDKPYhAV1TbsqOcfn1LLnidq_RjrdDOVKdSILDU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sU_R4Khc9chfIW51VpKe_w-xsMOWpFGzqW0jAM9rGYQ3VKqZDPJET4rVi3vVz3UL_nJZLdBJtyu_W8OaaSDWshByvp_1Oiz3OgSPM7VsxUakbajLQUCYyt0SBw1BhXayCNu1znonecr3PgQfCrWXEooNuXlupA6JS1mxyRXNdoI9vzXL_N-oAj66HG=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uA8MZTcb5n3d5CBwZAn1PxrSkm1uqjUH-J1AwXgYRzLBvzSazA0_wKWv7m70DsoySTx8Hlwga-6iTZ-SWJHiNiAn8LxQ0oOOD9NCOxoE0HSyngt2B8NuBlwm6rp2mbRnQDOOSNdydaPeFFCh0kD-CSYm5CWegElSiJoebWOqjnKzuvf4hKFLLgGgmYeJ8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s7wvti7kAJChyHe3e3VxVDLGV4fsEZYod5dZd4JtOf_Ictps2Rz9DcmSkYgY1BJOXY91E-8iYAH0syGTkV_Z74uDviCUzDzYSvWc4AVAfjFHWQHR2LC9RRKgYFZAxs6uVoEa52EKY91TqaVgwQ2ietaMN3OuFZTWxDL6OQX2XFdtqXDGXlbatAx63J=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vsrtAZV0RLCBxWqfXZRypiEPyXNBaojTu6Tmp7-vTzE3WMRjdjduPQfn_9IwDUkk9Uj9sevSIBuFjHcEooH2oE5S94-sgkK6n5ofPI4dwTJuJ7FIeuVXN7Gm82yrtC1vU8_FjXny2OWLNZPICvy6rFWKX2k0VIx4Zt9_ITD3FuanzafDlQqDdp5flF=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vqNGmv58xVhk5M_GfKDfAvrHHZMqhyy-O01QW3YWteZHN92uWV2eF8HwCiL8VXRCXOr-SWbEGgUiQHhXVr16NSALHjVH07OlviZ4BI2oneMCyrOzoEJfiSGfdnvg1qrWFiAFAUna7UQN7RYvV-6OvQoFmBauWRzjObifyV7e6G8Q64TrKjaS18uv7T4Nk=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_105_1.jpg",
+      "assets/images/ev_105_2.jpg",
+      "assets/images/ev_105_3.jpg",
+      "assets/images/ev_105_4.jpg",
+      "assets/images/ev_105_5.jpg",
+      "assets/images/ev_105_6.jpg",
+      "assets/images/ev_105_7.jpg",
+      "assets/images/ev_105_8.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 106,
+    "title": "\"Є солов'їна - є Україна ! \"Укотре учні та педагоги Липницького ЗЗСО І-ІІІ ступенів доєдналися до написання Всеукраїнського радіодиктанту національної єдності.",
+    "content": [
+      "Цінуймо! Плекаймо!",
+      "Любімо рідну мову!",
+      "В нас усіх одна дорога :",
+      "Рідна мова й Перемога!"
+    ],
+    "full_text": "Цінуймо! Плекаймо!\n\nЛюбімо рідну мову!\n\nВ нас усіх одна дорога :\n\nРідна мова й Перемога!",
+    "category": "Життя школи",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72u3HSfdOfRnpsqBYnfT7GUNzYfjrPIt8tnkPjKf270UhXs12ecSBeOjsL-YGDWrPpAZbOgqiuILko4EZ5s2Xj8qCTfzp8PgUNdQ7186Uzb2Yv5RLsk78lZu1SUipkslLOZJoLUmjkHOLPzv4FbTbwDKTHFZda3NRnHL9_uHK-0rnurKVR8tgelZ4U9aTBo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tSzKzs7d7Dxu5ihwHRuu41ynxxOVHHBgyCCAuuRXvCn_d4hDodv2jhmBFmQmiCdXXl3bgb3TDG0nJUiIusMX-qKZoxpoo822fZlVkW_9_7yq4kW36WSm8q8R3TuptWs68Lj4BvNl0lYa4uJNsIuGwACpSzmFU0um3lFFExFtT7CL9gGp-aFv73rM1Q=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vTu--zNo78X7EuaQpalpdyjC9uJPpKqQHGPgMSkefaRqoeLjEhnfSIeOqylHmnC_RQ9bnuHG_YkfvrF6r8r2_D6VoeYbvBZbq46VB1NfRZX6zl-ekFhxSTpm8Ax0tTHvEXAdNUiy9UC08WkxoxTxt_5KJd37j8sxGo7DFyuGHrdb4cknd7yaCd2cvqaAc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tr33fvd6vmSdn8YzDmPJ9Mwv8y749bieqcBPxztCCmWtoSkEz6jJ6te2RUliRkC0Ju_yogiNvJmzrF8PzhRbc-I2arND3EYrG148SmXLKbcy5DSXrH-vcqTtckgjZy4y6Qx3vRHS7yWvkj-odE5qGw_bA4BsaBXbgeZlYYLTs0zvciHxlDbxT9Bd-iqSQ=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_106_1.jpg",
+      "assets/images/ev_106_2.jpg",
+      "assets/images/ev_106_3.jpg",
+      "assets/images/ev_106_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 107,
+    "title": "Всеукраїнська дитячо - юнацька військово - патріотична гра \" Сокіл\"",
+    "content": [
+      "(\"Джура\") - це дружба, наполегливість, воля до перемоги, любов до України.",
+      "Ми щиро вітаємо учасників рою \" Хоробрі серця\" за активну участь та за отримане ІІ місце у конкурсі \" Метання гранати\"."
+    ],
+    "full_text": "(\"Джура\") - це дружба, наполегливість, воля до перемоги, любов до України.\n\nМи щиро вітаємо учасників рою \" Хоробрі серця\" за активну участь та за отримане ІІ місце у конкурсі \" Метання гранати\".",
+    "category": "Досягнення та спорт",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sVGMAxn3KbP-gN61OYuWfIXNbUGa426Bl_ot0WkT-BlDXEl2TWSveAyuVaY9UdiFKvYJvguMxMqTt-RkEi9-8tIu6du9--0ANLZ02yQlZS8WoV-G-YPuQac-yWRC7cu5VFysXatJFcee2zGIbp62gULngrEH32oISyj1IxD4jTd1Enfr537iKlobtl=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tqRHaG2scmeam0ieVF069h3eq386UbDQ9ax-GIpDS_hgpTdj-K9FU_5rL9S9_69G4IV0HiqTMyLo0pQqgNK5PtV-KKrg0uidxy_XGSEW-7OLKCulXyNFIl0K4Qdux1F34qPuPbblYW29uV30RXSBN39fZ_Ip8MpyKzy3xyJtmBHNZ7RvLV0f6tQXvsoe4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sUfZw0IWpo21VOijD6laMyEdkUXYPv-0J515cK5L80qjoPnCctNUAGKISZB5e7LaPeMugJ6BZUoBkV74C8bi2JaX7f5NsXmMvB3_fs_6mw0Gtdrkp1wD8e06CnK9V6qDnK6wv_nchWkuI6_gJ9cA-5ZaLALtloDnqwwydectMqWp9YmO_EawTzbKPA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tSxdh8sUPYGl0-4L4se4w3eWGgv19KBa0LGivp_Ru3ifDhnd9vzadVePH2U73PaxjXffI_sa7VGNPNm4PXReu6peivbqgYkF0_CFmStVRbnrxvPCM0amH-L-JMGhrkxE4qBIqv8BO617qk8xVr4bNgFyzynRZ1oq0CoV4Yy8iVA7LYjV2TEPIX9M3rup0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uDcfmxt62no3ATKRIKZzyOVUhM9XLOKu3pMU0msHYG53VAe4G98m4EBYNmkQ2-Tn_-9fYTFB7x_EBHZElpVlTewCTWjfobzCgro19q8icoioiD5tqdYv8NqaIRVOuYn8-M0-BpIWrGiM-73w6jI2gf-aFxpX32mKeT_httw-wIYmKX7Pn4wBL6QnHtwMo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vqVtbD0Myd-M9OSkRYrgyaWd_mH7wy41mKtts4SOsWapOuO4F72fmds9M5u23bjtYDHuuv4TLIhvKn-zeVF6mtjyEWqECBDYrmSvT-ZuweXskmcu4exOD_y6JUoMV8sBrFLQ2Mv1lSmgohv9f5byTkIW9evKEGDPcRJNBJjsrCdp_LhAKbwnR__8YSKZc=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_107_1.jpg",
+      "assets/images/ev_107_2.jpg",
+      "assets/images/ev_107_3.jpg",
+      "assets/images/ev_107_4.jpg",
+      "assets/images/ev_107_5.jpg",
+      "assets/images/ev_107_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 108,
+    "title": "Вже доброю традицією в Липницькому ЗЗСО І-ІІІ ступенів стало проведення виставки дитячих виробів та композицій \"Щедрі дари осені\"...",
+    "content": [
+      "Вже доброю традицією в Липницькому ЗЗСО І-ІІІ ступенів стало проведення виставки дитячих виробів та композицій \"Щедрі дари осені\"..."
+    ],
+    "full_text": "Вже доброю традицією в Липницькому ЗЗСО І-ІІІ ступенів стало проведення виставки дитячих виробів та композицій \"Щедрі дари осені\"...",
+    "category": "Життя школи",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sPYEvJS8SDbarOgI5DHg2HbbZUuMYjno8PiS5dEjotLzzvrqqYWgBHoUmlfo5JmS5NFGpRZ8KhaAtO3v2e6p07qXOaGc-pLUV7LCqNegm5dTMpFcYPHq_LWiyeqOvxpPKxn5v3COqjFSgJL7dLFusoHsE7D6iGvomaIzzvE-iuqtaXRhdJ7NMzpXq8ssw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ui0KFpWkAjDo6lLhHeAxcDDQ7FEOPIWTCMVEZxr0gMDl1mHBiU-nxTtz2-M1pQ_7pFkTaduHbWXs4IZskqq3_D1fLtna043vZ2yPuLkvB2DNedV-tuzg1gL_uVyCvN0fo1LsYlRs9RiVLizetZB7YFwNEJqFXzDqxIoCPruiQH0wiyS3IXrTT4tmLo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vlp93htKCBVcBa4E5x4r1XQhfCGAzZ5n0Jl2hq_klp8YwAKPQasYHcxeSHXH1ZpZgl5UAocPzowhWUhudm3WzVLRqeNIeq7YiXvlNkXA2iLITZz3CvjHvqonnOnjcyiorkWsg7VLpgNwIkpWioE1u2v78Fxpb_nCf5w6sa19WTy06YQUSiTX12BXjr=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uMnXTs1sEhfLgEU8znOqtckwF73D5XA53duqvp-HZ2XJZkjqlwMDuqPUG_cMPCzqkmAaVk2mL9zOSLqhbfsIPBJng9MWxJn5Q86zo_Pr_mZYdoUgRKs5IzIKmpsTShGn51LX-AIS-s0cB_ocRd7O4zr_Weq8tRux1LkG1dcpdteEPH-kpwroUNVk4m7sA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vN6r7X_dimKp8FVkYBp8tzxtuXNFLjf9FuetUQfCLqZM_5jtdVaIxP0j3UFJV9ZgbnvqUDBgqHYetV0QWj8sKF97SXD_gmUr7Ud5UJgnsOYy11ptFOAvu-vZTMp0r0BRmBE03uognz_WixkMcCqQUv3A-YTkHd7ar6A_suEkh4xPL9CsDcC8_oODLJVDM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v-isfGr09pi_Rnp2l1RvZkc9k8PZUunOUkcj2kNJrUY4SB2Q5loTE87-lEhniS-4yB3_PagM3bLu5F1Um_HTHm8jW5zqeqseexERqsVQ0HFpWb-6Ma9tcuOu9ghIGo4b9quWV-Y6lv9ZDJBLIdRr_gWPihwRBAPeAZxpRIwFEJdNmmsE_J6EYSyBDAE9Q=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vu9Lz_uUaWPKQGOajkfyleP-h4FL193j6Ho_r14fJQA6bBKGcVg7keT62eZWFGdsWX2RxYWxpiSSC1U_W0gYKPqAwi1oZWbLbRbrtnMLP4pT4-HiTqqBczuVL0G9TmrA_xoQajgN3GzbbFFbtwL-zJLNEpVqRYFsjDtrB502GqRQ5kT_aa9Jqsoa5z68k=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s1BuLWlscdlNkcBk7aVt9L9-KOV1I_LFTlAcXqZfExGce0PyBGmUQcY9zYXHLX578b5Fv77oUEq6WUPhwk20q15VdjGhmmwwehZJZlWJziqMVEONF-zpU5GwfHNg8Jt3xjokqt4z5YvDFyNqa09tqTJse9dox_lQMZAwIn3WudRU79d9jzNpFH4ovr=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sM4Wql2naVKM3tgSgApcOcuWildWKyzuwhCuVhuEEOJvftWJkVlSvVqmaqUxIpFsg3m3UcUBgjJRahRcvVcybCQB7xYrjKCqj7gBxtbHoOdqeOZZykHt7abUDO-Um2SEP43Y7gQPBEAVEe0o6Xjg0u2xoRDxib0QjADGHExNG8BmXPnSv7vQbrhYy0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uWWe2WKuGCEsnaCE4aPLpjAzERb37kGX7E8syZtUyMEF4QC1q1Q2djcw653pEzXkFPl4fee-Yhdtdlv1VL-qVD0fqJPo6CPbjRS6d2BIYlgxLrnuppPjl7QNkpD-cogwjHQKPOPtacH0d6kjHe4HZ-HiiBjMHo2wOm95KoOgWCw5_usAADaetbi-p9Wk4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u-Y6DRnebpGHXLEWVCI388P5982kLvm49Pu6GxDxChv7rnhc0shxfyQ5Z5cElH7RW7hxhJySpYLiLYTpleRE-4XmWReB81mDrssRA_Rsr_M9BUb-l_Q4cIvVeilE4oyMB8uAkZvCQ3gDKvbeeZd2D46LEIDJlkP6-SPIXgJDxyDaxlpvewR4fBVe__=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uHnyZKF_X7iTUITzkOUPjvLxjzMCBu6iLVAVBPeCVnAOBAjqwBVyyu-K4FWbCCgaC6u94wbJMYDKuvzQmagoirUerynU55L-gGp6xhdR7J3tT4o2pGZNxOIUQtlF1UZFvmAC3J-KCWaqD2_gcjGdkPFhEn4R8xZtIxTpKomXjAtxHap0fVm7vHkJHTGDY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v5UnAKqQxrHRRFoykbffFmP7B9gO9S-LMve5koEoqY9r-ZV2hIaPvmacSOoi3dY37R_HVf7ZUFGiSAya8ljxMWKWcnyIH-wLY_ejx8XAupAhrwwkXOdNhkcU1Fdsk95OARtZMwb9j_ZWp_Z_xYDuMWk0P7RstYEA-j-k74DUhl12nXfyzbHjW0OmKFZtA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tNNldgieFkfP5hiOfWXnAQZpcc7Y0mAFgv1vQDC1id0abJXL-8OPM2n1W8fcZO5Iq8ykgs7-uzOK2uRSYCX5JTOAhqrqYMFXmsxciRtdx7PdeS7HuJyPrEBt2Hj1C6pYPKLWorkEHBsfXkaFSEz5_tZfQ933TZy3164C_w82N-1TNo4vl298bob1TC=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vcaOzRkJmUkGrl0pMQ2H6cs24aQN16aDjBknMB8X8HRdXC_iUGAsM947GATqN7VpVYyrVZgYT3KDhGGP2hzMOUGhAwhpJJRwtaL5Hnbi07w4pKoDznwG81_NGhZKuVUqSWy75oGpANlxpPA6MJtZ7YIODrAJCEp3VhzVG4cEf-dLpT3ABrhOYPBTTZ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uJelXDnamEej_5iG2L5_M8Xb6Bq9aIlS8qEM3Je3olYSL3gqQ_gZMqG38zW3Gp6_mXAXTD_oaV6mRdUmQ1iYUguAhaCPmY-GtPtJqm2feZ9kwn35Av1wQwxWZO045zi9kOkhiF6qO56ZnSGe4V1Kxixvd8pFyYGq8OvYQ7g28XJCrsfd1_edscd2Gl=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sgG_2nAw6JXN4c_CpUMawyj1OKcyPLkVQJMeUyeRHG3w6OiYXujXQygtahKlaR09NteD9Gi8nPjnNfu08v4qzQAUvDl8fl8G7w7hbvnadSPJGvJlkFScFHTLM_e4jYjUBHxDux52pjtw-qcLFddKlu4SiXx_y4R74Cjopte9f5BlYJoFZoJ1xZlFzL=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sq8nIn24PzyG1fP8JV6BUUK0vD8YQnRZ1ia-qgGHY_eT0gFJu6kn-yXDlCsuTrUPJmD4cytC1IqcC9Z1AP8t5BPxQvnNMHWgLCX6_WI4kQIQ7tGQ25izoHjXUPLIc3BBzLyid3PKdYe2fZTiTzT9x0ueiPmYgK86a_XKw3zj0NLqp9IMBrs0dlKqHu=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_108_1.jpg",
+      "assets/images/ev_108_2.jpg",
+      "assets/images/ev_108_3.jpg",
+      "assets/images/ev_108_4.jpg",
+      "assets/images/ev_108_5.jpg",
+      "assets/images/ev_108_6.jpg",
+      "assets/images/ev_108_7.jpg",
+      "assets/images/ev_108_8.jpg",
+      "assets/images/ev_108_9.jpg",
+      "assets/images/ev_108_10.jpg",
+      "assets/images/ev_108_11.jpg",
+      "assets/images/ev_108_12.jpg",
+      "assets/images/ev_108_13.jpg",
+      "assets/images/ev_108_14.jpg",
+      "assets/images/ev_108_15.jpg",
+      "assets/images/ev_108_16.jpg",
+      "assets/images/ev_108_17.jpg",
+      "assets/images/ev_108_18.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 109,
+    "title": "5 жовтня учні 8-9 класів Липницького ЗЗСО І-ІІІ ступенів взяли участь у іграх \" Козацькі забави\", які пройшли в місті Рава-Руська. Наші хлопці здобули I місце у стрільбі та піднятті ваги. Переможцями стали Нижник Данило та Міськевич Максим.",
+    "content": [
+      "Ми пишаємось черговою перемогою наших учнів та бажаємо усім так само безстрашно та впевнено долати всі перешкоди на своєму шляху!"
+    ],
+    "full_text": "Ми пишаємось черговою перемогою наших учнів та бажаємо усім так само безстрашно та впевнено долати всі перешкоди на своєму шляху!",
+    "category": "Патріотичне виховання",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vcAhKu-CtyNT71_iwWYeZepQvkAG9TDmvdpowWTUQwIiRjrQ0PRLlB4DZY50ARUhEbiBolPP6LR2F9GokyiZCiWZREyjAKRoKb7VEAOEtmkIfS0ar2sZlu1VZGJSsL4uTkHvkNhZew-jhJ3INv4vL8izWQ_gmXWquxHektDI5V2XUCJiWBIUWxs7TBqT0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tIYkWlWbhboZWf3fNEKaSsjfGkvOhO8t6SdSoBGJ0zS5NDvWf6kAdZgIdtnRSOlJMl-3rQNSg7lZ7W8LLDDZ--pMZEtwxY3XJ5hnIhMJPE3eRwcfVIurQf5VxnUkPKGAVmQ5uicWtiwo6_3WHJDkq_SMxN7gpxXT3zq7FPzI1uvWV7ZgT8SJiAiUkWUmU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v7nuWikyMOG02O012OAC-5VJb9rTVAR1fuFFCYR4j9mE6_dDZhLLtA0gUWsf7mUM2qMUIlAZIfceREO1uGHwv1JJvnVGyTcCRj_jJBh8eoaFir2C8lGmPoxMaPvPrjUTg5RrGhGZEpUHNDPT7CorwSQxNW8d5GyAxnqX4D-4YREAj1m1BvKqvoZPX23vA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sJFlUYO8qDAcqZZ5aWLQQyigw2-ShV1A8ArJHQxzNv7lXnXcpftX1c2HvTOita0eCDqib6eLnfmVFH-OUyxnibYY6WM3eWFnLt5yP-OrrPT0jfxYs_CK_fr5mkt_z_PoSHfj1mpPH44Fprn27TfKqZOQJf9l2wDiQ0_ZGW5ZknWP_Q6BB-RVALCw-4ykU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vW0e9ohuOd0j0CYqisIuUR3sfJZKy1lnQ5sd_Zfja876LhKU3IvXBakW-uIWy-b3zH6ZCGcZ5rNlwiHnrzskg39K5iCQp9JiBuMdLhXAv3FNOp-sRuLNPVmy61rjxkscx1xN4VPa0bBTnmGj_lWntUP1268XYcke_25lOb-VuLO_oiTvQZL7cCkKZgvms=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u-WJRXpQVgy1Oh3CxjI8b1KQUZVGLkXPs_2E7Vsq9EELPoIzOzGXOB2I4sDLlXQxbsMWVye0CFDebgYCJc7JkfZ8CWduo5BzsRUhDjGRHz5PkGk5UvddiSgzH8z74NvGfxUKQ32Sx7yXeH54IC1D2VRUem36XHZ_GDVpaadaU0j3f6nNfHd83Rcpo24UM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72utNlBOifs_Z9j8lCz1vLz4EGImCjbOWRpc6KK_9bM1at-hEMCCNs7wsI7WGmNWbgJL74R4e3SaUJwLeqP_AwiL2iy8qu5Xaf4WIWf2KiEM0vghVcAjnW_9bsvhZIv4vgdkjru4QFDBs30-VIZg7tKFgs8Lf8E4YyXqohW6WlKnnU_7cljUPaIyyLWnz10=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_109_1.jpg",
+      "assets/images/ev_109_2.jpg",
+      "assets/images/ev_109_3.jpg",
+      "assets/images/ev_109_4.jpg",
+      "assets/images/ev_109_5.jpg",
+      "assets/images/ev_109_6.jpg",
+      "assets/images/ev_109_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 110,
+    "title": "2 жовтня 2023 року у Липницькому ЗЗСО І-ІІІ ступенів відбувся виховний захід \"Козацькому роду нема переводу!\", у якому взяли участь учні 5 класу. Свято пройшло у формі змагання, де кожен учасник зумів проявити свої здібності: силу, спритність, мужність, витривалість. Запальні забави, танці, різноманітні конкурси робили захід цікавим, а дружня атмосфера глядачів ще більше вселяла віру у перемогу!",
+    "content": [
+      "На закінчення учасники були нагороджені грамотами та пам'ятними медалями."
+    ],
+    "full_text": "На закінчення учасники були нагороджені грамотами та пам'ятними медалями.",
+    "category": "Патріотичне виховання",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uNW9jp8sQOx_uYjmOjjeGaGDPHJIfIF1PsbIM9pCv8qoHUq3XAcG0HRXsPOEyrePXWVUxHbCE3hMnJ-ILnQsARGtwMUCemr08Zyz9AftrmzwikGO6Iy0W-pz_GegbWTUg9CC8V3v_kEle5-_8R4Cj4nKjSUBwPdAk3oR5t35zqDVXzcTYpw7C_vDVMIGs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s5oxCtHkNGG6ZX-uLHJ2jCkRnGaoCbc6QCE6XV_SmRAcC5Am1oBXG1wAEhNe81jFe7fdtkmMtMKlNMb2HLKBO1iWuW-iwGxZtoAy7M4Tjrw3W2PjC__UEyab_X3c6cJtaNQAwaOHuT2i8S4JtUPNPMe9W2WxDKH7ayRg4pkQgCEHnIG-5XZmi_awd0byA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tWAL5t-swB5RuY6pqLxWOqvxPL-zyeytv5HHc3LvxsxsPU9TsrtwSWfbRkxvNhH-FzS2YBNm1-idT6yDSqWxBN3nFyXUHLtdcUO6_xW9Ur62HmQ5ByJkXhrz7awIkMP4iI_RHyEh2QAl_5_zQJNR-qoc0toFanE4qEbOAw4JdHwyyJspgcK2gGkcmrzFg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72spAa6c0HK6xpp0UAWhqQORRA7de5EIrqBksIIhFzq2swKH-1jNzhNOeY4qm9mrwoZC38iAZ6-pfdJbJpslOFm-mZvpyJgk47EXhpNa1q3s3bb5wUJ60zydN3vttUtLwef_pd5K8lTyROtaOdqfvtg9DBC0fZLeQgI5gWqa8GUbNLcQ2zveEIctU_eM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vMn_XRYjWS6mKLa7CAkngU3K8F6xk6wcGv_aN2KHLJcxnRSPTjh0hgHfpDCbCXVXLaWnIQrk0GYXJku6nBVlD99Wms5KCPEv7kVJZDYsmBJZ8u4RQeNoN2ytQV9RtMYxV2Frqc5zDXaqBZyTacLPgsmophmX51b3KV1jxNlepqVMsINpIJtoGzVabXsu4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s_zFlFFQCInXMv1bdrbD2cxu0Il-SBX9tcBfax078uJ3yWny31k2s3b6fTxp-x75e-3wI84q1_5PUCfJFe9s20_0tXiWuSwQNfaF2CH8qh3li4Vp5_S44M7utwgEWFVuigP8g7ktzylhtrb8UaZ3hwvqldFWNPx_Fv8p4xBH2o-WFxaLN7zuSPsHXpaZc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uzw7wdTVXs4VqCjPSYIsuaDmoROWz5Ds2OrcXuqWTWI6YR9b6gD5C6UliXv2sZiizHo4cAR2lCwf_H4gL47X1FyGNQ6asqHObICwyq6Opv8E2d0eYd_KuVWiv_vy1S4wJk-X2dGAuZwvAVyLCT0objvoSH6TqZxwQI6p_IUJac4XZwDGdv-wWOwM_Gz_4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v6i1hFUVn6GZu9iMTIEYdD8QKpvb1_lB1Jdlpb2MbuhEbI1ulGv5IREg4CmLyAyrVvAXqmrRb-ahmVzxifQik8-hyXkWYYWMS-xFU55lhSbFktdX5FGunLneEaV7ZKgsAFXEXjf7SQ8GcJgzKuVNGPdQL02DCvnjCniwjSQg2XNUP8unmM-1VI1BEw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vrq-aEWpq4BdYoVRR5Qi_sDik2TD9xS25ZKK0L-FNU--8UHe1nTZcE3EnfDqLJn9OKYzwYxl62mXlLdgbhe86wHZwgTrkD9iNmwOQ92aRKI147b6zNNjQquo1HhKYrch4tgwm-k2iexpYAhsgTcZhFoIhabaOZ9uMLaRxZyulqWYp1TeEUuedwQFWRuUw=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_110_1.jpg",
+      "assets/images/ev_110_2.jpg",
+      "assets/images/ev_110_3.jpg",
+      "assets/images/ev_110_4.jpg",
+      "assets/images/ev_110_5.jpg",
+      "assets/images/ev_110_6.jpg",
+      "assets/images/ev_110_7.jpg",
+      "assets/images/ev_110_8.jpg",
+      "assets/images/ev_110_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 111,
+    "title": "Цікавою подією Липницького ЗЗСО І-ІІІ ступенів стали вибори президента шкільного парламенту.",
+    "content": [
+      "Претенденти на посаду презентували свої виборчі програми, ділились планами на майбутнє. В день виборів учні 5-11 класів отримали бюлетні і висловили свою думку щодо кандидатів.",
+      "За підрахунками голосів більшість виборців проголосували за Кутрань Андріяну.",
+      "Ми вітаємо Андріяну з отриманням такої відповідальної посади та бажаємо успіхів у роботі та виконанні всіх передвиборчих обіцянок."
+    ],
+    "full_text": "Претенденти на посаду презентували свої виборчі програми, ділились планами на майбутнє. В день виборів учні 5-11 класів отримали бюлетні і висловили свою думку щодо кандидатів.\n\nЗа підрахунками голосів більшість виборців проголосували за Кутрань Андріяну.\n\nМи вітаємо Андріяну з отриманням такої відповідальної посади та бажаємо успіхів у роботі та виконанні всіх передвиборчих обіцянок.",
+    "category": "Життя школи",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72u3MQC4Wx5U0mmEQ-Dex0o66TZIe33LSjPYynOm3zHIIt6OZ3RZA5d0jYRnkchRNj-wGXe-l1bcQ-Ss8Ndmhy5D5xatZ9tSUbRpg-epT2IS9RMQbWCvVa7pAp0rlTnVwtbB6awwz7K_oPWwi-3tiVHPk25Vq-FeA3c-Qn63sKfn5rABUQgLLqmjFW8g=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sHhnQ7kVwb5yjsPGwFVcSIeiL9Yf33h8mbPIsRCjFxFBdi7aRwxhiy6z8d8WJc07sNVZKryPLQpfs1mqY9L-t62hsS6SV7roJ2chyXH-0C9PV-mS6oOj-AfOHrglqd6gsNm7xGobHtX-2Js4IRHh05m5OWd8Nt5T9CMyVNmPcxBjQXrf0_C6t26NFJj5E=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tE4mvYYSBvGF87ZwTjwMHt3jKnJde4NTEPYNET5mWQC98pk2pAj_97JOtsKAYqegO5W-pxFCemoAHWkG1DEEUXtuzWy4EkougAvHdHO_Kvo5xKc7-N_44twbgqgkJjRL16pGyuow0WdNk8EX7AGC_H3_oR55_uVc99T8LbrtXcJwhLF0irR0Hf8VsN5Go=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vNcqqk3vq3pjfrs3I4_AUU4JqkvQgGtz5AL89m6D1xMc03DjTKJ_sxJE3SUoK3fSGk2VAhEdYIkdBg9kIt489fC_Ci-a12Y9Rtnthhw7mipQo9hMi0b6QDbNvJSfKMcpu633RPjbVGs3wriv8Pzw3H8d10EU0kjYHJecI1QI69RTN9iNu8bQ9CC1xB740=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v1R1vTqR2UkLzd9ekbkt_5zNgxEHpwflRzub7R5QVplKI_F5NBB_YHwlaCFvhVJkBfvnSfhMsqq4ig7VH7iAqmWBtklO482ZtiG9ayvOqCrvB93PEnF0MjqimJeMU6QhYCTX3WFjIAq0qxmtRN_ji5lkqaKbn1CMrWr3llu3O1qxNHiiRnDM9Bi4-WJuI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uJjYrRUpf3oDRENQ6Oh99YO0aB80CIZ-AaFX6FGX7LsreyXMLfTNJrU480tdchEQ056H5kxq5qT1Emwj6rcYh4qV1GgUSRQNc7ASSSE2SBvoY-kkj5wcSl6jlUj1aMBpv9qGvS-jZWs_w5K8KUndCkF2cwxNOfsIZ6gT_zjv8ts4BhX0cC0puDfIc-P2Q=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_111_1.jpg",
+      "assets/images/ev_111_2.jpg",
+      "assets/images/ev_111_3.jpg",
+      "assets/images/ev_111_4.jpg",
+      "assets/images/ev_111_5.jpg",
+      "assets/images/ev_111_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 112,
+    "title": "День учителя... Традиційні хліб-сіль, вітання, щира молитва...",
+    "content": [
+      "День учителя... Традиційні хліб-сіль, вітання, щира молитва..."
+    ],
+    "full_text": "День учителя... Традиційні хліб-сіль, вітання, щира молитва...",
+    "category": "Життя школи",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vWFeUVeYoglHf8pFg1rFhw0K-I3cUNbCjSH4M7VKsx9R0f3QXyQv6eOA-gPFRrcOvDnlEbK978Vkr_L3lyNaPDqYtPjhQGrL-BQOflhFQWbKAXltlgW71kuJUUDlM5MInoFhQXqY0B50alM-FQV-IkCrNh1L0ivE7apBhDESeFHbp3aM_tHyIuzyI6c-Y=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sLN2ioALxlGC27XAMIMncJey7VZmGXoq6omBiRVIOXqXQPtVDlNP4Y5B8TRTloUJ5SI8nHI32tjpbMb_0K7RJBG5Jvhi_ZNHDKhe_7uokR9IkoARh13HfN2LsjydZCGBTBn9fDaQLEUZq1KFSnUvyxBaQIUPtMqAZ7ot-1ub79o8LHfRUGynZ6Qp3Zt_g=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t9JfAOe3cuae33fZi7QpxqpPX8va_gnXu58U_dwaaUOYru3eMzBHKed9M9dqDT8090SKxR-EI9Bx2wRxIYbfG5yBXcjbTyY7lKeWnundAVOfYbP7ISE6nAoD3CedghoKWpVWEUzIDBRk09hZjadz21KHfnqBQyU-zKu8YVVE2_ekkmOZD7n-n-aGq6=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72urHBVfRchoOz6z3yF_qQgtUPIpu3Oov-ILdZSl2ki-wnIgsfjLm17pUywoTOp4rZTlcuxjYh9lV1_E4t8Qfy95d7YL4JwH8zLjQvjDIhZzzo1Pqelqq5bfq6lBZMd5Ii6GvwGutKkFJoHZM8xvqa-2Wq3jJ1uB_D1nTJkw4mxgux7QaVyYKGeWT039rnM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uw43Lgy3HTrNJWoa9zbhnqcv39iCGd8fEr4YaMv0hyMOQPJHgMyQXqrZzpwRFaJ8sfg749C76pPP-E6jOTmmtJTL8YBz6xm_azfD0k7_61LQOriC98-Dy4ULzYzsIJaplgnTV08fEskFRw4vgfLr76xU1ep8xJYPwY-2lu7pD4Zzuqm1jKgmYwOTrdtLw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t3QD-o5JyWCH6xzz3Og5cyNfY4kPC97JwjLrJotf9upWuczfpzjBe0TRVEb5A8dhwwt3bLXg4-3R1emYUOLxeueUB0nHBbjWqBFQbsM-LYYM0cT-2eRN32i0qh-HR0BPgE9-tKxa9fE_k4wD4MQvfyAQ6fuNDe4xTKXkovbH0HyDY4zr0KAPXnj4nHTf0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t4MK3eHpd3OIhsCSkIJpc_2n6GiGG11p-Xl-urUiRwprNkYUJnmOnFMnradz9iI2O9NkzSMN2ETM5f9tOWhJa1m2jdTPRnthJIari5BfCfwcxEGFaNLzt54u_KAUD0USyS6DTf1neYrLpfHupMEOUKvGspDshGQkz-mfyDFy3w25NEpdost473_D7D=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sOZdAtaRcfUsFez1Vc0tIhnXViBZtno96BXBF1F5Xcsw-cq-F3gkDBZssdzLHIqweeRX8szTobyClj-xWpD-6UGssI3ronUQAIx4-Ii3GLI4YE7EDzmeaCvmVJGzSMsej71zAbkeL7PdnOjjoJFWuKgakIjewrdeIwhRKPOqBNQslpi-glqnyZSzGU4gs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t07ksUckUUacLCcpldR4_9oUsL5HxUtQrfvN9mbbcXcfCsfMrgtbqaCwI8bUdQzSWkxeyeYHBrekxYvA5qxyBIf-y0ykRk4KNAJd9njgAyY6E1_q_XPyMUvmr5MdDMUxAX4I3GuQxCh9C3ltzFOnEs6rueI3OiBVQDFhJiVBLO3UGSfJqLql3kIhA7cR4=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_112_1.jpg",
+      "assets/images/ev_112_2.jpg",
+      "assets/images/ev_112_3.jpg",
+      "assets/images/ev_112_4.jpg",
+      "assets/images/ev_112_5.jpg",
+      "assets/images/ev_112_6.jpg",
+      "assets/images/ev_112_7.jpg",
+      "assets/images/ev_112_8.jpg",
+      "assets/images/ev_112_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 113,
+    "title": "27 вересня у Липницькому ЗЗСО І-ІІІ ступенів відбулася зустріч з представниками ювенальної превенції капітанами поліції Іриною Цимбалою та Уляною Лукащук.",
+    "content": [
+      "Учасники діалогу спілкувалися про попередження правопорушень, які часто трапляються у шкільному середовищі та на вулиці. Учням звернули увагу на правила безпечної поведінки на дорозі та види відповідальності школярів та їх батьків за скоєні правопорушення.",
+      "Учні отримали безліч корисної інформації та погодились з тим, що необхідно ретельно подумати про своє майбутнє і своїх близьких."
+    ],
+    "full_text": "Учасники діалогу спілкувалися про попередження правопорушень, які часто трапляються у шкільному середовищі та на вулиці. Учням звернули увагу на правила безпечної поведінки на дорозі та види відповідальності школярів та їх батьків за скоєні правопорушення.\n\nУчні отримали безліч корисної інформації та погодились з тим, що необхідно ретельно подумати про своє майбутнє і своїх близьких.",
+    "category": "Безпека та розвиток",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vzZuoSekwO67Z0t2RBgbpxk24NwU5gOx6UYB5f29F_CALaPlKgpAwrqU86gGYDqcpfEYLOk7XT_bnLDDJRQp79uU0n7JECm0TrIF_1mh_Jjh_ze876-r7X2GTjHD3MjQ-xeKp3ljm2qjCanJpauFuGXoQfdO13JNTw4xkExMQ2PnUJYF6Srlfu1HYv=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vcvw1W-5sZG7Z8Mp6KB2VGCuP1J9ZDm0nMF_xv9XCUzoGPg_n2bVGbLRCOr1pf3Tp5SMQQa_QOEXppSa2-aqbJ57u63mLCtqFIWmnke8DPcY78GZuJwICosWO3Wnr2HbpDhXSDqBa9wNNpN-evZ6EYqKumL7F1cnVRbfVO35MT_zkASkGkOrxmUZ4I=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t1PuevY3vz-o8Z1mYL1PxmQSCJ6RI8Trw8wqvptRMJylLCQlYqNreR-fhRSpx4JDJc0tgEzHK-bMAkzC1xqrwJX75poDkjBMijTF0kZ3od2TRKi6RZqw7AVNlxSDhqbRHQOx3biUkxYObo70Rah_QdAbpXHPSQpcta1RVG5pw8g5EzChiF0HF3jUuZ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uTjImpmPOxkNIMKiYo_AgvDS9MDmlfpLyDLSeERTR9tMAt-DxNngy1JaOMfOEHIVGsNburre2_UaMXZzA1WXMKYSEp7tbc_KhIZfH1-dpwPIvMNjA6pEaNlY739B25YS6j-KqqGvCGPYTPbAAII_75sQhcDJvvW4bOJQFISWOyQL0Swh2xX2FWXI2k=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72usNAe-xRCMm0e4pn0tj5KzbOEtJ2DxboxptMGVmit1T78hxOh7EbPtPa3i9XeO20xgBqZ4Q7eomwWIwSgnkvG4T2OHgH6sBCA4ZuJjqWw0vzODSRLqlF2XSKQCWrMua1egnW1E1FC-W3DNRkyBRvJMVmxxJsVo4C8r6bWV9Wbsx7txA5RbchcEIdGxelA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uuwV3Tpcnb6FK8hmvVdF45KzJKmxnK4hwkr7T0DeRcyn-D10TbUfDih0u2Ivf6MGkeMbzTwsO0wo8aoENukWw_cGso0jYBnaOlfNLbrJ20SNkQT6Yo-yz2N0l1KX_0mxaib7105AQQWE4KZo3jvXcnzVUnJyfpD9-28Yk9mOxZUhN8iTWGuvGQuqZGcFo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uhdhFGm9WNJ9MjsKuJChKtVhS9RESYIcXvoLU_BnHBNVmVCruEopjuTV6oC2g1ZXFAmaP2ZjKB5q3faU-3ZOcl6J-vLoY3VmTVXEtMl9lu6Q62CSfWT0ma00rTYD9Ga5oFWcW78il2JuQpUqlVo5LlWseqgVaOXYTnduchCEetlZiGyNkVfipZf1VM=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_113_1.jpg",
+      "assets/images/ev_113_2.jpg",
+      "assets/images/ev_113_3.jpg",
+      "assets/images/ev_113_4.jpg",
+      "assets/images/ev_113_5.jpg",
+      "assets/images/ev_113_6.jpg",
+      "assets/images/ev_113_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 114,
+    "title": "26 вересня в лісі біля г. Вовковиця відбулися змагання учнівської молоді Рава-Руської ТГ із пішохідного туризму, спрямовані на розвиток спортивного туризму та формування здорового способу життя учнівської молоді.",
+    "content": [
+      "Команда Липницького ЗЗСО І-ІІІ ступенів прийняла активну участь у змаганнях. Вітаємо призерів Васечко Олену, ученицю 7 класу, за зайняте ІІ місце в конкурсі \"Туристично краєзнавча вікторина\" та Оброцьку Вероніку, ученицю 7 класу, за зайняте ІІІ місце в конкурсі \"Азимут\"."
+    ],
+    "full_text": "Команда Липницького ЗЗСО І-ІІІ ступенів прийняла активну участь у змаганнях. Вітаємо призерів Васечко Олену, ученицю 7 класу, за зайняте ІІ місце в конкурсі \"Туристично краєзнавча вікторина\" та Оброцьку Вероніку, ученицю 7 класу, за зайняте ІІІ місце в конкурсі \"Азимут\".",
+    "category": "Досягнення та спорт",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vCxZm6B9LxO5ZaprPBrY8QvLLWyRHhmy92S21NFVl00gRtW2bZA_ueYlKe9SgNwWU4Q7Uj3Ne4aRpQGgw8L8sZHoxwFgO0Wix-cD-I726Uz303fSoQGEqLPySyga7kZQph5lcPKvYBOK37ji4BmMEWt9v5de9WjHkSQWzWxpGjUk4Lov06xf93NwuMV30=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uBBZH3leWdnfiFRSERX7GtJ45mQ_WyNxUhO-HJJPEuH09-nVZQjNymhYNbDUkpcZZ7sjtwPLp5HqHU7qD5btJ-Zykcz1LLiWZeI6lebIdPFWtssKpqsSyn_vlyBpa8Wo5dgUmSSXu1eZCyp5av-57MjDhowmlLCIcMidS820mGKwaYvyUnBdp0ZuLkyw0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72szfOB7hU0BurTQbtRpPrdrMY6A9NWiBHzEO0otf8Ji-pdFKfDv7778xBWjxuAbfeTV_4qMwDAZJYEwBtgjw5uWfo4cxZFidkNiO48Qw3PVFPGekCECzouklTRQ8FPf1GLQAQpcd7wq-WxQmPLPviAFjb1FgBOH5Jl9FvyM9y0WIF0rI7XYLHv_Ymke=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sPPXs_IxlNtGLP62aBO1vxQKsNHzLzaas4LKiWaTJ-N2Ayipt6TVv83FWVn6JmI_CaUTFFUggVWt3CBwxK5CMW0BmVVPfoIRMQhC_rMXSRmDGeHZ7KwFeM2sk-94e8NBYlJQmJa4Junr-v7LaLQ6-k1GhIxvtAaPGe4gCTk3RIY69SQmXAzH26iaTX=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vPrsFaejKocmHtgplkmnCavY6HtMd8uzlvnqbRK_5mqhWtNVrepfev1nFtafjm-FbZFkFnQtcX4z1P40XlRnQC3fr2K_7l29MxD_F6aV8Ui1dCo6id2vhRNgkUMqaD_XpdMZjAU1CzQjgH8MMXIzU4e-wisIfGGvHZ3ndcnHGeW-AdPiG_FxqE636uT_c=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uSUeGMGxH04FEwadgxEiEDUkrA7_ANzEVZgGkhAHyomyJL7grXnGzmwv7GYwzQOVH881zIKbj4Lo2-bGtFHrgu6RccNG8m8zkAT36DUQ0KIJtlOhacgnqGOkgPDshrNM-DVIsKD7hTWEEk3DlrVm_K661BLpNHDm41wiWD73imuRHYxFySjCwb_x7D=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sJMWsG95eqx44JZ0wQPWefwgInG8SN7fR9FUhGKRN7u00l2QAYwfC3J0--c-dpwRJRLK_L4TSDBbxdpRdo04NGuyWRphw9rTcE3kM70LBj3YCrSRjdTyEaFfmL0Yc6H5S3Kng3DqYpJr7VZXQLqOPG3jS2MDfLGBPlhm57Fpt0vMYIya-WWRsBbut0X7I=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uiMPL32rY9nq9TTfePlfdnKSoV-X-r1UqMjiiInyK4bSYZ39VzjL_CUyeNvCrv9DzqzxGrM_xE1NEZYer9YzxiGiPYx-1NCkV5zH5CABWBg6lhgKoAOfjkCGUUSnL8yqIDmjOAMTFzJ5F3Ctn1kKVJ-jJ6gTRMs7XxpDbBJ0KV1zpZTifJfQGWFJ0k8Ww=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_114_1.jpg",
+      "assets/images/ev_114_2.jpg",
+      "assets/images/ev_114_3.jpg",
+      "assets/images/ev_114_4.jpg",
+      "assets/images/ev_114_5.jpg",
+      "assets/images/ev_114_6.jpg",
+      "assets/images/ev_114_7.jpg",
+      "assets/images/ev_114_8.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 115,
+    "title": "Добіг до завершення Олімпійський тиждень, який був спрямований на популяризацію спорту та здорового способу життя.",
+    "content": [
+      "У рамках Олімпійського тижня було проведено:",
+      "- олімпійський урок \" Діти - олімпійська надія України\";",
+      "- фізичну ранкову зарядку;",
+      "- тенісний турнір;",
+      "- рухливі ігри з молодшими школярами;",
+      "- вікторину \" Зірки олімпійського спорту України\";",
+      "- виставку малюнків \" Ми - майбутні олімпійці\";",
+      "- книжкову виставку \" Олімпійське сузір'я України\"."
+    ],
+    "full_text": "У рамках Олімпійського тижня було проведено:\n\n- олімпійський урок \" Діти - олімпійська надія України\";\n\n- фізичну ранкову зарядку;\n\n- тенісний турнір;\n\n- рухливі ігри з молодшими школярами;\n\n- вікторину \" Зірки олімпійського спорту України\";\n\n- виставку малюнків \" Ми - майбутні олімпійці\";\n\n- книжкову виставку \" Олімпійське сузір'я України\".",
+    "category": "Досягнення та спорт",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tDImnUJLvYKD1CjE_FEV4tMKMupAUwBKwOBHDWlLD-4kWStNj-ov2rL9ovTZpIk2qeDmbGtbpf77ipmdF3JU15fzN3gISdCU-HY7D9jVE3FHxG-1ZZb62MThxk_vvmOCbolBP2QH_OeCgCTZC3Biy91pfbDKc6S5rfn7K4ty_snpIz13z0k40jB_CEZyw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vW6wXxQxwlyw9bDrjdliOW_ZrCCOv6Gyle17lC5UlvSEUuFEO3d0kpfyInEWqmOzmpvCpBZtoc0q0kcsnHn0v5tvC1Cnfs2YblmJ-RAjD1zUxC19FIsvrG3AW64YVKSUkiW9LZ-dTYDrdfALxNyd_tghZy2LQTd6cZqxTM1eW3MnrpvmtjLGaJFGEy7fY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vPLluW2RaR3LXEUD2JMyC18VP9pNlYw1HzTF-edo2LGy8xkU1ZQf0MqN95W8CSA0A6psUQDnCBFcSInQq8TJoLxZoyTurYfguMRVZWuL0XgXUT6wq2FvnCSzIYN__Rt6qqMD9WiQX9tsWPVIBJFNQY5O3EQHuHSPsIVRLseQnO6OphtXSJVDiOGGJ-=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uZcOftkDhZOQW2hJY6Gub14vOx7q_zbytDL482908yPMLk9q2JlKHQHVh8_8cOvQPOfLPk0Sy8SCvcsq7IoStx4-RcBwTuOmeo4KXLomMtbU6nuzX87qzOVE5JbNh2qOm-2rKHa2u9tsUFGC_uBEu6A0mW3dZIqTQuQFNM2tQAx45V82LXOx33YFMhzJM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s35IAsV5KxzeGlpLZVrOOauHB7ohaIo0fPnUcvsglVKLayACFjbzWC7tdp_-WVyM09OMRVPmtp5Rd89VB8kkMSKYZZIY_jxQenxTh_St1hfgm4b1AaR8AQvIPHbN52KsBXE39lpivzOg1BPnY3kHgjgLw67gupZIuu975d33_5aAFkR3BqW60VZ1vRYTI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vlmBZYqULJmuPH6Gdl7dHCqnPq-6xa3IERK3lZJUxC4W_E-2UOEcysBKP6X5gdoQ_KhI8SstrjDiKeORmgs5bY035vQum531vt0eKsHWyH-oEujunYjEV9KQenRm-PT71ktnGMg6D1uMXmxGSZENAipgKIeHJv_UrJ7JpyuABTOSELjGa8YU-BJpgq=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t3RsLBn4svDQfaAJMajwVlxOW5AVC5YqxY51Qr11AvYibVNyubH0-zB5ayKWRO1Z6R2N7UItt2FZ_UhhKujSlfffCbtn1cp1EG2u8u8MZvLoiI0yJ1z__S6V3JLlRYpYdfYL0yaTuyc90w7_t69W3pMoPBbtG7VTpT4B_2cUIfohYIN2oFgbXz1PZs8f4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tEdGewh1xHbuS_qQ3skRVLt3H92ozHD09X6SiyOCURiz9cFTPDBQGYs6Sdrv6El-mojM6IN7wFxVMaNrCVkCUmrLjXepa3h3cuiJDWQxbJVJCNr3hbttC98Bj9iz2_BuCJ76Wkyqa93AGnbw9eZVSoKYILSEVYYBNO3Wohge6pfbDefB6ysp40tuwv=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uhpvQWugE_tuIiQUFknxQ6y3dL_yG0SUtJl72xG_V-kkqJDWTvbM2LhYgAWKliP6IqG8Md9Ksd2Zw7lNLjez_6LWzb9XV__tACEsvyoxPpJFxdEQbhgC_YdLNIvsBvDy1_pShLMcKZ04gguxQR4jWML0FbuqNj3ZVcX6OiuYEoml_twBRNcY9ldBGf=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72viS2UEAVmy4iGsppRNNHs_g2FoiJkTLZyIERfbdoY-4fUtkC7C_Apz3zUzA41kL8jSl1ciYlCYkAtP23RDph_8J6GaDxW4txQ1SRT0MgsUht5uBn7ZQo1IjDWq4g4SNlqhUlZ0otsSZpAx8zDvH48bClhRvvBp7KWrG6jQflPLQoXZB7uCLTHFQDpGmNc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sG8R0e5AewAxeAb6T1q4qJAnKWgNIiambsiTFWFFmmPtQLTsZbPS_HJwLzjjiXEysUGF9sXATBNvzPz277hCKm4jNzeoYn3-ii1Fdnfa_U6WooqL48188esdPpMLMmLejaccZYpRkccsd1CxRhSGv7Sc1NTuWLh98yCMnocZEqjYQQqL_DYlrJ9D48fc4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sLBdprmvz0AKls8c_FpaloUn5ai54epfgsH86zNqtqDy8w3oMT5g3oJJ3qfAFuLwu6Ml5rhw6x8iiKsx8HqHRkMLE0c7TCj6K1-dNLpLM2v6TB4Oh8gb_MwYOlHcv_ivIhEA_dc1PnkvikZRfA8IdAf79j73dFFvMAmAsrLSNoTICD1oVs1R6KnPr3=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t2FzHoyPigr60bxOIqSbXc28q6Np1EDPZqm35fG7zZU5Q2uQ3CMmpPi-EowtDVylZper6zujmRiLekscZX_RIB8vwc790IAsncjipP3zp2aQ44qQVE3BiD05mXD6sUtGjcsxZiwI4Ioo_C4hwg_FlZNpCV_YtCTN4ZLsCYTvbpRaZlvfRv5eevxj5f=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72slHRwUZNNpm1irwLPar4_6n_D34jWlodSIfKS3b_RiaO7KHzcIFq3Upmd8VqsvXSnH5M744n_3ZCqPnL4xjgDMUjVKcEcOdx06RJ1ak15vIMgxNEUnxYxfvYZCnMEtQca3l4V7n_qgZh7Mq4wf7ODbrVyOs50TSWGramVdcPKWDfuX9s0osUdeeOsSV70=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tKIu1nIO1N_ljQo2Hruv5HI7-EWtaqzsvrEd4LoXdiVk3TN3FrLPzNg_fWnjw6qLSOJtVvfrZ-ewzjDF6_IjUVgywSCEvBEIy3UJsS0DbQq6bTIf5ORa59LfcJh-F39vB01vmIk3U-PHbn7TwzxFQVSaGVQqpOvvESuOGEFXFhwAjTBanwwXa2mB3Z3p0=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_115_1.jpg",
+      "assets/images/ev_115_2.jpg",
+      "assets/images/ev_115_3.jpg",
+      "assets/images/ev_115_4.jpg",
+      "assets/images/ev_115_5.jpg",
+      "assets/images/ev_115_6.jpg",
+      "assets/images/ev_115_7.jpg",
+      "assets/images/ev_115_8.jpg",
+      "assets/images/ev_115_9.jpg",
+      "assets/images/ev_115_10.jpg",
+      "assets/images/ev_115_11.jpg",
+      "assets/images/ev_115_12.jpg",
+      "assets/images/ev_115_13.jpg",
+      "assets/images/ev_115_14.jpg",
+      "assets/images/ev_115_15.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 116,
+    "title": "У Липницькому ЗЗСО І-ІІІ ступенів відбулося Свято матері, яке підготували учні 6 класу (класний керівник О.Гоцій).",
+    "content": [
+      "Діти подякували своїм матерям за підтримку, любов, виховання, порадували піснями, жартівливими сценками."
+    ],
+    "full_text": "Діти подякували своїм матерям за підтримку, любов, виховання, порадували піснями, жартівливими сценками.",
+    "category": "Шкільні свята",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vnbhUgjcvml8EItXK4Q8RuBzbNjmEVHq0t7kVpED394Lju8ZoNacRYyp4TLhLKTY1khloehqY__kFUloKPWW8UpiC8rGIes24zTIVknhJo7TXFbFnDhHLLeZIdBZE5Gs5ugf9hT3FIXRFNw3_Ub_f7yZjDwfCk7qBZg4XxXgbr1SmjEI4rQz8kg6fnQwo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vcerpvOHqadA6c2oknF3vfpCFfT7be8HvHLBmpekQqwrwVpkEsJw_glqHmo9Rdh-XxLDeiy37di6_hJBIeO0Yde99EFnrFMbS4IVTJEM23XROpzRDwFTkH-5pyjyh6GmqU_b1jB_28bHQ14JObb-hzqhpuD0o9X6Qx3jF9w17cBJW3zuj5YNGKI20q08g=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sBYutmanDZQxrbxE772KGD4oQcvg2iDvg7_lbkrtWp32uGUfecKG7-YpDEsYBm53y7ZnBsh6SjJrN18ELXXeUnkSCVnmsXlE955iaDRxa8x-7pq7MoK6PY3Xd9OOnDFvVV2rT1c_4PURxqLi-MjxmoAJfmF10sp60aoeZZrkbEWfTq_y0299lGVxkg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tGeUkA0pwcsKwHgV-D724Wws59YJp3yHhf6tnO5OpmlLj3bBbHai4dksEVXm98u0yGOJXZ2J0bYHKctjAYspF-bJSfVZMJQPnbE3Nm_lI10iwRCEntOnd21jzuYC1rQNPcZOdYbRDihBrtsLDuo9PBzMqPTKehFifPtKl_YsL0eUI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tzvoG93ZheqdQ8W7pvUAwYVX1HCI66nsBwMJHi0kA3lly5pmEKF34hpNgiHS7h1hjfwWox-bOyoElH7jAOZnezNQJF8Ma_IaXanCtK7NHaY4_eJvHE-snd2OvkuzFaKtVp-jP1yk7NT1UM5waAfz7ji7cNFQlZ-QkCpIVGzSfJvRI3KO7oKvIRG5tg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sEBzzJgMhTe9hmEq-rY7XzkUZnCRDzw-3Gf_ynoXyjDDKSfdG5KAziBCZHQee_L6JgtDOuesGPVuR2O6Aymdmt8MGDhgBAUN6fAEKADMGdPClb1zfXXmiCOzvx79Fe5HpQDmDmpeFpe8NT82GFckYMlcdJE9gdo0waB5l0jBpBKpbEp1WZI9SYwwkAf5M=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vku7L-EduJxCIjcvhq6pvk8nqM4Mo0zT716uDicgcDWdX9U4IHOjsO9N_iAWVEgY_pLm0Eo2sWwZicyk-LcRZIkQL9jwrgQZKunOHSikXlBdE0nLvPScT4vSyn9YsjNRbRQpPceOapSibRXF04Jq-BBd7_SWpjWyqGV35xIaLtkJ0anmmp0emw1LUF=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72utl4i1bRkuZhpMVyad169Q6RByy8hYz6jkO099-F0Q8HQ9iSHJkRJSv6TCgqSLM7o2251_iQzOBqFcTvBxyDccCoSZNMS7V7Q_hteoHeqcT-qK2hg2sGniSlCapC2eFarBEXKFJkf70BY7SBjkK2Pos38q_0sX8TKCXsRJ7BvltE91IhNZTWXDnloD=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tvELY8weXdfmYsrz9Zya5Q8nxTycPS-EHvhndV4AoohAX-mphhkWFRVyjeOT3Lr7_ouZiHegRbiotsKwTirtABcNsO9tiI4XIS_DC-apjHnvKlO1zUahX9F1O4Z0AkJ7XSpOObrWA7LGrdBhGy1lCYnObAo6BmA7NvpEUBxTSG90ZP8lhYU352tmhn=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_116_1.jpg",
+      "assets/images/ev_116_2.jpg",
+      "assets/images/ev_116_3.jpg",
+      "assets/images/ev_116_4.jpg",
+      "assets/images/ev_116_5.jpg",
+      "assets/images/ev_116_6.jpg",
+      "assets/images/ev_116_7.jpg",
+      "assets/images/ev_116_8.jpg",
+      "assets/images/ev_116_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 117,
+    "title": "Вітаємо Клуба Віктора, учня 11 класу нашого закладу освіти, фіналіста проєкту розвитку молодіжного підприємництва, організованого TechStart Up School за підтримки USAID \"Говерла\" і Львівської ОВА із успішним завершенням курсу \"Креативне мислення\" та \"Вступ до ІТ\" розвитку молодіжного підприємництва.",
+    "content": [
+      "Бажаємо успішного втілення проєкту \"LinkedNews\"."
+    ],
+    "full_text": "Бажаємо успішного втілення проєкту \"LinkedNews\".",
+    "category": "Життя школи",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72s2KJr4cuM7-2Xvi_Pi6Z5fV6OqaO6js53Pj_tRKaVAQOwWZbKb5QOwxkXLFiO2EdK_qcfD5AFc3xTovmgHMRvh-4GKYa9r6tkz5eVKRxwuOQVC9GK_xD1xaQDywh_Fx49mRDVY9pVrxNsC5YPUs-qSQxq3tKdqzCkohQIISIUnRgAEE0bZA9nN7iKefOs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vZzqX6fx5IcwvSZJZbBqdl2CKuc0LOOuyHLQ5Un38nVSaVzlMiJzE0_CuNvOh5_nRS8oAXXSfejDFDxYmHQHDBHCCwAI4IWQlM-CD-wdEIVvHn0hEOvixeKDjXoWrfBL0dbgD-Dl6QyOlbiawiPCy8xklSbTWHORMrdAgQ5dDWEWOg_6ua429LQw44=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tAPSWtL5cdmpWOimbiyF-sPW2V7lh53FG-_l2dWAL-McpNYffddE-JirJZE1-lo4_Y8VjjUNFG57_YchQ3dxfMVMp57kr1EI0tO8PKMXtroe6rOaK5mIZBFunMEMkO6QcMpPgaSVXWqxfYLzkKzXzTy9SgairtCL__UaUlFgitoGpbPUdO0o3UHv85WBU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tC1B1Ts8IBXYwZeXBQm8-yexvjiXpmJXjIV3HBEqM6R9ZuSGlwzdQvI_I1uXFF8TbCn7rSXmQqj8Kx6t97JOrHTml1E_0onoEXfTMd1VWj5Xb1kfX0M8H9BuzcJ1qb7HtvO1LOM-jktAsh9wfjT2-9CXSj1LocjMpuMFak_EqJIcTYauHGWPPzhI1Z=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vh_Vk94CdEuH13eUXKM4zVHhQy3Xs3H64yYGztITJfILuZQn6qhF_xW2fefNI63N3EInshmR43hQk6ffYyceAGCT8_K4PaGv5RyPUKfJaKysiUSm68a6KLfFEdRpvN9nqDEds2Xv-YG2q7xS0ueYFIsj4fLr3asYCyWOJlMniF1x6BUqqR3O3uaxEZNNc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v32Xp8Zee9eWXy8ZRsYdl6EypB_OWMNBetNE_HEcVLwekNL-l5xnWHMOVYH6DLJf2RqzyCpzyybDyN7IMagAb6_i00WeV83OQB0jIrOBK9j_gcfhc4SDauD50ZtqSNVdwHUsSSbt8-Z4KTvR5t1azofRFPxYmVWBYLRtF31YSIWUIOs-zGeBfFp-_WJj0=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_117_1.jpg",
+      "assets/images/ev_117_2.jpg",
+      "assets/images/ev_117_3.jpg",
+      "assets/images/ev_117_4.jpg",
+      "assets/images/ev_117_5.jpg",
+      "assets/images/ev_117_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 118,
+    "title": "05 травня 2023 року в Липницькому ЗЗСО І-ІІІ ступенів відбулися загальношкільні батьківські збори, на яких було розглянуто питання організованого завершення навчального року та психологічної підтримки дітей в умовах війни.",
+    "content": [
+      "Батьків і присутніх привітали учні 2-4 класів своїм яскравим виступом \"Весна прийшла - гаївочку принесла\"."
+    ],
+    "full_text": "Батьків і присутніх привітали учні 2-4 класів своїм яскравим виступом \"Весна прийшла - гаївочку принесла\".",
+    "category": "Патріотичне виховання",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uQMElJECVUZmHfjxAP9gNxQnx2WWLBoJQEPZRcnB6QZ59hncdKGWRRjYZ9ow86XDbyLUh8Wsj7kx8uoz3_yfaLAwTYJWL2ofjHf7QsJ58mrXn8918jALTy8BWoufjIEXFPcCJvGClzBw3vcSNSomO4AN8gDMqdqKlf3N2jIOm6OihTjbugQ9ezq6iinvVwGAQl2njWt5iSh_usWysI-QgXQLQ_1iRleb_JZvIx0YE=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_118_1.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 119,
+    "title": "У 10 класі Липницького ЗЗСО І-ІІІ ступенів пройшов урок на тему:\" Гірчить Чорнобиль крізь віки\", який провела вчитель історії Дева Н. В. Учні дізналися про причини і наслідки аварії енергоблоку, переглянули фільм, а також прочитали поезії про трагедію на ЧАЕС.",
+    "content": [
+      "У 10 класі Липницького ЗЗСО І-ІІІ ступенів пройшов урок на тему:\" Гірчить Чорнобиль крізь віки\", який провела вчитель історії Дева Н. В. Учні дізналися про причини і наслідки аварії енергоблоку, переглянули фільм, а також прочитали поезії про трагедію на ЧАЕС."
+    ],
+    "full_text": "У 10 класі Липницького ЗЗСО І-ІІІ ступенів пройшов урок на тему:\" Гірчить Чорнобиль крізь віки\", який провела вчитель історії Дева Н. В. Учні дізналися про причини і наслідки аварії енергоблоку, переглянули фільм, а також прочитали поезії про трагедію на ЧАЕС.",
+    "category": "Патріотичне виховання",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72u31z-44Gym63OHPEOPxP1wu9B7k-xktV6AWiKT-30we0ULjGrCd0pNidrLQ4l9GykbA2cMeQQGz20p4j1EoLgOzFjwzsRj871QLpn3PnLtUiYCuvwVh6CkDs28FVLkO7t-ALmTZYWIUafCjAFeR1k6Q6eevXstu6WEa9Bpw6kttgTqoUynh1ZwV52yFtE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vPXI-7pJszJBOA8qnPp7CJVqfqZTh5lPEs86BPQQsO5ZoiZJlpnwNBPXxAD-kHe0BAPZgZYP8oR2ldAPlj6QJSvG2jAJQ53WVImRSk5Dm5dsjt_2Wsr_1bGbOuTNNDwJ5QyY1LgYnzo_WH-O2XONBKFz19t1fWvmJaOnmlnT9MxjKHkeN6LynMrtoWXXI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tybv1af_hqf-LAzTIPFBAu87Y6wme5xF9tDfnSx8z1GOZWJYWzQsx5V3bfvea_npmyeVvwo2_5TpRe94CgpWIEfGq4R8E2BZlSeqTX1tXDzYiOaxweTxdvp2vVSLcBxy0ofUoVoYHkvEzIg_IN7M9PUqOrYiG4G27N18-PINOa59Xtt_iRIHcR269x18c=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_119_1.jpg",
+      "assets/images/ev_119_2.jpg",
+      "assets/images/ev_119_3.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 120,
+    "title": "Вчителі Липницького ЗЗСО І-ІІІ ступенів щиро вдячні за теплу зустріч та сприятливу атмосферу організатору Марії Деревінській та спікерам психологічного",
+    "content": [
+      "освітнього форуму «Я поруч».",
+      "Змістовно! Цікаво! Повчально!"
+    ],
+    "full_text": "освітнього форуму «Я поруч».\n\nЗмістовно! Цікаво! Повчально!",
+    "category": "Безпека та розвиток",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72ugxG3QHq4vy-44zySiyq2Toy7iuUGWtC6h3VRZmSEEHGZ0UDbBbt5YqWUJ_7d7EsqrreDJx2C8s-EfY-b1uToTmyouTuRuKdkU0zoMtqzrfjKXO2LS83YycaoiOcd70TSUGeBl1xn6X6bW-zzHSQhEVcvBNBv7A9TnSPr5lnOFIuxoQf9qCuvjZKM1uDc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uHmUlZgsbM6Qs3ttMzxvfs9ucrNnijSp-0hl7ya3zp48bK3EAzV2crodtKbvABFfFzToX5yRKV5vDktbsvZ1mrWDDyiXAv-3gtiuvx96YtKVwSkD0abKq_ar625bLg41Jwa5GQplomRUfWtF9HfZgaOUroAFpyR7rnP2ELsqX2dYOrIfEl8iRji-Se=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uqbSKB9FJPaumb5P13eG8SKjmCrduLXGSG97mnya6s0yX3N7PYIvG4WFUkQDG0iSI03dDufNhuBX8PAP42NIBCX_xiQBl-t0cZZdkz5Ui-ytne0g_BdKwSUgg_PQhVwZEKOtCecxWmqnlFx64A3MeO_GNaWBtwJRzwDstP1ArKNiMRmzo5ErLbswlqBHA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ut0nM_TyLQKi7uNA_0rJfaOIUpUTwwkflJrlJaKSvmdi6hMoWXLMRawXm9hQoSoKwtGbagg1IO4ZTOvY8HojGrTyMUUTjuj7Dtzj5g8yFDgKHxVNmocEqezr5OTcCz42-Mb7OpwD6Inr5ciKdumQhzpjzdpI7kBAkNrw6RmYPb8bhIiJ0GeQLt8C4ac_I=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_120_1.jpg",
+      "assets/images/ev_120_2.jpg",
+      "assets/images/ev_120_3.jpg",
+      "assets/images/ev_120_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 121,
+    "title": "«Майбутнє довкілля в наших руках!» - під таким гаслом учні Липницького ЗЗСО І-ІІІ ступенів взяли участь у благодійному освітньому проєкті \"Flowers 4 school\" від асоціації виробників квітів Нідерландів та України. Головна місія проєкту - познайомити дітей із світом квітів за допомогою їх участі у висадці",
+    "content": [
+      "цибулин гіацинтів, нарцисів, тюльпанів для свого закладу освіти та догляду за ними.",
+      "Перші результати вже милують око. Розквітнуть квіти - розквітне Україна!"
+    ],
+    "full_text": "цибулин гіацинтів, нарцисів, тюльпанів для свого закладу освіти та догляду за ними.\n\nПерші результати вже милують око. Розквітнуть квіти - розквітне Україна!",
+    "category": "Життя школи",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tvXfsIH_g9mIs4VoGeroTNQLAUq0sQLaSDasl6bt56H9zVvKBF2CppBHBq2oTL36eWbBXMWTSZvmgUl37B3Wodl0ZVXqpcZgItmPxHTt5DW7LF4ErlxzPKK2BeoePGOAHRbWMCrBOe6tj7oy3svaqAosbM5v6nzwoPKnxxOj2m726Z2z9j9cR9Umrr=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t5GhmvDjZvlITT2CVqTnq9eaR9pk30bD5oCV-LSaitZdpHfxtCx0-lTRSwV6ZP9SWoy7rnqll9HVSzV8w-72zSC9WxHzeRwFtrMIdIRMOUBk97pq0-QnDiaflmfQLcHsl8Bk6XwTvlqSC8QuZ9NbOLH_q2wNU3h_5k77skl41wgQkIG1O612ZdmPnJC7w=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s7_4L39ff9gzJ8-wWA3mnrzDg5XKZWfZ4ilMDGt_9Ljeh82RPwh9dHDZdLwCATn2rkR0nGZIvZMuxd1GfW51AfSoRIHBgiyYktt14jcZKqdVTQyL5Owl5x2aM_8hIW11gJJDGTilKILw9vITTqnEw_n6l_JicyVmde-Ag92M3-2JCKTjQe1J8K_gMGrh0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v9MQuRmI2vvbm1I465YNTMzCAXj_nWdyeg5AdpRm9Ox4PJ0oteIjCgn-9uZhlIwDeuLMIWFKlmvl1nMI67BRv6x1klo48ciBu1L7kud_iRP8rEL8EfbUy9QOEqsQbEdCaAP_Y6jJ4TZIC_zVN_VPSNHBSFCFUaTDKC54psfnd3EooDROWZrM5bVELskPY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u_CODv8b_4f5OxaqiVe-b-m_XivlDjkJs0EZ3dLScrBXrdFnJEF6dwNjkmFdxrnLLsxWtQSxoFFVIx9NmDZtRhBtw0dXtTpf8Z7q3e5c9NP43CJfPgJosd2JZVer_GUYFCiyE_gus95Dt1DaMf8X-imFRJodtdW2If3yfzhSW77jPzssddMTd_8idU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tzrxIZ4VR_26ZLdfMUHBvOehSyZCs3gzCBG1BAmSWs2mLnaboGjTfMDG1BiqCy_Tbyij-MoCSo-JH9---KlDcaw6OMSq_-GMK1KtrwdoL_1lTn8mllDR1aNLpjP5fU6XnTISj1aDqgJ-lKtuwiMizxkpHTXgrMifP5LAz8rAkr2jkx2l4k4R46ftPmQ6Y=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tNFtGjWq8PIa_tRUDP59CtFEUirOmW6KWX37bHtHWxVH-B5EKmAFLgRGXmQLU5X3zqpV70GSULdbrkQGCbkggGjbFdV2kjrAPlCSVhnIubde74lCm_uFwDQh6sBZvJpEqc_Fvn6CzeQ8zUGzfAIKfpPqosGrOUWu6QrGjf_gY-M0M3ZyHsCBduBTKM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vV5s8nPc1okYccXK2q49j9ZQwUCO7A-pnIscGWvcBeKrqLyKHlQVBQUA9IgxZSP0wlEj3xO1ur2BnIEQRKR8HpfZzrY099y1BmPuBaw8j2gQPV5Nocfh27k20T0pUyX9B-QFV4Cu3SGmqxRDWFCWE0rZG37xipBtNSL5hzVsYigEvqYEu-O5j_VZBk3jM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v_biQnrrein7rezlwT3PvyrlwFDu5iP4-cJbV8uv0lk-dw759twxAyivL_i5kqG0ZLaPrExSXft2zzs9UWDq5gEYhGyAQNrumtVQTSAYnUGZLzfSRZoEI5wwBX8Zf7AOD2AkRruWCN5Z8NJEcDbnMJgRKdC2IN0immpQRFS2fjbUyD__yEvKbii9gu=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72skedxbi-P8SD_tPayxF2bwhV3bo5YxnbFipvSwaEdpyYlChOWDcDBkj070z-4vyYsgst_3KkuRcvLtP5fmjSbfi4NUrGwJ-O6eApNoOwEzS-U4kZO2qQydB7QAd1oH2_8ptUNFZz02Q6MCi6tnSoDsQWulV6iAn1wuW9UU_OzJN6cpMfZfF-gO1mjn=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_121_1.jpg",
+      "assets/images/ev_121_2.jpg",
+      "assets/images/ev_121_3.jpg",
+      "assets/images/ev_121_4.jpg",
+      "assets/images/ev_121_5.jpg",
+      "assets/images/ev_121_6.jpg",
+      "assets/images/ev_121_7.jpg",
+      "assets/images/ev_121_8.jpg",
+      "assets/images/ev_121_9.jpg",
+      "assets/images/ev_121_10.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 122,
+    "title": "Днями колектив Липницького ЗЗСО І-ІІІ ст. відправив нашим воїнам-захисникам до Великоднього кошика: 200 запашних пасочок, понад 100 ковбасок, бурячки з хроном, сухофрукти , енергетичні батончики. Віримо, що разом із цими даруночками передаємо і частину духу Великодніх приготувань, тепла рідних домівок. Дякую учителям, працівникам, учням та батькам закладу освіти – усім хто долучився. Особлива подяка нашому другу Юрію Семочку за доставку продукції та сім’ї Галини Басюк-Недовіз із Сопошина за допомогу у виготовленні ковбас та енергетичних батончиків. Переможного усім Великодня! Слава ЗСУ!",
+    "content": [
+      "Днями колектив Липницького ЗЗСО І-ІІІ ст. відправив нашим воїнам-захисникам до Великоднього кошика: 200 запашних пасочок, понад 100 ковбасок, бурячки з хроном, сухофрукти , енергетичні батончики. Віримо, що разом із цими даруночками передаємо і частину духу Великодніх приготувань, тепла рідних домівок. Дякую учителям, працівникам, учням та батькам закладу освіти – усім хто долучився. Особлива подяка нашому другу Юрію Семочку за доставку продукції та сім’ї Галини Басюк-Недовіз із Сопошина за допомогу у виготовленні ковбас та енергетичних батончиків. Переможного усім Великодня! Слава ЗСУ!"
+    ],
+    "full_text": "Днями колектив Липницького ЗЗСО І-ІІІ ст. відправив нашим воїнам-захисникам до Великоднього кошика: 200 запашних пасочок, понад 100 ковбасок, бурячки з хроном, сухофрукти , енергетичні батончики. Віримо, що разом із цими даруночками передаємо і частину духу Великодніх приготувань, тепла рідних домівок. Дякую учителям, працівникам, учням та батькам закладу освіти – усім хто долучився. Особлива подяка нашому другу Юрію Семочку за доставку продукції та сім’ї Галини Басюк-Недовіз із Сопошина за допомогу у виготовленні ковбас та енергетичних батончиків. Переможного усім Великодня! Слава ЗСУ!",
+    "category": "Патріотичне виховання",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72taKZFr9dEHweC0F-YmVCI16iAVaRU01BhxnxNs8XmyBAPVvy109l5-XW3VmjCuxs9BdeTfVtV9cKNB0f82SzQnimZRXKUj6-k5SkO0w8hWn-x7StO9Pwb6T9dfRotm-mKQyfc_3clBJR_PSQyUTj11UxEFXPvUU4xIdVRplJqcOtcZldGgSkW0qjulhGo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vZ_RIEkSMIrnZ-p6A0HkHK0kcvpvkyoBGbzz8PYzGaIzkv6OVVGy7wC1mU24h_NzE2Rx4FJuqXmU4AXjqq_RUTFsgpX_zsxKavkg2ue0kMr3t0byStC_TGphUa4dR0dVDgF2knkyzKCv6_BNjbOFv9yPqfQeb8q_4bctKI23Mn46TelEjW6kL1h24h=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tkZuRXT35RWC1c_PlcufQk169GkaLrxHVp5mHcKdjkXdAS2auPzU4rcgq8HlQDDzD6ghrfopNkybDtXNHARoX1GhJNFfKaeEJ2DaOx7HZzEf3GOwhJs06pkfCvgmq-vMM54Lz8eFes3JRvbK2i27NpLu3YK7YH_ouXO-kEqQpcW7T13XVSjoyz1e4p7WY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tMY9ZSy8toc47v_fqESU8txDUyiKB5Z6DXh1mEmQTbemnGr6630vt8vvKKNot8eEM-V0OvTNBwXnA3JVs7igujUcKsoDNpYPyMj9bmBvdqwMhvPRhT_7J-pzQKa8tXTxHeEEstn8xxahNXBV9P32BKGGsUxW-ISvCkzDBxrRJJlHLZj3a8q5MAMYOsojs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u7kJsNuB_FfHDO2LJ5QBj1Dow6l3S7wCCXLuTMs73Pda5xX3GLhNFQcNg8uxssKX815O5DiSFmRBn1ThHPUeJz4qIOcLon5zXNGXAOU0wYr3aeQsihGvCoMoH38BCw3wDgW3J7kMZsF8Sht5iJLsav7eNupd6H-87r4W06spupnX1R5_MCXFHxO1df=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tk-p4GnbJyE9gAnqwllQ4xyH7VcQjmZv1hxtG_AVFO0EvqH50BV6-HmJt-ueHQH-MLnEi2fO1V4yU-luTJKYhuWKZnrGwa9xBxoiBYVSMzEmc3m356huYoK5son6nekxrzQ0gqZlJrknnCyhNB2j-vGbO-eGdVB6sT5cfsTMVA5owCaw4TTgiVyhTx=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72unTUvX5f4MgUZZ7dfC-rXvO_TpI2qH5w4KiFtsqHQAHW5VUbw90EvjKCjkvzfqlJfhnQbC5p5Cjyhf8G6gMcAlUgLmRDlYrLmf9D2rIZzJdqM3f3VIL9XISefA_2HttmFMTqVkYNTrTvdVADG68oxKzEnff4ULG9O5OEOfFdgpA0Tze4fIdIu0kFumyb0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s16srMIcI0kWz2Ajny17L4Bzcj7ejIbhX4cepItmSSrRsWIkmBXDREicMuAZTB9VHSoSEmPFe9iJ_nTP7PfqrxeAPQFn6wtHpplDbYYw2mizDlkDkTdINkL0sE-NyfXNiBJWXViTAtBCmMbK8RNw383dELyLrXmZOhhzNcODrP782F7XNpF1VirglK=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uSg2F6sRrfqmvp9Vxkz2sNrjKrjJRlSegIqDQT763HAiHiRIn7o4ql-EVESumGaL4qb2WkAoV6GLLE29-4LmXewdT0LwdCrF5rZPDX_9U-Li1VS1-KpomtD2OEGkn2-UfF7whDWcw_ziPCJQ4GBKxPSje2xedTMexsTBBbBO3xGOOtUPAc8n23ZY9qF5c=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tG91NqWJ22HRnzaXVHbSQ5Oz_z5r1EgcLgXbb5LmJP6GSXEeiBYYMV4kTtUqZuB89T1FIGXBfBsmK1M1l48RdOuPbJ_t-JMvH9-6l4MgfMe_0kocYbJqsxyMVhNZe8EuMw4262plHazB4nAi9bCJ81T6Y2RL1aFWPZClo-dzLyuVZqqqvnJYXIyDx-k7w=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uENBGuk4afwR92D0eCR2ZyZ1KrVdNkD_XCDbSp6x9DlMgKM_XrZNnZi7s8jK34V1cd2NsFANarmc6A7tPCymqubM0c7Cbe3pHOk7IrejFygQPxcmfTIPzEtWKQH9CHgJ-a4pNtiBK2gCPfd-cbVMuxh8I4ASGjhevo2BY9ToFnU4HJPsH86k-trK__cpU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vbrYJwVXMRYMVlB-moNtLNsC1SdnTSy_XWLQ_mGvnMKmqrRlfETbnAn7T4a_GD7syhgCM9LRKihejBbyjfiMRg_Cz_99oJ0DMV7I8DMHmqDgFV6KEnzKGiHm6E_EhLn3woQUT1gmkvjhrJwY0faSO5qQ-aFNILpelfQTJ4CQjFuu-n0JX-e6U4CG0G=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u4B0BjOu86YjEX8TzswKoXEWU_cEWICuDrFjD3rFuVKyeefNQrTZ9THI0LSKOtF6dPymSe4bgk5_e5bD27Pj-1ZvpAAvvwlvvTnyLUOwWzvp0Dl4PUopdLzDDW0b9HhPT4VydInFd5qxTeIMSJHn5jb57aDc__UMMjZ5wA49N3r8cdMfrG_ZmwQQRJRHw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vCkHO8cpIVk7zfK2HQeDSibOw06kTovH7GD9k6uEHVtp4ondfJ1TOi8U1YMDz5Cf9pI4IsqqqMDSved0eqZOLU3zABx9nRxD1TodGYaimYRAcksTacqCwEdpXAjE6XxjsVmiFJmhVLPoMOao-eKdqkDy_qsy-o6lpHCNcZAiaZxP3bsTlfHT88KIhF=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tBNKhBUzaro1LMmS0ssCrflxJzU_UgXi0_9Yk6QY4-d5-Ke8_EMtbBUnSqVe7MbJfaf_P3Kgkbj20Qayuqq1rCqqPpgvEbzYBLq0G4FzlR3_rYAOZCPfwASAG8lTd3NVH0NydnsChiWRnjRgmAbpR1WfHzy4rBJ2TS3mOFSMR_06VLht4jbseU_goDH0o=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uFUDC3mFJbifQkiO07hLUbzpTB8ml99z592K4gQ6zE8q8e6_vvpzDXWtdJxMzW23hfIsOsSvco9qircqkI3JF20Iko3EFA_HOs4hkYKjjmK_o3iYiug7QwB2TFwQVCJT_G7L3-yir-P7HD5A3sgSNblhkv4Dlq4x4vq9mHAc7RVk4KSXUV2yiuu4yTlrE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72von3eIHFV0XydvPXLhA30qi-YMPYbf9h1caH7i9ViFM8iaoaymqmkGqt6twZupTCcudsJC58bqVQluyStNVMXv1ZdY62o7a-ZuaKZADRZ5z8WeEJvjMq49Yd4Idz25IAPEivBsGjO8cK0uP10TPjEIfR-WmZDibsntrO-JGnkJ5UZSMs2Y4hzgXVNU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vP7tUveeNG_b1MwnzBFVX0P0AI5NbSI5PyLeIq6BTizh1yWKsV5Ob1Zk7EQbvDSefaA9Q8fcOeO9e2mCNqJRbfiPM7Yf2C9y1gZm1BUkRRhAZ26_v1flBYcK2JvVomqhbFljXcdlDdBDSXjDpzcrGZRtTXtNCMB1Yyh0wRRsHb6KRSm8oXN301NC_EPWc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tzl3vRkdKihXeqCK9DIfYDLvxhNfUerxchuxbAzKIu7F-C7LSw2tpkVmhjcmDvuW_8iw0Kh6kXsunJdyIvR0SiOiZcN2bn9f5_j9ofdo52zytBbWuxI2OlUc8snG44UXxrEyPZ3adcf8JDFc5GKtLDYgKQQb5xBJmrfNjaUiQnoP8aolK8-dbCqVz7NNI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vJD_k78etVCv0PhXcsDsO91MeX2PujcTCcGbf0ASFnxpEYa1L7Rt9Z8LNDEtCy9UXypifB2-MbHEcltmrD8LDByV4E8AVSPzAUFOSdZN6dvZD3BGGmoFg-3E2u5vmzMqnwE0AqpsAKPNVzeohuciA7cnLQmt5fpnUkKHmsnv9b2PG3PQSZxtTlOUuoAbA=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_122_1.jpg",
+      "assets/images/ev_122_2.jpg",
+      "assets/images/ev_122_3.jpg",
+      "assets/images/ev_122_4.jpg",
+      "assets/images/ev_122_5.jpg",
+      "assets/images/ev_122_6.jpg",
+      "assets/images/ev_122_7.jpg",
+      "assets/images/ev_122_8.jpg",
+      "assets/images/ev_122_9.jpg",
+      "assets/images/ev_122_10.jpg",
+      "assets/images/ev_122_11.jpg",
+      "assets/images/ev_122_12.jpg",
+      "assets/images/ev_122_13.jpg",
+      "assets/images/ev_122_14.jpg",
+      "assets/images/ev_122_15.jpg",
+      "assets/images/ev_122_16.jpg",
+      "assets/images/ev_122_17.jpg",
+      "assets/images/ev_122_18.jpg",
+      "assets/images/ev_122_19.jpg",
+      "assets/images/ev_122_20.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 123,
+    "title": "До уваги абітурієнтів!",
+    "content": [
+      "На виконання наказів Міністерства освіти і науки України від 20.03.2023 №318 «Про організацію та проведення у 2023 році національного мультипредметного тесту», від 16.03.2023 № 287 «Про затвердження Порядку проведення в 2023 році національного мультипредметного тесту», зареєстрованого в Міністерстві юстиції України 28 березня 2023 року за № 530/39586",
+      "реєстрація для участі в НМТ - 2023",
+      "розпочинається 03 квітня та триватиме до 03 травня 2023 року",
+      "Реєстрація передбачає створення особою, яка виявила бажання взяти участь у НМТ в поточному році,",
+      "персонального кабінету",
+      "на вебсайті Українського центру оцінювання якості освіти, унесення в програмний засіб особистих даних та інформації щодо участі в НМТ, завантаження в електронній формі (сканкопій та/або фотокопій) документів та електронне надсилання (через персональний кабінет) внесеної інформації та копій документів на обробку в регіональний центр.",
+      "Зареєструватись для участі в НМТ можуть особи, які мають повну загальну середню освіту або завершують її здобуття у 2023 році.",
+      "Детально процедуру реєстрації для участі в НМТ описано в Порядку проведення в 2023 році національного мультипредметного тесту (наказ МОНУ від 16.03.2023 № 287 -",
+      "https://ips.ligazakon.net/document/view/RE39586?an=1",
+      "), а також на сторінці «Процедура реєстрації на НМТ», що є на сайті УЦОЯО",
+      "https://testportal.gov.ua/protsedura-reyestratsiyi-2/",
+      "Звертаємо Вашу увагу, що документом, який підтверджує інформацію про освіту є документ про повну загальну середню освіту (свідоцтво або атестат) або",
+      "довідка з місця навчання",
+      ", яка підтверджує, що особа завершує здобуття повної загальної середньої освіти в 2023 році."
+    ],
+    "full_text": "На виконання наказів Міністерства освіти і науки України від 20.03.2023 №318 «Про організацію та проведення у 2023 році національного мультипредметного тесту», від 16.03.2023 № 287 «Про затвердження Порядку проведення в 2023 році національного мультипредметного тесту», зареєстрованого в Міністерстві юстиції України 28 березня 2023 року за № 530/39586\n\nреєстрація для участі в НМТ - 2023\n\nрозпочинається 03 квітня та триватиме до 03 травня 2023 року\n\nРеєстрація передбачає створення особою, яка виявила бажання взяти участь у НМТ в поточному році,\n\nперсонального кабінету\n\nна вебсайті Українського центру оцінювання якості освіти, унесення в програмний засіб особистих даних та інформації щодо участі в НМТ, завантаження в електронній формі (сканкопій та/або фотокопій) документів та електронне надсилання (через персональний кабінет) внесеної інформації та копій документів на обробку в регіональний центр.\n\nЗареєструватись для участі в НМТ можуть особи, які мають повну загальну середню освіту або завершують її здобуття у 2023 році.\n\nДетально процедуру реєстрації для участі в НМТ описано в Порядку проведення в 2023 році національного мультипредметного тесту (наказ МОНУ від 16.03.2023 № 287 -\n\nhttps://ips.ligazakon.net/document/view/RE39586?an=1\n\n), а також на сторінці «Процедура реєстрації на НМТ», що є на сайті УЦОЯО\n\nhttps://testportal.gov.ua/protsedura-reyestratsiyi-2/\n\nЗвертаємо Вашу увагу, що документом, який підтверджує інформацію про освіту є документ про повну загальну середню освіту (свідоцтво або атестат) або\n\nдовідка з місця навчання\n\n, яка підтверджує, що особа завершує здобуття повної загальної середньої освіти в 2023 році.",
+    "category": "Офіційні новини",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tecB65e0gyX8l2seyZV_1yCodUnz-VoxdLTIGV2CPooSxWMqjNlpiv0NdwrV2CGr1Z0D8pcf-oICJf5Wik23VFbM5EkDM_mQx85qSEnd4fpq2W-DzeWCgshQ8r_RGvtizQHCqYlL_uSivDH1_yW-3iexup0OfDp-074ANcUm3f-ga_SLTgXes0s8SCZ7k=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v2ZkMu1w7PQGdVwW3nH5CNug00zaAuyL65JGR7w2ew-ThIRUBmjJBtZhApySmj2wdeQKqU97ALLp17fHZlXyc8ekxpzMk1MtcgQ3fMmcD7WW-X6UM1fB4WUHl7w5mzgk8xKSxnIOk3jVcVTBnOxqMFBRrahgYjs5eIU_lY6Umil3FzGaprzyGn3sweuzk=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_123_1.jpg",
+      "assets/images/ev_123_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 124,
+    "title": "ОГОЛОШЕННЯ!",
+    "content": [
+      "Шановні батьки майбутніх першокласників! Липницький ЗЗСО І-ІІІ ступенів розпочинає набір учнів до 1 класу на 2023-2024 навчальний рік.",
+      "Для зарахування дітей до закладу освіти необхідно надати такі документи:",
+      "• заяву одного з батьків;",
+      "• копію свідоцтва про народження дитини;",
+      "• медичну довідку форми 086-1/о;",
+      "• згоду на використання персональних даних.",
+      "Прийом документів з 03.04.2023 р. по 31.05.2023 р.",
+      "Адміністрація закладу освіти"
+    ],
+    "full_text": "Шановні батьки майбутніх першокласників! Липницький ЗЗСО І-ІІІ ступенів розпочинає набір учнів до 1 класу на 2023-2024 навчальний рік.\n\nДля зарахування дітей до закладу освіти необхідно надати такі документи:\n\n• заяву одного з батьків;\n\n• копію свідоцтва про народження дитини;\n\n• медичну довідку форми 086-1/о;\n\n• згоду на використання персональних даних.\n\nПрийом документів з 03.04.2023 р. по 31.05.2023 р.\n\nАдміністрація закладу освіти",
+    "category": "Життя школи",
+    "year": "2023",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vSw0x65yLD-PrRKVejmd4HpLCsUY559kfqEC7ny_dMIBNbsQY0YzHd8vtSbxcTorciYKCXIVdXFEhONl4qFmlxBidxgdYDqifLGKSmIG8rPEethSfdXqk_pmshZv6oU9lAKg7ejy05LCbhhAEy8DCkjJyZLNum9qFO8V7mliwZcM08kV-OxGMJUWTbm6Y=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tvshJlfeZqNs_WFFaTpNVEZ87ptvZ_bIAPnEeZhR8R2_sxbkv9YNyxE548TupFb6lfjTRZQdO3q-nPAykKkyHsKAYTxJByHHiC6DojbH3Bqscuu6Yls8HOALHfNMswys7ormlwrkjJDHCW2Uo9XmUkq8INxsFlfltb4cubIifZ5kRZVAUJajZpg0LBPAM=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_124_1.jpg",
+      "assets/images/ev_124_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 125,
+    "title": "ПублікаціяМрія.pdf",
+    "content": [
+      "ПублікаціяМрія.pdf"
+    ],
+    "full_text": "ПублікаціяМрія.pdf",
+    "category": "Життя школи",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tE8Y2N6adsO2hmEnCHxP4v4d2a-YGVHx8RIp2Y0SU5ZoHiHOP1Vyo7pWiHP0YiIJEfPlJvXjoel6l-vCMk77xOChrNNcJbQmKs10NXMg_MprvuQpDAeO-1xNXGWd0k2tUgxrc7OmKz4OEMg5eVIsdvETV-mDbSludkGGdgCzBpu40W-nIA071wlIDrknjyZBDXzuj2iVCoTKEY5ZdrIVWMRMhqhfvx38tv2e97_Q0=w1280",
+      "https://lh3.googleusercontent.com/KZ9VkYW-i34X_rpZPoktreArz8cTG0YZl3fqYte8GKmABRDDgfxKbvR0tjGMOmJORg8=w1200-h630-p"
+    ],
+    "local_images": [
+      "assets/images/ev_125_1.jpg",
+      "assets/images/ev_125_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 126,
+    "title": "В рамках Тижня духовності, 21.03 .2023 року учні та батьки Липницького ЗЗСО І-ІІІ ст. провели спільно з настоятелем храму Воскресіння Господнього о. В....",
+    "content": [],
+    "full_text": "В рамках Тижня духовності, 21.03 .2023 року учні та батьки Липницького ЗЗСО І-ІІІ ст. провели спільно з настоятелем храму Воскресіння Господнього о. В....",
+    "category": "Життя школи",
+    "year": "2023",
+    "images": [
+      "https://lh3.googleusercontent.com/docsubipk/AP9E6xX0XWOweEEDFyMe2C_guqcAIfCeV8YQC9eQzOwAJOFtTkr4LyS_mXSmCVL_3y6xgdGl7UYZQwb5Wanghpeku5HXX4HPzCoJB_kBA0t3QelXWNEcWJoeFcJiNbIpGVxiC-i53WF3lXH7052El90iVw0fnRsg82gTsNeKD00pLEm8PIhVz3LjOI8kCp9hGkZGcEeOSLB6TShSU832d28auMcRU1bzjD6o-XbBF8CoqQypT39PW17zGqak7J-b2pWd8Mhyys5LPcXefkjcYf2gnpaKijMdElI4KMcvlu7AiSjs9A46ITaB5C7xdM_TU3OKRSjZYJfJtv6mXuhaGSEzk2FNE_LPRCyrflTUZSLmp0Medp2U6eAe37V7CAjMtM_Fstumzkh1Cg"
+    ],
+    "local_images": [
+      "assets/images/thumb_video_1209890873032785.jpg"
+    ],
+    "video": "assets/videos/video_1209890873032785.mp4",
+    "youtube": null
+  },
+  {
+    "id": 127,
+    "title": "Ініціатива учнів 11 класу – організувати Різдвяну коляду та зібрати кошти для потреб ЗСУ, підтримана колективом нашого закладу освіти, успішно...",
+    "content": [
+      "Ініціатива учнів 11 класу – організувати Різдвяну коляду та зібрати кошти для потреб ЗСУ, підтримана колективом нашого закладу освіти, успішно..."
+    ],
+    "full_text": "Ініціатива учнів 11 класу – організувати Різдвяну коляду та зібрати кошти для потреб ЗСУ, підтримана колективом нашого закладу освіти, успішно...",
+    "category": "Шкільні свята",
+    "year": "2020",
+    "images": [
+      "https://lh3.googleusercontent.com/docsubipk/AP9E6xVA6pk6QG471ipicpkHFgoR-TtTNpkneaMfe-hcbk2TFWMMFDlnldyo6NCQkAJ4qvFmNmZeHWV8ovRJwHIqtJQNaGal65HtCDlvJMtnRbIneSm_Z5k5qGAketCd5f2279qktLAGaNdn8RW6zPH3IUn6A3ySL7KZXp_CCscHDse3KP7KeJDn3H1ceZPQfktC37IS82GLC10kKQK7cwbn1PB2TJhiunU_MBxAmrK_SOyQcjLMsqw9HF2C75BBLlWEWyaDvzjA24pbbsFsjAy7j3IyS8vDS7UzI65gKhaf9111R86y92qIi0P0e26a5lMUWMxC0ot4o_8SDEujB7aAtR675E4iwmocOBeP9tKglsumwdtlGxeQgKI_5rWBwESvaRJfscoe"
+    ],
+    "local_images": [
+      "assets/images/thumb_video_1165557630760142.jpg"
+    ],
+    "video": "assets/videos/video_1165557630760142.mp4",
+    "youtube": null
+  },
+  {
+    "id": 128,
+    "title": "Минає 2022рік... Нелегким він був для нас і всієї України… У наше безтурботне, спокійне життя увірвалась війна... Вона принесла горе в життя українців, змінює Європу і цілий світ.",
+    "content": [
+      "Змінюємось і ми. Наш дружний колектив, поряд із основним завданням – надання освітніх послуг, активно включився у допомогу нашим військовим. Протягом року було проведено ряд акцій по збору коштів, продуктів харчування та інших необхідних для воїнів речей.",
+      "Поряд з тим ми подбали про створення безпечного середовища для своїх дітей.",
+      "Злагоджено і впевнено крокуємо всі разом у переможний рік.",
+      "Дякуємо всім за плідну працю і вітаємо з прийдешнім Новим 2023 роком!",
+      "Нехай цей рік подарує нам усім перемогу та спокій!",
+      "Залиште всі негаразди позаду і в цю Новорічну ніч повірте у диво і воно обов’язково збудеться!",
+      "Дирекція та ПК Липницького ЗЗСО І-ІІІ ст."
+    ],
+    "full_text": "Змінюємось і ми. Наш дружний колектив, поряд із основним завданням – надання освітніх послуг, активно включився у допомогу нашим військовим. Протягом року було проведено ряд акцій по збору коштів, продуктів харчування та інших необхідних для воїнів речей.\n\nПоряд з тим ми подбали про створення безпечного середовища для своїх дітей.\n\nЗлагоджено і впевнено крокуємо всі разом у переможний рік.\n\nДякуємо всім за плідну працю і вітаємо з прийдешнім Новим 2023 роком!\n\nНехай цей рік подарує нам усім перемогу та спокій!\n\nЗалиште всі негаразди позаду і в цю Новорічну ніч повірте у диво і воно обов’язково збудеться!\n\nДирекція та ПК Липницького ЗЗСО І-ІІІ ст.",
+    "category": "Патріотичне виховання",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tJezEAqCtWTp07YQzd0geJgUwD3qH5Gz4yNucmQHfL_n9mRdQKhLwbzf_BZWjl8hTmMeOmnPd-gKHs8wEU9VxVj_T9NXxXAHNzF-7JqKgdQsT5jIXz8QxdmlOwz1MSFBI0jgejiHL_KXkmTgqG1Ax6nenEO5mKS5qZDD2w62yJwvkQewfL1GxU3O0e=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72syO1cBox0uJ4YJ78WpJRDH0J0iTO2_iUSEew2vFvLx-Mv4SH8c6ad9c_-9MWK35plZpAvgAwELn45yEOazpKnCGtbXpi5Vm44omtJCumrjlQkeAmpn3101Lvw5Z6hKgN2Og-L7xo6FbF7IUReYFEYOg017clrys6QN-cSiz_hTE6U00blK0KtIkkNWohQ=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_128_1.jpg",
+      "assets/images/ev_128_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 129,
+    "title": "Допомагати нашим захисникам, які боронять нашу землю, - святий обов'язок кожного. Цими днями колектив нашого закладу додав різдвяного духу з рідного дому нашим славним бійцям - землякам з 80 окремої десантно-штурмової бригади ДШВ та 214 бригади батальйону ОРFOR .",
+    "content": [
+      "Дякуємо усім небайдужим!",
+      "Слава Україні! Героям Слава!"
+    ],
+    "full_text": "Дякуємо усім небайдужим!\n\nСлава Україні! Героям Слава!",
+    "category": "Патріотичне виховання",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vrUdQqZNQLhB7kFETWh6IX8hch_I1nsR8YWuODrviFSCoy9rdKMCNsycl4cdhlN73fnC87kWu3d0XtCEDHZJ95vycGB8apaDQreKxKDK3t-SA8Do2nMiTlxK0f691k2QLCfJxz6RH5281yQ7wh81yMyFUoQgKK9Q16ywJFG6in49gSJVxUY2uOeLypF5s=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t8x_G9NKhPrTHcLWdl2U_aMJQZokSr530zGTQToY8-RKedrBGpZz-hBFhrbvNB480r-U_mExwTt2JtQQEvr0PDgmULt1MXhYG8aYoQanT_qWZZiIcQHxyr7q1z4QPYbyc-X6xnsSRq6q9zjb6HhtcCUo_1HNm6VkdVICDqn2xiZo01Txc8BqlIFBFU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tyYNV8ENQG3L96fVs6wk-aGYC3CHB7R0MlciICER8idq6DgXKasuLXrFW3wqDDH3fiCynKsaRdp_QoOKNakDU0p9MBrr8V3IqCOPzxu67YIbot0e1heZtWmzISkwmsRFVGln1jeFfi4TJzZLaPeMVXA4ra9qPXbTsjQQ5Djk993n5sccM8T3fatNH7=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t9Hghzs3U5BIpYpGXkWRMB1fBGMtoinqhL5ecadqiqA4PglHVLfOxKk2DYnF35Mb6G3Ft4csdmTYH3wsG5iaWO3hWIhKajWe7KyqPGcBermkrlBlgStmM30MvgAqyJ69zm-7X4YL6pRlo6fJT_l1ikc6hvdEo5MHmOCJ9bwpqy8V579iMRtvetFbWCMTE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tbxcpekTx8w83BuKTF_3Za8aSwz8H0bZopxkhi29wrRYk-dJ5bGRUhjn_pCpMEv8YpB41BnhXNAs0V3MDuAkgaUOBzeGaXtb1PblV_BO1k76lD3mjeo4-hXruy7f0R7FcbXor-z9P4js9ZO-PVKu5VUP5UUhawO6lpP7Pwo4NNx325MgLaRT5iVSFNzWs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sKmO9Q3hN1aXpCFoOeo28zNZEydNOauR5Oy9LrRwG4v6qGAphoPZCiv38-nxq6n48Y1tiE2pSAvwlXAYFHEYE_j25GLW2NaImb8RNp6W1n-_qQqTh2y7qLcP2dPgP2KEOn-Qg6ivOxwQL1uDRpl35qKjuVAeJP4fC-GArxNTNVISZPAdBLXeOes29-WQs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72umOX0egdl2o3m9jMLYai2FFA4m-Q84d2J3KMb5n4cyE9d25MHPwO11BS0EwGiLm7frxMHMtw5Htgn2_X1TROdTMMFYBDhLWvCPuMQHlroKnqN6zJVu6MVgHCZmCMK5OvUkOTk6ibEf2OXlrEr65YHfQcY85C2zlr-6Yyea_SJaAhuNJ8CPA59FJLxmsrA=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_129_1.jpg",
+      "assets/images/ev_129_2.jpg",
+      "assets/images/ev_129_3.jpg",
+      "assets/images/ev_129_4.jpg",
+      "assets/images/ev_129_5.jpg",
+      "assets/images/ev_129_6.jpg",
+      "assets/images/ev_129_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 130,
+    "title": "Учні 1-4 класів Липницького ЗЗСО І-ІІІ ступенів побували у Резиденції Святого Миколая в м. Рава-Руська.",
+    "content": [
+      "Вони виконали різноманітні завдання казкових персонажів, щоб знайти шлях до Миколая.",
+      "Святий Чудотворець обдарував своїми гостинцями кожного учня.",
+      "Діти відчули теплу атмосферу у святкових залах, були не лише глядачами, а й учасниками дійства.",
+      "Миколай Угодник побажав усім присутнім миру, затишку, здоров'я та радісних моментів у житті.",
+      "Дякуємо організаторам свята."
+    ],
+    "full_text": "Вони виконали різноманітні завдання казкових персонажів, щоб знайти шлях до Миколая.\n\nСвятий Чудотворець обдарував своїми гостинцями кожного учня.\n\nДіти відчули теплу атмосферу у святкових залах, були не лише глядачами, а й учасниками дійства.\n\nМиколай Угодник побажав усім присутнім миру, затишку, здоров'я та радісних моментів у житті.\n\nДякуємо організаторам свята.",
+    "category": "Шкільні свята",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vATZcIy9teVa2T1uWoCTJWboodaqtN1tTPMJ9vmkad1Sp4U33F3SqcnAjn3s1ssNPWLASzFYy0wm07dNUC0az9pwwIF-edJufWvs21AF3h9d1zOOvXy3M0DiCMlEnvTtFapwl5uKcyO0Er64-1m592EWw2Zu1_xOn3igLfRMyTEBUtQN4hc0xVTeGu=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tPHToKDiXKi4n_uXXO7x6Lg-abLjceU68gxc0mkImEAbmi6ZO7UQtreg379pqGB9amBJ1Oo7uYPV4A93ipmj8RJkB-FqnSGxcC_YNxl5J_W-rIPSlJE37qzmYj3RFQLDSE4j4rtQdlGZkIdLMY_C9dY7goozk5h8wAOomCv2OAohgyGyUH7s1BlGSD=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tLgC7oNuWhz6pOBBZLb7NRFDMfjojUVrDk8xaBaxO9xaYx5hD6mz7zTP0qZqq-6rl9I_KMLng8R8FMhy51aJJwYJcmR5hhmWhyhLt2pJNGq1xqwqJYpE-rWUjub8_pEP6TV0eqVLVgxAF-PQVxlLUxqvdhruN2cQNsVZGvLxNAGtD5Rl5b5owQQ2E_7BM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72usSGtXhe9nLyxnQAplWGTWEgYADvRUYcSOloqUjJVQ1NuEU6BdLJgbSPBmp1-OSx6vcc9FhghNK9Ijn3d64H5g45ty1Fdh_GQk5Is5lVY-bqIlVni42W8sCdmD1mIe1T3_fKwcubLqwIxkRRcbig_9QcAZUuyKnpj_aVg5iCMAALlhbNYPa417Votd=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sOjKkcgtf6WhU72vmsMGCp1bjdzQUJKOG8FaeJpkUp9CDWLHlrJcsUuqgeeezck7UurxOrycym3ZMzkPSNy7RQXROvOcOmL3F0CBDXE4wIfq3UMkBerpPCo60UYB5sDyJ7_LDOD6PjNA6N5YvhaDxaqI-Nfmt-2yTijxoALoYXHvZ6qarmcIIabll024M=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sJdr5PeJN_3youV1CtYMC8WrrEGxtYYbPxb9c9rlvF2dMQD7NfEllgcAcBSosObs2q62dCNAjRxGUrmpiuYdhdt7-tmFCewloNlH_yjxnO9kfC-TjiEYG_7Iq_JPPKbJ8L08lBWbW7ZOHyvch-TJpytUN-nq1H4LQvFcSZ_uTMZwdhadULqdeDQmnQkp4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vqNvSqREvCIYOazeCGNaHUVHFMfezhHiogEDHGkGr185ODVSae3Qqk4BmOsk1BEGmWHfwgBcKxiuC9aT7P04WLMgGUB6VPqEtg1qPUekPyrx9ndeRldHNOCBPRZzTcOKkLdsy0S4fV4bPfLcPYwUaWIrSdLmAlIsCpV9rw897yzNdieCVdhatw_SdinN8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sS9dg8CQWBJd11VqwX2UplJihWV0tPn3L7L_OP9h2tBsSa6Yvr1L5Y6Ixh4IKEjh0CUFvNkuz6MB5UxYrZIZiXCJ5jCAgfnqz8_0EUikhLkgkoT8cRyf1ydUq1hkIFC34ukQSIWUF2qxc4QimAtITdi0GBdRpin8xO9V4-Z3gff8v80AcTlAUmixmvtm0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72seQXulBDbNU1QXHSgmGy5Vl19y0Mt-7folZPt44DcIz9115KEWoZFOubP-9On2BZPHrxPUn0fflFRrddx7qhQ1tVeM3_Qc3fZTzM0IvtSsKwAGb9tSqwGKMeoICBI6yKfI0sxmRWSm5mb__u614sLxdGJS56Qfc3mVqnGpAgIChHms2AGlB93ZckxhjoQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s-2oryoetB9i9cPB6Y3l4KjjDhQjkwSECBpU9mVcLxIcx7_qK1bWL0QcqjjmSjejQzzIASqW_0hL7J9lADVHdPqNAc2TXBTU125KQH8-_jOecaYmjkFAdeCDY_qCM0Zu_gTSKHniRwCymwRBCFfVERrkCsdoNOlK09IoPnMs3HGbR9OqLEEDKxqUXszNQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tvCl4TYsvzkmhJ__VDWHmG0ptyME96OsR9RvHvTePbPYbNZolIiUmE_xy_Hjqmz3RDJhaLzRacTEyIqzGkmS1pa0O9vhDTR52YZ7zLQ8iKk7nKQHrRZ9_sQe2ydAEoKFZ2w6siQxpS9iaQBAddEdyMKLEmiKc0dAeD3TwWMppS2L2_NnWze5203yZZLw0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vxcjdCO-MLLIsYgH33QVmXWa6WnEJ25XrFr5KrIpGES5MC_Q7OLAs6y782FLBZ4gLF9dEL8EonG8mJTKlcHeWC9C8q42UMp2A12c0NCHpb3bbZ8QnyCd4euz9sp2YPnXJmDvE5pEaBAObKMnC-6-Ja1zhf1MD-VDK_tJeuXd0VCW0O2nn9UhhIZMCZ5ck=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sFd5Y7FxQIGgI3jaXnY9gfjH0fEqdf4sIhi_duh4pbrRgMHRKzZDEvyTCjs7eY3o42pAC5-IgJZ1cnOfmn6U7Op-xaHvjdkYlLpSK_febR0Itlo_1OYksNFAr8bqWA8RlZc2xv75TcfN2V5JbfVdFG2qXPwV-qwPzaaKONmbHYM5fzMl56SE918Qqq=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_130_1.jpg",
+      "assets/images/ev_130_2.jpg",
+      "assets/images/ev_130_3.jpg",
+      "assets/images/ev_130_4.jpg",
+      "assets/images/ev_130_5.jpg",
+      "assets/images/ev_130_6.jpg",
+      "assets/images/ev_130_7.jpg",
+      "assets/images/ev_130_8.jpg",
+      "assets/images/ev_130_9.jpg",
+      "assets/images/ev_130_10.jpg",
+      "assets/images/ev_130_11.jpg",
+      "assets/images/ev_130_12.jpg",
+      "assets/images/ev_130_13.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 131,
+    "title": "Благодійний ярмарок для потреб ЗСУ",
+    "content": [
+      "Сьогодні дуже важливо підтримувати хоробрих воїнів, які захищають нашу державу від російських окупантів, адже завдяки їм ми маємо мирне небо над головою.",
+      "В рамках традиційних Андріївських вечорниць у Липницькому ЗЗСО І-ІІІ ступенів було проведено благодійний ярмарок, до якого долучилися педагогічні працівники, батьки, учні закладу. Виручені з ярмарку кошти, а це - 22 тисячі 725 гривен, будуть передані на потреби Збройних сил України.",
+      "На ярмарку панувала неймовірна атмосфера добра і позитиву. Щира подяка дружньому колективу закладу, батькам, учням за організацію та проведення цього благодійного заходу, за вкладені душу та старанність у приготування різноманітної випічки, виготовлення сувенірів і всякого різноманіття та за кожну гривню, яку ви вклали у важливу справу – наближення перемоги!",
+      "Слава Україні!",
+      "Героям слава!"
+    ],
+    "full_text": "Сьогодні дуже важливо підтримувати хоробрих воїнів, які захищають нашу державу від російських окупантів, адже завдяки їм ми маємо мирне небо над головою.\n\nВ рамках традиційних Андріївських вечорниць у Липницькому ЗЗСО І-ІІІ ступенів було проведено благодійний ярмарок, до якого долучилися педагогічні працівники, батьки, учні закладу. Виручені з ярмарку кошти, а це - 22 тисячі 725 гривен, будуть передані на потреби Збройних сил України.\n\nНа ярмарку панувала неймовірна атмосфера добра і позитиву. Щира подяка дружньому колективу закладу, батькам, учням за організацію та проведення цього благодійного заходу, за вкладені душу та старанність у приготування різноманітної випічки, виготовлення сувенірів і всякого різноманіття та за кожну гривню, яку ви вклали у важливу справу – наближення перемоги!\n\nСлава Україні!\n\nГероям слава!",
+    "category": "Патріотичне виховання",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uB8FatZKyR6frWuXEkGhzyjWjiY5oTVnzuUlhKlr4gvD79jJT9CbTRSuCZjcbbpZvojDywzCd83i9uT0jRjdj0jNDcC62bQxDMuZPl9HFv0gV4y81gWgkrzvcc8Tzl0vn_ee3pYW8yNskawTO38o5ZOmIo151im_ud52CgFaGygAgT6IYPtXSuQaI3=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uCNy_7kl4Z1yf47gdigHwxyO37hC6JyD6TR401zmxshTV8PQZVUCWBHlfGLJ9VnS5fnKfsR2W_zy4Wu-61k8VzjpMw_2MzR-DQ5-UxMZ-kDoPnQwvbUnKOp6N6eyhPH02IkNXhAbVh0YmgQViCE8cvkxiK1BwBMg09is50V0YF-6lYuYJwqrnKLx_S2vo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sXFalPEUbs6vcMhX1uKSrfqgT4h8IOhidq_Q3fmHDjtECBMMOLYeAUIm7U47IAttpSKorMXA2A_iQNEfoz8xohPjqsRY-wQjpNhB_RJb4_mM8cTASwLCr4uqWlQaLEVQUp59tf7V4-6X4tbM7M7pK7tX1_DtPD1z_CZgGM5l_F_JGks_gP4O7bTnNC=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72slOVGPopULBXMbnV2ZmbVh2J6KYQxdpY2spg0h98l57Jj8lqDK_oD1v8BM8Q33R8dGAIhPZA3ZHj_C0bjs_pFV6FHUXt3jvsQdei_EFg3RXAR2XcHG4_hdF9zi4RKCv5X5Adj264VGPhfjoo3uS2gGTw6WNCzL871k5h6ARQBl8n7NwvkYGXjiYetV8yg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72swAYZ8gWRXNfjGKIzNrVEuW51q847jFRXWkajiToxzvGRIxhZffPw7MkYD_O_-p4yqHu9pUXuUqYcsifFyilDXAdXN0gzrH1Tb0p0lYrHiSqG_22kfs4PlE2y1RacF1-JiPyKQYf2l4x0zjl4-VsUMfGNoXeGuwY1OqAPcYZyXwsMnNBrA0CR1Fw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sM3zeQJzssTuNM1zXP0g3IEPd-owDxJx2R0L6WBRc5ZSiEYy21dCM_QuxH0N7xZTu8Qxer9ST5cL5j9eEZWuw1uIM8LkiOUy_MqFFQ0leVIh4DJn9UMv-kpCxNL-jA62uqeAr1C9cwponNTnw7de8arLBnUqwzDGSg-ZDt6AThCDni-FuXZR-EX-viixw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tNsR9w3fmCQIY9A3ZjrtUGOwybnsJ6tj4UU7QSMHJTR4al5ChKAxjlNUL_gO-J3aHdT5vj8F0Moorpus4b6Sm5qdj4KxP8qJ7W8JjB7d-CShkU9COpLk97as3Hfwh0oEnujprNJaIYm2p9rSDHLcV4JwBKbZHmU_UNa7xNiKb-GQCLAEt57pwZKT0g=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72viAV8o5Pqy0kW_-TGXMrrNeABbQRGCdo4qbWnoVxpSqI9xudOj_H9XHcIIypE4iYaoM6E79qR34n6c-V4HrTPgy4vKQIh2aep-PRbr8NQtcS3MJAOjEh4FHuNjHKea-gdWHnHmxSSxO-8-qNU-DhXHjtfHBPsGjSIs5xH7f2LMVebwygJvlyoSAlvI-NY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uBD-y_pXF3QNX6Cv30qUfZ_Vc5WVgujZ0_vjT1zrkGcNG4Vea1IdKU7SWJQ9VHffaxD588CRjIIJ4cbfIXhFB5s6_cXmXk4qSwSqOQI8AWWGbKo0iArBGtmJvWj5L2ArZBD7PLnypBXmTDFhRJVpGu_BuJfxI6HHmKDVM4yypfSJ7RrXle0iQRMqJJUZk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vXUFncHPKfDHTnULlPbgLPbYWbQHBhMNrpp8BFHEWijoSj5xjm_pZTWbDEBOAkkFobvHhuCf5lo66qW4ef72AKYzuHwe0ughqscDBqXm3XGWGUZQTEljc0YWkbt-jWiCcRz-_bgFT0W9SJ5bQCBJ6V9Ybk0iIUgaqHYNEFqrptzQlyxoHwIuWHyW8l=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u-1JE4KUTQvHh2TYOVmeYpOU9sch7sU_UNUOeflYvOw1TOeRwCYnLNa8h9iTalvdwUb4861A3LRe4S4f9H67LSMTJ_brkHsVbOY6ctNUY0nPLzv96WeQTTNx3Z2hJAIBecVul58QNW675Biw-6EVpjmxEpn3teWWFWZL3JlTyTx3zkAyeWTDS6UCRh=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s1D4u2PTmEq0IF1XhtdnJRFCaWjE-OeOSYG4Ot4IeTpxLiM1wNzihnvdTX9nqNyxaMGHnNA4IuPs8QQtHim_AtgNbLuiNIutBAgdVsyaVu6ff4xLpXav376JoGDKuteqCPSBxy2lSDI0DIJR78AFpBx062tCBpwUZSMEVLh2iTgA0e6FqjzvYeDw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s3G1FJQoVnneyD5DeKCkFW6iGTWknA9xjiAkuaCD08RNHQU2s9tU-EJwRZU-zUHGYLpkvlX4m_kjsyJC-l0Q_vnikSy1uK0xXnFhC3SuvMXfTO5dWwODRDZ8LYgMUbE7HAOMD5ybYZAZkT3E7M0X15zqQzv45aJIjhdPaevQ_bvU5r5rp92SWHmKYU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ulNo463KdjhUgtXpHEYQ0L1Hq_Ej_nJndZrMHbNUrqVESJrKJzHkxNvCOdx4RTRiIs15rZackxGEVQPGVcMLThXu7fGZHzWTBD7WkTgyJf0eLhvhR2YM2KsZ3SMpa7xpJ3L5CFJBxwviQAr-OxA41SmOzSHHallnESunqRT7fv8DPs661ZeYIVk4Dw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uqghyus6jIPaKbX6lA7jvGsEej1yAuI9uJ4DCbDlzHWUAjU850agi6eM49a7aZ31vqOkasUqqPk2srCkt-Orpe6xJtCo9JVQjd9PgbQSMtusGBVV9-IHe4VciJjWG0j1Ttc_i7TMpyEwVoBFbHNXPmnA385ztGhHbO1UlcB4qOmiC93AkdeD5Xuv6U=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s_JWwErOhIUqkfhI2qrTo8kFgzuisKmtN_2S8wkWdD3alYhWSFwD_eHda-xitZ1Z5cFEmMWbRdrvNcD4ZF4tiKzqcumzkL1lNDli2cusEAEoOYnRh6W3RLbKpg-zWL-YiA5mVcua4eBRxD_wZkFV8yo-7ldTVTPLOKJurJO8k1YVFFi7UR5jo-mPVf=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vXmJmC93_qnJP8zJf1UROf-hfqR6RV7yZ2f-Oml3fsAVcaznNRsNMYIaVsVDro0PDD3zcNB76E2w-v0gwGPVQcWh0jGa39DzpHcFM8ZgXGMeeEMdHm3BJga-JXpsu3CrKwQbYusLzKQt7xy8q2n6ahUK_xfRVup7z-6Nk4KprVuFzj5OV8YiElVChJxtI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vE_9Zn274bKpKFV9qhLCpEkb6pKLVKBbJQTqJQlCbIB3XWM8droJmFaOJ6Gmt1UgQvU7E0VVV-qk7RXcPISQ2f1fBT2w0bEoA7etQYVraxHtFHCX1vVXY9gC_UMtRkJ2fUtAQN1sgiw0RXIvZypSlTIVFoaz-1xb-6gDiLPqUTismeCyx0d7as0qHLXHw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tHHUlDOOoeYsmX9cbMJmGhCHBhKMxGbkeqRBNHcmiHAFGKdtU2V0iKnikVmg_0F7pHsVIVMAnovwFJPCQuGG7DSxdJqgOhJkdga5KfnA3ANIzTLuA39tkryjz5VMrbJGOEYFqtNa-_n1HIoy43EDYtO_6hyRLsEnNFgyx--Fg61soLUbgK_i5_Iy_n-Jw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sQ7PJc_c5g8JZtiGEQjWeyulzzpkKa84JrNk6bMzcpLwHbyWTaGepGSJ180rQu3ZI79cKGvw__xshTP0c0GG4_txibbR0U7VrVk2MsQG0oqZGe0cVJiSNPmUj_Kwf_50CmaUbNKdj2iDa_e9PpWKVgic9KxBnOP4NCwO2WEo-GiVp2737jKL58QlcW=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uU_FAXLVP61sPceMuvFMdiDupKy21BjIlj784IjIK6Mwm3mFsXkNABALrC8t8c-ZQesQ-LCk_N_vxLe8eJJp1W_cVdld9aTiZhaVYV9APC9cNPbFdvIOQXoyKkkU42UlScVgcrG1egKxe3U8EVqTSGYtnxx9Vi0ir1SivBFrXp4HdVsza_2IBal5zyog4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v69i4omacU5xe8NkC1iwXKiTPijhsbyz9NJO7O7YmNufJmBvwX7MSvEBEBOFbnLuQ-YhJgYASmvSIxFjPKaWcKxP81n7EBipbzB36uzwc4D-9ArjolS_T8Qq0o_geUZBJpeg2r-fcJlNEBvaFSjWE_bAtCy2hLlCzaCx6Ce3Ya82C5oUmUtDNabbH8RnI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72shDhh1KCi_4VOZF4xcfJo0CXuY69xkaCjLJ79_1W5AZ55koZ_VzIcDqJEOYmzMFrap046E9fY_8skiiczti3OPf3joUVutApPaFKyxdr5I4iLTO07obbtR4GHWzCNQGNdmKfzEPo-CnOaaXjHIm3qw9WSGlzB55yeZe4akwjX7zo7YKM3i1otpSQDEKAs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72svQhCf0uT1IpJdaePw20qoWNY-0gu_sOHKB6H3S4wSU8f6wm32y3cxbcRVwaNgpKhuu1-4kpIpO1BWcIzZhUa4NJeTh4bLTOR_ojwvw7ouGTV4-iBMov60_BxUPS6OAya4KjcJ1gga78W3GepKGod0khuFqxljzoQe0XwFne9-xG58xqrX-RAo-a50=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vyd-BhvNIa7ySI8aKrMrCsO_VWFtXNdPGGSWrX4TyGsEEbj1nigP5lRsnwA5vLZvSqUIfF2JQRIGTasrAyCt8HJvXUyIiUY3_uURnfUWRHOO1tNZL_m9CfqNeaMg538_ozvMDAsl863Wll1_N2z0J6DeqlSLzswVLyLcvc8hulmiXuI1vW_M8aNAvz=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uU3rVQEotL0yM7STbWix_9dvmVkg6za2x0Nb8jjodc3KqfbpOegMYB7tOxscF-corQNAmfjS6TBP2ybYeFQjzj9GZrIev0HPWvDaEb_jqpVxhw9Xp8CI3qLNsTUP5typh9dgGSKY7QNH6rVNGiqbd0BHRoqVOrG8deT5sVp5cb3GDl4tUv7BArthyujQ4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tYO60FsflIgCB18fjPzIV4NV3qyFHQCTmi3-0lyypKmdP4FkBLkhzhzZk0dGaRKqERgkkgtZuFXnbh-TTqFohS6VaglGsZwqPlUlXe0iCdlPJkELggknH7qoAk38ZqwbA9utSM4He9Z7PdGZCLxf0-sXetjPGJgA036dN72Qjpn5wsMhrRPlKHUNJyokc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sjMjIpwpIjMVHKb5oyolew1wyIkH1skd-xQnGPthnK_aA-kPUI2TZBzscnB5XsG0xLEisaGaSjfklWfv93DXmNJWGdjhQm59DBloDvrKrqCkAIhwdChMCDqRjRHj07ennq2OteeH7w1m3G8_Xqm-8UarW6iAzvCBohkfX4moGKLsdpgRph5W12amfHTAI=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_131_1.jpg",
+      "assets/images/ev_131_2.jpg",
+      "assets/images/ev_131_3.jpg",
+      "assets/images/ev_131_4.jpg",
+      "assets/images/ev_131_5.jpg",
+      "assets/images/ev_131_6.jpg",
+      "assets/images/ev_131_7.jpg",
+      "assets/images/ev_131_8.jpg",
+      "assets/images/ev_131_9.jpg",
+      "assets/images/ev_131_10.jpg",
+      "assets/images/ev_131_11.jpg",
+      "assets/images/ev_131_12.jpg",
+      "assets/images/ev_131_13.jpg",
+      "assets/images/ev_131_14.jpg",
+      "assets/images/ev_131_15.jpg",
+      "assets/images/ev_131_16.jpg",
+      "assets/images/ev_131_17.jpg",
+      "assets/images/ev_131_18.jpg",
+      "assets/images/ev_131_19.jpg",
+      "assets/images/ev_131_20.jpg",
+      "assets/images/ev_131_21.jpg",
+      "assets/images/ev_131_22.jpg",
+      "assets/images/ev_131_23.jpg",
+      "assets/images/ev_131_24.jpg",
+      "assets/images/ev_131_25.jpg",
+      "assets/images/ev_131_26.jpg",
+      "assets/images/ev_131_27.jpg",
+      "assets/images/ev_131_28.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 132,
+    "title": "Святковий виступ та творчі привітання учнів",
+    "content": [],
+    "full_text": "Липницький ЗЗСО І-ІІІ ступенів",
+    "category": "Життя школи",
+    "year": "2020",
+    "images": [
+      "https://lh3.googleusercontent.com/docsubipk/AP9E6xVukDtk2e4QRuCB24bQ9frmC4E3bM4eipDXFuD_ee8cqj9TwDhL3V_q3FQ-2GHDDid6P8pZyrheMrA6zJX1fgW0at62rozZsoGWzI8TjXuNPZYuBXKvj8fJoJWCwJmQzWRd9dqAgw3tJPpfSWIiEhwe9QTqtnEaOoVDy0qOhHiZ3BPfeZRai7LTtdDC_9JPgvBXrnChVO4PrwF_90eaGTX2YOTCWvtasJFh1Udy8-4ZiHv3yOn9fxfHX5cNv4qm-tDhIUjT2Ud7lc-zqaN_R_dlWjvhKQSgcG_tJ1MXM9-LadLjP8HNvHPsq1W3wauha9w6zb1Qrr4LRmHVu7Kvt3d0qGc-NE7uCnV3aP66BWQ05E8Qbc68YEaA-2ZVH6wtw9_GwvfpTkpVdlxwahcS4ZrRjyXReep4pGlxfpoXmcz-krh0bwrSB53BIJ2RR1d4OV8EkdE9szVowWacsP5MsJGtfKoeHTGJyctowhwDKJW5ew"
+    ],
+    "local_images": [
+      "assets/images/thumb_video_670639844493935.jpg"
+    ],
+    "video": "assets/videos/video_670639844493935.mp4",
+    "youtube": null
+  },
+  {
+    "id": 133,
+    "title": "Патріотичний відеоролик «Дякуємо ЗСУ!»",
+    "content": [],
+    "full_text": "Дякуємо ЗСУ!",
+    "category": "Життя школи",
+    "year": "2020",
+    "images": [
+      "https://lh3.googleusercontent.com/docsubipk/AP9E6xWttXd91LrJWDyyaGHpzZpgwuuk0QBT_igDu-lz_irRrnP0hPlJwRYOWPB5XHQPLhSu4YUW2hKm16Wk1idCimVe3o55Y-Y6nuhRpoSvhNq7VJbVhGmbGqVtlNvGRHUcmN5UW3zdeKOwO4HC9EQ_Y8nEHKIcsQdqdcYn1yhbff5RdEcKpHJ2lTSzsqiEdQ845EuJ6KvlalHFGFjXf-I6mZkfaKb0gXRHXG5mZteE01ksQtkNhjsmauVch9vJUm5JpjjljB6o1eqYma1UJrVeYS8FdQVNbrUUayNQmsQOBhyZbA7dOgVfZYZc300DD2B3x1lnhaQp6-UDISjTVBlDtwBHPTFglBSo4tehMAtBm-KW9UHecY5a8yZqTE0eRsyINhleAUM"
+    ],
+    "local_images": [
+      "assets/images/thumb_video_8397847596957063.jpg"
+    ],
+    "video": "assets/videos/video_8397847596957063.mp4",
+    "youtube": null
+  },
+  {
+    "id": 134,
+    "title": "Шкільний патріотичний флешмоб та виховний захід",
+    "content": [],
+    "full_text": "Липницький ЗЗСО І-ІІІ ступенів",
+    "category": "Життя школи",
+    "year": "2020",
+    "images": [
+      "https://lh3.googleusercontent.com/docsubipk/AP9E6xUFnoPzgctK6onRkxCdD9A9xeXghGs4XZ7zRGAY2l2bZEeULoNBS91Ieoqa_jGrbsqr9EaTvcY1Uh9W1mQUL8UXKlHfwaZ4uHmmNIE-Taqv-Bxr73vV5xEqJkuXRfiQ2T2luyQw9sdXPJdg1q8Zb-R1_lWk_qY-8x5SwTnY9p9Ju82p3Bg0_MgzNyW_mGk2VpC7102yV0PzMuqFXFRpV3c-5lqVNgzj4fu2w2hDc4Zw1dxTQAKleOF8ZvI0o9inpo1gvSwm2tUToCl2rr-8JSmd96CnFGAH7by8qc6jWBqdK6UVwRwZD_hpcRRw3EZvm5IuS4KpDuJhUYtS1nqmdq7hBSXiy29dlLNuCIL5Ijiy4ii0I6O0_PcKOmKrpodqtk_np4sB"
+    ],
+    "local_images": [
+      "assets/images/thumb_video_1284654262104910.jpg"
+    ],
+    "video": "assets/videos/video_1284654262104910.mp4",
+    "youtube": null
+  },
+  {
+    "id": 135,
+    "title": "\"Наша солов'їна мова - найкраща у світі!\" - з таким гаслом під звуки Гімну українській мові пройшло в Липницькому ЗЗСО І-ІІІ ступенів Солов'їне шоу.",
+    "content": [
+      "Знавцем української мови стала Гринчук Софія.",
+      "Слухаймо, милуймося, вивчаймо, цінуймо, гордімся своїм народом і рідною мовою!"
+    ],
+    "full_text": "Знавцем української мови стала Гринчук Софія.\n\nСлухаймо, милуймося, вивчаймо, цінуймо, гордімся своїм народом і рідною мовою!",
+    "category": "Життя школи",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uHR-Tab9BuM77sExaDjDnOu6hcMknLtCzPPPwYZK6Ej2PfUYFOzERT-mb3MyfG37ZGJkXeGX2WkJNczGxJaNAxonw9VlgEYmoCDVyX7ULEjO0l8dck4VBLZEarpWnvcYOURBIBoFpaFebvbyhJm4lrp55lAF9nDic_p6XC_qHCyao01-bI6ynKtY9JmaQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tarUhP4uyPGx-DnhNlRPrDlI0LmUpN5dKLU3-wOOEW-H3S7oiSmCs-ENhkeW01Lv5kTQ8wfZBJbAQ6sRAgZXx1Kp30oT27e5mW9-aMjMSYt6zqfF8M5hRONMMWvuufM6bSbo-5KATRMbNdn94eyeUQXjA8hbqp3o4HoRYyadqG0x2Sjduy6bAVhHHYhPM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72smCF1mTawquoH90uNg8-MYTnX3poLpn5s1oMKh54AnGtoDirNQlrBk_5JA258EDDdhm89GZH8ux78SkqgglOS-V6Bkd9pah48A_hOKpQLfbl01_Cms1MMJXu0daaM-YZSU92ZVpss3sabEvwgzn_fkvHeALsuFCJgyZH9DWs38EHbIKMqu_cjEYmwX1Ec=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vajyhn9GEr8gbgOcAwkzIaVgKfIxd1T8yfWp3ImoOQ_8i_tc6LY1pBo99cORJ0ahuyVYUaMHJ7e2p4rWr75-14rcMcOWpv3Mv0e6G-anEG3THBIM44t1WQSTth22BuM9UZxnkQ1u7wDXhpa5IkMfS_pPXTzuY6yGjNHdU6Axx64oFbW_rMWhtwVwiT0pk=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_135_1.jpg",
+      "assets/images/ev_135_2.jpg",
+      "assets/images/ev_135_3.jpg",
+      "assets/images/ev_135_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 136,
+    "title": "Сьогодні, як ніколи, мова - наша зброя!",
+    "content": [
+      "У рамках Тижня писемності учні та вчителі Липницького ЗЗСО І-ІІІ ступенів взяли активну участь у ХХІІ Всеукраїнському радіодиктанті національної єдності.",
+      "Об'єднуємось навколо України та рідної мови!"
+    ],
+    "full_text": "У рамках Тижня писемності учні та вчителі Липницького ЗЗСО І-ІІІ ступенів взяли активну участь у ХХІІ Всеукраїнському радіодиктанті національної єдності.\n\nОб'єднуємось навколо України та рідної мови!",
+    "category": "Життя школи",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tjyI6KQbstu7y7RXmIYjLbMf4bl_bf59HDLZYqYHFjq6q6GWD5rKN0Wp87H6VozLtwo06sQEyyGmZsBDZACDm92dPH0mBWDSobuiMajXhgMShiqiAo6DtGHGSegURM2VtUXMbmnuDCdtuXALZ9t49dAixxL_5NzzVria95hfYSnKsuA2Mcam0JIOGWE1I=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72smVCpIi2Eu8ZMPTpbVbCi2hJbqvuk9CnUwFIPClzNV147G42t3nXNMkvvfvfU0W4IjlKpg03vzmw7FCz0mL4duSYxPc7MKcUsJPr7XTHH_t_AlzzOblPvJMM1m2N-6DTOCrh4ZsACQGrxz7HS8WwngYw2afjZX3-ND7eP2EJmPAFfVjEeWatXyJ_zzC2s=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vs6OH0TFMqordM02gSugDeG-su8URk4qNqMofqodJTu6Ja83u6g6jsHcwcKmvDx9wYeXfEJiQGPjO8Qrcwmu988ltqvNeKP0EJ9qAtozJ_5CX4LI1C9CsXJIt3C_KHYfNfPdurU2z_q3sjrjGBJy0pDTf9UoEIGrcLzlLRX_8pJM2y1lkXa5QnD4f3jMw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sLCpoNWP3vKSntiX1xmSuHQ75AQXf4K7sCMrkQoADCDlT3TdC5XJme1sio-VHzGIaTvxDJz46d8A5eSBnC4MByfFQ2d8kmE1FannXkpjhCCK4FNZPfjNVkTf3HVKuuh7CjE60XEw0OIjbCvYwC5ZwlbEY7dRklcxLJjBe5aj0AGXQIKAcRLW9MuYW1ccU=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_136_1.jpg",
+      "assets/images/ev_136_2.jpg",
+      "assets/images/ev_136_3.jpg",
+      "assets/images/ev_136_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 137,
+    "title": "Звіт директора",
+    "content": [
+      "17 червня 2022 року відбувася звіт Суховича Ярослава Романовича про свою діяльність за 2021-2022 навчальний рік перед колективом закладу та громадськістю (звіт додається). Конференція закладу освіти визнала роботу директора на високому рівні та звернулася з пропозицію до Відділу освіти Рава-Руської міської ради про моральне та матеріальне заохочення директора."
+    ],
+    "full_text": "17 червня 2022 року відбувася звіт Суховича Ярослава Романовича про свою діяльність за 2021-2022 навчальний рік перед колективом закладу та громадськістю (звіт додається). Конференція закладу освіти визнала роботу директора на високому рівні та звернулася з пропозицію до Відділу освіти Рава-Руської міської ради про моральне та матеріальне заохочення директора.",
+    "category": "Офіційні новини",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vn1AiSYU-ToHI2wA37KbcDFg80-pR6VXP2WfyFePK1dmeyyrw0neCT6mk-Tc-hSpE8yvaO8pZSc6WAE3GfmDwI-hZ0pNYJo6aUZkBZx8ob_STn9-OGzkZsmtHE2jHjyBufrT_eCGuB3q0Ia9pFmjGKgWKOgiMuqLDENRuKTP6cC1QDaZZjD_rb0OxIzRU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uxnhrEg3Q4oH3WmGlIy7HaQEx-hbuZzSR_MCEaK0rdcSu4vzuIPJYE4-SP983jLUNDQSGvJqLxl7eWvDUAwgVCT6OumJzD9a9BCYY8Rf1Ef0HuJvWYMdanDGiT3jqL1jAIdJ8u3Hj3ZkWkgReKtXjlNLAbCwr6qC-bydcfNYYboXXs13uKruhw01l4dtk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sVX8CJ8dRs1hSbIczWxp0_hZxMQQ78G29o55qMOi4uGTrt6GZUVF-UPx_17f-T2hV8rwq0ozI6gqRovoPMVV_erUONZ-TrVkYvgSqCAJy5DjTXTJNEuM4F6OtAQ7JLW6HeGbAuvh4_eylnmP-FKWH3B4v8nINTuc6QmHzJPNUVdhobr2fCbwRaAdvFRSA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u2x8vg0KZ2RS4rleFW9zakK00bhWeBErqSgf0PwMeUvnthBZEcvN9wQ9I1etq3i1UxJRq1UPmYDkUxf1h6ss92Px3SViGjjSknlT2XcDKlejoosMpILKJBTb_Yoo49Jf-8QIAQW9eb59WIxe3KyAC8SGHaO0W2lHY-kDiroPSiBf9OuMxVq-cyI6HG=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v7y1IELpkbbVvtOIIWyfufsPhmGiUlgoGZXZLyzcSfGV2z6Vzq0yT9DVXuQS_UIxCPVrGmHzkiccelVgFm1sg165G8HOQOJVGjvy4mEJ1jLQAvt_LOT8iXQ7uNng1v1l7hxkzy97uvYZldpuwOraXnih9-fYyxge8QROkXmt9RUlUwmQc6eeD0HVfW=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_137_1.jpg",
+      "assets/images/ev_137_2.jpg",
+      "assets/images/ev_137_3.jpg",
+      "assets/images/ev_137_4.jpg",
+      "assets/images/ev_137_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 138,
+    "title": "Дирекція закладу освіти нагадує батькам майбутніх першокласників, що заяви про зарахування до 1 класу на 2022 - 2023 навчальний рік прийматимуться до 31 травня 2022 року.",
+    "content": [
+      "До заяви необхідно додати такі документи:",
+      "копію свідоцтва про народження дитини;",
+      "медичну довідку."
+    ],
+    "full_text": "До заяви необхідно додати такі документи:\n\nкопію свідоцтва про народження дитини;\n\nмедичну довідку.",
+    "category": "Життя школи",
+    "year": "2022",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tLb-D-vGbRnTR9oudILeh5T96BlSGQ0RtYf_yDIDzaWjFgGNryBtX8g5qy0HD7DlM4VlFPtya-h5_vp8eCcos9U8EShrCcG-itVHuXvAO91WhA90IpPNwAQf3aplbxqyR6s3DYtSjbW1ojIYaAaK-PatCyzA8pt_dEvrnIOuFiAIHxyPoXr8W8mzhV=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vhJsKoSA3zvkxWhVEPpWBKOtS9h_VTW5ik_xe9O0Y3vbIBz3fibrln3z4qij2YEiOk6MiSEcopgF5xF7DEZrUtszCTSbMw9JDc_REZk1PZox8t1IPKwxbow5h8md4bYrF2lxEcxwUmstoZ26lugpOQZ2ieotNFxpQdBAHptP-pz7czqNfnqVvGVvWn9-s=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_138_1.jpg",
+      "assets/images/ev_138_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 139,
+    "title": "Напередодні світлих Пасхальних днів приємна звістка завітала у Липницький ЗЗСО І-ІІІ ступенів Рава-Руської міської ради. Суховича Ярослава Романовича, директора закладу, нагороджено Подякою МОН України та Почесною грамотою Львівської обласної державної адміністрації за багаторічну сумлінну працю на ниві розбудови національної освіти, вагомий внесок у навчання і виховання підростаючого покоління, за активну життєву позицію та професійні досягнення.",
+    "content": [
+      "Педагогічний, учнівський та батьківський колективи щиро вітають Ярослава Романовича з відзнакою. Бажаємо не зупинятися на досягнутому, завжди вірити у свої сили і домагатися поставлених цілей. Міцного здоров’я Вам! Щасливої долі! Мирного неба!"
+    ],
+    "full_text": "Педагогічний, учнівський та батьківський колективи щиро вітають Ярослава Романовича з відзнакою. Бажаємо не зупинятися на досягнутому, завжди вірити у свої сили і домагатися поставлених цілей. Міцного здоров’я Вам! Щасливої долі! Мирного неба!",
+    "category": "Офіційні новини",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uvr0nLmCTb43pbQf7g-C7fmXPB228XvfUd-n1jDopVB5l2kSjM1IW_R52twHBEaJyAOoWFJHtPK274W5qyrKsluvubeqUUJRHZxIcxH3VBnKp75h11BzcbZ39G4sszJraVN-pajU-KIbVART4k_7X5617uOOwQ_iQzoveGZ4ZhkvRYU8Er7wYw8ZZEQXc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u_JJRHG5qwUR9Dgf1LOx6t7sk2Ont9ql1iTny_kxI3-ttu74_baDjo3PZhloYuSLRgdXRFfDNjnsvYlKbrDS_ffZqbOh20f_QBY8jhkN0Qg78UH-xHdENbQOXfafmSLknnxpVxmZlxRbgszw3EYIb3kST73n5DflOH6fsOopYqi8TSxg_AOsqGr_Wf=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tXMZUI04LELEL8367W0EVtHuYyS8eMrMx-cGqtvsewgEd7e4eylIkoPaVc_Qx-oCTyRbwQi1ESkM0OAyTVbfbdrhi5fsSulSKV-_Q1QpaSxX_BWFUeFDRSduyDhgieL6wBFM77S7OkDfH58qpm9JsM7QH0chBR2rXU5YpzMP76gP2IBC3QbTzNWFBBkEQ=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_139_1.jpg",
+      "assets/images/ev_139_2.jpg",
+      "assets/images/ev_139_3.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 140,
+    "title": "Вже доброю традицією у Липницькому закладі освіти стало відзначення ювілеїв працівників.",
+    "content": [
+      "14 лютого своє 70-річчя святкувала чарівна жінка, досвідчена вчителька Нижник Віра Трохимівна, котра вже впродовж 52 років сіє зерна науки і добра своїм вихованцям. Долею їй судилося стати справжнім учителем: мудрим і вимогливим, толерантним і справедливим, щирим і творчим. Віра Трохимівна подарувала школярам півстоліття натхнення, любові і турботи. Вона ніколи не зупиняється на досягнутому, весь час самовдосконалюється. Адже народна мудрість говорить: “Щоб дати учню іскорку світла – учителю треба виховувати в собі іскорку сонця”. Щодня Віра Трохимівна переступає поріг школи усміхнена, з безмежним бажанням залучити дітей до світу знань і творчості.",
+      "Із словами привітань до ювілярки звернулися дирекція, профспілковий комітет, учні та випускники. Сухович Ярослав Романович, директор закладу освіти, подякував учительці за багаторічну працю і побажав душевної молодості та оптимізму.",
+      "Привітати іменинницю цього зимового дня завітав в.о. начальника відділу освіти Рава-Руської міської ради Мисько Михайло Іванович та вручив грамоту за багаторічну плідну працю, професіоналізм з нагоди 70-річчя.",
+      "З вітальним словом звернулася до Віри Трохимівної Бродик Ірина Анатолїівна, голова об’єднаної профспілкової організації освітян колишнього Жовківського району, яка щиро подякувала іменинниці за мудрість, щедрість душі, за велику відданість професії і побажала здоров’я на довгі роки.",
+      "У свою чергу ювілярка подякувала за увагу і турботу, поділилася спогадами про свою роботу, відзначивши, що завжди відповідально і з любов’ю ставиться до справи, яку виконує.",
+      "Многії і благії літа!"
+    ],
+    "full_text": "14 лютого своє 70-річчя святкувала чарівна жінка, досвідчена вчителька Нижник Віра Трохимівна, котра вже впродовж 52 років сіє зерна науки і добра своїм вихованцям. Долею їй судилося стати справжнім учителем: мудрим і вимогливим, толерантним і справедливим, щирим і творчим. Віра Трохимівна подарувала школярам півстоліття натхнення, любові і турботи. Вона ніколи не зупиняється на досягнутому, весь час самовдосконалюється. Адже народна мудрість говорить: “Щоб дати учню іскорку світла – учителю треба виховувати в собі іскорку сонця”. Щодня Віра Трохимівна переступає поріг школи усміхнена, з безмежним бажанням залучити дітей до світу знань і творчості.\n\nІз словами привітань до ювілярки звернулися дирекція, профспілковий комітет, учні та випускники. Сухович Ярослав Романович, директор закладу освіти, подякував учительці за багаторічну працю і побажав душевної молодості та оптимізму.\n\nПривітати іменинницю цього зимового дня завітав в.о. начальника відділу освіти Рава-Руської міської ради Мисько Михайло Іванович та вручив грамоту за багаторічну плідну працю, професіоналізм з нагоди 70-річчя.\n\nЗ вітальним словом звернулася до Віри Трохимівної Бродик Ірина Анатолїівна, голова об’єднаної профспілкової організації освітян колишнього Жовківського району, яка щиро подякувала іменинниці за мудрість, щедрість душі, за велику відданість професії і побажала здоров’я на довгі роки.\n\nУ свою чергу ювілярка подякувала за увагу і турботу, поділилася спогадами про свою роботу, відзначивши, що завжди відповідально і з любов’ю ставиться до справи, яку виконує.\n\nМногії і благії літа!",
+    "category": "Шкільні свята",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tmqoBGngEc09oIgARhWA_F-OVtCUl4p-W6m7M5_wsw28RiI9JWHLMjSsMJNijpUk1fsj153nH8zS4y4SU792HGmCoTYnLWYT2UFNQgnNqcw7wU8AcdyW9lf38KDPaVFKJOwS7I42YwuSCs1u4TkxqXTYJMgpHf5QZ1LATRDblRDtQ2srbhcwrhVJCEwfQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72spy7NbvsbtidHfgEeEKjpanMOLsAVhiYWB_6_TOrYYjhKXfih99gz9arCSxiZpgjau8q0wgc9QubOWZfK-QVuTwJkVdgWIRfnjmFWiZwigyaP9VTQ0wr8LBJTyMJRMEZ-e3KMSoQ9v-TOFZWnJG7UYYdSw1POKDq7j96vtiRmz8Ekm8Jvu4XzjjPWM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tkrWPrk9orFwvSDbnh8UdLUCVJr3_GaQeLXBfsuS3XVtFBFJoQGEtWcm2EmQN-ARESTKAwhdP6ggIUiEljE013ESvPin7eGeWGKtUM2ezn3iJlYy6zitQ52Z4c3GMojnc0K1Nx0l-2lKR2tenxpo_xhiPwcPpcRDoueXWia9nO3V2X8f-D8eiowfae=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sC9h4yyNq5SsPMhSrPmRwzgyI6b1vCwdFIcNb1-51jHMPClIV1VzkUtT9Wtmcs9KbJPlKo_x93ATR6HWfxvY_jP-a3se1Xwsf8WGtN5m5qUDuBD-xfnpCo2wqUYzZv9_rC12i6MRBSWbbBrPwoZnVCT6nU0wghUncxQU5hPYRlAkC9KtHIIHGX2C409_4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vKTfz7HumMUsHYZVhFZTONtKnDUbVjAKZ5sbrcKDzjg4TJXYskJHFieHhbUk9qGgbhGwNCXhR-NkU0xEwn9Wja6xT7Q4ShZl8KnoVHv5NxY7D_BS8JjFBN_NqnbpGVAeqru36bmP2BWg6rVlaWV7bwUL9MfU6vht6f76BMtlQD0sOIoxCvLUdtkBhwYOg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t6Xe2Ij1KapUohoGmwGqrrRMgGV_zwWyqJrqHoPMJjX02Jt5wRWfhC4EPwe9R6GsdDErhe79Fb05pzRYn1qZoA3-XHpDKny3H6eAUvPRq4cSczNyrbk6ArfBiJ_qL-LJJ8MF--XUnpAjN94PKPLs3GJn__E-RbokEV4gTNWWvkHlVLwch4lL6u5GcBH1c=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_140_1.jpg",
+      "assets/images/ev_140_2.jpg",
+      "assets/images/ev_140_3.jpg",
+      "assets/images/ev_140_4.jpg",
+      "assets/images/ev_140_5.jpg",
+      "assets/images/ev_140_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 141,
+    "title": "Шановні колеги, батьки, учні! Дорогі друзі!",
+    "content": [
+      "Вітаю з прийдешнім Новим роком та Різдвом Христовим!",
+      "Рік, що минає, був не простим, насиченим цікавими подіями, напруженою працею та чудовими звершеннями.",
+      "Я вдячний кожному із Вас за плідну співпрацю у 2021 році.",
+      "Бажаю, щоб любов, турбота і старання вчителів та батьків до дітей були виправдані учнівським розумінням та їхніми високими знаннями!",
+      "Нехай Новий рік принесе благополуччя, радість в оселю, тепло і затишок у родину, гармонію та спокій у серця, натхнення та успіх - у професійну діяльність!"
+    ],
+    "full_text": "Вітаю з прийдешнім Новим роком та Різдвом Христовим!\n\nРік, що минає, був не простим, насиченим цікавими подіями, напруженою працею та чудовими звершеннями.\n\nЯ вдячний кожному із Вас за плідну співпрацю у 2021 році.\n\nБажаю, щоб любов, турбота і старання вчителів та батьків до дітей були виправдані учнівським розумінням та їхніми високими знаннями!\n\nНехай Новий рік принесе благополуччя, радість в оселю, тепло і затишок у родину, гармонію та спокій у серця, натхнення та успіх - у професійну діяльність!",
+    "category": "Шкільні свята",
+    "year": "2021",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72v3PaYeSAk7bj3BT9_bAtziSs3eKZ-k9AQeDbxR8jvxDjJTS3r9ADzpPvxt_Zdi1myZn3sx2KKaZQFuO4qcqRra7U1b44awm2MhN6reTjvdT8QE9Ytj3r-417TC1PATCbafxMGfGU7eZ1xSxiALKoidO4ifcrbvHhnm2QNjhO9GtjY0Y2RXJGaY06UWl5RYdIKjBmgQC3yIcczpl_Q2cx1y80kAMXEiS8MT9AgStnQ=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uVYNzlle9mXPO6YjBgee0duKXHuKc1c1UzzCa0uQll4I9lLPYvwQM-aiJco7nwSR1hrf_d3EPMW9i0fq3ZjFVqnANSKrsGvL_NKRXtehiuQ4MDS0pLuYtgIJh-2aGPF1EjyRgUCa3DXfIoaWzihaLsAKWGuYPE63QzAVYA3aMvXsBFWYForDJLTIjG-MVpZJonwD41hUspnZwZ3XveYQNytHc0jhabSjr0gGMcw8Y=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_141_1.jpg",
+      "assets/images/ev_141_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 142,
+    "title": "Традиційні \"Андріївські вечорниці\" у Липницькому ЗЗСО І-ІІІ ступенів...",
+    "content": [
+      "Традиційні \"Андріївські вечорниці\" у Липницькому ЗЗСО І-ІІІ ступенів..."
+    ],
+    "full_text": "Традиційні \"Андріївські вечорниці\" у Липницькому ЗЗСО І-ІІІ ступенів...",
+    "category": "Життя школи",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vgzynzayRKWuuoXHuZAXNZo6CC58putOEB-KJj77Aam5ZKsVJ1Bh4clLfT8YOkJvjpzI7CdpbuVSFcjqx15dw2RlLTlA8anXfwAw7AzC2_EpxhO4aqcPxNQMQBQfFlQ8jHnPyzemwCi2Ez20fL_zLmKxoh8iD9fBqwwYyQkXHISxxJTqVWKLVBHnMijv0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72utO7LAFeaEU2QiTTiLOnPXQl4eMpEVUftG2-v-uhZLdRBJemilFQ0DnLS9aTubaSN2f5uZIYcI3kQSZgTbY6VoCknQJVCMYEItsfcuDyoZl2B2wSW2caESZBedaMyZA_-XTfeoQ-pnLF1eW1j-j4cslauBcVV-jwB79uBwKzGFWiq0dBTUPdBQKoapqBI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s96dYhvi6Q2Yo_rMAdaqkqwwwkmsB4R0TQj4YG7HjjA_idI39GqX0ELXfqWdvq_ghlDS11dYlvl4i1BiBaffq3THCBYK3w3MlEarHCNrC8hNF9s-tRfNvajZ5hnvxIvhV3PJ3xmfYdZEY9dH3LYwP1pY6HUDgGOGglneuMahXHU3BOuTQOkgyXM2lzckM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vDIyDH_l35TurLJrlsZ0EAcNDTznTovSk4tgnZZREpmG2rbAEIwo7iypfKMolF-86bDGCU2QgOfLPcIHpiy-6z1T-CLM20dtcj3Do2IL9uDHB0bZLEHyjd1LEQsB9Cx_xZYTGTrAIFztUjMBa32atWhSsjW_Z-VR7vlX1WS6YgqrP0jW8qufaXvp9vrYY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vpvVNBzp3UDHG_P5jmAZXJRS8gD8E2Z1TjrBuUqNTau40onF3L0RZEh4QCtmFcnGhuJdPCsMX2LcFOwc2Qez1sgFnVpHejfSZgoQ0c92yygq_nQXpqtus2vgg0OuboLQmhT2CnFDKPNFs8tXkZqYKjNDO6fgsKKUZos6aRjgzO3umPagiGy8nHMwxC=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72talmxasX16eFBqALNEXidAyKKQtinO1yY7I-qTfml6Mvtv1rXELk3gg-kCOB3WZB-3SfS5c87LFeQz3-AFAu3y7ilaywMqWTb5BDOX_C5WVntcfs_myCVMQ98xbfdQfp9YMBnRuSOvdtnoUXFBOuK_wUr8hENyZ2v89vZ54xAuA3w1A9KZ2N6SnvMB-3g=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t9D98NhqAm63vB7cEsrg1nnuLpIg92yCR5Znb7oRMjHQUM9ZKtw2RZLeeqZfUn0UUSdlKMBL1ZrSWV7KBjJ8Fs_nlj_nu2gUHi21e3iybQbKe2S41E_ODShmLvkj_1-6kWwgbWfxyDYcwrsYi4wdOlxHKUhP9HVBfbvJBJZ226Fa2IXGxfc8kDoXTkDJY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sWgWwMNANMZpK0wNQAB1ImiS-XjrrSFrOVduGZIepiqH5pUrVnR_t2nzEysha_UQR82xkEb-fFzOGhPFC_A97dj6IX4KElj5lyfm5zVU8RUfjBZGHSJbbMJ2Hx3zPIFCdXMEyyzjem6KnLCrJC30ahQMEEXoVYYSNdsVWBOmDKpLv037rYvsdQFzpAMGQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tMwujveJMETb-0L8UqoMHSQBYkQD3SLTy8GYWaWJ9MbuG0hl6OhZeDOmZyqffH-Z2KGz7jRtwgUUtk-NTOp_xjzyqfcv8qFF2TDlifd-2ViiyLrPc9fbcytKcYpAJxN4_RPUdRfVAYsog_c4UOyGwXV0kUvXSxKqcAe11OMTonGLuBlxB51dHrLLk8nHQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t5FpRSfh5aTCDsKTDEGw2lBz2v-niKrg5PTHiWL1ma9g0bEWh8vKsExnAp8U0nkhnvOYHanxTah05jC9HCrY6RI82OzaHcfdMftayNDIhE_U5FVx-wxle0jn-pnDaqc6Y31bQU33oXoNNkQMAlLvEjdkqOw6yzPQRhjsj_Z-TYhPMk64jWT_dZCA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vRoh_AFI7DfLu9AaL-3fQNl0uVVwrZgBYnsAfj7SnCRw2ssaBncNf20Hg1fuv1gXn8JUfqumNqtBUqQEr16IbdgSxTyLY67XPtwXHgrbkvbwvYWBak6v9MVrnZjDIQNPttoG0c14rhRRyHaMFM8s_T4z07YvrVp3vS39h4zqhTd7HhbNFDgW-Cku8B=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u4KQCK-CUy6zT8D6cX9h7Rzk2wVyMq_AvTFF-BoE5IxTaFlqtvtxcAt70nsNdku_y22AnYdWHrLVyaqMgv3kZnwLAyLcBXTVLZnP16TZ8bohgVzpm5GU91Ea0J-5slTgeXoS2hmXM2wwFdMctkeF-uQuCMEM8cZlb64sJdLmEdemTcqHoQIa8vYRyw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tx0KyZGc3MXjwS2o4CjOku0MlaseQG1d7kqUQqvQqQvsqWCPPuRZORQMm--dRCkt1WHMukgBUUZzhCyU2dntL7_vUlWmVZ9Gd-zAC6qCbwltVek5fx3H481JTr3gRFpjmvPhB4w-S9k9XUvyTgf5WOaBE2CyVEow-jzNubkNtzxGiOCFppEoSQMGZt=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vlyk0C0XWeNVDbJUUDOVvQAV2o1-MJa-gFmdetKHcQ0CTGb32lGbvM_Ata_zpDTdVb9F_xt2GffDtgXPlcOdN6XCB6z0m__6k_zzQS4IyR7xBk7YdXksEgkqCNfVXbZ8yfR0RsYRM8tgi-_zUxbz3ZML_ML0hMJ5fPonj1dqGzkGOKcfH57PSTo9TWMh0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vxDa3n_HUBw7ppsZJGowbI5CKJXzsfzqZezaErJpUx6M1TJ3qPy4cKHZhbVCuJnMOCzYaWdNWLXTBQpFfteXe575Z4K1MlgWjEi6q5-Lbqj5qrh6NRDa03BAi98kw86GmAhxrzCCHWlmLMb-_HGvikRxwLSVOf34XINDiDSnxUsBw9i0Q4fBS3Qs883QA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uKUj70dg9FLcVztq1JjHRumJPtWF_mEUl4aKDpWOMhopB26hnVp7FCbxlPlw25Bnf5xPNjXVdaW8-hycU4nqbpLAJ92L-7NsGTxpP6VewrGRGzEKe_1cjnEyzI1LVP2zGZ4bG9TtMMOAkDCgHDvcWUsPp2gJQfpNOFob5pW0Ba0f5ITv4QUhJngn4P7z4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tILsWgiwX0mtVSXyOIOoiwCRFC8NHGx8RmkBby_S3jGzo9rLWqedy5FNKevJkHWwH5SBLLLZub25DokBHS3JqqPDMQSjAiWbynnFSndZzkuPFNg4UfDSnf9pw0H_uSdO5tIFs5P_eLzqXqgLMUGRFTyMrK_BjcO2ucImIGjrn1QRpfD0fZAArdRGs2eqY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tRzs4WOW3pRuSyJghpS8YSTaFHa5wnj051d5UY-4JQ_CX_WeZlKc00grzqKg2srOAn24ZkDBe6pOJP_6VyNTU8UOwPJEvUGV8-WQXnNeDgGBN9_95MijLbj9pKarVa8Xha1PrK5THEXedrI9wEga42QBMtlswBV3zA3iQsZ8ZfofvOH0VhpfynXH3Nexw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tnTBiar9pDxNMGedJjidTvzfV1OT2LnrW-y8KSfml-Pw8GN74WoHNL6POT1-eSjRjZdKlrfdBr_DRM-SR1zv4x45fL_wLShM6nbQF1CYo8uGbHk43qnHE3W9TRwRbgfDxXQKo8KID4faV0NWYhII2bfY0QpeGC7UqQll_Z-6Fa3jDBJ7xk4qNAov3_i-Q=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_142_1.jpg",
+      "assets/images/ev_142_2.jpg",
+      "assets/images/ev_142_3.jpg",
+      "assets/images/ev_142_4.jpg",
+      "assets/images/ev_142_5.jpg",
+      "assets/images/ev_142_6.jpg",
+      "assets/images/ev_142_7.jpg",
+      "assets/images/ev_142_8.jpg",
+      "assets/images/ev_142_9.jpg",
+      "assets/images/ev_142_10.jpg",
+      "assets/images/ev_142_11.jpg",
+      "assets/images/ev_142_12.jpg",
+      "assets/images/ev_142_13.jpg",
+      "assets/images/ev_142_14.jpg",
+      "assets/images/ev_142_15.jpg",
+      "assets/images/ev_142_16.jpg",
+      "assets/images/ev_142_17.jpg",
+      "assets/images/ev_142_18.jpg",
+      "assets/images/ev_142_19.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 143,
+    "title": "9 листопада вся Україна відзначає важливе свято – День української писемності та мови.",
+    "content": [
+      "Особлива атмосфера панувала в цей день у Липницькому ЗЗСО І – ІІІ ступенів. Вчителі та учні долучилися до написання радіодиктанту. Вчителька 1 класу Світлана Мавдрик провела нестандартний урок навчання грамоти, присвячений Дню української писемності та мови.",
+      "Класна кімната сяяла не тільки дитячими усмішками, а й вишиванками, яскравими висловами про мову. Учні декламували вірші, співали патріотичні пісні. Дві команди «Сонечко» і «Веселка» взяли участь у конкурсах: «Відгадай загадку», «З якої казки?», «Скільки складів у слові?», «Відшукай звукову модель», «Запиши слово».",
+      "Учасники команд були активними та уважними і з новими знаннями, гарними подарунками, медалями завершили свято."
+    ],
+    "full_text": "Особлива атмосфера панувала в цей день у Липницькому ЗЗСО І – ІІІ ступенів. Вчителі та учні долучилися до написання радіодиктанту. Вчителька 1 класу Світлана Мавдрик провела нестандартний урок навчання грамоти, присвячений Дню української писемності та мови.\n\nКласна кімната сяяла не тільки дитячими усмішками, а й вишиванками, яскравими висловами про мову. Учні декламували вірші, співали патріотичні пісні. Дві команди «Сонечко» і «Веселка» взяли участь у конкурсах: «Відгадай загадку», «З якої казки?», «Скільки складів у слові?», «Відшукай звукову модель», «Запиши слово».\n\nУчасники команд були активними та уважними і з новими знаннями, гарними подарунками, медалями завершили свято.",
+    "category": "Патріотичне виховання",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sSwLTccFHzaekqHM2G_BPKbkwNk67PQ2YZKchHTrOXjIdlVsiMIwJ4vSxkAwUTnc0ymvHB0TOoQbL8HCK8IFjMnMAOvsjo4d_9MVPDHNOK37sYKMcItmykM0v2UV_OlZOgh8EJ_UDJhG-a63BGB6qfEebhtjay_qayt_5lpsEMm9R3o_OrETt5FTBg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uDvMMZDZg5dgooIcqJOPl0-lz82qFX8GvpPMAttla6bVVGIXwGTLSFuobbtsdjYPuHcomUkgkYMvXp5uYrvms_3pzX_iyMkL0j-aMD_ufZ4YQQro_1rEbWN2XRt2-o6PwcRZHZgswPJazzPc80Gkd0Qs7TtGhZ7vjdENPVwOr4xihANnRtYoc6cfOX=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72szDBoEXbiG4D6E-MCUDyQodT2EU3rABzZu5KqHMgSA1Mcxn2FFm2BgeI4XvxoWuZtLwHeIiECgzyBBSg-ydEfXIHIHEkwtYjjN_Y6yfLRGZ0fVLfAEA1gMcI1ohpsiIJpGjq7I3HWDp2fDBBoP-NS-A2F7xhlicqZ6asmu1Vh6V-1ol8f5LvE1qg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v_v-xbiXx3kztb-GpVHm78B9E0eglZNuJSgJbpKPjO-NTdwPnSeXRqKYDDjTQqdxFKeybOdZlcpfzrKsbnyPWuJ2LNb76CW6Ii78eE43mMDMArZOZbYg4s_rrPi9Mi5PMeJHmKUsVkK4sYUWN_M_RuY_Y8We_3MHOfjK6vQBZKdadUzNz8j_YdmKCKM-0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ux6yurLwhe4y_GZha9izyAJe5qVmT8h1dby3eQUxktsF-Vg-SAGNgrRv6JqFz6xsVSgqI1Jig-Zv6uMHXccvxHPA07WeNvfgURYsyBnCaZuK_CgtbBUsmpjooRVylaCJ2OCDeK_0-Jthj488uWgi5Oxozs9RaHlnRhkyo91ewd1LWkypEQt3E9uPrgh18=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tvVFgOB2vOZk4sDszET6AVzQzSjybZgRSBh4-oFMoAd8exaJ7JJXfd34UdqN_sviKKGc48HXSeBywTQDPtalQ2JaxW1Jd0m1qJC_FtE6fO6tE9MHehNs7muI_hc73vB3NhhafXLCthqdHhrEWjpi8wdJhQsDTUpnPKgsEJpajT_4LBMM53mY8Uuz_V8BU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uLJcFIPGdXkSCx6_m3ssafwbSByQZcryoNTKNZ7bxp6PjMrifSLV9d3N5aLyV4534krKLmt3goCNLQjAjVgUtACQwKVduhs3fMYAXt7Bt6qkMmZVF7O3rnMBKIcKUsjyuvmPwES623qxDAVfOZRGM3XlUdz4LpUnDgnJOA15C-cgQX6sNi9WLeCOf8=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_143_1.jpg",
+      "assets/images/ev_143_2.jpg",
+      "assets/images/ev_143_3.jpg",
+      "assets/images/ev_143_4.jpg",
+      "assets/images/ev_143_5.jpg",
+      "assets/images/ev_143_6.jpg",
+      "assets/images/ev_143_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 144,
+    "title": "аполеглива праця, зусилля та вміле керівництво приносять високі досягнення та успіх.",
+    "content": [
+      "З нагоди Дня вчителя Львівська обласна рада нагородила директора Липницького ЗЗСО І-ІІІ ступенів Суховича Ярослава Романовича грамотою за сумлінну працю, високий професіоналізм, вагомі досягнення в організації навчально-виховного процесу. Привітати і подякувати Ярославу Романовичу завітали у наш заклад депутат Львівської обласної ради Роман Демчина, заступник міського голови Роман Зінько та в.о. начальника відділу освіти Рава-Руської міської ради Михайло Мисько.",
+      "З радістю приєднався до привітань і колектив закладу освіти."
+    ],
+    "full_text": "З нагоди Дня вчителя Львівська обласна рада нагородила директора Липницького ЗЗСО І-ІІІ ступенів Суховича Ярослава Романовича грамотою за сумлінну працю, високий професіоналізм, вагомі досягнення в організації навчально-виховного процесу. Привітати і подякувати Ярославу Романовичу завітали у наш заклад депутат Львівської обласної ради Роман Демчина, заступник міського голови Роман Зінько та в.о. начальника відділу освіти Рава-Руської міської ради Михайло Мисько.\n\nЗ радістю приєднався до привітань і колектив закладу освіти.",
+    "category": "Офіційні новини",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sgNJ5pBDZ54L8eeq_pobaK1g7Zqjb1R4RnhaeiYZp8uS7Kt7PveAtKbiBTWALn5Rs_xt8IpGUkTc_fD7O3Q91GgXBDQ2w8SrkVyUIStp7Rwg55G4WEfTMbOz3Xz1mqYj5gzFv1N3dWi7X1t6ijeyF-seuNXFYOFVbFXIlDYrKlqKlHg7Evp9sxjvbM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uIyCS_v7OpKGh_YBVnzihEBajO5LSVFMH1iZlXbewbQCQdf1SdF6sJgqp4FHEdmtgrERPFoHGgYqr4UQulJZeN2jhjvUh8mgjfqqLjyZ14fUkk2GmqpDGWZY2WzVWzizG8O7iJMczdd_ES3WeJRZofVMNMGJiFbY0Bp9jsePxKoRISFnTiF9TASC2k6fM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sl-cGVDgn35-GFE_oL4zTjZFhGNUvPESdLJW-VvaZpMxJtX3nCFwpTz2pmemXJtuV54kZ4FrOTlNrtq8ZgI1fYqbwW6yQFeL6xHxXkwtM0jCC_cnlFabPI_Cq88WRJguvRvbjkMgQa1YzuRHckgy4bTBCgk8FCaEJZHtOPAfy6Vu37TesbpfwoEWqHMsc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sy1W1Up_H1aLsijVrp0XCSdD3U9cWWoL9vlpbB1JUHikArgu4KBUWPwDYN1bezIBBEDTu_Ptwuhoguj4b5mBK9ac1UXhgYpIf_2Zp2f9LakNlS0-DO8DOsB_DokC9O8D7K3sDRhgSkIil2BcsEpStm7C9u2WeCmDi6_ZE4olWadZMbdEoBgNAQthcjOcE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72saD0mfd6TbdsbnhOy7EpRCA7aXJD76FNQCXfJ7RGL-ehrjmBmB4HfybkXvFbqfVrFbBaJWerVLhojf23rbk4xYnS6tRIOBLKyNIMXSdpF8KBMQRIkhfCWNcYwC7xvVvHz0chuouX2DvsTSGgrmArADCWpLgzO9DbHDmyx3qZsBQDOdgvG4EBwkTmJW=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_144_1.jpg",
+      "assets/images/ev_144_2.jpg",
+      "assets/images/ev_144_3.jpg",
+      "assets/images/ev_144_4.jpg",
+      "assets/images/ev_144_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 145,
+    "title": "Вакциновані Відкриті",
+    "content": [
+      "З 23 вересня 2021 року, державною комісією ТЕБ і НС, по всій Україні запроваджено “жовтий” рівень епідеміологічної небезпеки та застосовуються обмежувальні протиепідемічні заходи, передбачені для “жовтого” рівня. Відвідування закладів освіти, крім дошкільних, спеціальних та 1-4 класів ЗЗСО, забороняється. Заборонено відвідування ЗЗСО, в яких провакциновано менше 80% працівників.",
+      "Наш, Липницький ЗЗСО І-ІІІ ст., працюватиме у звичному, очному режимі, адже кількість вакцинованих працівників, ще на кінець липня, становила 80 %. Станом на сьогодні, кількість вакцинованих – 82,5%. Якщо не враховувати працівниць, що перебувають у відпустці по вагітності і пологах та відпустці по догляду за дитиною до 3-х років (на час відпустки вони не є учасниками освітнього процесу і заклад не відвідують), то цей показник - 87%.",
+      "На сьогодні ми є єдиним закладом освіти у громаді, який працює у очному режимі, про що відзначили на нараді керівників закладів освіти голова Рава-Руської ТГ І. Івануса та в.о. начальника відділу освіти М. Мисько. Іван Іванович та Михайло Іванович подякували колективу закладу за відповідальне ставлення до свого здоров’я та здоров’я оточуючих.",
+      "Дирекція Липницького ЗЗСО І-ІІІ ступенів закликає усіх учасників освітнього процесу дбати про своє здоров’я.",
+      "Директор Ярослав Сухович."
+    ],
+    "full_text": "З 23 вересня 2021 року, державною комісією ТЕБ і НС, по всій Україні запроваджено “жовтий” рівень епідеміологічної небезпеки та застосовуються обмежувальні протиепідемічні заходи, передбачені для “жовтого” рівня. Відвідування закладів освіти, крім дошкільних, спеціальних та 1-4 класів ЗЗСО, забороняється. Заборонено відвідування ЗЗСО, в яких провакциновано менше 80% працівників.\n\nНаш, Липницький ЗЗСО І-ІІІ ст., працюватиме у звичному, очному режимі, адже кількість вакцинованих працівників, ще на кінець липня, становила 80 %. Станом на сьогодні, кількість вакцинованих – 82,5%. Якщо не враховувати працівниць, що перебувають у відпустці по вагітності і пологах та відпустці по догляду за дитиною до 3-х років (на час відпустки вони не є учасниками освітнього процесу і заклад не відвідують), то цей показник - 87%.\n\nНа сьогодні ми є єдиним закладом освіти у громаді, який працює у очному режимі, про що відзначили на нараді керівників закладів освіти голова Рава-Руської ТГ І. Івануса та в.о. начальника відділу освіти М. Мисько. Іван Іванович та Михайло Іванович подякували колективу закладу за відповідальне ставлення до свого здоров’я та здоров’я оточуючих.\n\nДирекція Липницького ЗЗСО І-ІІІ ступенів закликає усіх учасників освітнього процесу дбати про своє здоров’я.\n\nДиректор Ярослав Сухович.",
+    "category": "Офіційні новини",
+    "year": "2021",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uQ0qxC3GJDMxYAI_g6fRqxA1lfhK7rf1_iCNxAkmWkfX7aG1WnVL-163C75mOEMuLktFl_uQmsf8i9o2gNP5decYIqOBiEYex9hIsXttWqAy46FTPBIek5Sta_tlJj6VDrIE1Prk2RLWI8p-D7I6F2FGRPMb7FZ0XfZGGieSrsxrIyJopJTcjKg5sHY90=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uA6FEPFzLRrqVVnuhy5NgKrikQ_LCECIr93wk2LXHWhqYpeTlHBexfDJpVY1YtSy8upjbBB2h7xTbwkBiiDuQgBjEK65zJSPTmOETIEDnhGmYCExZQkSZM8XkSgXCdBlIQlCKTjoRwWJAJ80Hge07K1sS1Kr29WYmno0gHR33jBtwWiCQAi2n64zDB=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_145_1.jpg",
+      "assets/images/ev_145_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 146,
+    "title": "Вакцин",
+    "content": [
+      "овані - захищені",
+      "Вакцинація - це єдиний ефективний спосіб захистити себе від коронавірусної хвороби. Усвідомлюючи це, працівники Липницького ЗЗСО І-ІІІ ступенів, ще у липні розпочали вакцинацію. Станом на 30.08.2021 року отримали щеплення двома дозами від COVID-19 32 із 40 працівників, що складає 80%.",
+      "У разі введення жовтого чи помаранчевого рівня епідеміологічної небезпеки, наш заклад освіти і надалі працюватиме в очному режимі, оскільки виконано вимогу МОЗ - 80%.",
+      "Дирекція закладу освіти висловлює подяку усім працівникам за свідоме ставлення до свого здоров'я та здоров'я оточуючих."
+    ],
+    "full_text": "овані - захищені\n\nВакцинація - це єдиний ефективний спосіб захистити себе від коронавірусної хвороби. Усвідомлюючи це, працівники Липницького ЗЗСО І-ІІІ ступенів, ще у липні розпочали вакцинацію. Станом на 30.08.2021 року отримали щеплення двома дозами від COVID-19 32 із 40 працівників, що складає 80%.\n\nУ разі введення жовтого чи помаранчевого рівня епідеміологічної небезпеки, наш заклад освіти і надалі працюватиме в очному режимі, оскільки виконано вимогу МОЗ - 80%.\n\nДирекція закладу освіти висловлює подяку усім працівникам за свідоме ставлення до свого здоров'я та здоров'я оточуючих.",
+    "category": "Офіційні новини",
+    "year": "2021",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72v_E3KA1W48gC1xwW75wopngYtCTNGtDn-W-5pHUHYVnpQGi4nhNg0Dl20LInKt9SvPbIrtmTKSDfhE1qRmMl9W54i6MC5CyHhJX3hLiOwDRK0TK9YqAzf5kqDTVn7SYPIOfEirkONz_oIZDxbRK5u5qK97o6wG__FVEKhmMq0ZMnfsMDSox7CsVR8xPoI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tXE3zlh7pkKoq4cxl61sbEq-z60JrGDXfIvF-i_B_mebpzzv3OGk_csFYghHIpIWVZ68JIZuvCyoSqIElGIYubERpA7qB5l_guUNP_L9AD7zduFBlLqqOJJqYFRZLbyodMqUz6zEaBDm7gCcJZDoHYM9TL8O4U-XFCNz2-IzbBlfbbCHpLL4Z5w3gs=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_146_1.jpg",
+      "assets/images/ev_146_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 147,
+    "title": "Місячник \"Увага! Діти на дорозі!\"",
+    "content": [
+      "Традиційно в Липницькому ЗЗСО І-ІІІ ступенів проходить місячник \"Увага! Діти на дорозі!\", метою якого є профілактика дитячого дорожньо-транспортного травматизму.",
+      "В рамках місячника класними керівниками були проведені тематичні уроки та бесіди, конкурс малюнків.",
+      "Учні 1-7 класів зустрілися з інспектором СЮП ЛРУП №1 ГУНП у Львівській області капітаном поліції Іриною Цимбалою, яка в ігровій формі, використовуючи дидактичні матеріали, вкотре наголосила на необхідності дотримання правил дорожнього руху.",
+      "Сподіваємось, що діти усвідомили наскільки важливо бути уважними і дисциплінованими на вулицях, дотримуватися правил дорожнього руху. Адже від цього залежить їх життя і здоров'я."
+    ],
+    "full_text": "Традиційно в Липницькому ЗЗСО І-ІІІ ступенів проходить місячник \"Увага! Діти на дорозі!\", метою якого є профілактика дитячого дорожньо-транспортного травматизму.\n\nВ рамках місячника класними керівниками були проведені тематичні уроки та бесіди, конкурс малюнків.\n\nУчні 1-7 класів зустрілися з інспектором СЮП ЛРУП №1 ГУНП у Львівській області капітаном поліції Іриною Цимбалою, яка в ігровій формі, використовуючи дидактичні матеріали, вкотре наголосила на необхідності дотримання правил дорожнього руху.\n\nСподіваємось, що діти усвідомили наскільки важливо бути уважними і дисциплінованими на вулицях, дотримуватися правил дорожнього руху. Адже від цього залежить їх життя і здоров'я.",
+    "category": "Безпека та розвиток",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72up655euFMAo4SiiGLyc01DKCXYwVbTEtNm8Bfho7nujM8yhUBrm5i8lcP2sc9uqIa6JZeJTTKB75wn38-1yBvDv7N_DTfJCit7gl-NRfv7aNyDftZJvOhmDTtPBhSZFuHEN784Pv7U9al-tyOm640OJ0m-g91HtIg9ry55H3k8H9DAXnBvn54KHPo-eug=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s1rrEBCHQ_ItGJxGzfAw1khgpvESFXaeJ09fxAdJdugvvc8XnhCLQBwuLqohUtHghAf9FYzGE3phWks5iFyJHjjLCuNkZbRdle1TwvpEHlor8Yh3sqgZZ8PCpXjIX_KQPky9RP7B7nqFW1kMAP8v2HL0-Z7GuFNrUnF_VlpHiZ0PyIEj_YZBLzbxZx=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tj8vHbN6cmlSPnQa-SFReXZ2NpOX5v73xcZmFV643KcPDaRvCLR-uRAHUbjjqSioFnfzLi3HW30DUgjM4R8RXhNZF4gPQzY9XEpJF6MLcJW-p3tWVnvYzRFZqElC8cm6tG6hSzuKu9BE3yrBi7amljcCu6hytOxt1G8jvcrQGmwzLdcyLG3qJJSzGpmok=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vqRGAZ3rvq9TJTKZwIT1NNqJS6be77an3_WWKSNCn5QeVjqLXMFPCwRjjDJTXU6tANSuqB3zyNaFGDx02FizwqwUz8q9BYn3KbNM8ayYKj2lFVxV8HyjBe8yhEWemCphRG3L0TFhIbB2qBpwKYROBfMxRgfT0tnrQH8kHG9J1phWs1WgGxpItXnsB9cBQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72umGE0ZrwEoI6ZY0ADv0lCmpQ2hp2b7AJpRERFazfMs9D0gsPTXOYxWyGDsJ4Kzx_aJ_Zb-Zr-6OfZwr-EoxaETffxWJK9HySHnixIWRdExSoLHSEGibeq8yHLrlgrJ-W0Z59RlcQwcMMiHeUPZUSJ7RS8VD152kQyAemi7H9Z2TFwyaUfCuoz1dDdCxW0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s6Zm-wmJrhZQ2yqdrFc-a-0QArxfRMIn10mkZjfJ9g8Hfouqm1l8MdatUfOE-8-bAqW6edYTwlUwy3cFgqkJBkggmIR-hR2DzTV7A0Ua64f1CfmTE5qX-2FKrdzopoB08hK_78leCxbl0qwSmo8QfZnx7FwZ0TyuDdiviFGWt9Uz3bDYE3Zdq3mxuTstw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vSkT4UyEHlhEozAjB97DG1nioJ8AY-jKzOloNyQmsAE2tJeqpYb89CnPt-Yl1MHPN-Q7PouWxzGPguXzjFYteeuzQVWA_Pqh_caDfUil2XwvOjTFo3_0DGBZTSncGSt_DxFGrBLhGYLVpcbcetKXfUYprKuOQ1isXE3HtuS3G-qCVWuy1RId2DurO14e0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sLsR7mWaQi03UI9NEfJWtEfefL8siWIMNS5paKQ3oxBkDCLZpL3kt8eNwxhM-A31lhOHu5GxA9EK0EiuHml5de24XAIHkz24gXA2uaWFKR2WJ2QQ9YS-y6Nrwu3ZwhKmdgpFFefoa-QNJXWejOyT1EiSF3zoSjDbP72aWjikDgLKecUTbVy38rldzuHB4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72umS-tz7TDfUSswTXL2h_k1eZD47olgMJk34sVPGC8oyyHCD82jru8kG5GmBrSv7Bz-lN2SJZwe7FMXPb5Bu6cB290L-G6BUaeNDwmlJlkHQgJSWhNR1KgH9fQc739w8_e_eeFCWtRmKILTD-QTF0s-c9hsYxy8hWwdkmK7vBP8HW3q8mVh63ZcB00tW20=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ubywS7aOdLBj-2ylWrJpwqy0jjs6wHWHNjapfco4jwVGAd8tTJhn8qwc-7XLF2rcpwMq_V7NJLcdTDMbS3lDm8qq2FsZF8OVWCg-POUU9M2eCPsoTG3ZFDyWtPNDYe3hz-Ky-G-a9dwy8Agm2suVUNma5q0zmEc4DJ-GWkPiKcF8hkiNWSOMfng4YGtGA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tXw2MqIUx2hgMfnptxAOXIh2iNbZtfwUFSHVFHeJmugbKaYaAf71Lxj-Mmncf9rOtHnn8_zggAfvyuq-EI3En75HbyHtBBROWurBx0z1lg2xX38EMW4-12JGVwlAvtL41hG_PGgdb0cUkChehg9SBjiSOJOoi-JcwtJ15JT2cR9j5ZSyqcRPycCp7lncY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v154qeMof4DLXA4AK8sTQbS9c6uGeq4xZQFBI7Kdr1eKyB3FVr4HSTnsskVuK9nbaG4dMSBBG69l64crGfEvUxQFB5V0ryexp8D2DqNLynG1KKSllk9qAAEY2ZrzMZft00Z7fu0t42Uq60X_pTAPQQ_pZ_DwAtKEUiXvhL8KP-9I0A3WZoDTijlAedzqM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u23l5kYk0DmmwwrMqyACxuNql05KoF9iwBywHA5zz0fZ0lFtt6NVYtxXTfYEYo64OrqP8Wyu1QoeczPZ5smALzCzv7itbENtC1SXbjauKFuhtDqV62_mAzADifpoT9RG7GynE1v0A8LPyq3EbFU9KqmgIm6-BJYidZnrmeGOyJYKCepIKavjhYLBYKvug=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tByK1FcJmt0I_OgcIGgWbsyVMBk9Y9ql_aK6KUrzDehYWOx5MXFKH2yYrEBJEL5oBavHDCx2xB-PZuJMitUpC9FCJ8WE1mQpc3f-nYfVjjSOYaWfZJ5OsH3d685zHIq99kVChZyr_VLeAOQkZ21fa2oarJ9YdA1ejziXRLwSLO1ork8jriaVvVUo__zD4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sgLwzlw8Qa6J0pyFCbMMRfcAGacY5IoLZ4XSMstptmKreAdUxBgR_8e_Py5EJ8RS8ClUO-FxABoS1zQ6P7sSfLn66CU_WrZaunJCldw1TE0SdydW6ctoQBFOj-9l8joPhSH9R-f21tz9cYyKiHjtMeWuo4n-6676XA4FGzwVs9gKRCSTT8SoEhlUD7=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72svAxXiP7-NxGD3fTGu-y0BJ6MitlC5ORZYdmK6w2fMFtww4V_xjnD9PNjpgXAS3jn0AozrIYKK_8II1FkInS9txIO4FMmVSXXjJh1fwIq3yZ_GA8c7G056sgB4p_W93UNhj4f_uEIXnQbpUZDphAYdPgsc0J3wE60vPzTdAfeSvFBIbEjjolL1s-NszZw=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_147_1.jpg",
+      "assets/images/ev_147_2.jpg",
+      "assets/images/ev_147_3.jpg",
+      "assets/images/ev_147_4.jpg",
+      "assets/images/ev_147_5.jpg",
+      "assets/images/ev_147_6.jpg",
+      "assets/images/ev_147_7.jpg",
+      "assets/images/ev_147_8.jpg",
+      "assets/images/ev_147_9.jpg",
+      "assets/images/ev_147_10.jpg",
+      "assets/images/ev_147_11.jpg",
+      "assets/images/ev_147_12.jpg",
+      "assets/images/ev_147_13.jpg",
+      "assets/images/ev_147_14.jpg",
+      "assets/images/ev_147_15.jpg",
+      "assets/images/ev_147_16.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 148,
+    "title": "Із янголом на плечі",
+    "content": [
+      "Учні Липницького ЗЗСО І-ІІІ ступенів відгукнулися на лист-прохання Благодійного фонду \"Із янголом на плечі\". Дружно взяли участь у благодійній акції \"Квіти зів'януть, а життя розквітне\".",
+      "Зібрані кошти (в сумі 9225 грн) будуть перераховані маленькій львів'янці."
+    ],
+    "full_text": "Учні Липницького ЗЗСО І-ІІІ ступенів відгукнулися на лист-прохання Благодійного фонду \"Із янголом на плечі\". Дружно взяли участь у благодійній акції \"Квіти зів'януть, а життя розквітне\".\n\nЗібрані кошти (в сумі 9225 грн) будуть перераховані маленькій львів'янці.",
+    "category": "Життя школи",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72smdLHeQwuBWEvDoBeZmHpFJvNZEPWYXEIrH2OmoO2T1zx53nupxqFTPD0pTdVyldwEUT4cz9iAevl6lpzCX4Wd0vu57NDeTlrdquYZyY358FbX9KOb108n_l8Ja-pEwiiRVRXRFVrFrC5HMuN10dAVuy2mvZY3YlwDutm7y63VD9yJ5zBOTPq2AXI65KA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uVladROMTpQ4SANFqUa1Orfl6d034Yh3RahYgP0KTzfcaK-1V2sHBEnkzZvFKK7Va-EnLRq1Op97GrG-eCkFUNi_Rq_rqu_HvRsQ3DHnL2wdTtsW6O_f4RAjJtS1yFhdKM-8P7GHDiBdap8Iwr3qCUEjmtteiJx7xhMJIP3bIaPhS9KkYDhJu14feZGVA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u9g7lX23kEaeZzmrLVgmMdx_vxv-E6tYNKLvAEfPKkD7C_wVp8NYP8oisdtpOu0d6oNCrS2ztU7gnRia1GDj0AFyaDW0hBth5f7DjV3Fr6Ad12HEQJeek-wxss__eJ8ckEDd_fwGNQgyRf_m3D6bggqUkcgw2nG10aJrTd1zvYATHSK4XwC8JZbOf3UsM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sm-OZ_NGnCffOBLNEUahTpLbDINvrVlF5GbBc2BcjRn18osSZLfQ2ckVR7QkgPzI9XQilbtG2Wmz3oInXcq1Bj12-AMUgljEkjZkKggi97EmTgXbp4rCzDBkd5Quc75Ny2gAVFiksGgtpx-1nGep4sO4R9Kqoj5bu2R4eaj5JgI-t5iRuw9Sn89QpYG8s=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_148_1.jpg",
+      "assets/images/ev_148_2.jpg",
+      "assets/images/ev_148_3.jpg",
+      "assets/images/ev_148_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 149,
+    "title": "День прапора та День Незалежності в Липницькому ЗЗСО І-ІІІ ступенів",
+    "content": [
+      "В історії України є події, які мають надзвичайне значення, вони не втратили своєї актуальності й по сьогоднішній день. Однією з таких подій є здобуття незалежності в 1991 році.",
+      "Відзначення Дня Незалежності в Липницькому ЗЗСО І-ІІІ ступенів почалося з 23 серпня - Дня прапора.",
+      "Свято почалося підняттям державного стягу участиком АТО Струком Н. та членом батьківського комітету Оброцькою М.",
+      "З вітальним словом виступив директор Сухович Я. Р. Привітала та ознайомила присутніх з історією виникнення свята Дева Н. В. Вчителів та гостей також вітали учні закладу освіти.",
+      "24 серпня учні та вчителі продовжать святкування Дня Незалежності разом з релігійною громадою у місцевому храмі Воскресіння ГНІХ та візьмуть участь у інших заходах."
+    ],
+    "full_text": "В історії України є події, які мають надзвичайне значення, вони не втратили своєї актуальності й по сьогоднішній день. Однією з таких подій є здобуття незалежності в 1991 році.\n\nВідзначення Дня Незалежності в Липницькому ЗЗСО І-ІІІ ступенів почалося з 23 серпня - Дня прапора.\n\nСвято почалося підняттям державного стягу участиком АТО Струком Н. та членом батьківського комітету Оброцькою М.\n\nЗ вітальним словом виступив директор Сухович Я. Р. Привітала та ознайомила присутніх з історією виникнення свята Дева Н. В. Вчителів та гостей також вітали учні закладу освіти.\n\n24 серпня учні та вчителі продовжать святкування Дня Незалежності разом з релігійною громадою у місцевому храмі Воскресіння ГНІХ та візьмуть участь у інших заходах.",
+    "category": "Патріотичне виховання",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vvQHKyxCVp_Rn7UaEQvJd41uNU-CXdAUvove89biqJkWo2b7j1tUNNn-cX2DeUGYZFyrKgIpM5Zqm0KXf9sLaRK65sEHuhKwsoJAW3gMdk0lha1d10qosLAWqRQ9tPQZpQFz_i5naTxkce21iv64I9xaBFeqfQwJhZVoLnh_F79uVWkHr0zEQomiiGVyk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ufwpswr43uNrs7Cp_98Vr7M7X4JBeziDrBxj-dCmqnY-EmFWSeecmKj48iwS0gqb-SnjKrBy1nZiSApyW2WkXtxaBenzXzyEMoJhNv_RxOfFy8UoFOQKCQka4vUOdxwnI9Mp_OtvQ17mFpRbMBkigKUi8bg_wzZ08bJ3RkTqzyDbRPY4OvvBGLUbYNJX4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vxrFSdP_sKbeE5w9ZgK_IHVZ-NkG8x-65CAU7oZ1Oz_IHrKo6QngbLCpr5O4-vSdbK5EU3NEAzhpl5mfq9leeTHmpqb7gx5cI97oeXgU4XLs6tCnF067cAErLWHSzLtw5o0HbQw6MfueP2pIP7UgIkYQy2EQihAY8lfQH0IJhotoduajdPCbd0-vMx6cc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72swDrRuisyuObc7UNOp_115NsgcmBOKYAyZFuinpKJuQXmQgxyJi5XiEct030tDrgTgLU26fKqCJv0oy9D8EJNHeJHMOREPWW7bN6VBU3yUPXs04gQFQb6WPpMvkQ88hLqsyMRynpE2LkN735CJFJy2wQQ4sfS1QPMEe4QmmnmgcT1mtZ63ImzcKCG2=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vO7NgCnIsm5WLS8cH64ZPb-BB61YLMAeciYSZBKHcQFV0c1fnFb8Ugn-TABpTELX0LEuaNh6HbClZczsruSGIht8St6UNc6di5dVCQTanAN8-Evg2DoJo5Of-j0Po5rPQb4xJh6SRobP0RCpNitONWaxZEbz_Cb3BeCzC5Qx8r1a-Lnl3F76J5o620OvU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s7q4wcQj0dq72YAWUAxoYf7oQHgvm2y0weVIBwW5maEPV9X_A7bM812zM6RLbpFzdUw11j30B8XSEKcvvvouGZdQ0AMxg3b2BxQZpj2zm40kGeBU862zPOvmv8BAV84q_iEjbnHtoF9nz17o7BAy8YDHYo_E8wB9CRata6eLX9NVssS9uAtwp2Nkp7u_E=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tRZu8bmYrxPgaR1un4uU3zoc_8GPYXzAc8oaOr00aXsBmYzUotbc0vRrOuIayZ_SXazlT-srOseRJrTo2Cdg43Ez1wD0mSEck_0VFs_547Z2NH291MCZ_50H-QLkWKV7vydZYX2S3mK3m9DO7kfo55kVofZAFxbURNEhcTAKIxyr0p3Gden620CNpD=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72v6Xpm6KEZ5oOk1KSvjvHw1DBnXqF1jZ3yCF9dKz4P0Wxo4zR9rBk9uB0_YgX0-8clg0CGwA3mq5hrAieIGj8g7Q2saGQrtpWS_HPf4mqme6yIAl6bZzVj2huf490ClzfS179vaFiaLSMGtTVJN8Uf1KsoQv0t771MmD7WjxQuFTfKdww-qwDmwbt9S=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_149_1.jpg",
+      "assets/images/ev_149_2.jpg",
+      "assets/images/ev_149_3.jpg",
+      "assets/images/ev_149_4.jpg",
+      "assets/images/ev_149_5.jpg",
+      "assets/images/ev_149_6.jpg",
+      "assets/images/ev_149_7.jpg",
+      "assets/images/ev_149_8.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 150,
+    "title": "Батьківські збори в Липницькому ЗЗСО І-ІІІ ступенів",
+    "content": [
+      "Напередодні нового навчального року в Липницькому ЗЗСО І-ІІІ ступенів відбулися загальношкільні батьківські збори, на яких було заслухано звіт голови батьківського комітету, оновлено склад батьківського комітету та обрано голову батьківського комітету: ним стала Шкоропад Уляна Володимирівна.",
+      "На батьківських зборах також обговорювалися підсумки роботи закладу освіти у 2020-2021 н.р., окреслено завдання на новий навчальний рік.",
+      "Обговорювалось також одне із найважливіших завдань сучасного закладу освіти - розвиток здоров'язберігаючих компетентностей у школярів."
+    ],
+    "full_text": "Напередодні нового навчального року в Липницькому ЗЗСО І-ІІІ ступенів відбулися загальношкільні батьківські збори, на яких було заслухано звіт голови батьківського комітету, оновлено склад батьківського комітету та обрано голову батьківського комітету: ним стала Шкоропад Уляна Володимирівна.\n\nНа батьківських зборах також обговорювалися підсумки роботи закладу освіти у 2020-2021 н.р., окреслено завдання на новий навчальний рік.\n\nОбговорювалось також одне із найважливіших завдань сучасного закладу освіти - розвиток здоров'язберігаючих компетентностей у школярів.",
+    "category": "Офіційні новини",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tkN_CwBZbhx60jxgWJh_BF4wB6f_2C1OmX8qhJ6unXsOd_rOA8WBkV1Y2mMLtyFmfHW2xsE9SoEdpa73zCjLq7ycyC-T48qjrxAlBNdIagqA1yqgGn5i-iJs-U8V4qAhENzxb9lDZqCq-JqW8p_q1rNgXvm_lcbEHfm0VENfWhywST5VzirsgGBmMg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uCZQxo-P3E9m5vVxJw98PiXakiGbWkwsflxsPxNaH9PBYyS2SBbSvM2sj4kHSBS_AXRj3ObrITXdejRLRUKanZ-EJp7hU_YlX1rxu5qTtfhUKY1fsjDTNhA4MdFV0ggTrXsc-XmsenFCZ1qgIoZACN7wZwfJYmmlkejlvP3KpWKuA14zEU1MJ0eu1RMHU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sxqbM3dd3RvWgyw10v_G6FJcL6ycJWkHlLgoAU_WRHDHZX89KXXMlk5x-3b4DwrmnSLlctC6OwJC2YxtUS8Ls1wNhEW0HzTO6wDU3CumcAPj2tcvHTx569uXpL9MD4b4QC-0EtkRLfAZR1yfbDWcDPcDZdXn8VytDruCnnI6hyf3B0E06NIJIsANek=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vy7iLiRp0_3DWR823F_Kd7zCosp7MH3VulJSEkBm_MOkwoApX6t-PGC_NH32MipoOlJ6CflV4Ou_Lszn9pJdaN9TgHJgilFSMqBh5Poi3i8cNr7GoAycWzdwes69_hdg31SV7ro3bf7hqCDYF1tfHNjHiYn8fj9H0RQFmaLOvpkhWWp1Io1-RjPg=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_150_1.jpg",
+      "assets/images/ev_150_2.jpg",
+      "assets/images/ev_150_3.jpg",
+      "assets/images/ev_150_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 151,
+    "title": "Колектив Липницького ЗЗСО І-ІІІ ступенів вітає директора Суховича Ярослава Романовича із 60-річним ювілеєм.",
+    "content": [
+      "Ми бажаємо Вам, Ярославе Романовичу, невпинного руху вперед, успішного здійснення всіх планів та задумів. А підґрунтям щасливого життя та плідної професійної діяльності хай буде міцне здоров'я, серце сповнене любові і добра, натхненна думка й щирі почуття. Щоб життя було світлим і радісним, як цей святковий день, а дружні вітання додали життєвої наснаги у скабничку Вашої душі. Нехай шана освітян та Ваших учнів буде подякою Вам за плідну працю, чуйність, уміння творити добро."
+    ],
+    "full_text": "Ми бажаємо Вам, Ярославе Романовичу, невпинного руху вперед, успішного здійснення всіх планів та задумів. А підґрунтям щасливого життя та плідної професійної діяльності хай буде міцне здоров'я, серце сповнене любові і добра, натхненна думка й щирі почуття. Щоб життя було світлим і радісним, як цей святковий день, а дружні вітання додали життєвої наснаги у скабничку Вашої душі. Нехай шана освітян та Ваших учнів буде подякою Вам за плідну працю, чуйність, уміння творити добро.",
+    "category": "Офіційні новини",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72s7LfjF5o7isxNkZxLasvVAJl51qD7Ji0ey8etneGCtWzrz6NIEyKdO-vxBFbQy5kmFcIKkYzjEvCi2XiwRFc9helHeyF13hCAjVwJCVii9NQHNTreCwyDN7jK0BzZ4mjdhnJyCO1KECQ8gVsrKln2eU6zxkd0FBCM_BrJ5xSMr4Jgk6FZE4zUFodYDp870CUXfoYgETd9UpCd4lI3free1q305XaJGL20YvGIwuOY=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_151_1.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 152,
+    "title": "Пасочка прийшла - весну принесла",
+    "content": [
+      "Учні 4 класу Липницького ЗЗСО І-ІІІ ступенів взяли участь у святі \"Пасочка прийшла - весну принесла\" у м. Рава-Руська (керівник Думич Л.Ю.) Діти виконали гаївку \"Синичко, синичко\"."
+    ],
+    "full_text": "Учні 4 класу Липницького ЗЗСО І-ІІІ ступенів взяли участь у святі \"Пасочка прийшла - весну принесла\" у м. Рава-Руська (керівник Думич Л.Ю.) Діти виконали гаївку \"Синичко, синичко\".",
+    "category": "Життя школи",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72spW_V81sHg_H1tTSyLvjUjSekRPkyMh7xurHIK2Kp0CKdA4Bsrvco3DjVbgQMe6N3aAwRTtBoQjjff5SMwBgFUgAOO8s8TvKI7sHTYMrpbA3mrfAypvJXn9GkR3nMyM8QbV1FCkzIZthnARglque0-kqvITqdP7WqrpQvh43PWZKyduRjdXGDzNz3z=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s9KAtwm4_ahlFFNOQQ3bdH26JnZAnXRmiR9_sYfVVFrSxNaScIfxcSOMWNw1JJ_4niWL9Y9yxO9Qk1TDVImWICdJ3PvpSm-unVwH1DHtCb3CQ-f_S_zbyIChxzGtoB_abSVD7VKNw7OI_h31b0zzvQCDhdkOphX_Rk0uU8fZrtKs8oVNFV3Bv61Sq_=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sU89WpxbBm25IG1vB0sV5aL2-Y_H4y1q78K1FV7FBFCqj806ZLxFCbI7uMMPOKGjVx2PzwXpHaiEODgZvSGu-xDwsnrBWFegzv9LKFmUDjHxjhrkYw3QyqWoTQ541FsH43kfDHLh5EKuT7YEKrvqQR9YOTWZrK7Ta5XG-LANPpaWyA4KZyyuax_4oW=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uUEO3wlV_FJpaSQZxl81j_xFIGIS-t7Ui9CQPitBU7k6WkmXQ3-5yonW1R8jmzaUmkA49EmdJPMRdlaw6AnW4RqAquuCog6sRtUasUK50pygvXjA3GfbqxtUlK3sZ1EwCVdo5yeZ6JSxQy524ydeOwxAU6AAAWr6bLqFXvCtwB8OHXDCCtx_PlGvl_W58=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_152_1.jpg",
+      "assets/images/ev_152_2.jpg",
+      "assets/images/ev_152_3.jpg",
+      "assets/images/ev_152_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 153,
+    "title": "Всі квіти на землі даруємо, Вам, матері!",
+    "content": [
+      "У Липницькому ЗЗСО І-ІІІ ступенів відбулося свято матері, яке підготували учні 6 класу (кл. керівник Іванюра І.І.). Діти привітали своїх матусь, а разом з тим усіх матерів. Декламували вірші, співали пісні, проводили конкурси для найдорожчих мам. Окрасою свята стало відеопривітання матерям, а опісля - подарували квіти.",
+      "Зі святом найдорожчі!"
+    ],
+    "full_text": "У Липницькому ЗЗСО І-ІІІ ступенів відбулося свято матері, яке підготували учні 6 класу (кл. керівник Іванюра І.І.). Діти привітали своїх матусь, а разом з тим усіх матерів. Декламували вірші, співали пісні, проводили конкурси для найдорожчих мам. Окрасою свята стало відеопривітання матерям, а опісля - подарували квіти.\n\nЗі святом найдорожчі!",
+    "category": "Шкільні свята",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72u-D2lor6CAq8bHUzMsRDiRdb4u0MXs7AXQdyev4jbSBhp9ZcfMJcat5NqY9GJoxDHC-wTLPDJvsLTy830qI75yNCtfcLMBQsqb4w1Q1WgmNAzZlwORY5BNaCWnQNm0rvg8GctIUhkL6DjyrLkBlpAqpyr89xU1Cr-phKbiPpCeL4HNh6RbTH5YBhn-VnomIGKfYvsHj09v4JSmG8XASj930pXY38feEr7rD9Yp4u0=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_153_1.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 154,
+    "title": "Дорогі колеги, учні та випускники, батьки!",
+    "content": [
+      "Щиро вітаємо Вас зі світлим Христовим Воскресінням – Великоднем!",
+      "Це величне свято наповняє серце світлими почуттями любові і надії, дарує щастя та добро. Чудо Христового Воскресіння об’єднує всіх нас вірою у перемогу світла над темрявою, добра над злом, життя над смертю, віри – над безнадією.",
+      "Сердечно бажаємо, щоб переможний дух надії, радості, всепрощення і надалі супроводжував Вас і Ваші родини, давав сили, енергію, наснагу для добрих і корисних справ, на добробут і процвітання нашої рідної України.",
+      "Нехай до Вашої оселі прийде здоров’я та щастя, душа нехай світлішою стає, серце пламеніє любов’ю, а помисли стануть щирими та добрими. Нехай малинові передзвони Великодня принесуть Вам лише благі вісті та наповнять серця радістю.",
+      "Христос Воскрес!",
+      "Воістину Воскрес!",
+      "Директор Липницького ЗЗСО І-ІІІ ступенів",
+      "Ярослав Сухович",
+      "Голова ПК",
+      "Галина Клуб"
+    ],
+    "full_text": "Щиро вітаємо Вас зі світлим Христовим Воскресінням – Великоднем!\n\nЦе величне свято наповняє серце світлими почуттями любові і надії, дарує щастя та добро. Чудо Христового Воскресіння об’єднує всіх нас вірою у перемогу світла над темрявою, добра над злом, життя над смертю, віри – над безнадією.\n\nСердечно бажаємо, щоб переможний дух надії, радості, всепрощення і надалі супроводжував Вас і Ваші родини, давав сили, енергію, наснагу для добрих і корисних справ, на добробут і процвітання нашої рідної України.\n\nНехай до Вашої оселі прийде здоров’я та щастя, душа нехай світлішою стає, серце пламеніє любов’ю, а помисли стануть щирими та добрими. Нехай малинові передзвони Великодня принесуть Вам лише благі вісті та наповнять серця радістю.\n\nХристос Воскрес!\n\nВоістину Воскрес!\n\nДиректор Липницького ЗЗСО І-ІІІ ступенів\n\nЯрослав Сухович\n\nГолова ПК\n\nГалина Клуб",
+    "category": "Шкільні свята",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tKhezeZVCXF5hYMWA0yuLjuPbd4a2volLBKhNj0LSvy0X2UozGbch-jwWl4ZFiWn8dbsfOehfQVSrjSxxxjGX2FJ1QZj5dH7jNMQrd-zBMghXgurOjOCj9T83ImzGbguumPSEoc_u6deTxaJ4EvLE-XqRVc3bSTxWQyL5E-EkVQcAz08t_NtzwebGdK4kOkcRWSlCn4fmzWed2Fb9VaoT4aT2CfaLnihVe2hkTmBY=w1280"
+    ],
+    "local_images": [
+      "assets/images/ev_154_1.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 155,
+    "title": "Акція Великоднє яйце",
+    "content": [
+      "У Липницькому ЗЗСО пройшла акція «Великоднє яйце», під час якої учні разом з батьками та вчителями із захопленням виготовляли писанки – один із головних символів цього світлого свята. На нашій шкільній Великодній писанці красуються більше 300 рукотворних виробів, виготовлених в різних техніках."
+    ],
+    "full_text": "У Липницькому ЗЗСО пройшла акція «Великоднє яйце», під час якої учні разом з батьками та вчителями із захопленням виготовляли писанки – один із головних символів цього світлого свята. На нашій шкільній Великодній писанці красуються більше 300 рукотворних виробів, виготовлених в різних техніках.",
+    "category": "Життя школи",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uKTQu2X7o39ZXRDF0DtecWdBJ2cnP06_0ozT3Id5OVbGucprxQk6x6EPApns2z5ysoEMwLoGYljvGghMw7f-lGzvBq8OyZqk9TucC122-UarpyAhQsNXioNOXpBpfnJ1ZJUOpdPkteaH4e2RH2CCvT_-Sf8D-vce49yAS-n4DwgiU0Oj5tfFaEWRMy4l4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vixOekEDXRDqqKcaffAKbe2XKBY-PyuqfECitAOPJLYLNO-4cLQIRuxALO700lfZhzhV0cGnTzSo-6I4fgGuL-pMXLhRRZNzHy19UoxVdBwDmyYmYV6Wutg8JeSs2yrBv0pZiG1aLqh1gw9nLy4s-ciVZd3bvgQTaHparW8WmMmbUl3uRB2N_kmI8tClw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vShhZ4w-e0UxwEuIesyvo-6E-u5hLO23nWDHf9PZNb2i1Ce8JIvmzXN8fWhq5xIivj5lZLNQtQMJ0jfpZaV7wSgqUj0X5EHg5fW4qUCwpsrZ1yCCzhz-AZWGFh5_Avvq_kKMUWpN_77moajHNYBBjzptY4yECokiimlX75VerQ5snuOn2lPUjP66Cy=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vwFyO_IpRXTZUzbpRnlxvDCNxta2HrbzsWZBVhfonAAfjpktHaW9bB2xHQazycOq-AZUjvhzcyp2DaOr-0ihxRpRYv7X_cZq7jeBdYVs1dQyppFM1wv7OG_tql-J9CbeF1IIyRTUDb5HrnbBtaW4QnXbwk2-ynKKdE07PcCoW0Hs6-Uxc_H77afi3fvCk=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_155_1.jpg",
+      "assets/images/ev_155_2.jpg",
+      "assets/images/ev_155_3.jpg",
+      "assets/images/ev_155_4.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 156,
+    "title": "26 квітня — 35-ті роковини Чорнобильської катастрофи: день пам’яті та скорботи",
+    "content": [
+      "чорнобиь 1986.mp4"
+    ],
+    "full_text": "чорнобиь 1986.mp4",
+    "category": "Патріотичне виховання",
+    "year": "2021",
+    "images": [],
+    "local_images": [],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 157,
+    "title": "Дарунок для Липницького ЗЗСО І-ІІІ ступенів",
+    "content": [
+      "Сьогодні школа отримала оснащення для комп’ютерного класу від випускника ЛНУ ім. І.Франка, доцента кафедри міжнародних відносин та дипломатичної служби. Підприємця Бориса Сулима, сина випускника нашої школи професора Володимира Сулима. Це дасть можливість укомплектувати комп’ютерний клас, що сприятиме осучасненню навчального процесу, створенню додаткових умов для учнів при вивченні комп’ютерної грамотності як міцного підгрунтя для руху вперед у час техногенного сьогодення.",
+      "З історії ми знаємо, що благодійність завжди була властива українському народу. Це ще раз підтвердив підприємець Борис Сулим, доцент кафедри міжнародних відносин та дипломатичної служби ЛНУ ім. І.Франка, син випускника і доброго друга нашої школи, професора Володимира Сулима. Борис подарував комп’ютерний клас (10 системних блоків, моніторів, клавіатур), багатофункційний пристрій та телевізор. Це дасть можливість укомплектувати комп’ютерний клас, що сприятиме осучасненню навчального процесу.",
+      "Сердечно дякуємо Вам, Борисе Володимировичу, за щедрий дарунок!"
+    ],
+    "full_text": "Сьогодні школа отримала оснащення для комп’ютерного класу від випускника ЛНУ ім. І.Франка, доцента кафедри міжнародних відносин та дипломатичної служби. Підприємця Бориса Сулима, сина випускника нашої школи професора Володимира Сулима. Це дасть можливість укомплектувати комп’ютерний клас, що сприятиме осучасненню навчального процесу, створенню додаткових умов для учнів при вивченні комп’ютерної грамотності як міцного підгрунтя для руху вперед у час техногенного сьогодення.\n\nЗ історії ми знаємо, що благодійність завжди була властива українському народу. Це ще раз підтвердив підприємець Борис Сулим, доцент кафедри міжнародних відносин та дипломатичної служби ЛНУ ім. І.Франка, син випускника і доброго друга нашої школи, професора Володимира Сулима. Борис подарував комп’ютерний клас (10 системних блоків, моніторів, клавіатур), багатофункційний пристрій та телевізор. Це дасть можливість укомплектувати комп’ютерний клас, що сприятиме осучасненню навчального процесу.\n\nСердечно дякуємо Вам, Борисе Володимировичу, за щедрий дарунок!",
+    "category": "Шкільні свята",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72veSHXcwebEvyiv4YJelrzoQSZ95W4oCxf31ceA9cn5AMysHBtg9ZJKgvtbZ51akVi5tOYouXNKSFSmQBc8HbqhN2mwqSrwZpJraHBgMXYYgXhOcATns6CMPbJFzZZnBDDSKyCUA8oWaQaw1XJL9oSgVkSUmLUz_WPOE3BG5smSQyZBwJ3OQNq2OLFb_jI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sCVEsS57gbvQ-jNz6t68zV7NIwL0EFwZ4NB1YqXHsOOFCKMEM-X_MrSlJXcAh38sBn4VbhrtR7iB2W6PrAwxG1xRz8Qv0j9qi8Mi27DwSYc27aYRGv8FWE79H2IvXN9OjU_rLYHHyYTyzod-XpbEiKUu6tiA6x0fIYzw9QphFCWFYBO9luzMAFGuThmSM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sQMXyEcIeMkIVk5lStAZ3JidSDatKHPyGhzOOlGoWJl4FagBAXfZmwtHs8W2DxcLd2NPWdxe3XTjhMdpzuCw-bDb9-HslZq1CFqQiWAeIdGs_5p_8R9FJqnNNPydeWqWmLyGKxkpBwTY0U_AXVvfGE-MlSRQYXhlge9xcVY3KgvT7KgH2BcMXfm9pfgmU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uECZ-7lVr1slkpOg3u6lrGr27vQD693YY77WoE8d8SyxDlUUFwv8KanTCv8FcoNBsqs52w4jpA7SL3pnZfD7BjlUr2BhZGEcKJ1cNPYe_-4zCD6FFgpMiwkq3N6L2uJt5DoAlqTMiPL5mttT_lwdISL73lKJMrgkvlHp5g87_b8NuEQf97azLRIGjINwU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72twF5uuuR401z5wfBr6TLJVM_ViDQ51dwD7-MpIkkTbEVwQxeaOPU-ZPq7B0D0371t3LdLbqps1-ixUk5_7BI6jmXiyU8xOyiYJCF3bHJMVvqgIz8CLCN831z6LbBXjvXGzSqy3XstqWlEoC00z6x2dgEtiggPrvOFYWPjKOv_OGRnANvidDvH729tzZYo=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_157_1.jpg",
+      "assets/images/ev_157_2.jpg",
+      "assets/images/ev_157_3.jpg",
+      "assets/images/ev_157_4.jpg",
+      "assets/images/ev_157_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 158,
+    "title": "Святкуємо 150-ти річчя із дня народження Доньки Прометея - Лесі Українки",
+    "content": [
+      "У відповідності до річного плану роботи школи із дотриманням усіх карантинних норм 16 грудня 2020 р. в Липницькій ЗОШ І-ІІІ ст. відбулася зустріч із представником ювенальної превенції Жовківського відділення поліції капітаном І. Цимбалою.",
+      "Інспектор провела бесіди щодо кримінальної та адміністративної відповідальності неповнолітніх та попередження насильства і булінгу в школах. В ході дискусії діти отримали відповіді на всі свої запитання."
+    ],
+    "full_text": "У відповідності до річного плану роботи школи із дотриманням усіх карантинних норм 16 грудня 2020 р. в Липницькій ЗОШ І-ІІІ ст. відбулася зустріч із представником ювенальної превенції Жовківського відділення поліції капітаном І. Цимбалою.\n\nІнспектор провела бесіди щодо кримінальної та адміністративної відповідальності неповнолітніх та попередження насильства і булінгу в школах. В ході дискусії діти отримали відповіді на всі свої запитання.",
+    "category": "Безпека та розвиток",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vEXO5xzNKYUv0drapqzVp1qtSXW22llECZI0c97QoZyUIlV0xURcasqNzT8Z87kQ_ABTpvGl3YMu8VNSwgyOWh4JNTfzFWhmXvZYpaDMv0WSmf8U5b-FK_KM7H3ECbT8U7s86YcxBBcDIOq9LCPFDvwKuFbn2GonNqDhr9UamIgKcsCLLGYNwAlXQj=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u8KgT4lfpKCSccQPsk1diPqqqTSKkWlEX8S24jYuOZVrNgoQnlKr2_q1sAPNRhD4AB5JJz2EC9VWkpM60VB-l2vCZlzVJ97sleRG3TIUGHU39_X1_tG07PWx9XO1DLVkgVbPHXZWQgM_gbwoUgW3jYe14Dqn5Ss0pbCNAoJ2eaUB2YNqeEoEI9repj31U=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vGwxVcvsEu7A_hiy1WJ1dBqMk70IW219IZ1wD5eTWT38ZsVWCQpIXyTfIdBn4YyE4rm4T5se7KFCyrwTBP_EgvaLcW7CX0G84D2BSAEZ5OZas8fW-y77vKblIgRpARPgTo1RZJJf-fbk_XXnKJavWuHhXbejmBkfYZpbpkbXasttrgbvI2jTHfLMQP_e0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vtDoWTPQKDssAUeF8Wt2pFLfhAJJPDPczWKMx9hA6_Ahhjzpk0T4FrEkj5tzRP791MRh3L5QYyDya7WYWw0C3yuXOtu1wh3hMCRUqlzTeaGxf8Ho4xdR3hxGysbmEmTf3VYftNkqFRPTihn-NLffM1ZnUC5moHJlZlV0eT05_wQv6791tAnXZVvMbC=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sNf-nH4s2j3i6I2yMhaP0oGxLPlLevrGkQU50g2LvXe25guc5xAuhwEblupmzAtEr3TshsRM1F5VjuEVLoee-oik4RhvO0yyjUY6wt84ZTDDho2nEbsYAm7dBYunUau8fketJKXkjYJ2wA9v4l_I-qGUlA3fs3_w4sDFN_rhXHq3G10LTeskBzy7kX=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tf1jfMRQKZfkTUIGF-U_mhyjXJRdnWYZxt6dwTnnna11SbPKWitSq3HmVLW4rfX7JApkz197pnkqz_6liNVVgF1bVqhNrOLJq2oQyH0t4odGOIZpc-0B1ab0ANU3W_RDXTeLLzwDnFdLkUcpgCoSqdkG0RC7BHCg5b2-rlAUDojlq5xXfO8PmSN8fn3wY=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_158_1.jpg",
+      "assets/images/ev_158_2.jpg",
+      "assets/images/ev_158_3.jpg",
+      "assets/images/ev_158_4.jpg",
+      "assets/images/ev_158_5.jpg",
+      "assets/images/ev_158_6.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 159,
+    "title": "Оголошення: дистанційне навчання через погіршення погодних умов",
+    "content": [
+      "Увага погіршення погодніх умов!",
+      "Правила безпечного поводження при ускладненні погодних умов.",
+      "Рекомендації щодо безпечної поведінки у зимовий період для запобігання травмуванню та нещасним випадкам",
+      "Під час ускладнення погодних умов слід бути надзвичайно обачними. Правильно підбирайте одяг та взуття перед виходом на вулицю, обмежте переходи на далеку відстань, особливо в нічний час! Із метою запобігання та зменшення ризику виникнення надзвичайних ситуацій, які можуть викликати людські жертви та матеріальні збитки, слід звернути увагу на наступне:",
+      "Снігові замети (хуртовина)",
+      "Снігопади, тривалість яких може бути від 16 до 24 годин, дуже впливають на господарську діяльність населення, особливо з наступним різким похолоданням (сильний мороз) або потеплінням (швидке танення снігу або ожеледь).",
+      "Негативний вплив цього явища ускладнюється хуртовинами, сніговими буранами, при яких різко погіршується видимість, переривається транспортне сполучення. Випадання снігу з дощем при зниженій температурі повітря і ураганному вітрі створює умови для зледеніння ліній електропередач, зв’язку, покрівель будівель, різного роду опор і конструкцій, що нерідко викликає їх руйнування. З оголошенням штормового попередження - необхідно обмежити пересування, особливо на власному транспорті, створити удома необхідний запас продуктів (води, палива), виконати герметизацію житлових приміщень, що допоможе зберегти тепло і зменшить витрати палива. Особливу небезпеку снігові замети створюють для людей яких негода застала в дорозі, Заметені снігом шляхи, втрата видимості викликає повне дезорієнтування на місцевості. Під час руху на автомобілі не варто намагатися подолати снігові замети, необхідно зупинитися, укрити двигун з сторони радіатора. Якщо є можливість, автомобіль треба встановити двигуном до вітру. Періодично треба виходити з автомобіля, розгрібати сніг, щоб не опинитися похованим під снігом.",
+      "Населенню під час снігових заметів потрібно бути готовим для проведення рятувальних робіт: розшуку заметених снігом людей, надання першої медичної допомоги і роз­чищення снігових заметів на дорогах, вулицях. Під час снігової бурі роботи слід виконувати тільки групами з таким розрахунком, щоб кожна людина знаходилась в полі зору інших. Знаходитись поблизу зруйнованої будівлі небезпечно, особливо необхідно остерігатися обірваних електродротів, вони можуть бути під напругою.",
+      "Будьте обережні, бережіть своє життя та здоров’я! Дотримуйтесь елементарних правил особистої безпеки!"
+    ],
+    "full_text": "Увага погіршення погодніх умов!\n\nПравила безпечного поводження при ускладненні погодних умов.\n\nРекомендації щодо безпечної поведінки у зимовий період для запобігання травмуванню та нещасним випадкам\n\nПід час ускладнення погодних умов слід бути надзвичайно обачними. Правильно підбирайте одяг та взуття перед виходом на вулицю, обмежте переходи на далеку відстань, особливо в нічний час! Із метою запобігання та зменшення ризику виникнення надзвичайних ситуацій, які можуть викликати людські жертви та матеріальні збитки, слід звернути увагу на наступне:\n\nСнігові замети (хуртовина)\n\nСнігопади, тривалість яких може бути від 16 до 24 годин, дуже впливають на господарську діяльність населення, особливо з наступним різким похолоданням (сильний мороз) або потеплінням (швидке танення снігу або ожеледь).\n\nНегативний вплив цього явища ускладнюється хуртовинами, сніговими буранами, при яких різко погіршується видимість, переривається транспортне сполучення. Випадання снігу з дощем при зниженій температурі повітря і ураганному вітрі створює умови для зледеніння ліній електропередач, зв’язку, покрівель будівель, різного роду опор і конструкцій, що нерідко викликає їх руйнування. З оголошенням штормового попередження - необхідно обмежити пересування, особливо на власному транспорті, створити удома необхідний запас продуктів (води, палива), виконати герметизацію житлових приміщень, що допоможе зберегти тепло і зменшить витрати палива. Особливу небезпеку снігові замети створюють для людей яких негода застала в дорозі, Заметені снігом шляхи, втрата видимості викликає повне дезорієнтування на місцевості. Під час руху на автомобілі не варто намагатися подолати снігові замети, необхідно зупинитися, укрити двигун з сторони радіатора. Якщо є можливість, автомобіль треба встановити двигуном до вітру. Періодично треба виходити з автомобіля, розгрібати сніг, щоб не опинитися похованим під снігом.\n\nНаселенню під час снігових заметів потрібно бути готовим для проведення рятувальних робіт: розшуку заметених снігом людей, надання першої медичної допомоги і роз­чищення снігових заметів на дорогах, вулицях. Під час снігової бурі роботи слід виконувати тільки групами з таким розрахунком, щоб кожна людина знаходилась в полі зору інших. Знаходитись поблизу зруйнованої будівлі небезпечно, особливо необхідно остерігатися обірваних електродротів, вони можуть бути під напругою.\n\nБудьте обережні, бережіть своє життя та здоров’я! Дотримуйтесь елементарних правил особистої безпеки!",
+    "category": "Офіційні новини",
+    "year": "2020",
+    "images": [],
+    "local_images": [],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 160,
+    "title": "Привітання з ювілеєм Куц К.Г.",
+    "content": [
+      "Сьогодні, 24 січня 2021 року, свій поважний ювілей, 90-річчя від дня народження, святкує шляхетна людина, вчитель з великої літери, патріот та вірний наставник для багатьох вихованців Куц Катерина Григорівна.",
+      "Дитяча мрія Катерини Григорівни – стати вчителем здійснилася після закінчення Львівського державного педагогічного інституту, де навчалася з 1949 по 1951 роки. Пізніше заочне навчання у Львівському державному університеті ім. І.Франка (1953-1959 р.р.), заочно-стаціонарне навчання на Центральних республіканських курсах німецької мови (1966-1968 р.р.).",
+      "58 років стажу!!! Трудову діяльність розпочала у 1951 році у Синьковицькій восьмирічній школі. З 1961 року вчитель Липницької восьмирічної, а пізніше, середньої школи. З 1998 по 2009 вчителювала у Рава-Руській гімназії.",
+      "Сотні випускників із вдячністю згадують її творчі уроки, її материнську любов і вимогливість, її працелюбність. Катерина Григорівна – справжній патріот України, вона у всі часи вболівала за долю рідної землі. Під час зустрічей з випускниками завжди звучить добре слово про вчительку.",
+      "Катерина Григорівна започаткувала династію вчителів німецької мови, яка продовжується у третьому поколінні та готує четверте – вчить німецької мови правнучку.",
+      "Десятки учнів продовжують справу вчительки: Сулим Володимир Трохимович- професор, багаторічний декан факультету іноземних мов Львівського НУ Ім. І.Франка, нині-голова вченої ради університету, Кубай Л.І. – директор Рава-Руської гімназії, Задорожна О.І. – викладач НУ “Львівська політехніка”, вчителі- Гоцій О.І., Куц Н.О., Долінська М.М. (працює у Грузії). Для багатьох випускників німецька мова відкрила двері у Європу: Долінський Микола – керівник спільної німецько-української фірми, Долінська Зоряна, Сало Василь, Сало Галина-знайшли свої долі у Німеччині… та хіба всіх перелічиш?",
+      "Від щирого серця вітаємо, шановна Катерино Григорівно з ювілеєм!",
+      "Бажаємо, щоб здоров’я не підводило, життєлюбність і оптимізм ніколи не припинялися, а близькі люди радували своєю турботою та увагою. Нехай кожен день дарує радість і позитивні емоції, адже це і є запорука довголіття."
+    ],
+    "full_text": "Сьогодні, 24 січня 2021 року, свій поважний ювілей, 90-річчя від дня народження, святкує шляхетна людина, вчитель з великої літери, патріот та вірний наставник для багатьох вихованців Куц Катерина Григорівна.\n\nДитяча мрія Катерини Григорівни – стати вчителем здійснилася після закінчення Львівського державного педагогічного інституту, де навчалася з 1949 по 1951 роки. Пізніше заочне навчання у Львівському державному університеті ім. І.Франка (1953-1959 р.р.), заочно-стаціонарне навчання на Центральних республіканських курсах німецької мови (1966-1968 р.р.).\n\n58 років стажу!!! Трудову діяльність розпочала у 1951 році у Синьковицькій восьмирічній школі. З 1961 року вчитель Липницької восьмирічної, а пізніше, середньої школи. З 1998 по 2009 вчителювала у Рава-Руській гімназії.\n\nСотні випускників із вдячністю згадують її творчі уроки, її материнську любов і вимогливість, її працелюбність. Катерина Григорівна – справжній патріот України, вона у всі часи вболівала за долю рідної землі. Під час зустрічей з випускниками завжди звучить добре слово про вчительку.\n\nКатерина Григорівна започаткувала династію вчителів німецької мови, яка продовжується у третьому поколінні та готує четверте – вчить німецької мови правнучку.\n\nДесятки учнів продовжують справу вчительки: Сулим Володимир Трохимович- професор, багаторічний декан факультету іноземних мов Львівського НУ Ім. І.Франка, нині-голова вченої ради університету, Кубай Л.І. – директор Рава-Руської гімназії, Задорожна О.І. – викладач НУ “Львівська політехніка”, вчителі- Гоцій О.І., Куц Н.О., Долінська М.М. (працює у Грузії). Для багатьох випускників німецька мова відкрила двері у Європу: Долінський Микола – керівник спільної німецько-української фірми, Долінська Зоряна, Сало Василь, Сало Галина-знайшли свої долі у Німеччині… та хіба всіх перелічиш?\n\nВід щирого серця вітаємо, шановна Катерино Григорівно з ювілеєм!\n\nБажаємо, щоб здоров’я не підводило, життєлюбність і оптимізм ніколи не припинялися, а близькі люди радували своєю турботою та увагою. Нехай кожен день дарує радість і позитивні емоції, адже це і є запорука довголіття.",
+    "category": "Шкільні свята",
+    "year": "2021",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72t6PBbK3Eg2CjleiQEgSSRRfYTAP2aRyfqPXIb5fK21ZnN7YrscYTKWlhQCmJiUwBD9sut3dD0pLFnE6U-dmJMTOS4FiOdynzUVhXnoI2Kkriv-3B202bsjmgJ_yIKRrB11CIXdKMesc0vYNAqLcHrDN7D9Cp4lxMDrqj9bbo74azR_t9govL6UzXmIdQc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tnCWM74UNG1W6sgOZ06m-hEsT7FrH4-3B_dhuvVPE5KXJgap1k4qlMKOTM-2f9wOzKKuFRTPrRdsPBqZyOJsPWlk3S2kKyaxfuvpWchMEy8-XkftbxpIo4Q_iaof8QIHGnfVdZA8sKaMDk6S2luUHmgmrvxhN-1CxZTTL5_KiqQ5MOzuXNnKlOu38x=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sWXda_pzCdsV43rHuJ9mvIjNDPNE_69Rls7Ydz1j75EbmET2azb7ZFZKEtayWbZ0-lgvS8fg3BZt6L-JLTl4eYzgwnXMrRv-Bpqa4i2AMlt0ZHHl0XVSI7tTO3lsb8VlnIFWEVrbZDnexLndFqL7OG_tKzdaUiC9OWaBiWzCXULQxLO7bxRmJf8jAJUMU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tWRdZ_HxkOREmWXFoDlFAvOqxOvkRqzOo5GQRUv5daNVnKCFa9wwANy8Avv2I4xt3Zgx5TnitFQ_IdPsqsn0RYlt9Ev325nbXPm6K8A_AmGkVoWT3hau1nWg9jwQFqFc14bVM_AQldyI_HAFD30CNWpWb49K7DfiQnbEzHjeEIYfmYFmHALi3xYgMy=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uEZNgksXwZLYvPTCRpSdQU10GW-aH9oxgehIHg1CQEfbvnjkB6CjkA9lgi-GF1der8BN7eMXKkh42ic-iASBS6UXXT4Xp4pCgjlalPTiuwuLJJyWrly-3tz1wtEVgwlOP4nX9LtvjCQwhRIytThWXxH2Po7rtNa7Wxffc1cEWJTbVS456QmWTPhuOpKgQ=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_160_1.jpg",
+      "assets/images/ev_160_2.jpg",
+      "assets/images/ev_160_3.jpg",
+      "assets/images/ev_160_4.jpg",
+      "assets/images/ev_160_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 161,
+    "title": "Зустріч з представником ювенальної превенції",
+    "content": [
+      "У відповідності до річного плану роботи школи із дотриманням усіх карантинних норм 16 грудня 2020 р. в Липницькій ЗОШ І-ІІІ ст. відбулася зустріч із представником ювенальної превенції Жовківського відділення поліції капітаном І. Цимбалою.",
+      "Інспектор провела бесіди щодо кримінальної та адміністративної відповідальності неповнолітніх та попередження насильства і булінгу в школах. В ході дискусії діти отримали відповіді на всі свої запитання."
+    ],
+    "full_text": "У відповідності до річного плану роботи школи із дотриманням усіх карантинних норм 16 грудня 2020 р. в Липницькій ЗОШ І-ІІІ ст. відбулася зустріч із представником ювенальної превенції Жовківського відділення поліції капітаном І. Цимбалою.\n\nІнспектор провела бесіди щодо кримінальної та адміністративної відповідальності неповнолітніх та попередження насильства і булінгу в школах. В ході дискусії діти отримали відповіді на всі свої запитання.",
+    "category": "Безпека та розвиток",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72v7sXZt7Xu__SyNR2-xvYLAfZt36508tgjlf8sBQaZ91PZd3eIlIR3NppVDgv5WS_R-J7PYBa07_OjKS0Q3Z7H4as5f3qppvDr6QhgRYm2DU_xsQk_WQAPLuiZPMCtDT8uP8eimZbawy9-OB-GpTg9Zzn0Yxhe0Vpm0ThkLs5N-FjQ0zbW41LknY1-hLwA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vy3AriAbRYPnpd-pHCcqC8-NLKSKDxeBSEtdWKInunNMwjGwkmrFYPG9UDbyuF5rwAcRU2CL0nV2UVbniIGzXGE4OVBqiD0bwB0BCDnXkgM4D8PASkmK77zII6u26j9Imzm6BJ878p4dUG7Gn6hxdt85Rw81zV_krIJIwEiu4QnPKjOdCosuORRaXvMSU=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_161_1.jpg",
+      "assets/images/ev_161_2.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 162,
+    "title": "Андріївські вечорниці",
+    "content": [
+      "Традиційним та одним із найбільш улюблених свят учнів та вчителів Липницької ЗОШ І-ІІІ ступенів є “Андріївські вечорниці”, які відбулися напередодні дня Андрія Первозванного, чи як його ще називають у народі- Калита. В умовах карантину, з дотриманням карантинних вимог, цього року його підготували учні 9 класу разом з класним керівником Балон Н.Ф. Ожили українські вечорниці у стилізованій світлиці з усіма атрибутами побуту XІX століття в ніч на “Андрія”. Лунали народні пісні, коломийки, колядки. Найцікавіший момент – ворожіння. Діти розповідали та інсценували різні його способи, звісно, перетворивши колись серйозний обряд на розвагу. І хоча у ворожіння нібито ніхто і не вірить, всім було цікаво дізнатися ім’я судженого та хто перший з дівчат вийде заміж. Родзинкою свята була Калита. Хлопці азартно підстрибували, щоб торкнутись коржа, а дівчата їх смішили.",
+      "Учні із захопленням відтворили всі обряди свята та українські звичаї, додаючи неповторності і сучасного присмаку. Учасники свята отримали незабутні враження, відчули себе причетними до того дійства, яке давним давно відбувалося в селах нашої України."
+    ],
+    "full_text": "Традиційним та одним із найбільш улюблених свят учнів та вчителів Липницької ЗОШ І-ІІІ ступенів є “Андріївські вечорниці”, які відбулися напередодні дня Андрія Первозванного, чи як його ще називають у народі- Калита. В умовах карантину, з дотриманням карантинних вимог, цього року його підготували учні 9 класу разом з класним керівником Балон Н.Ф. Ожили українські вечорниці у стилізованій світлиці з усіма атрибутами побуту XІX століття в ніч на “Андрія”. Лунали народні пісні, коломийки, колядки. Найцікавіший момент – ворожіння. Діти розповідали та інсценували різні його способи, звісно, перетворивши колись серйозний обряд на розвагу. І хоча у ворожіння нібито ніхто і не вірить, всім було цікаво дізнатися ім’я судженого та хто перший з дівчат вийде заміж. Родзинкою свята була Калита. Хлопці азартно підстрибували, щоб торкнутись коржа, а дівчата їх смішили.\n\nУчні із захопленням відтворили всі обряди свята та українські звичаї, додаючи неповторності і сучасного присмаку. Учасники свята отримали незабутні враження, відчули себе причетними до того дійства, яке давним давно відбувалося в селах нашої України.",
+    "category": "Шкільні свята",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sfsEy1dT5exdqrpUZSyqtl0ljgOziG-rJvuS9Q2AEN-RgCGs3xFlt6YxzM0byWkFFlAKo6DCMetMV6gRdm1Nryz78tmk-Hw4UJNE10E1sbjyT-9P9ZU5bXt4i92eNstrpWGmP6Nax4ZPSwYKArXE3j2xYW2ZCjm8H-ROWjQ97Z6WMnHrsDx07ewcaHwi4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u40_FL9jhiW6Sjs2eQMUDqH3xT14jRCireq6LLEyAeMJcvzqKR9mStv433GtzrA4BFlU8-hIbLiZpK2o-ekfVXOwVrON_fg_eBg7B_jggj33KiPJQ4P8kqWIotXVanSIOT1GQ4Jhv2wiCtXjmemh7nifsEryje_qwuoO-3qsHb6PXgrWnwCZP8Th-VU38=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vj763Zo4Kco_KNmHhOGv3nNtF_E0IDznoGEsIIwfOebgx6W1jiWTKOU3VV2bDMkACYzTHPm0S9SUfeqkgSKhL476tfVp30iuuRbt4JhGm948CdvcZCjH3DGx104bby2KZT-ggyzhKhM0cULRwMwIlrRHEz216kuaUdX2U4oMtxHcwGnx2RXoPRZelWwTs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s6oESOEmdVoHV-ixOoszLR7H5o2rhvg_iyP1olTnck1_s5OacI6p_QnUhb6SnYECzg07ES3qR8MBxf-oBJbF-wB1fH_JCXF2TnEqi3WoVzA67DVXqykYxqx-1fmcbmsh34ZjKbcJHnJ-TymYj27mTOkudcsGKe7xrJGbpeQp1asMYbOC3VJJz210gvT8I=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72viWsQylrZw-Za7N_HhKZd05fWYvyr2Byb9YRbUUcTfI4RFm-rT-SFbF_19SVpfVIWh3f5sa46wcm98DVllL7YQkusTThGVXfCwhhaQ89z0eEV-2lAjjKjjknUGu9SgF11w5Q98vc6ubsNRvJSD_YY71Jg8AeFD3c_9jdFuEIblKYN0oCgl2k0Ff3IHJ_0=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tKJD38Yd-kF3h9xqVqMKO2nc2yW6yi_Ka1eWKgtBrGbDSjYdpGOrrs7upNvJJkcpcEfisiNAZ80LTxG6utCAgSrhMwWG4WEbz3zr5tjFYhG0ule2fIP5QJKl5HY9BaIEp-r6KoJyubsaTB8o_ipQAilZ8gYmVLmt19L7Z8o6mdabXCir7kM4LCCQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sHUZJ8hzG8ihDPVPOyIlvyfEHftY3gkl4zPyJvMRiDjwYTlK5oR7Cc_Ge8J4-CZIuIuS3lQlcpVFvm3u7SrVpsXNb5A1adBnXnnrw_scenlpey2bjQJPGI2r9APr0zCYbngqjIywNPAo6buGt83Ra22c1GASfX4JWqFhUf2hxYbOwLWKcob5dVPnSIPUg=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sjMBBFc1zplulBobm1xIGXNnD17jjgQTEjq83-5AAQyGePTWA5G4eTCm8SIBVXgp3FCP9auXuiC8pX9WflcC3m4rgE4c4hcgtZdrLKHZrPVvJ15xrPY7UJp44GJDVi2pW5yEz8vqXaGXNXdgQghJHk8LsiOzQ2AEG1j8SNxCXjXbE0jsXsCvwB3iDpn6I=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t4x5mUMVfJic-37AQIjwrulprYMPTo7ftZelwxzFd1iy_sFggBc--WmB62px4KrTKRN-K28ukMWUQnuAHcnUjUoqctbLiBWVzbxAL7DuTu8UbvVjel4XCUQ31AogC4W1A8mMK4r1V66Jfbd6o-weA-JiF17zZyaFpriEy7C7YQ4Mzx6ogN3vkaK6gi0EM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vDkUO-HVXs2KS90ndkjGlB36Q6aaOxxlS53lzBm6G0JxGVHBuZWaTfofh8W7QEuEAJVLZ3rlAae0oeYmPRAfY7Pq18KGdOcGbeKfpMsRpPK43p6AWhVb9_nehnC-VfXLT5wDhOJhZe3VkCOo95h_qrgssMGcn43frforCkKD3mL-zitJEjeBgTSI64=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tekdYKZHeAIQkNh2pL1zakDMT1VcGpPLAvp7AjBlJSSKz0KNEVV5DUhGXLfZyID59n7kp_lNY6GVQkCH7Qm0hCHitB1FNR5sEcakrCoyj_CX5MDKYtCg-hMEm9xJ_dr4KkoPVxWauMZkJjbKqzx-MvmWhm2RjLLT5DK4_uKzwD_RJ1r6ou-xFzZgOTDGI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uSUBaCA1jaDYJa7NtsUbTR-p7ksndva8ERp1qfmbb05yvVr1xIzQFxTL1gt71slW-zysF2OUBmnhXCR_Js2ebMOf5O2L5iXV6QAO9WzKfje1YIxSSu-EKLQEbZ4u4jyrFrKyClXZX1n3Hgev366KOYE-x7waD6G_uhbkmu7GuSZ57-Rl-0sBHi3Bw2Iwo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s3hICQNcASb8nEPW-Vvl35kKcG5NVUfz7nEc-olVHQPVrrQmgl6zKgJu-YY95GVEuZRhKIUjJEp_uxx5FYvEASGNbmtngljYu-uGIiAHgBACW2U52rvHq3f4VcH2lumanb9s3bQt4FHvJM0EpZ6QW9XqbRoKJnZJByPEcaaI2b8XVR_doMpV-YmSre=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t_nGdPnbGB9R58job-j31X9ePL197AbbwAUgvunYT9o_j1qQpB9T9Hpn7tXDoknZ-qNtCCoK7DhWNhfqVaBmdRc9D--AuY3R-UAkobufXxxci3Zwx0pGsvJMB4ptTmMP6wtgdjqxKSoHrPyNiUqvbPUSHtOVTDJHB2axcbVFGNmLF1jPKUIFr8gMlshVE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tCSmuldMIPeg3vlpH9EzwoBFRUYdakFsPo7g6-S78o-XQetaMju-83si75yFPdjtrouUCkbngUjtoAB1sYFNfBb7XY786HUrO9VrpYvRG6raVUu19VemILuqleQfLLhNVKztwdVo0Vtg-DetWwFA_WqoIcJQ-yR8rRnowhn0FYflUhgYSxykxU0uI5dnI=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s5Aa_tBzR7o4g83WeEcf2Ne-WptKV9m4kzrRd8qBnfEYfRWhq7MPf7YAiSpi3vNQJ-OMJV62kO9s9Vs8HE03qe1Rn_aOG8ec_RS2TLU1PivLPOA6iTEZfPv-eI8oIUOw9BOkotIRnfIql5Nfn_ASS5pRFiX4AJKrU0GcwilvKoGhSo13ozu4q-NyQKg3I=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sE23iMq3lKqaWqhUdCg7PnCCds25908xw6amnnPnd2wf2u9lhCqbVpBl9IASMiQCtDX8sih--meMe9pwODeJRTmtrEQQOTt9P7greKW8yZHOPf9qyFCDS4sZZdWIP5ya_1MaYlm3yAV4isDfR-goFF2P6Mje2WYWa3jvZYOwmEYwcMneJyBnukunv7=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72s1WU6LG9N1_OR8ArLemAINIkSJiWQjmH0QiSRKiQXs9lrUlU0ellSRkK7y7FXgYyUk8UrRGDYYzAMOsGwTRK-mDjEie9UDHkgXc0t5qTo7Lx622dvcOryufL9v51PWZMATLJKOYVqpZg99mqEoyfFQyxaZoS4H0cSDrldaAoKPy5TQeCl8VsD4IG44=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tsOvFov3RCd65bWQRxG_GpbqXzrpv-Zu0m9FhLwa_q7IEfjoK0gyWJaCY5GGWmbwTABX6IbN_MLlP6ypz_QJ9k545dUGOV4_QhiVS0wqCnNVUzz2EIHJ8ILoUxIidcbB-l6QNAL75R2sVnxAfU7zhISwE1Ym2SANeKVrayE4XCsJVhMx31IylVO_Ay=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u0KgwydiyHtKmVqDcHvJ86YLjm7lwDNTI1v3Ns3r82e4hs86Z0GY211vP5973zGuW2aQS02jkAiYAO3ZsZxlZDdz7XRk0hbbCTPPKtWHsTBetSuUoOVg8z7PvT7oEQ2OX2ICouh-7WqcYnc34ILLwdUn0ep8XbR9zJjq-ui8HpP3GUnjxBlqc_2Fj3=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sSRhqmpdHtKXO3J8boJrI_BYqqYIC823iDZsUBA2oCj1k6wWNCEfGuzwo3iYwx1FnRClO3zoICGjOazlAg0EgS2ha-X0Fene8y-hf4BpjdiCD2Jkej9Fy2NFLlIF6sXAZ9huwLXOlmhGUTStzFeLizvlBHDeSL5RUdRST1ZpSThoyqVxTm4SIap6VB5NY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vEpgkBuIMjHVOXzO1Iu0MrwfOvi1PKBqGoZWR3M5bzBN40qqzmqKltSL1kX4Qv3LufcHSujqDuKWZnyJkvUR5BonwP6JAT-B7G4ZvV1n6EBOBdVymraPEs9-T9crvbYOLSwYhWnbRTgHev4J11N_3JkjzTMOkyaKuCLgUz07Ei4YeUjU3boX65D1ET2Eo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vdOL1bSRG3JPC_Sqv0MOftfp15qz1f6mcfuqf-gRA2KMoCk3PDN1Z2d9Cw-8NB56bSNQMunlRfieWEIPXWV_bXHCttzGf_0Rqw7cv68dSDg1F14g5FIuIbri6bTv0jSliCP72B5weyPb1V9kV_HZ_CPz0KGQszCtEahhCtYDT-m6BE3S1izSwNVYd8=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_162_1.jpg",
+      "assets/images/ev_162_2.jpg",
+      "assets/images/ev_162_3.jpg",
+      "assets/images/ev_162_4.jpg",
+      "assets/images/ev_162_5.jpg",
+      "assets/images/ev_162_6.jpg",
+      "assets/images/ev_162_7.jpg",
+      "assets/images/ev_162_8.jpg",
+      "assets/images/ev_162_9.jpg",
+      "assets/images/ev_162_10.jpg",
+      "assets/images/ev_162_11.jpg",
+      "assets/images/ev_162_12.jpg",
+      "assets/images/ev_162_13.jpg",
+      "assets/images/ev_162_14.jpg",
+      "assets/images/ev_162_15.jpg",
+      "assets/images/ev_162_16.jpg",
+      "assets/images/ev_162_17.jpg",
+      "assets/images/ev_162_18.jpg",
+      "assets/images/ev_162_19.jpg",
+      "assets/images/ev_162_20.jpg",
+      "assets/images/ev_162_21.jpg",
+      "assets/images/ev_162_22.jpg",
+      "assets/images/ev_162_23.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 163,
+    "title": "Волонтерська діяльність",
+    "content": [
+      "Учнівський та педагогічний колектив Липницької ЗОШ І-ІІІ ступенів вкотре долучився до волонтерської діяльності. Було зібрано 70 кг картоплі, 30 кг цибулі, 20 кг моркви, чималу кількість круп, сала, тушонок, різної консервації, солодощів. Зібрані продукти передано громадській організації \"Батальйон відважних жінок\" для подальшої доставки у військові частини, які дислокуються на сході нашої Батьківщини. Дякуємо всім, хто долучився до благодійної акції!"
+    ],
+    "full_text": "Учнівський та педагогічний колектив Липницької ЗОШ І-ІІІ ступенів вкотре долучився до волонтерської діяльності. Було зібрано 70 кг картоплі, 30 кг цибулі, 20 кг моркви, чималу кількість круп, сала, тушонок, різної консервації, солодощів. Зібрані продукти передано громадській організації \"Батальйон відважних жінок\" для подальшої доставки у військові частини, які дислокуються на сході нашої Батьківщини. Дякуємо всім, хто долучився до благодійної акції!",
+    "category": "Офіційні новини",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72tBfssarg11Kz9EgF9FEJTVtR3PwXssAT570Z2kVH5eYzM6khMqnFMpazFIdM9dYgYu1nJa6g-MAoPb9MBzhlYhXx-7eaEnmNdanARZld5T3sspzqcVJMhbKFD8lanaecY3FpmafhFp9ZT6xofZ9g8heFmMaZAsWchj_eIkxYPzAzsOOZ_HgS4g8IdtUIU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uIBnL_vSxYmquRTAvWAwuccGGB61VhZp13P9Pi6153ar5bIY1dlU9KthwLli6qeKPSDGYki9az_XAZtrB4rcj9ANwBMIVGGVUvpA1k7rYmv60SyZ7F8hTS-DO1ATJwv4SycJNlAdsmEqhb15FaFKq3fjF5yU0T2GEDcnkX2I9GxQ4UvIxBv0lrV__6=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sM0dRhF5ZJo3To3IcsxMkdH9o9c8eJb_6w6ZeE-AjNNx6noh6OTTgNzyzzlcBlzZ1MVLzvGWJFTEMfufy1LyZ9TQOskGsdvxpzoLJwx6zOKnAMPJ9oI9BVpbUr-cBGNrn8teDImqA5NTMVUho5PiAHxV7gaL1aPi3cijE1XqTYs_YK6N0w2LqNI5VbdPc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uc7V3bF3nsNrmVa4BhhMtxgmN92vJT4Z00vJx-LyhVu9ELckuDyIbzs24MPOIrMhEq7MkmyU6ynX822VFERO-BSldGfiLrDAPgMK8aV4sBtpgYcq6JnH-AcvkDHvqi1anAhNgi3nL-Q1Q-mQ75dZ3BjQHWLjYycUh-gG7HHRIFert7YhK81GGH9bs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72syUfg7V6MicHj-DtLKPi-dJd1WJ1JXOUzoaKJxj6G6Oh3FFkNJRWkS2Q57p7j3kUccBrGXx3veXXSLuBxKhCi1h0tMmq16gAeg2_mCAVGAlCQWIm-fk_mpqkMJIWB0m6ppGxuU9brD9_1xqUp4vYny8St27bhhKHlEqWOS3SZ0mHpQyVkkZCzUFB7d=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_163_1.jpg",
+      "assets/images/ev_163_2.jpg",
+      "assets/images/ev_163_3.jpg",
+      "assets/images/ev_163_4.jpg",
+      "assets/images/ev_163_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 164,
+    "title": "Вшанування пам'яті жертв голодомору",
+    "content": [
+      "Учні 7 класу Липницької ЗОШ І-ІІІ ступенів вшанували пам'ять жертв голодоморів. Вчителька історії Дева Н.В. процитувала спогади очевидців тих страшних подій та закликала долучитися до всеукраїнської акції пам'яті \"Запали свічку\". Також діти відвідали тематичну виставку шкільної бібліотеки."
+    ],
+    "full_text": "Учні 7 класу Липницької ЗОШ І-ІІІ ступенів вшанували пам'ять жертв голодоморів. Вчителька історії Дева Н.В. процитувала спогади очевидців тих страшних подій та закликала долучитися до всеукраїнської акції пам'яті \"Запали свічку\". Також діти відвідали тематичну виставку шкільної бібліотеки.",
+    "category": "Життя школи",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72uRD0-AbRrQhPQhFuGsrIcglR_tWtqLYrRYAHODa8Gq6zzERHEHfvMbZKBZBZPaIHkwLQbA2eapK_njreQeXNixGD_EVq_--uQD-gg4YJ0kTuJjhPZ0cWyBBGeebfasAuD2pVQ6DvmJs_hANNZ0-GEP-nSJCe-OcBtT8SIQavsaaTS_QVoXMVU4d3qcips=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uXrVqj8Em8a_6j7Po7DK18pMA7OnoJuawg2TdBj7opBsuwZEmWgvRcQsyCzUdFKlItT-WwS4QXYLvLRdHASjWd1Djx_r7jp8f11kijOOo8V-Ba22n30T_vE6KPMNPn0eI9FbtEK8dyO53nDc4UiNm-vW-ORlMtTKKDm2YCWcZ9x4x2LvIR_-2bKeFtpTc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sbm_AxdMLk0CUMXKmEURw_Sve_W56q2eJ41sb3N7wxpjqt5gtN3y_ByhrgV17KvUTy1asH-eZPRxDfjFeEp0wN-b_xt12EvDIh7VuptIIXfHaLjVd9-4nrRNsg9rVhE0h3zuNe9vjS7O88c7IqvZk4cg2W1pAjHsZt_Q2kGfnqbhchh2Og4BzjppSobII=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tqXExrHSAUYugw8wpmHU9dINBs-8h0SdTyq216LXGhs8CHprK7F2cK0YQ9aRLUF5ngRo85oxf_v3U2bJd-Z0nuB9P0MN_4TlqDlG7-F1Al8_kHnzh9XKqoemY8fwnkrvRwmr9TXKezKK-mZHpI87ZX1O4F81ePLUg6hLdky5Zp8AWh34glNLkADdeKXIk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uEFA7GUlMzEuRIwT-2P1r5-Q45OSsnWHyHnDsC9Dyc5qDtjpSMmICvCup55-ZeaEEXEuWAbWteBQZq3oIN58NyUtVTzslq_QFKgK3Aiu07gm6YjFo12Z-waBif619dgRRp9alFsHHicje6wlG6lRVOACeO3hD8-TIREWOOVw1ZiGCDj_BJutHfzCdV=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_164_1.jpg",
+      "assets/images/ev_164_2.jpg",
+      "assets/images/ev_164_3.jpg",
+      "assets/images/ev_164_4.jpg",
+      "assets/images/ev_164_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 165,
+    "title": "Дарунки осені у Липницькій ЗОШ І-ІІІ ступенів",
+    "content": [
+      "Вже традиційним стало проведення виставки дитячих робіт з овочів та фруктів “Дарунки осені” в Липницькій ЗОШ І-ІІІ ступенів. І кожного року вражає фантазія, талант і майстерність виконання робіт.",
+      "Різномаїття квітів, овочів та фруктів втілилися в чудові та цікаві композиції учнів школи. Ніхто не залишився осторонь. Всі учні мали змогу продемонструвати фантазію та уміння створювати чарівні композиції. Чого там тільки не було! І незвичайних форм гарбузи, і виноград, і яблука, які переливалися відтінками зеленого, червоного та жовтого. А які цікаві фігурки з овочів були представлені на святі!",
+      "Позитивні емоції та естетичну насолоду отримали всі. Учні школи блискуче попрацювали і внесли свою нотку, своє бачення світу у палітру кольорів осені.",
+      "Дякуємо усім, хто долучився до чудового свята.",
+      "Дирекція школи."
+    ],
+    "full_text": "Вже традиційним стало проведення виставки дитячих робіт з овочів та фруктів “Дарунки осені” в Липницькій ЗОШ І-ІІІ ступенів. І кожного року вражає фантазія, талант і майстерність виконання робіт.\n\nРізномаїття квітів, овочів та фруктів втілилися в чудові та цікаві композиції учнів школи. Ніхто не залишився осторонь. Всі учні мали змогу продемонструвати фантазію та уміння створювати чарівні композиції. Чого там тільки не було! І незвичайних форм гарбузи, і виноград, і яблука, які переливалися відтінками зеленого, червоного та жовтого. А які цікаві фігурки з овочів були представлені на святі!\n\nПозитивні емоції та естетичну насолоду отримали всі. Учні школи блискуче попрацювали і внесли свою нотку, своє бачення світу у палітру кольорів осені.\n\nДякуємо усім, хто долучився до чудового свята.\n\nДирекція школи.",
+    "category": "Безпека та розвиток",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72t2QokBGynwi5QExAwvn4gzI1cX1XrKZgA6NmRLm_Q5RFnkfJRBuPV6IhxqT3OsDckxBllU__uR0EtmqyL7H5Z5-rAZg1Lwo_Dc-WnBxVBmeXW5GUabBhj7GbGHiyZjY8LqvZC8TQeO4iOLVJKTYaJq2NZzMuJs74YhtTgdfWAKR4zxyxuqaecARMFZPAc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72umbTKfUxVwEGfQW2wGPEh3X2kqcGYuGs2trpnCKaNpM22lNse8q8LKZff_vIqslGTDsdWGbZhLdCvUjxXkVK2fmngQmRKIYaVFL4c7Ji7Z8B9Oeko3GxSxVZup_aY3xV9pQQoMRYmm9ExNE0I-KXP_SvM4PnVDWGG5DQZJOvKoErh-evV8HcSNTYQ9=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tN2lg3QtUF1AhuXh2u32Wa_zcuInqsIxJS_4Db-hJsG6Eq92Kas8C60edMzo69hiboEEfB4IFGUvhnfn7VngP0PjUc-xIznKt4SJ6DwuWnX56ZZrU9AC__nsbUoL_R4us7k7ZR6g8EXvOVmmLaEUYPp8Y8dBJwAMbyIsf8FkaaDvtOXRHgJsBdIppK=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uNWE0gj__D2gM9O4wZFimLsmW3wii2KasFT-TeiolfFs-rokXzbbd8attr5yWTTAGlPkhBj5zgR6Pid00LDsgRjegdvXS-7pigcN8cJzVrmldSsLGaXdajhSb5Z7ydVUX0TtBP64w1qARSUcK9GwMAugLWgoEodopruhZ7wFEADOu4hFrpGBIK7Z0w=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72st3bIuZ-qXS20MxzRzGwAMhjUMQg4zOaaTweTctTJ1CK32g0pChJRGyOVlemauU5NFyeUTW7NoEyDTosgUjmgpF4--A7AoSfJiBIbHnntpRLA7-BEHsESTLvkQiKVEg9gjCEdxpQeB9KMv3IsZQuRRxXdmDIUjaOcvTmAHRLIP4nOSBp-lqXC8K1a0djw=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tZ4pd_jwPYistKNi7toSLPEoeI6gH-95CrvZZiTIbAUGVd2y8mZu354aklEumEAh2Lv7UNj1sYaLAkQSIMUKrlVboJBwQI4Nz4X8eeElO-yNab2KcEazqwXDmn0kUTGzhuQFIgf7DUW6C2DvlsaDE5veqRg9wrQIuW0-HrCnHyqJMsqEe_nOU-AfmqOzU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vXYrwyv-1HLHCBeOFVMdEAuxYJdgdsfAT2LCqRSOcpRgRs7ZbdAIpnmDFBBEhoAJSj2EmB7vKwqmzNgIWUZNRj-hlPFjxJuc05cjxdJj8236BY90_ZSvXr2GWhyzXINecJv0PiB4T0R97yJhOn28cJuELEKK_v3nrx-bp2OOlHCUUSNb0NoP94jQuTjs8=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u-Z4HMXaRrqzMGiTBIYNKe74yC_lN4rR3XwbMZvoh6Ujd5hG_b5aoQ8QZo5KWcK5Xz1ALm7i77RycRRZgXHOrF7vW592GsHhiBOMnuVGJNhuW20QRvde-LPt70u2cOT3jrAcyaRTS9wGzDzpmIBvxb0DoIGTwY0nl1Jgz6myu_SLAA5bZVz3M4l04e=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72upvlBKHTqC-nM-M65Z3tWDwvFt8NLb9iQ2ejQMsZV94Y25RaRKsJmE_XhsflM-EKxcuAlkdN7xGebXc_nxNqlxg-rpw_fNF4oRD2lszRYj8F20v3rnlnHh8GbnAD59HNuud1kTvoCebbdzUz4MHNhDdslJE3PtswCvN97O9JN4xG5lIor9dlCjwimT65g=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_165_1.jpg",
+      "assets/images/ev_165_2.jpg",
+      "assets/images/ev_165_3.jpg",
+      "assets/images/ev_165_4.jpg",
+      "assets/images/ev_165_5.jpg",
+      "assets/images/ev_165_6.jpg",
+      "assets/images/ev_165_7.jpg",
+      "assets/images/ev_165_8.jpg",
+      "assets/images/ev_165_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 166,
+    "title": "авершено капітальний ремонт кухні",
+    "content": [
+      "У школі завершено капітальний ремонт кухні та підсобних приміщень шкільної їдальні, що дасть змогу більш якісно та безпечно проводити гаряче харчування учнів, полегшить умови праці кухарів. Загальна вартість робіт та матеріалів 351570 грн. В ході робіт:",
+      "- влаштовано 111м",
+      "плитки на стінах та 81м",
+      "на підлозі;",
+      "- замінено 8 дверей на металопластикові;",
+      "- проведено шпаклювання та фарбування 211 м",
+      "стін та стелі;",
+      "- встановлено два рекуператори;",
+      "- відремонтовано систему водопостачання та каналізації;",
+      "- встановлено новий бойлер;",
+      "- замінено два умивальники;",
+      "- проведено ремонт туалету та душу для працівників кухні.",
+      "Окрім цього, за кошти відділу освіти, додатково закуплено і до кінця листопада отримаємо 7 мийних ванн та 2 столи на суму 13800 грн., а за кошти Липницької сільської ради металеву шафу для зберігання продуктів (6100 грн.).",
+      "До ремонту долучилися батьки та працівники школи. За кошти батьків було закуплено електричний кабель (32 м.п.), монтажні та розподільчі коробки (22 шт.), вимикачі, розетки (13 шт.), іншу арматуру на суму 2690 грн., а працівниками школи виконані роботи по ремонту електропостачання кухні та підсобних приміщень, встановлення сантехніки, відновлення системи вентиляції. Дякую батькам за розуміння та підтримку!",
+      "Дирекція, педагогічний та учнівський колективи дякують начальнику відділу освіти Ковалю М.С., головному бухгалтеру Жук Л.С., інженеру-будівельнику Петрів В.М. за виділені з залишку освітньої субвенції кошти, будівельній фірмі ФОП “Солук Ю.Я.” та ФОП “Білецький О.Я.” за вчасно та якісно проведені роботи."
+    ],
+    "full_text": "У школі завершено капітальний ремонт кухні та підсобних приміщень шкільної їдальні, що дасть змогу більш якісно та безпечно проводити гаряче харчування учнів, полегшить умови праці кухарів. Загальна вартість робіт та матеріалів 351570 грн. В ході робіт:\n\n- влаштовано 111м\n\nплитки на стінах та 81м\n\nна підлозі;\n\n- замінено 8 дверей на металопластикові;\n\n- проведено шпаклювання та фарбування 211 м\n\nстін та стелі;\n\n- встановлено два рекуператори;\n\n- відремонтовано систему водопостачання та каналізації;\n\n- встановлено новий бойлер;\n\n- замінено два умивальники;\n\n- проведено ремонт туалету та душу для працівників кухні.\n\nОкрім цього, за кошти відділу освіти, додатково закуплено і до кінця листопада отримаємо 7 мийних ванн та 2 столи на суму 13800 грн., а за кошти Липницької сільської ради металеву шафу для зберігання продуктів (6100 грн.).\n\nДо ремонту долучилися батьки та працівники школи. За кошти батьків було закуплено електричний кабель (32 м.п.), монтажні та розподільчі коробки (22 шт.), вимикачі, розетки (13 шт.), іншу арматуру на суму 2690 грн., а працівниками школи виконані роботи по ремонту електропостачання кухні та підсобних приміщень, встановлення сантехніки, відновлення системи вентиляції. Дякую батькам за розуміння та підтримку!\n\nДирекція, педагогічний та учнівський колективи дякують начальнику відділу освіти Ковалю М.С., головному бухгалтеру Жук Л.С., інженеру-будівельнику Петрів В.М. за виділені з залишку освітньої субвенції кошти, будівельній фірмі ФОП “Солук Ю.Я.” та ФОП “Білецький О.Я.” за вчасно та якісно проведені роботи.",
+    "category": "Офіційні новини",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72u8Mdjl-yPslH3qNqgPd1noYAfBqnTCtN0tMXD-VZwMX9j5wJFye4HHqknvJWmNkLebL-HdOz6FkEC6xh26buog6XmtuuaFE7cBs4t9dH0ZBnDJbXD4mKwE_dggvsqMuMQPPOcVflZGIY3Z8aCRU9fomGsNi-SJ_wuuytmCbsPZWabhUhDaURNwEFwc=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uy3-8Q3Qlxssr2fYWsSyTUQs_CgXhiIvMSooTIBJWddG4gzQIGrC6riGXWj-BTEuVS3DjGAvQkr5LXniuBZZlfn-OJRfE1-wihrM9LSCNGNj6E_OZlggZh8aWzeoUPgKR8K8g2SkIa1BID5oddbnoxGEqAkyjD5AoFy9WbyXOrx7UPEnrQS7ZglvnivwE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72ub-wPF6lPiTcxiXiiPg2asyKqMT0Y61JvN5Ag9k7wXtqS7e7y1mRwMQ6aOKa4YSzvEVCtdIPp9CD0gEIXoszK09hCLTtoTiakWShz4dsyTb7YWQLSLdUoeDfSaB-8_4_7NoOLl-rGpPMPgBlklQOF2uL1jTCTje8BrPvTtLRo06bJyTnAgDLRdrme0EWo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tV0lHE3nlXow_uQfWcED-jbwU6V3vGZRGkni9TkuYe_F7d25x0bYNS51NbIy9vP-FsKbFSl2wEeM6VLPPQuESf6DUM3w-iXqNT-sCQzLuMNmlfHhgMDdfexbJXkCvGI0na2ohcinIir5xKl7Oozd243JDpQyY_Mp8F6uVy1oXnfygT4q91Sdfr02NnGZs=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uJZtrqVhOmxLxTfVOXYNgkqE35W5GvHtCumNle8SUxWeaZZfsVLyD7l5Zn4o8MagsDLvuZxihi_0u9Ix4AeWiOdUrKAPY7wkkqyPNl-5Xg2beQOcaQcsUooEE-HjJVxVcY-o-TqMRgux38B_i3xipG33ztiBY86dIjJTUfox-JbY56jDokWjYIH7zcksA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tbw_BolWR4X7bulB6zzrOWlqBvkXhO5GkuP5k4fCh4TfkPRXga-72v83Gnz9W_Qsj62Ugn1rOgql1JN8EXFbKFBX9zm0HX-fqydfHh71V7chsdwwuJyptAQ3vkouR_sKE86YKrvV8KVQIdL4lFs9h3vEq3S6z2ymI1BdLxb3wMxSGS6PNMsVyXBmY6uzk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sLbBiLR-2TOENMt25y4Qk9UQPVAfAPkdWtKWCOVYr7NQYH0musLJs9MzWwywvngXAA60OS8qF9nWXTseQCY3FsL6TVAP6nyab9yUl3yFhNjVYkwK6DPZWuUZ-UbFsstmp_W70tUjW0mT7t7hCGqK_jbZt_jhXrKfRM_6Efz1axhXfaow1PeiTfM1Wt=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vPsAuctFSt7ec9J4My4Q7sX6TF2S5TareqQ9GS-H9QEDpAfT50APXWUnh1uIzeJF8zLW2BOoB3RCsq-MKeH3mjlZRRMxjm1HA7c2z1NrMdhHysiM6IwEjkcns9ajNM5Q5q-h2yxulVBfSQX37MMTRqzA1mafBsvcHsRGuLOTDr42A-JBsdKVQ4Io6DqZE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t7SpwGIfhl_FMfe51hqv9fTC516i3Nx05xWv-bHzkRQ01pNHMb3eGvPElzCwQpVPTdkCOrLYZ3FnTyc0R7ovnM9vLOF3Wor0pKicsArNP3fQ-0Uh0CiOelYZeJfCEJX8FGMpdKK0GISYK3P0YUsqLMhLJrfWeFDgnjTVk1yPHV5_cZzKRtdYERswIxzPw=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_166_1.jpg",
+      "assets/images/ev_166_2.jpg",
+      "assets/images/ev_166_3.jpg",
+      "assets/images/ev_166_4.jpg",
+      "assets/images/ev_166_5.jpg",
+      "assets/images/ev_166_6.jpg",
+      "assets/images/ev_166_7.jpg",
+      "assets/images/ev_166_8.jpg",
+      "assets/images/ev_166_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 167,
+    "title": "Участь у всеукраїнському радіодиктанті",
+    "content": [
+      "Учні та вчителі Липницької ЗОШ І-ІІІ ст. в рамках Дня писемності та мови долучилися до написання радіодиктанту."
+    ],
+    "full_text": "Учні та вчителі Липницької ЗОШ І-ІІІ ст. в рамках Дня писемності та мови долучилися до написання радіодиктанту.",
+    "category": "Життя школи",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72v1Bi670u_cPBUtGraw-hjp0MZI8UIJcGUT3bmIHLWVc38kvTGSFn51EnPPC9r3JrEhvYBJjxOvfwNmwaFHvQ4n0THPywJFTeOfYr0y98hNI4Qij-xEOJ5zG-Ssq_RkG5iGiZiJVnDG8VoAF59zx0gU0jEwwE7d7n_lKCzUk4jS2zCu4N3BW7MLM50X=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uWbzegySrkUnk-bTdwxdRpDMRle_GJdCA5mAEWit80VHTAtML-nuPvfIDsJfPqNnFFj5STXinpiMafvUBZqj-6VhjKGJgUbwXXCI0awImag4CejSxG-0ZVS1Z_eEzPtUs4tCW49KbjKfV2dlp3wHfewxdVnqNgoOFzveGhbya5mGe1p8zijG1vNbcOaF4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vlCOoRTvrYfP2cy5uspJcxEhGT6VzgGWTTCaMIQP-JFWOf_ZnHS3_GZxIxzVUJ6BZs5e01EigS-Y52iXXxmUetgQYUdrdRlSKPuBP6JbfsnZsbsyF9j2nuYdS8UmvjU3aBFh8wdL3Z8FU_wsr92m4typFfLbG-gBe_UBoHnIU7kQWniwqsR8CcxHlH=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t0tp3hFFDEJPNp8SQRH0B58urJJ-otgdKSKgQnlJ1ieF4gzFq6lupsbhIoaI9giqDCf7b9w4AppKZrLNkoCNubnTyTk2vPc7O9GikIHpeWzpreGqZmqq9UIXR6uogOu3CKMv5Snn12tnJR6mpcB9rMxHce-5H2DesMYW7dzgTAzCDFtahteVjHMeeO=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sRnOfotxu9vW0rxQLF3cHg0EHhjNdpB5vB_iP5CL1-lHyuT9Nk3tNNA9KL5VYJdqozh-__QZWmV7qVhNy2ZvNHCJhaJb-kPGcHziZrVD217cMUiZaqi6uRN1o259Uy_Wfw3ylAaeb_2P62WArRN3kzeLoZUPZ2y1gxqijRvn_9ydjmTi_4pdALFke_vi4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vhkTizQ5DQnE7OGnR5e2f65_lQK1I0ihQ-89ESBVih0wfVC58-JWPF5Fxjy2hsixgOHeqS4ZNQb98K0c37Yhi8KqVbqP9Mr9EVbsCttuak7KLX_YUhOkA1uem4hSG4E0iY2eUIvIA0XA8y8EKC84GZP62Ac4wYssx4fW22O5rzXhZ66pO3X2gC9TYKaSk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sZK5Wysn_tTVoSBtMt6ABCfTzjlcWJtvNcaH_DRape8sqULo6VYqYefFFI-Fd_gMnkCOI9p5WpvTySnnuE-WmWpXJ570oAY29xHvwZ8Zit1BpbSNQ8E4lk7pGSHVIApgL4jHxbpVFO5Jxg8nxJPnH1s8h4jKjL_3_A9m7FomlCcUebITiW9U8HQBRffNM=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_167_1.jpg",
+      "assets/images/ev_167_2.jpg",
+      "assets/images/ev_167_3.jpg",
+      "assets/images/ev_167_4.jpg",
+      "assets/images/ev_167_5.jpg",
+      "assets/images/ev_167_6.jpg",
+      "assets/images/ev_167_7.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 168,
+    "title": "День Знань у Липницькій ЗОШ І-",
+    "content": [
+      "ІІІ ступенів",
+      "Цьогорічне свято День Знань у Липницькій ЗОШ І-ІІІ ступенів будо присвячене першачкам. Випускники школи подарували наймолодшим школярам книжечки, значки «Першокласник» та пам’ятку учня Липницької ЗОШ. Першокласники пообіцяли, що будуть чемними та добре вчитимуться! Тож вдалого старту і цікавого навчання!"
+    ],
+    "full_text": "ІІІ ступенів\n\nЦьогорічне свято День Знань у Липницькій ЗОШ І-ІІІ ступенів будо присвячене першачкам. Випускники школи подарували наймолодшим школярам книжечки, значки «Першокласник» та пам’ятку учня Липницької ЗОШ. Першокласники пообіцяли, що будуть чемними та добре вчитимуться! Тож вдалого старту і цікавого навчання!",
+    "category": "Патріотичне виховання",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72sB0hB8KnN2abShHWmmR4QYnzTEKDGY-kDSW_oUJsHmWHriW2o_ptoSsssFvxZvhxW2L0mLZQb660gxmdLNFGZs-iSWJPkFnXdgojE79xmbie6M9-S3ZUfLQhiTDqxb1Qy_LfKw1TeZS3Xg7ggWgYhagyk2DRt3Dr7XFfM=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72u3uFwLAzBb3nE2qI21XrQj-X6IR4-KrdvmJW4_wcJ0qy3AJNQduZqgy35ElA37HD_CVDci8SEcwR-8pNdCdYivaMgmHLqwuhwB9TYBTLXoMUcMZ8Ytef-YMpk9kVYAAhBz7z8zpeTR14BgE2IrsJ_1y0NaxOO2PN55=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72szjKJIo5toy7SsO_kZYLmh_YxPgLrPHIdBTWL3-2XUyJdTlsB-IZIic_kiiCK8Z0WKAEMNA6IPd-uam_XRuVT2Q_72LMUwODCHhVbSIroEOJyiT5JlXnHgzMSnVHkHtl6EkE890_DMYRsgjcZkhEGXLjK0t_ltciTUMFY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72t052OJQukfzTf3ledCpwJHRWTsPjfqF19FoR3rMyZZ3nBhy0A-e_lbswkU5BrPFL8fsw4WHSbPYD7JzBdta9XZIG7C9XiaprX68vGHGC3IINtect9ZOuM1lZqB-UEcZ5vHG5WhykKWSKAN_bIGoaashyLG6f9PpTtgDRU=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72utvSM5RII_m8xR5IIpUjq7gMamZ9bMRbGuQt_THnR_YnSrvGlRWE_Ni5xhtCdo_myGQWPjEkwcPGMkwkJiPNXypp7SkiLg2m92GGzDLo0MxOZN8Y1IRhq_5yqr2RsGE_TjFRNXaF4fgiiig1DiRIVAfrQJRy3V_6X0_GA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uQhHQIDMlEijCr9skDHXfFXzibIAlLZK2SHcj9BTeKc3tGN9XogkeYW6g4Y4tSKFddx0fT4vusd2bBAPLNstK1pTTUmAzLZi9JkPTdY558QIFcQDNMkb90GP8G7ACYM8Qqc3b0pv5fojhbAhyZv4dRLoFeZKWaFQyG=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tu68r4JQSN-iCcjvPYv4Dem_LjI0Emlk45zIdwxR6wwWRL8UBJWup6CgvrtZYj7O_Srz_E2C4kVk6PMUjd0UtnRXHOdiuHc0lYYyYYNgFk7duFTNY-vdRg3PRkGaK98FC4reP2gyAKp4aGjBnKN9igqGNHXTLzYPJAm74=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vbVDVTh5b0GD0tl1Pzx3v88QeY2sDzTckf5EGJ63gumcb3ni66QAP-xgbqh7CYvodYanhgRtlXt4WrMwbqfhgshyAWbx47eUis18WoLEM968d8E1o6rnbBcq96Pkl8CtkiHSfEtoFEXPo1LONS-8mHyecOINnS8dva=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vtVNex6uppDXRLjNQev6ZQRJT6r5rDJ2STlJLyypjAej0VDGDf4h_FFbsv8tuvQt-jwsOvl0kIQupsb4tp27HP05DI4R3YmwURt7WH5dLLZRUH2vi8UDYzczn4GDjlUL1UQVjnccCo23A4Uh3wZkr3K-cJ38KeoJMv=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_168_1.jpg",
+      "assets/images/ev_168_2.jpg",
+      "assets/images/ev_168_3.jpg",
+      "assets/images/ev_168_4.jpg",
+      "assets/images/ev_168_5.jpg",
+      "assets/images/ev_168_6.jpg",
+      "assets/images/ev_168_7.jpg",
+      "assets/images/ev_168_8.jpg",
+      "assets/images/ev_168_9.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 169,
+    "title": "Вітаємо зі святом Останнього дзвоника",
+    "content": [
+      "Вітаємо зі святом Останнього дзвоника"
+    ],
+    "full_text": "Вітаємо зі святом Останнього дзвоника",
+    "category": "Шкільні свята",
+    "year": "2020",
+    "images": [],
+    "local_images": [],
+    "video": null,
+    "youtube": "UDZ5hEHxPRQ"
+  },
+  {
+    "id": 170,
+    "title": "Липницька школа вітає всіх з днем вишиванки!",
+    "content": [
+      "День вишиванки в Україні відзначається в третій четвер травня. У 2020 році свято припадає на 21 травня. Липницька ЗОШ І-ІІІ ступенів вітає всіх з цим святом.",
+      "Сорочку мати сину вишивала.",
+      "І душу, й серце в вишивку вкладала.",
+      "Як пам’яті народної відлунки,",
+      "На полотні з’являлись візерунки,",
+      "Де кожен хрестик – то життєві миті…",
+      "Мережила по білому блакиттю,",
+      "Лягала ниточка до ниточки мрійливо –",
+      "Дитині б долю вишити щасливу,",
+      "Щоб оберегом стала для синочка",
+      "Руками неньки вишита сорочка.",
+      "Із Днем Вишиванки!"
+    ],
+    "full_text": "День вишиванки в Україні відзначається в третій четвер травня. У 2020 році свято припадає на 21 травня. Липницька ЗОШ І-ІІІ ступенів вітає всіх з цим святом.\n\nСорочку мати сину вишивала.\n\nІ душу, й серце в вишивку вкладала.\n\nЯк пам’яті народної відлунки,\n\nНа полотні з’являлись візерунки,\n\nДе кожен хрестик – то життєві миті…\n\nМережила по білому блакиттю,\n\nЛягала ниточка до ниточки мрійливо –\n\nДитині б долю вишити щасливу,\n\nЩоб оберегом стала для синочка\n\nРуками неньки вишита сорочка.\n\nІз Днем Вишиванки!",
+    "category": "Патріотичне виховання",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72vj60YGKQdE0Y4eDTx_OVAjCHGDVk2ymzRufu_ScITIJd0BuBIm4Ky5QJSNkASzLiMNaywzKJJSJKesuSIJrmubom1N3UNMoU7YsIlhmPajpmOnLZK9b37BSJ-vmJ99CmDWmcK2WhSa_PMj4PpTy1Tpd5-2Ssh-kHhysdmCM_XigKve4Vx1gMJ-d9oZVvI5kbjsCpopGo-ae09cXeI=w1280",
+      "https://sites.google.com/sitesv-images-rt/AMxu72snZaYfLQ1NLo4ca-HhuedhvBmaqh2aHsnpAV-Rl9LvYHcR4SmzQv6QMYOrquy62rDo6MLECV0l6kcogfLqEQjKxA507EvDNNDQR9aFNdi8VXvfYtMprJZAhQeOREaax4cucQLBOjuyr0eo-Rf8QH758Q3hQcKjKg-8r6k=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tIhCccWG9SsjVIYzQ4Evt2WQOFsuuGhyghisJJfATO8FCOC5CMksE25948B4WFln1nTMtO_1E0A2plrEPL54WXzEt2XUO_F8IsM5I4YH5Kk0jXO3_ZIQld2FuJZ-9ZY_Y7ryZ7CahS7Rr7YqgzCpDUiINC_OWnbxTmZNY=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uEp3tw16-tL-FBkiskj_m5Nzw61WaViTAygVYYD-OSG0-iqvPG9B704UwTTmGH-Tj58R1cLP1GjkEwWvJO3JeWYPvwI8-Hz-P0F2lsaB9-OEfX_LVMN420tVo-5wdR3lVNh9HhmhhegAk84RgzncuiEEy4u-Df1MBzRKE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72upR1Et4B3ve-BvPMPapOg_r_luMjgIvb8y6R81eWLlFNr3QAoqubjo1qyJRQYTA2jzfh0BJBHXjUueOKZdT5iA6ZkMHqG0Gs5Wimjz1LL-r99_UiiM0fVdh-L3pJriolBiDG_XWAmL1D5Z6lgmw0yE3KGziDE47Nc_wWE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vr_z3OVWyYZcscLap9q1uysmkwXi-6LzBvXs7QkRSxFSF8CGEXwSEvWglKbuB6LSchO13VzPNmMlNdxUxmsPLylTYlwAH21Xa5fV7oo8UWmODXhseu0QXvSUFNEy-flXX-G58vOfNPnmXXy0a3wgEny-HXK2sSHagVoOQ=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72syAAQfiFY6bB1bttMVvbauhMHl5q5hfbe9AyWtoNH4LbkR9r1_1IcOFbrAfy7r2RO3jUxw89ySQNs-pq072YKVU1FUHX7J-AZ0qiCfD0O7yVKTWcy4gMHVVwj98CTWwuuKIY-puzmqtQeSvanCdRNM4XF0lXjt4dR64AA=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vNQKjoKnWCkGhpVgY0PVQukT7X6FdYs6L_iotxzPo3fMeWEmL8r5f4HqXiua071aDywdSLe7RbND-p-yD5omIhzmk6dQDtVLsMhX6rOqzciYxr-BGZ4_RGStGnplSmVNrgKhQkt7ptyiocAqTz7WetGynK7SQ_vX2Ole4=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sHoMX81Py6OwuBG2-6kgOOX6F5GsBDT-ExCPSvkNlysDO7kexi11S2uVQTQU9vEA_yngcbOEB2N91w2jl5Dc9fCySZFm0i71KUqWoIdXakfDJNIKzY3RmnquUOcWfb9Sh43phFIbLg3Xc27ckyzu7fNRkrRa3ePTVUOgk=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72sE8YsdBc1hzmOpJP58DA52Wk-05sYnkMM0ZcpR-gIn4cjKQq6fJewYll68JNIOALrUoFQpyUiqAyS2nW1sIJoFIMGAdfDqMCW2oOtnlr24teF31Rk5qxZsYknd32YsZJ6zbGIHsrIdo36vWIeb8GpDqLtcaBM5lOskeik=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vO3vOtC1ZvnKPn21pvHGA_ylghH0OPXKfZslt2N8P8CUMIr0WyUlJ3p8RYd78R1ZyB6K_GMTamVFmtFB8QfAZajrt2RmbmvPfOpQuGZyKoMvwappW1ie5fa68XqtPxQTfTxN7Obyj0w0a4OtJ6lCi2VXhIekjeCwfZePQ=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_170_1.jpg",
+      "assets/images/ev_170_2.jpg",
+      "assets/images/ev_170_3.jpg",
+      "assets/images/ev_170_4.jpg",
+      "assets/images/ev_170_5.jpg",
+      "assets/images/ev_170_6.jpg",
+      "assets/images/ev_170_7.jpg",
+      "assets/images/ev_170_8.jpg",
+      "assets/images/ev_170_9.jpg",
+      "assets/images/ev_170_10.jpg",
+      "assets/images/ev_170_11.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  },
+  {
+    "id": 171,
+    "title": "М. Рильський писав: \"Мова - втілення думки. Що багатша думка, то багатша мова. Любімо її, вивчаймо її , розвиваймо її! Борімося за красу мови, за правильність мови, за присутність мови, за багатство мови .\"",
+    "content": [
+      "Сьогодні учні Липницького ЗЗСО І -ІІІ ступенів взяли активну участь у грі \"Наше диво калинове - українська рідна мова\", щоб вшанувати цей день, подякувати нашим захисникам, завдяки яким можемо навчатися українською, говорити українською, мріяти українською і жити в Україні.",
+      "Мова - це наша зброя!",
+      "Слава Україні!"
+    ],
+    "full_text": "Сьогодні учні Липницького ЗЗСО І -ІІІ ступенів взяли активну участь у грі \"Наше диво калинове - українська рідна мова\", щоб вшанувати цей день, подякувати нашим захисникам, завдяки яким можемо навчатися українською, говорити українською, мріяти українською і жити в Україні.\n\nМова - це наша зброя!\n\nСлава Україні!",
+    "category": "Патріотичне виховання",
+    "year": "2020",
+    "images": [
+      "https://sites.google.com/sitesv-images-rt/AMxu72u0UqN_cVpjzC6ztOJTrnlSuz_5nSyjfc5WJgqrmLnF-Evb2NC2xfwzJNH8UMGJPvalGymtMM1TvFEzO4CBgCa0m5ul7LNg0Bu7YoaUQioVTVtirMYWeV5OC1aarL8vBq5X4IM82BHqMfHjRD8mAl4VqEpr4mBcJBXw49-Wz9CS3LlzLwzhiMF_eyaomPE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tHVGg7_kHw1pwENi_lGnFrKx0DZgGbR_DLn4raa8PereRMtaAI6UbOp4Uu8ujjyt9recfm-fPJCnubzwV3WtYl5vEBNI7JPh3QtR13yFHXchLQIDTvqBZJGkCXlNcDCt4AhuGf4c4H56E4cAB6-IjVBqt3FiZuEzITQbcHhqj_K2rejugruk-faU-H2Lo=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72vjmvducL6HsBdCh0ZmQRTfWJE4P3h6lUfX33h1e4BQoJU1bp-NhJEHPUExflOF7Yw96_qdpfKVjOpmmwTLL5P_hYbMa08oA51XuD_L_6WooCRfNecQ1eWr7tLdBoDTuZbKM0te4Ta6-O46CFjnW9q5RGSaNdPcCss6EatrpVJd3EAOigYuw0C7q5029hE=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72tEBnsRoKmIN6wGlV1T2mED8W7R5cCOElf3l4s0X-8DNDFKvBRaOaeyfzwqelY4LdD6Pyuv_swR9t7zV8IuTUMLfz4eIJE9Q_uON-X_zM570XRLsJfx9khzf5Ced967p5x3UYfS6J0OuA7w2JAo6JWNy2rtFkJqckPZ2WZ_6XzcwJkmJeKQCd6EafTp=w16383",
+      "https://sites.google.com/sitesv-images-rt/AMxu72uQcDC_wVrXMJQzWG5qktL9V5bE0n7dklMeEZ9BlLNo2RZLpkvD4Mx0d0z66vzBVeCKZiNYSF9Qlk8tKF7KU2Ijl5o6-k9IYoPxzuYKMYfoDIqirejgN9QOHV6gpDZHI2_lbT8bm0OMxNXQ-eb88613AdrStKG9HAJ3GIJfzL28X_xFKtcU5wFP9l3TAZc=w16383"
+    ],
+    "local_images": [
+      "assets/images/ev_171_1.jpg",
+      "assets/images/ev_171_2.jpg",
+      "assets/images/ev_171_3.jpg",
+      "assets/images/ev_171_4.jpg",
+      "assets/images/ev_171_5.jpg"
+    ],
+    "video": null,
+    "youtube": null
+  }
+];

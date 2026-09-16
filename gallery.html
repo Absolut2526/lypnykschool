@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Фотогалерея | Липницький ЗЗСО І-ІІІ ступенів</title>
+  <meta name="description" content="Повна фотогалерея Липницького ЗЗСО: світлини шкільного життя, свята, уроки, випускні, екскурсії, патріотичні заходи за всі роки.">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <!-- Top Bar -->
+  <div class="top-bar">
+    <div class="container top-bar-inner">
+      <div class="top-bar-left">
+        <div class="top-bar-item"><i class="fas fa-map-marker-alt"></i> <span>с. Липник, Львівський р-н</span></div>
+      </div>
+      <div class="top-bar-right">
+        <span class="flag-badge"><span class="flag-colors"></span> <span>Слава Україні! 🇺🇦</span></span>
+      </div>
+    </div>
+  </div>
+
+    <!-- Header -->
+  <header class="main-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo-wrap">
+        <div class="school-emblem">
+          <i class="fas fa-graduation-cap"></i>
+        </div>
+        <div class="logo-text">
+          <div class="logo-title-row">
+            <h1>Липницький ЗЗСО</h1>
+            <span class="school-grade-badge">І–ІІІ ступенів</span>
+          </div>
+          <p>Рава-Руська міська рада • Львівський р-н</p>
+        </div>
+      </a>
+
+      <!-- Desktop Navigation Capsule -->
+      <div class="nav-desktop-wrap">
+        <nav class="nav-desktop">
+          <a href="index.html" class="nav-link "><i class="fas fa-home"></i> Головна</a>
+          <a href="news.html" class="nav-link "><i class="fas fa-newspaper"></i> Новини</a>
+          <a href="about.html" class="nav-link "><i class="fas fa-school"></i> Про школу</a>
+          
+          <div class="nav-dropdown">
+            <a href="transparency.html" class="nav-link ">
+              <i class="fas fa-file-contract"></i> Прозорість <i class="fas fa-chevron-down" style="font-size: 0.65rem; opacity: 0.6;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="transparency.html#statute" class="dropdown-item"><i class="fas fa-balance-scale"></i> Статут та Ліцензія</a>
+              <a href="transparency.html#structure" class="dropdown-item"><i class="fas fa-sitemap"></i> Структура та управління</a>
+              <a href="transparency.html#reports" class="dropdown-item"><i class="fas fa-chart-line"></i> Звіти директора</a>
+              <a href="transparency.html#finance" class="dropdown-item"><i class="fas fa-coins"></i> Фінансова звітність</a>
+              <a href="transparency.html#vszyao" class="dropdown-item"><i class="fas fa-certificate"></i> Положення про ВСЗЯО</a>
+            </div>
+          </div>
+
+          <div class="nav-dropdown">
+            <a href="parents.html" class="nav-link ">
+              <i class="fas fa-user-friends"></i> Батькам <i class="fas fa-chevron-down" style="font-size: 0.65rem; opacity: 0.6;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="parents.html#enrollment" class="dropdown-item"><i class="fas fa-child"></i> Зарахування до 1 класу</a>
+              <a href="parents.html#schedule" class="dropdown-item"><i class="fas fa-clock"></i> Розклад та режим</a>
+              <a href="parents.html#rules" class="dropdown-item"><i class="fas fa-clipboard-check"></i> Правила поведінки</a>
+              <a href="parents.html#individual" class="dropdown-item"><i class="fas fa-user-graduate"></i> Індивідуальне навчання</a>
+            </div>
+          </div>
+
+          <div class="nav-dropdown">
+            <a href="education.html" class="nav-link ">
+              <i class="fas fa-book-open"></i> Навчання <i class="fas fa-chevron-down" style="font-size: 0.65rem; opacity: 0.6;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="education.html" class="dropdown-item"><i class="fas fa-laptop-code"></i> Освітні стандарти НУШ</a>
+              <a href="attestation.html" class="dropdown-item"><i class="fas fa-award"></i> Атестація педагогів</a>
+            </div>
+          </div>
+
+          <a href="psychologist.html" class="nav-link "><i class="fas fa-heart"></i> Психолог</a>
+          <a href="gallery.html" class="nav-link active"><i class="fas fa-images"></i> Галерея</a>
+        </nav>
+
+        <a href="contacts.html" class="btn-header-contact ">
+          <i class="fas fa-envelope"></i> Контакти
+        </a>
+      </div>
+
+      <button class="mobile-toggle" id="mobileToggle" aria-label="Відкрити меню">
+        <i class="fas fa-bars"></i>
+      </button>
+    </div>
+  </header>
+
+  <!-- Mobile Drawer -->
+  <div class="mobile-nav" id="mobileNav">
+    <div class="mobile-nav-panel">
+      <div class="mobile-nav-header">
+        <div class="logo-wrap">
+          <div class="school-emblem" style="width: 40px; height: 40px; font-size: 1.2rem;"><i class="fas fa-graduation-cap"></i></div>
+          <div class="logo-text"><h2 style="font-size: 1rem; color: var(--primary);">Липницький ЗЗСО</h2></div>
+        </div>
+        <button id="closeMobileNav"><i class="fas fa-times"></i></button>
+      </div>
+      <div class="mobile-nav-links">
+        <a href="index.html" class="mobile-nav-link"><i class="fas fa-home"></i> Головна</a>
+        <a href="news.html" class="mobile-nav-link"><i class="fas fa-newspaper"></i> Новини</a>
+        <a href="about.html" class="mobile-nav-link"><i class="fas fa-school"></i> Про школу</a>
+        <a href="transparency.html" class="mobile-nav-link"><i class="fas fa-file-alt"></i> Прозорість</a>
+        <a href="parents.html" class="mobile-nav-link"><i class="fas fa-user-friends"></i> Батькам</a>
+        <a href="education.html" class="mobile-nav-link"><i class="fas fa-book-open"></i> Навчальний процес</a>
+        <a href="attestation.html" class="mobile-nav-link"><i class="fas fa-award"></i> Атестація</a>
+        <a href="psychologist.html" class="mobile-nav-link"><i class="fas fa-heart"></i> Психолог</a>
+        <a href="gallery.html" class="mobile-nav-link active"><i class="fas fa-images"></i> Галерея</a>
+        <a href="contacts.html" class="mobile-nav-link"><i class="fas fa-envelope"></i> Контакти</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Page Banner -->
+  <div style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: white; padding: 3.5rem 0;">
+    <div class="container">
+      <div class="section-tag" style="color: #fbbf24;">Шкільні миті</div>
+      <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 0.5rem;">Повна фотогалерея закладу освіти</h1>
+      <p style="color: #cbd5e1; max-width: 650px;">
+        Усі світлини зі старого та нового сайту школи: урочисті свята, поїздки, конкурси, традиції та виховні заходи.
+      </p>
+    </div>
+  </div>
+
+  <!-- Gallery Content -->
+  <section class="section">
+    <div class="container">
+      
+      <!-- Filters -->
+      <div class="filters-bar" style="margin-bottom: 2rem;">
+        <div class="filter-pills" id="galleryFilterPills">
+          <button class="filter-pill active" onclick="filterGallery('all', this)">Всі світлини</button>
+          <button class="filter-pill" onclick="filterGallery('Патріотичне виховання', this)">Патріотичні заходи</button>
+          <button class="filter-pill" onclick="filterGallery('Шкільні свята', this)">Свята та Перший дзвоник</button>
+          <button class="filter-pill" onclick="filterGallery('Подорожі та екскурсії', this)">Екскурсії та Карпати</button>
+          <button class="filter-pill" onclick="filterGallery('Безпека та розвиток', this)">Безпека</button>
+          <button class="filter-pill" onclick="filterGallery('Досягнення та спорт', this)">Спорт</button>
+        </div>
+      </div>
+
+      <!-- Photo Grid -->
+      <div class="gallery-grid" id="fullGalleryGrid">
+        <!-- Rendered dynamically from window.SCHOOL_NEWS -->
+      </div>
+
+      <div style="text-align: center; margin-top: 3rem;">
+        <button id="loadMoreGallery" class="btn btn-primary" onclick="loadMoreGalleryPhotos()" style="padding: 0.85rem 2rem;">
+          <i class="fas fa-images"></i> Показати більше світлин
+        </button>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="main-footer">
+    <div class="container">
+      <div class="footer-bottom" style="border: none; padding-top: 0;">
+        <div>&copy; 2026 Липницький ЗЗСО І-ІІІ ступенів.</div>
+        <div>Офіційний сайт закладу загальної середньої освіти 🇺🇦</div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/js/news-data.js"></script>
+  <script src="assets/js/documents-data.js"></script>
+  <script src="assets/js/main.js"></script>
+  <script>
+    let currentGalCategory = 'all';
+    let galPage = 1;
+    const galPerPage = 24;
+
+    function getAllGalleryItems() {
+      const items = [];
+      if (!window.SCHOOL_NEWS) return items;
+      window.SCHOOL_NEWS.forEach(event => {
+        const imgs = (event.local_images && event.local_images.length > 0) ? event.local_images : (event.images || []);
+        imgs.forEach((imgUrl, i) => {
+          items.push({
+            img: imgUrl,
+            title: event.title,
+            category: event.category,
+            year: event.year,
+            index: i + 1
+          });
+        });
+      });
+      return items;
+    }
+
+    function renderFullGallery(append = false) {
+      const container = document.getElementById('fullGalleryGrid');
+      const loadMoreBtn = document.getElementById('loadMoreGallery');
+      if (!container) return;
+
+      const allItems = getAllGalleryItems();
+      const filtered = allItems.filter(item => (currentGalCategory === 'all' || item.category === currentGalCategory));
+
+      const paginated = filtered.slice(0, galPage * galPerPage);
+
+      if (!append) container.innerHTML = '';
+
+      const toRender = append ? paginated.slice((galPage - 1) * galPerPage) : paginated;
+
+      toRender.forEach(item => {
+        const div = document.createElement('div');
+        div.className = 'gallery-item';
+        div.onclick = () => openLightbox(item.img);
+        div.innerHTML = `
+          <img src="${item.img}" alt="${item.title}" loading="lazy">
+          <div class="gallery-overlay">
+            <span class="badge badge-accent" style="margin-bottom: 0.4rem; align-self: flex-start;">${item.category} (${item.year})</span>
+            <div class="gallery-title">${item.title}</div>
+          </div>
+        `;
+        container.appendChild(div);
+      });
+
+      if (loadMoreBtn) {
+        loadMoreBtn.style.display = (paginated.length < filtered.length) ? 'inline-flex' : 'none';
+      }
+    }
+
+    function filterGallery(cat, btn) {
+      currentGalCategory = cat;
+      galPage = 1;
+      document.querySelectorAll('#galleryFilterPills .filter-pill').forEach(p => p.classList.remove('active'));
+      if (btn) btn.classList.add('active');
+      renderFullGallery();
+    }
+
+    function loadMoreGalleryPhotos() {
+      galPage++;
+      renderFullGallery(true);
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      renderFullGallery();
+    });
+  </script>
+</body>
+</html>

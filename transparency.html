@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Прозорість та інформаційна відкритість | Липницький ЗЗСО</title>
+  <meta name="description" content="Офіційні документи, Статут, Ліцензія, Річні звіти директора, Фінансова звітність, Кошторис, Положення ВСЗЯО Липницького ЗЗСО.">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <!-- Top Bar -->
+  <div class="top-bar">
+    <div class="container top-bar-inner">
+      <div class="top-bar-left">
+        <div class="top-bar-item"><i class="fas fa-map-marker-alt"></i> <span>с. Липник, Львівський р-н</span></div>
+        
+      </div>
+      <div class="top-bar-right">
+        <span class="flag-badge"><span class="flag-colors"></span> <span>Слава Україні! 🇺🇦</span></span>
+      </div>
+    </div>
+  </div>
+
+    <!-- Header -->
+  <header class="main-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo-wrap">
+        <div class="school-emblem">
+          <i class="fas fa-graduation-cap"></i>
+        </div>
+        <div class="logo-text">
+          <div class="logo-title-row">
+            <h1>Липницький ЗЗСО</h1>
+            <span class="school-grade-badge">І–ІІІ ступенів</span>
+          </div>
+          <p>Рава-Руська міська рада • Львівський р-н</p>
+        </div>
+      </a>
+
+      <!-- Desktop Navigation Capsule -->
+      <div class="nav-desktop-wrap">
+        <nav class="nav-desktop">
+          <a href="index.html" class="nav-link "><i class="fas fa-home"></i> Головна</a>
+          <a href="news.html" class="nav-link "><i class="fas fa-newspaper"></i> Новини</a>
+          <a href="about.html" class="nav-link "><i class="fas fa-school"></i> Про школу</a>
+          
+          <div class="nav-dropdown">
+            <a href="transparency.html" class="nav-link active">
+              <i class="fas fa-file-contract"></i> Прозорість <i class="fas fa-chevron-down" style="font-size: 0.65rem; opacity: 0.6;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="transparency.html#statute" class="dropdown-item"><i class="fas fa-balance-scale"></i> Статут та Ліцензія</a>
+              <a href="transparency.html#structure" class="dropdown-item"><i class="fas fa-sitemap"></i> Структура та управління</a>
+              <a href="transparency.html#reports" class="dropdown-item"><i class="fas fa-chart-line"></i> Звіти директора</a>
+              <a href="transparency.html#finance" class="dropdown-item"><i class="fas fa-coins"></i> Фінансова звітність</a>
+              <a href="transparency.html#vszyao" class="dropdown-item"><i class="fas fa-certificate"></i> Положення про ВСЗЯО</a>
+            </div>
+          </div>
+
+          <div class="nav-dropdown">
+            <a href="parents.html" class="nav-link ">
+              <i class="fas fa-user-friends"></i> Батькам <i class="fas fa-chevron-down" style="font-size: 0.65rem; opacity: 0.6;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="parents.html#enrollment" class="dropdown-item"><i class="fas fa-child"></i> Зарахування до 1 класу</a>
+              <a href="parents.html#schedule" class="dropdown-item"><i class="fas fa-clock"></i> Розклад та режим</a>
+              <a href="parents.html#rules" class="dropdown-item"><i class="fas fa-clipboard-check"></i> Правила поведінки</a>
+              <a href="parents.html#individual" class="dropdown-item"><i class="fas fa-user-graduate"></i> Індивідуальне навчання</a>
+            </div>
+          </div>
+
+          <div class="nav-dropdown">
+            <a href="education.html" class="nav-link ">
+              <i class="fas fa-book-open"></i> Навчання <i class="fas fa-chevron-down" style="font-size: 0.65rem; opacity: 0.6;"></i>
+            </a>
+            <div class="dropdown-menu">
+              <a href="education.html" class="dropdown-item"><i class="fas fa-laptop-code"></i> Освітні стандарти НУШ</a>
+              <a href="attestation.html" class="dropdown-item"><i class="fas fa-award"></i> Атестація педагогів</a>
+            </div>
+          </div>
+
+          <a href="psychologist.html" class="nav-link "><i class="fas fa-heart"></i> Психолог</a>
+          <a href="gallery.html" class="nav-link "><i class="fas fa-images"></i> Галерея</a>
+        </nav>
+
+        <a href="contacts.html" class="btn-header-contact ">
+          <i class="fas fa-envelope"></i> Контакти
+        </a>
+      </div>
+
+      <button class="mobile-toggle" id="mobileToggle" aria-label="Відкрити меню">
+        <i class="fas fa-bars"></i>
+      </button>
+    </div>
+  </header>
+
+  <!-- Mobile Drawer -->
+  <div class="mobile-nav" id="mobileNav">
+    <div class="mobile-nav-panel">
+      <div class="mobile-nav-header">
+        <div class="logo-wrap">
+          <div class="school-emblem" style="width: 40px; height: 40px; font-size: 1.2rem;"><i class="fas fa-graduation-cap"></i></div>
+          <div class="logo-text"><h2 style="font-size: 1rem; color: var(--primary);">Липницький ЗЗСО</h2></div>
+        </div>
+        <button id="closeMobileNav"><i class="fas fa-times"></i></button>
+      </div>
+      <div class="mobile-nav-links">
+        <a href="index.html" class="mobile-nav-link"><i class="fas fa-home"></i> Головна</a>
+        <a href="news.html" class="mobile-nav-link"><i class="fas fa-newspaper"></i> Новини</a>
+        <a href="about.html" class="mobile-nav-link"><i class="fas fa-school"></i> Про школу</a>
+        <a href="transparency.html" class="mobile-nav-link active"><i class="fas fa-file-alt"></i> Прозорість</a>
+        <a href="parents.html" class="mobile-nav-link"><i class="fas fa-user-friends"></i> Батькам</a>
+        <a href="education.html" class="mobile-nav-link"><i class="fas fa-book-open"></i> Навчальний процес</a>
+        <a href="attestation.html" class="mobile-nav-link"><i class="fas fa-award"></i> Атестація</a>
+        <a href="psychologist.html" class="mobile-nav-link"><i class="fas fa-heart"></i> Психолог</a>
+        <a href="gallery.html" class="mobile-nav-link"><i class="fas fa-images"></i> Галерея</a>
+        <a href="contacts.html" class="mobile-nav-link"><i class="fas fa-envelope"></i> Контакти</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Page Banner -->
+  <div style="background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%); color: white; padding: 3.5rem 0;">
+    <div class="container">
+      <div class="section-tag" style="color: #fbbf24;">Стаття 30 ЗУ «Про освіту»</div>
+      <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 0.5rem;">Прозорість та інформаційна відкритість</h1>
+      <p style="color: #cbd5e1; max-width: 650px;">
+        Оприлюднення офіційних нормативно-правових документів, фінансової звітності, звітів керівника та регламентів діяльності закладу.
+      </p>
+    </div>
+  </div>
+
+  <!-- Documents Catalog Sections -->
+  <section class="section">
+    <div class="container">
+
+      <!-- Statutory Docs -->
+      <div class="section-header" id="statute">
+        <div>
+          <div class="section-tag">Установчі документи</div>
+          <h2 class="section-title">Статут, Ліцензія та Регламенти</h2>
+        </div>
+      </div>
+
+      <div class="doc-card-grid" style="margin-bottom: 3.5rem;">
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-file-pdf"></i></div>
+            <div>
+              <div class="doc-name">Статут Липницького ЗЗСО І-ІІІ ступенів</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Основний установчий документ закладу</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('статут')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Переглянути
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-stamp"></i></div>
+            <div>
+              <div class="doc-name">Ліцензія на освітню діяльність</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Безстрокова ліцензія МОН України</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('ліцензія-на-провадження-освітньої-діяльності')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Переглянути
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-sitemap"></i></div>
+            <div>
+              <div class="doc-name">Структура та органи управління</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Організаційна структура закладу</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('структура-та-органи-управління-закладу-освіти')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Переглянути
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-chart-line"></i></div>
+            <div>
+              <div class="doc-name">Стратегія розвитку закладу освіти</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Перспективний план розвитку</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('стратегія-розвитку-закладу-освіти')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Переглянути
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-balance-scale"></i></div>
+            <div>
+              <div class="doc-name">Положення про ВСЗЯО</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Внутрішня система забезпечення якості</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('положення-про-всзяо')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Переглянути
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-users-cog"></i></div>
+            <div>
+              <div class="doc-name">Положення про педагогічну раду</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Регламент роботи педради</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('положення-про-педагогічну-раду')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Переглянути
+          </a>
+        </div>
+      </div>
+
+      <!-- Financial Statements -->
+      <div class="section-header" id="finance">
+        <div>
+          <div class="section-tag">Фінанси та майно</div>
+          <h2 class="section-title">Фінансово-господарська діяльність</h2>
+          <p class="section-subtitle">Публічні звіти про надходження та використання коштів, кошториси та матеріальну базу.</p>
+        </div>
+      </div>
+
+      <div class="doc-card-grid" style="margin-bottom: 3.5rem;">
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-file-invoice-dollar"></i></div>
+            <div>
+              <div class="doc-name">Річний кошторис закладу освіти</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Затверджені кошториси та плани асигнувань</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('кошторис')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Документи
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-receipt"></i></div>
+            <div>
+              <div class="doc-name">Фінансова звітність за роками</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Звіти про надходження та використання коштів</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('фінансова-звітність')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Документи
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-bus"></i></div>
+            <div>
+              <div class="doc-name">Шкільний автобус</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Маршрути підвезення учнів та технічний стан</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('шкільний-автобус')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Переглянути
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-hand-holding-heart"></i></div>
+            <div>
+              <div class="doc-name">Благодійна допомога</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Облік благодійних внесків та гуманітарної допомоги</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('благодійна-допомога')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Звітність
+          </a>
+        </div>
+      </div>
+
+      <!-- Director Reports & Orders -->
+      <div class="section-header" id="reports">
+        <div>
+          <div class="section-tag">Звітність та накази</div>
+          <h2 class="section-title">Річні звіти директора та Накази</h2>
+        </div>
+      </div>
+
+      <div class="doc-card-grid">
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-file-signature"></i></div>
+            <div>
+              <div class="doc-name">Річний звіт керівника закладу освіти</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Підсумки діяльності перед громадськістю</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('річний-звіт-про-діяльність-закладу-освіти')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Звіти
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-scroll"></i></div>
+            <div>
+              <div class="doc-name">Офіційні накази закладу освіти</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Накази з основної діяльності та навчального процесу</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('накази')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Накази
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-user-graduate"></i></div>
+            <div>
+              <div class="doc-name">Положення про академічну доброчесність</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Норми академічної чесності для вчителів та учнів</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('положення-про-академічну-доброчесніть')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Переглянути
+          </a>
+        </div>
+
+        <div class="doc-card">
+          <div class="doc-info">
+            <div class="doc-icon"><i class="fas fa-tasks"></i></div>
+            <div>
+              <div class="doc-name">Результати самооцінювання освітньої діяльності</div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">Моніторинг та критерії ВСЗЯО</span>
+            </div>
+          </div>
+          <a href="javascript:void(0)" onclick="openDocModal('результати-самооцінювання-освітньої-діяльності')" class="btn btn-sm btn-secondary">
+            <i class="fas fa-external-link-alt"></i> Документи
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="main-footer">
+    <div class="container">
+      <div class="footer-bottom" style="border: none; padding-top: 0;">
+        <div>&copy; 2026 Липницький ЗЗСО І-ІІІ ступенів.</div>
+        <div>Офіційний сайт закладу загальної середньої освіти 🇺🇦</div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/js/documents-data.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
