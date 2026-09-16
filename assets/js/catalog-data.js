@@ -38,7 +38,9 @@ window.SCHOOL_CATALOG = {
     "school_name": "Липницький заклад загальної середньої освіти І-ІІІ ступенів",
     "founder": "Рава-Руська міська рада Львівського району Львівської області",
     "address": "вул. Центральна, с. Липник, Львівський район, Львівська область, 80315",
-    "email": "lypnyk.zosh@gmail.com",
+    "email": "lypnykzosh@ukr.net",
+    "email_secondary": "lypnykzosh@gmail.com",
+    "phone": "+38 (067) 499-25-68",
     
     "work_hours": "Понеділок – П'ятниця: 08:30 – 17:00",
     "facebook": "https://www.facebook.com/lypnykzosh/"
